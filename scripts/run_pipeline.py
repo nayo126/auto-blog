@@ -24,6 +24,7 @@ STAGES = [
     ("article", ROOT / "scripts" / "article_writer.py"),
     ("affiliate", ROOT / "scripts" / "affiliate_inserter.py"),
     ("publish", ROOT / "scripts" / "publisher.py"),
+    ("indexnow", ROOT / "scripts" / "indexnow.py"),
 ]
 
 

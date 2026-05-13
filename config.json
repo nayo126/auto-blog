@@ -19,9 +19,12 @@
   },
   "affiliate": {
     "enabled_links": false,
+    "comment": "**未成年OKの収益源だけを使う**: 楽天アフィ/もしもアフィ/忍者AdMax。Amazon親名義/AdSenseは18歳まで保留。enabled_links=trueにすると本番リンク挿入が有効",
+    "minor_safe_only": true,
     "moshimo_id": "",
     "rakuten_keywords": {},
-    "amazon_keywords": {},
+    "ninja_admax_slot_id": "",
+    "amazon_keywords_parent_account": {},
     "soft_cta_only": true
   },
   "git": {
