@@ -15,7 +15,7 @@ const posts = (await getCollection("blog", ({ data }) => !data.draft))
         <time datetime={p.data.pubDate.toISOString()}>
           {p.data.pubDate.toISOString().slice(0, 10)}
         </time>
-        <h2><a href={`/blog/${p.id}/`}>{p.data.title}</a></h2>
+        <h2><a href={`${import.meta.env.BASE_URL}blog/${p.id}/`}>{p.data.title}</a></h2>
         <p>{p.data.description}</p>
         <div style="margin-top:6px;">
           {p.data.tags.slice(0, 5).map((t) => <span class="tag">#{t}</span>)}
