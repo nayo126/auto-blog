@@ -1,0 +1,13 @@
+node_modules/
+site/dist/
+site/.astro/
+site/.vercel/
+site/.netlify/
+.DS_Store
+*.log
+logs/*.log
+logs/*.stdout.log
+logs/*.stderr.log
+data/reject_*.md
+.env
+.env.local

@@ -1,0 +1,26 @@
+---
+import { getCollection } from "astro:content";
+import Base from "../layouts/Base.astro";
+
+const posts = (await getCollection("blog", ({ data }) => !data.draft))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+<Base title="AI副業ラボ — AI×副業の最前線" description="ChatGPT / Claude / 海外SaaSの最新副業トレンドを、AIで稼ぐ高校生が毎日まとめる。">
+  {posts.length === 0 && (
+    <p>記事を準備中です。もう少しお待ちください。</p>
+  )}
+  <ul class="post-list">
+    {posts.map((p) => (
+      <li>
+        <time datetime={p.data.pubDate.toISOString()}>
+          {p.data.pubDate.toISOString().slice(0, 10)}
+        </time>
+        <h2><a href={`/blog/${p.id}/`}>{p.data.title}</a></h2>
+        <p>{p.data.description}</p>
+        <div style="margin-top:6px;">
+          {p.data.tags.slice(0, 5).map((t) => <span class="tag">#{t}</span>)}
+        </div>
+      </li>
+    ))}
+  </ul>
+</Base>
