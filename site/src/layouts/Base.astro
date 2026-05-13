@@ -3,12 +3,40 @@ interface Props {
   title: string;
   description?: string;
   pubDate?: Date;
+  updatedDate?: Date;
   category?: string;
+  tags?: string[];
   noindex?: boolean;
 }
-const { title, description = "AI×副業の最前線を、AIで稼ぐ高校生が毎日まとめる。", pubDate, category, noindex = false } = Astro.props;
-const canonical = new URL(Astro.url.pathname, Astro.site ?? "https://example.pages.dev");
+const { title, description = "AI×副業の最前線を、AIで稼ぐ高校生が毎日まとめる。", pubDate, updatedDate, category, tags = [], noindex = false } = Astro.props;
+const canonical = new URL(Astro.url.pathname, Astro.site ?? "https://nayo126.github.io");
 const ogTitle = `${title} | AI副業ラボ`;
+const siteName = "AI副業ラボ";
+
+const jsonLd = pubDate
+  ? {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      headline: title,
+      description,
+      datePublished: pubDate.toISOString(),
+      dateModified: (updatedDate ?? pubDate).toISOString(),
+      author: { "@type": "Person", name: "AI副業ラボ 編集部" },
+      publisher: {
+        "@type": "Organization",
+        name: siteName,
+      },
+      mainEntityOfPage: canonical.toString(),
+      keywords: tags.join(", "),
+      articleSection: category,
+    }
+  : {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      name: siteName,
+      url: canonical.toString(),
+      description,
+    };
 ---
 <!doctype html>
 <html lang="ja">
@@ -23,7 +51,10 @@ const ogTitle = `${title} | AI副業ラボ`;
     <meta property="og:title" content={ogTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical.toString()} />
+    <meta property="og:site_name" content={siteName} />
+    <meta property="og:locale" content="ja_JP" />
     <meta name="twitter:card" content="summary_large_image" />
+    <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
     <link rel="icon" type="image/svg+xml" href={import.meta.env.BASE_URL + "favicon.svg"} />
     <link rel="alternate" type="application/rss+xml" title="AI副業ラボ" href={import.meta.env.BASE_URL + "rss.xml"} />
     <style is:global>

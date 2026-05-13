@@ -1,14 +1,18 @@
 {
-  "picked_at": "2026-05-13T15:22:11.855624+00:00",
-  "count": 2,
+  "picked_at": "2026-05-13T20:30:05.645675+00:00",
+  "count": 3,
   "items": [
     {
-      "category": "Claude活用",
-      "keyword": "Claude MCP 自動化"
+      "category": "プロンプトエンジニアリング",
+      "keyword": "Chain-of-Thought 副業 活用"
     },
     {
-      "category": "ChatGPT活用",
-      "keyword": "ChatGPTで稼ぐ方法 初心者"
+      "category": "Claude活用",
+      "keyword": "Claude Artifacts 個人開発"
+    },
+    {
+      "category": "AI画像生成",
+      "keyword": "DALL-E 3 使い方 ブログ"
     }
   ]
 }
