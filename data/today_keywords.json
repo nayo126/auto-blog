@@ -1,10 +1,14 @@
 {
-  "picked_at": "2026-05-13T15:18:55.563721+00:00",
-  "count": 1,
+  "picked_at": "2026-05-13T15:22:11.855624+00:00",
+  "count": 2,
   "items": [
     {
-      "category": "プロンプトエンジニアリング",
-      "keyword": "プロンプト 副業 月収"
+      "category": "Claude活用",
+      "keyword": "Claude MCP 自動化"
+    },
+    {
+      "category": "ChatGPT活用",
+      "keyword": "ChatGPTで稼ぐ方法 初心者"
     }
   ]
 }
