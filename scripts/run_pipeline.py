@@ -20,6 +20,7 @@ def log(msg: str) -> None:
 
 
 STAGES = [
+    ("expand", ROOT / "scripts" / "keyword_expander.py"),
     ("keyword", ROOT / "scripts" / "keyword_picker.py"),
     ("article", ROOT / "scripts" / "article_writer.py"),
     ("affiliate", ROOT / "scripts" / "affiliate_inserter.py"),
