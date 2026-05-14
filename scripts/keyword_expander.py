@@ -28,13 +28,35 @@ def log(msg: str) -> None:
 
 
 def call_claude(prompt: str) -> str:
+    import sys
+    sys.path.insert(0, "/Users/tsukaking/.claude/lib")
+    try:
+        from rate_limit_helper import (
+            looks_like_rate_limit, looks_like_native_binary_missing,
+            mark_rate_limited, mark_clear, is_currently_blocked,
+        )
+    except ImportError:
+        looks_like_rate_limit = lambda t: False
+        looks_like_native_binary_missing = lambda t: False
+        mark_rate_limited = lambda c, h="", reason="": None
+        mark_clear = lambda c: None
+        is_currently_blocked = lambda c: False
+    if is_currently_blocked("claude_cli"):
+        log("claude_cli currently blocked; skip")
+        return ""
     try:
         r = subprocess.run(
             [CONFIG.get("claude_cli", "claude"), "-p", prompt, "--output-format", "text"],
             capture_output=True, text=True, timeout=180,
         )
-        if r.returncode == 0:
+        if r.returncode == 0 and r.stdout.strip():
+            mark_clear("claude_cli")
             return r.stdout.strip()
+        combined = (r.stderr or "") + " " + (r.stdout or "")
+        if looks_like_native_binary_missing(combined):
+            mark_rate_limited("claude_cli", combined[:300], reason="native_missing")
+        elif looks_like_rate_limit(combined):
+            mark_rate_limited("claude_cli", combined[:300], reason="rate_limit")
     except Exception as e:
         log(f"claude error: {e}")
     return ""
