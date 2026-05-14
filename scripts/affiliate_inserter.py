@@ -1,5 +1,15 @@
 #!/usr/bin/env python3
-"""Replace <!-- AFFILIATE_SLOT:キーワード --> with actual affiliate cards."""
+"""Replace <!-- AFFILIATE_SLOT:keyword --> markers with real affiliate cards.
+
+Reads ~/MONETIZATION_IDS.json (shared across all bots). When the user fills in
+their actual IDs, this script automatically generates live affiliate links.
+Until then, soft CTA cards are inserted so the layout is consistent.
+
+Minor-friendly sources only:
+- 楽天アフィリエイト
+- もしもアフィリエイト
+- 忍者AdMax
+"""
 from __future__ import annotations
 import json
 import re
@@ -13,6 +23,7 @@ LOG = ROOT / "logs" / "affiliate.log"
 LOG.parent.mkdir(exist_ok=True)
 CONFIG = json.loads((ROOT / "config.json").read_text())
 BLOG_DIR = ROOT / "site" / "src" / "content" / "blog"
+MIDS_PATH = Path.home() / "MONETIZATION_IDS.json"
 
 
 def log(msg: str) -> None:
@@ -22,60 +33,76 @@ def log(msg: str) -> None:
         f.write(line + "\n")
 
 
-def build_rakuten_search(keyword: str) -> str:
-    """Build a Rakuten search URL (replace with affiliate-wrapped URL once approved)."""
+def load_ids() -> dict:
+    if not MIDS_PATH.exists():
+        return {}
+    try:
+        return json.loads(MIDS_PATH.read_text())
+    except Exception as e:
+        log(f"failed to load MIDS: {e}")
+        return {}
+
+
+IDS = load_ids()
+RAKUTEN_ID = (IDS.get("rakuten_affiliate") or {}).get("affiliate_id")
+RAKUTEN_OK = bool(RAKUTEN_ID) and RAKUTEN_ID != "TODO"
+MOSHIMO_AID = (IDS.get("moshimo") or {}).get("a_id")
+MOSHIMO_OK = bool(MOSHIMO_AID) and MOSHIMO_AID != "TODO"
+NINJA_TAG = (IDS.get("ninja_admax") or {}).get("ad_tag_html")
+NINJA_OK = bool(NINJA_TAG) and NINJA_TAG != "TODO"
+
+
+def build_rakuten_link(keyword: str) -> str:
     q = urllib.parse.quote(keyword)
-    return f"https://search.rakuten.co.jp/search/mall/{q}/"
+    search = f"https://search.rakuten.co.jp/search/mall/{q}/"
+    if RAKUTEN_OK:
+        return (
+            f"https://hb.afl.rakuten.co.jp/hgc/{RAKUTEN_ID}/?pc="
+            + urllib.parse.quote(search, safe="")
+            + "&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D"
+        )
+    return search
 
 
-def build_amazon_search(keyword: str) -> str:
+def build_amazon_link(keyword: str) -> str:
     q = urllib.parse.quote(keyword)
     return f"https://www.amazon.co.jp/s?k={q}"
 
 
-def render_card(keyword: str, soft_only: bool) -> str:
-    if soft_only or not CONFIG["affiliate"]["enabled_links"]:
-        # soft CTA only, no live affiliate link
-        return (
-            "\n<aside class=\"affiliate-card\">\n"
-            f"<div class=\"label\">{keyword} に関連する情報</div>\n"
-            f"<p>{keyword} を実際に試してみたい方は、まず無料プランから始めるのがおすすめです。"
-            "本サイトでは将来的に、関連する書籍・ツールのレビューをまとめる予定です。</p>\n"
-            "</aside>\n"
-        )
-    rakuten = build_rakuten_search(keyword)
-    amazon = build_amazon_search(keyword)
-    return (
-        "\n<aside class=\"affiliate-card\">\n"
-        f"<div class=\"label\">{keyword} の関連商品</div>\n"
-        f"<p>「{keyword}」について、より深く学ぶための書籍やツールをまとめました。</p>\n"
-        f"<p><a href=\"{rakuten}\" target=\"_blank\" rel=\"sponsored noopener\">▶ 楽天市場で「{keyword}」関連商品を見る</a></p>\n"
-        f"<p><a href=\"{amazon}\" target=\"_blank\" rel=\"sponsored noopener\">▶ Amazonで「{keyword}」関連商品を見る</a></p>\n"
-        "</aside>\n"
-    )
+def render_card(keyword: str) -> str:
+    bits = [
+        '\n<aside class="affiliate-card">',
+        f'<div class="label">{keyword} に関連する書籍・ツール</div>',
+        f'<p>「{keyword}」について実践的に学ぶための参考リソースを集めました。</p>',
+        f'<p><a href="{build_rakuten_link(keyword)}" target="_blank" rel="sponsored noopener">▶ 楽天市場で「{keyword}」関連を見る</a></p>',
+        f'<p><a href="{build_amazon_link(keyword)}" target="_blank" rel="sponsored noopener">▶ Amazonで「{keyword}」関連を見る</a></p>',
+    ]
+    # Optional 忍者AdMax inline ad
+    if NINJA_OK:
+        bits.append(NINJA_TAG)
+    bits.append("</aside>\n")
+    return "\n".join(bits)
 
 
 def process_file(path: Path) -> bool:
     text = path.read_text()
-    soft_only = CONFIG["affiliate"].get("soft_cta_only", True)
     found = list(re.finditer(r"<!--\s*AFFILIATE_SLOT:(.+?)\s*-->", text))
     if not found:
         return False
     new = text
     for m in reversed(found):
         kw = m.group(1).strip()
-        replacement = render_card(kw, soft_only)
-        new = new[: m.start()] + replacement + new[m.end():]
+        new = new[: m.start()] + render_card(kw) + new[m.end():]
     path.write_text(new)
     log(f"injected {len(found)} affiliate slot(s) -> {path.name}")
     return True
 
 
 def main() -> int:
+    log(f"=== affiliate insert (rakuten={RAKUTEN_OK} moshimo={MOSHIMO_OK} ninja={NINJA_OK}) ===")
     if not BLOG_DIR.exists():
         log("blog dir missing")
         return 1
-    # process only the freshly written articles from this run
     last = DATA / "last_written.json"
     files: list[Path] = []
     if last.exists():
@@ -90,7 +117,7 @@ def main() -> int:
     for f in files:
         if process_file(f):
             touched += 1
-    log(f"affiliate insertion done: {touched}/{len(files)} files modified")
+    log(f"affiliate done: {touched}/{len(files)} files modified")
     return 0
 
 
