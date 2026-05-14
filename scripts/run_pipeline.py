@@ -25,6 +25,7 @@ STAGES = [
     ("article", ROOT / "scripts" / "article_writer.py"),
     ("affiliate", ROOT / "scripts" / "affiliate_inserter.py"),
     ("internal_link", ROOT / "scripts" / "internal_link_inserter.py"),
+    ("cross_link", ROOT / "scripts" / "cross_blog_linker.py"),
     ("publish", ROOT / "scripts" / "publisher.py"),
     ("indexnow", ROOT / "scripts" / "indexnow.py"),
     ("threads_promote", ROOT / "scripts" / "threads_promote.py"),

@@ -104,3 +104,10 @@ Chain-of-Thoughtは特別なツールではなく、プロンプトに「考え�
 
 - [プロンプト副業で月収10万円を狙う2026年の実践ロードマップ](/auto-blog/blog/プロンプト副業で月収10万円を狙う2026年の実践ロードマップ/)
 - [AI副業ラボ、はじめます](/auto-blog/blog/welcome/)
+
+<!-- CROSS_LINKS -->
+## 他サイトの最新AI記事
+
+- [ChatGPTに「引退後の自分」を想像させる質問が話題｜AIの自己認識を引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/2026-05-13-chatgpt-ai/)
+- [ChatGPTの回答精度が話題に、Reddit r/ChatGPTで「正確すぎる」と共感の声が拡散](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-chatgpt-reddit-r-chatgpt/)
+- [AutoScout24がOpenAI CodexとChatGPTで開発効率化、AI駆動ワークフロー導入事例](https://nayo126.github.io/ai-news-jp/posts/2026-05-13-autoscout24-openai-codex-chatgpt-ai/)
