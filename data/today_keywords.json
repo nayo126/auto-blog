@@ -1,18 +1,26 @@
 {
-  "picked_at": "2026-05-13T20:30:05.645675+00:00",
-  "count": 3,
+  "picked_at": "2026-05-14T08:30:05.733047+00:00",
+  "count": 5,
   "items": [
     {
-      "category": "プロンプトエンジニアリング",
-      "keyword": "Chain-of-Thought 副業 活用"
+      "category": "AIツール比較",
+      "keyword": "AI コード生成 ツール ランキング"
+    },
+    {
+      "category": "海外AIトレンド",
+      "keyword": "Reddit AI 副業 トレンド"
+    },
+    {
+      "category": "AI副業",
+      "keyword": "AI 副業 イラスト"
     },
     {
       "category": "Claude活用",
-      "keyword": "Claude Artifacts 個人開発"
+      "keyword": "Claude 副業 始め方"
     },
     {
       "category": "AI画像生成",
-      "keyword": "DALL-E 3 使い方 ブログ"
+      "keyword": "AI 画像 著作権 2026 日本"
     }
   ]
 }
