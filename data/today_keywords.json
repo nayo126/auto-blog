@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-14T13:30:05.757684+00:00",
+  "picked_at": "2026-05-14T20:30:05.724398+00:00",
   "count": 5,
   "items": [
     {
-      "category": "AI画像生成",
-      "keyword": "Flux AI 画像生成 副業"
+      "category": "海外AIトレンド",
+      "keyword": "海外 AI スタートアップ 成功例"
     },
     {
-      "category": "Claude活用",
-      "keyword": "Claude Code 個人開発 収益化"
-    },
-    {
-      "category": "プロンプトエンジニアリング",
-      "keyword": "プロンプトエンジニア 年収 日本"
-    },
-    {
-      "category": "AIライティング",
-      "keyword": "AI ライター 単価 相場"
+      "category": "ChatGPT活用",
+      "keyword": "ChatGPT Excel 自動化 副業"
     },
     {
       "category": "AI動画生成",
-      "keyword": "Runway Gen-3 副業"
+      "keyword": "AI 動画 YouTube 自動投稿"
+    },
+    {
+      "category": "プロンプトエンジニアリング",
+      "keyword": "プロンプト 売る PromptBase"
+    },
+    {
+      "category": "AI副業",
+      "keyword": "AI 副業 おすすめ ランキング"
     }
   ]
 }
