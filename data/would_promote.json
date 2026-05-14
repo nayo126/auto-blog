@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "texts": [
+        "Chain-of-Thoughtって知ってる？\n\nAIに「順を追って考えて」って一言入れるだけで、出力の精度が10倍変わる。\n\n僕も最初は知らなくて、ただ質問投げてた。\nでも思考プロセス見せろって指示したら、ライティングも分析もレベル違った。\n\n副業で使える5パターン、まとめました。\n\n↓詳しくは記事に書きました\n\n#AI副業 #プロンプト",
+        "記事はこちら ↓\nhttps://ai-fukugyou-lab.pages.dev/blog/chain-of-thought副業活用法5選ai思考連鎖で月10万稼ぐ/"
+      ],
+      "label": "blog: Chain-of-Thought副業活用法5選｜AI思考連鎖",
+      "type": "ブログ告知",
+      "format": "情報型"
+    },
+    {
+      "texts": [
+        "Claude Artifactsで個人開発が爆速になった話。\n\nLPもダッシュボードも、プロンプト1発で動くやつが出てくる。\n\n「あったらいいな」を即試せるから、企画→検証の距離がほぼゼロ。\n\n正直、Pro課金の元は1週間で取れた。\n\n↓使い倒し方5つまとめました\n\n#Claude #個人開発",
+        "記事はこちら ↓\nhttps://ai-fukugyou-lab.pages.dev/blog/claude-artifacts個人開発の活用5選/"
+      ],
+      "label": "blog: Claude Artifacts個人開発の活用5選",
+      "type": "ブログ告知",
+      "format": "情報型"
+    },
+    {
+      "texts": [
+        "DALL-E 3で作った画像が、1枚3,000円で売れた。\n\nブログのアイキャッチを外注してた頃が嘘みたい。\n\nプロンプトのコツと商用利用のルール、月3万円までの7手順をまとめてみた。\n\n「絵が描けない」は、もう言い訳にならない時代。\n\n↓記事に全部書きました\n\n#AI画像生成 #副業",
+        "記事はこちら ↓\nhttps://ai-fukugyou-lab.pages.dev/blog/dall-e-3使い方完全ガイドブログ画像で月3万円稼ぐ7手順/"
+      ],
+      "label": "blog: DALL-E 3使い方完全ガイド｜ブログ画像で月3万円稼ぐ7",
+      "type": "ブログ告知",
+      "format": "情報型"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "name": "auto-blog",
   "description": "AI×副業 SEOアフィブログ完全無人運営",
-  "site_url": "https://ai-fukugyou-lab.pages.dev",
+  "site_url": "https://nayo126.github.io/auto-blog",
   "site_name": "AI副業ラボ",
   "articles_per_run": 3,
   "min_words": 1800,

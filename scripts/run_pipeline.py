@@ -26,6 +26,7 @@ STAGES = [
     ("internal_link", ROOT / "scripts" / "internal_link_inserter.py"),
     ("publish", ROOT / "scripts" / "publisher.py"),
     ("indexnow", ROOT / "scripts" / "indexnow.py"),
+    ("threads_promote", ROOT / "scripts" / "threads_promote.py"),
 ]
 
 
