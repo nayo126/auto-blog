@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-14T20:30:05.724398+00:00",
+  "picked_at": "2026-05-15T02:13:18.750994+00:00",
   "count": 5,
   "items": [
     {
       "category": "海外AIトレンド",
-      "keyword": "海外 AI スタートアップ 成功例"
+      "keyword": "ProductHunt 1位 AI"
     },
     {
       "category": "ChatGPT活用",
-      "keyword": "ChatGPT Excel 自動化 副業"
+      "keyword": "ChatGPT ブログ自動化"
     },
     {
-      "category": "AI動画生成",
-      "keyword": "AI 動画 YouTube 自動投稿"
+      "category": "AIツール比較",
+      "keyword": "AIエージェント フレームワーク 比較"
     },
     {
-      "category": "プロンプトエンジニアリング",
-      "keyword": "プロンプト 売る PromptBase"
+      "category": "AIライティング",
+      "keyword": "AI 記事 検索 ペナルティ"
     },
     {
       "category": "AI副業",
-      "keyword": "AI 副業 おすすめ ランキング"
+      "keyword": "AI 副業 失敗 理由"
     }
   ]
 }
