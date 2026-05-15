@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-15T13:30:01.348123+00:00",
+  "picked_at": "2026-05-15T20:30:00.617695+00:00",
   "count": 5,
   "items": [
     {
-      "category": "AI動画生成",
-      "keyword": "Pika Labs 1.5 動画副業"
+      "category": "ChatGPT活用",
+      "keyword": "ChatGPT API 個人開発"
     },
     {
-      "category": "ChatGPT活用",
-      "keyword": "ChatGPT 営業メール 自動生成"
+      "category": "プロンプトエンジニアリング",
+      "keyword": "プロンプト テンプレート stable diffusion"
     },
     {
       "category": "海外AIトレンド",
-      "keyword": "Discord AI コミュニティ 海外"
+      "keyword": "ai スタートアップ ユニコーン"
     },
     {
-      "category": "Claude活用",
-      "keyword": "Claude プロンプト 書き方 コツ"
+      "category": "AI副業",
+      "keyword": "ai 英会話 無料 ブログ"
     },
     {
-      "category": "AI画像生成",
-      "keyword": "Midjourney 商用利用 範囲"
+      "category": "AIツール比較",
+      "keyword": "ai 議事録 無料 比較"
     }
   ]
 }
