@@ -97,3 +97,18 @@ ChatGPTで稼ぐ方法は、特別な才能がなくても再現できる地に�
 
 - [プロンプト副業で月収10万円を狙う2026年の実践ロードマップ](/auto-blog/blog/プロンプト副業で月収10万円を狙う2026年の実践ロードマップ/)
 - [Claude MCP 自動化で月10時間減らす5設定](/auto-blog/blog/claude-mcp-自動化で月10時間減らす5設定/)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [ChatGPT×Excel自動化副業｜2026年最新7つの稼ぎ方](https://nayo126.github.io/auto-blog/blog/chatgptexcel自動化副業2026年最新7つの稼ぎ方/)
+- [AIライター単価相場2026｜文字単価0.5〜3円の実態](https://nayo126.github.io/auto-blog/blog/aiライター単価相場2026文字単価053円の実態/)
+- [AI副業で月5万は現実か？2026年最新の稼ぎ方5選](https://nayo126.github.io/auto-blog/blog/ai副業で月5万は現実か2026年最新の稼ぎ方5選/)
+
+### 姉妹サイトの関連記事
+- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-claude-ai-yes-man.html) — AI News JP
+- [ChatGPTの回答精度が話題に、Reddit r/ChatGPTで「正確すぎる」と共感の声が拡散](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-chatgpt-reddit-r-chatgpt.html) — AI News JP
+- [AutoScout24がOpenAI CodexとChatGPTで開発効率化、AI駆動ワークフロー導入事例](https://nayo126.github.io/ai-news-jp/posts/2026-05-13-autoscout24-openai-codex-chatgpt-ai.html) — AI News JP
+
+<!-- SEO_MESH_END -->

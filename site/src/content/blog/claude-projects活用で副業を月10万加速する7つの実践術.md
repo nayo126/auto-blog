@@ -151,3 +151,13 @@ Claude Projectsは単なる便利機能ではなく、副業ワークを仕組�
 ## 他サイトの最新AI記事
 
 - [Claude Proの使用制限が話題、映画『In Time』に例えるRedditユーザーの嘆き](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-claude-pro-in-time-reddit/)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [AI副業ラボ、はじめます](https://nayo126.github.io/auto-blog/blog/welcome/)
+- [プロンプトを売る方法2026｜PromptBaseで月3万稼ぐ5ステップ](https://nayo126.github.io/auto-blog/blog/プロンプトを売る方法2026promptbaseで月3万稼ぐ5ステップ/)
+- [AI副業で月5万は現実か？2026年最新の稼ぎ方5選](https://nayo126.github.io/auto-blog/blog/ai副業で月5万は現実か2026年最新の稼ぎ方5選/)
+
+<!-- SEO_MESH_END -->

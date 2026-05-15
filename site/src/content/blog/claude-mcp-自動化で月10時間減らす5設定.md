@@ -90,3 +90,16 @@ Claude MCPの自動化は、難しい知識がなくても設定ファイル1つ
 ## 関連記事
 
 - [ChatGPTで稼ぐ方法 初心者向け7ステップ完全版](/auto-blog/blog/chatgptで稼ぐ方法-初心者向け7ステップ完全版/)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Claude Agent SDK副業活用5選|2026年最新自動化](https://nayo126.github.io/auto-blog/blog/claude-agent-sdk副業活用5選2026年最新自動化/)
+- [ChatGPT×Excel自動化副業｜2026年最新7つの稼ぎ方](https://nayo126.github.io/auto-blog/blog/chatgptexcel自動化副業2026年最新7つの稼ぎ方/)
+- [AIライター単価相場2026｜文字単価0.5〜3円の実態](https://nayo126.github.io/auto-blog/blog/aiライター単価相場2026文字単価053円の実態/)
+
+### 姉妹サイトの関連記事
+- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-claude-ai-yes-man.html) — AI News JP
+
+<!-- SEO_MESH_END -->

@@ -108,3 +108,18 @@ ChatGPT×Excel自動化副業は、2026年の現時点で参入障壁が低く�
 - [AutoScout24がOpenAI CodexとChatGPTで開発効率化、AI駆動ワークフロー導入事例](https://nayo126.github.io/ai-news-jp/posts/2026-05-13-autoscout24-openai-codex-chatgpt-ai/)
 - [ChatGPTに「引退後の自分」を想像させる質問が話題｜AIの自己認識を引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/2026-05-13-chatgpt-ai/)
 - [ChatGPTの回答精度が話題に、Reddit r/ChatGPTで「正確すぎる」と共感の声が拡散](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-chatgpt-reddit-r-chatgpt/)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Claude MCP 自動化で月10時間減らす5設定](https://nayo126.github.io/auto-blog/blog/claude-mcp-自動化で月10時間減らす5設定/)
+- [ChatGPTで稼ぐ方法 初心者向け7ステップ完全版](https://nayo126.github.io/auto-blog/blog/chatgptで稼ぐ方法-初心者向け7ステップ完全版/)
+- [Claude Agent SDK副業活用5選|2026年最新自動化](https://nayo126.github.io/auto-blog/blog/claude-agent-sdk副業活用5選2026年最新自動化/)
+
+### 姉妹サイトの関連記事
+- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-claude-ai-yes-man.html) — AI News JP
+- [AutoScout24がOpenAI CodexとChatGPTで開発効率化、AI駆動ワークフロー導入事例](https://nayo126.github.io/ai-news-jp/posts/2026-05-13-autoscout24-openai-codex-chatgpt-ai.html) — AI News JP
+- [ChatGPTに「引退後の自分」を想像させる質問が話題｜AIの自己認識を引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/2026-05-13-chatgpt-ai.html) — AI News JP
+
+<!-- SEO_MESH_END -->

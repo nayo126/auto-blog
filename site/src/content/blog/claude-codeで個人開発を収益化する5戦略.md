@@ -89,3 +89,16 @@ Claude Codeを使えば、エンジニア専業でなくても個人開発で副
 ## 他サイトの最新AI記事
 
 - [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/2026-05-13-claude-code-git-push---ai/)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [ChatGPT×Excel自動化副業｜2026年最新7つの稼ぎ方](https://nayo126.github.io/auto-blog/blog/chatgptexcel自動化副業2026年最新7つの稼ぎ方/)
+- [Leonardo AI 無料プランの範囲と限界2026年版](https://nayo126.github.io/auto-blog/blog/leonardo-ai-無料プランの範囲と限界2026年版/)
+- [ChatGPT GPT Store収益化2026完全攻略5選](https://nayo126.github.io/auto-blog/blog/chatgpt-gpt-store収益化2026完全攻略5選/)
+
+### 姉妹サイトの関連記事
+- [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/2026-05-13-claude-code-git-push---ai.html) — AI News JP
+
+<!-- SEO_MESH_END -->

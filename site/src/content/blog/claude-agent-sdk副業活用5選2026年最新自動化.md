@@ -105,3 +105,16 @@ Claude Agent SDKは、副業の生産性を大きく引き上げる強力なツ�
 - [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/2026-05-13-claude-code-git-push---ai/)
 - [Claude Proの使用制限が話題、映画『In Time』に例えるRedditユーザーの嘆き](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-claude-pro-in-time-reddit/)
 - [OpenAI Codex、財務チームのMBRや差異分析を自動化する活用法を公開](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-openai-codex-mbr/)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Claude MCP 自動化で月10時間減らす5設定](https://nayo126.github.io/auto-blog/blog/claude-mcp-自動化で月10時間減らす5設定/)
+- [ChatGPT×Excel自動化副業｜2026年最新7つの稼ぎ方](https://nayo126.github.io/auto-blog/blog/chatgptexcel自動化副業2026年最新7つの稼ぎ方/)
+- [AIライター単価相場2026｜文字単価0.5〜3円の実態](https://nayo126.github.io/auto-blog/blog/aiライター単価相場2026文字単価053円の実態/)
+
+### 姉妹サイトの関連記事
+- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-claude-ai-yes-man.html) — AI News JP
+
+<!-- SEO_MESH_END -->

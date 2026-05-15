@@ -123,3 +123,13 @@ PromptBaseは、英語のハードルさえ越えれば月3万円の副業とし
 
 - [ChatGPTに「引退後の自分」を想像させる質問が話題｜AIの自己認識を引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/2026-05-13-chatgpt-ai/)
 - [ChatGPTの回答精度が話題に、Reddit r/ChatGPTで「正確すぎる」と共感の声が拡散](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-chatgpt-reddit-r-chatgpt/)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [プロンプト副業で月収10万円を狙う2026年の実践ロードマップ](https://nayo126.github.io/auto-blog/blog/プロンプト副業で月収10万円を狙う2026年の実践ロードマップ/)
+- [Chain-of-Thought副業活用法5選｜AI思考連鎖で月10万稼ぐ](https://nayo126.github.io/auto-blog/blog/chain-of-thought副業活用法5選ai思考連鎖で月10万稼ぐ/)
+- [AI副業ラボ、はじめます](https://nayo126.github.io/auto-blog/blog/welcome/)
+
+<!-- SEO_MESH_END -->
