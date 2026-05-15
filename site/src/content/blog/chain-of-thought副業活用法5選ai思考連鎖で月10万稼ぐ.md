@@ -6,6 +6,7 @@ category: "プロンプトエンジニアリング"
 tags: ["Chain-of-Thought", "プロンプトエンジニアリング", "AI副業", "ChatGPT活用"]
 keyword: "Chain-of-Thought 副業 活用"
 draft: false
+image: "/auto-blog/ogp/chain-of-thought副業活用法5選ai思考連鎖で月10万稼ぐ.png"
 ---
 
 「ChatGPTに頼んでも、なんだか浅い答えしか返ってこない」

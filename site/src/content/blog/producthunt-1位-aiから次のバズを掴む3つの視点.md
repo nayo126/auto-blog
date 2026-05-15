@@ -6,6 +6,7 @@ category: "海外AIトレンド"
 tags: ["ProductHunt", "AIトレンド", "海外AI", "副業"]
 keyword: "ProductHunt 1位 AI"
 draft: false
+image: "/auto-blog/ogp/producthunt-1位-aiから次のバズを掴む3つの視点.png"
 ---
 
 「ProductHuntで1位を取ったAI、また知らないうちに話題になってた」——SNSをスクロールしていてそう感じた経験はないでしょうか。気づいた頃には英語圏のクリエイターが先行レビューを出し、日本語の解説記事が出る頃にはトレンドが半周遅れている。これは2026年の今、AI副業勢が共通して直面している現象です。

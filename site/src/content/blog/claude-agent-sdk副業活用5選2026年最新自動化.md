@@ -6,6 +6,7 @@ category: "Claude活用"
 tags: ["Claude", "Agent SDK", "副業", "自動化"]
 keyword: "Claude Agent SDK 副業"
 draft: false
+image: "/auto-blog/ogp/claude-agent-sdk副業活用5選2026年最新自動化.png"
 ---
 
 「副業を始めたいけれど、本業との両立で時間が取れない」「AIで効率化できると聞いたが、具体的に何ができるのかわからない」——そんな悩みを抱える方は多い。

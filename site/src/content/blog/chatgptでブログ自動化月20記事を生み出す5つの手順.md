@@ -6,6 +6,7 @@ category: "ChatGPT活用"
 tags: ["ChatGPT", "ブログ自動化", "AI副業", "SEO"]
 keyword: "ChatGPT ブログ自動化"
 draft: false
+image: "/auto-blog/ogp/chatgptでブログ自動化月20記事を生み出す5つの手順.png"
 ---
 
 「毎日記事を書き続けるのがしんどい」「副業ブログを始めたのに、3記事で力尽きた」——そんな経験はないでしょうか。

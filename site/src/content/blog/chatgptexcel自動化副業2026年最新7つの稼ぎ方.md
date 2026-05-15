@@ -6,6 +6,7 @@ category: "ChatGPT活用"
 tags: ["ChatGPT", "Excel", "自動化", "副業"]
 keyword: "ChatGPT Excel 自動化 副業"
 draft: false
+image: "/auto-blog/ogp/chatgptexcel自動化副業2026年最新7つの稼ぎ方.png"
 ---
 
 「Excel作業に毎日3時間取られて、副業に手が回らない」

@@ -6,6 +6,7 @@ category: "海外AIトレンド"
 tags: ["Discord", "AIコミュニティ", "海外トレンド", "情報収集"]
 keyword: "Discord AI コミュニティ 海外"
 draft: false
+image: "/auto-blog/ogp/discord-ai-コミュニティ-海外活用2026最新.png"
 ---
 
 「日本語のAI情報、なんか1〜2ヶ月遅れている気がする」

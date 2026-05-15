@@ -6,6 +6,7 @@ category: "AI画像生成"
 tags: ["Flux AI", "AI画像生成", "副業", "画像生成AI"]
 keyword: "Flux AI 画像生成 副業"
 draft: false
+image: "/auto-blog/ogp/flux-aiで月5万円稼ぐ画像生成副業の始め方2026.png"
 ---
 
 「Midjourneyは月額が高いし、Stable Diffusionは設定が面倒」——そう感じてAI画像生成の副業を諦めかけている人は多いはずだ。

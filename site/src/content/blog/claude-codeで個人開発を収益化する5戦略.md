@@ -6,6 +6,7 @@ category: "Claude活用"
 tags: ["Claude Code", "個人開発", "副業", "収益化"]
 keyword: "Claude Code 個人開発 収益化"
 draft: false
+image: "/auto-blog/ogp/claude-codeで個人開発を収益化する5戦略.png"
 ---
 
 「副業で月10万円稼ぎたいけど、自分はエンジニアじゃないから個人開発なんて無理」──そう諦めていませんか。

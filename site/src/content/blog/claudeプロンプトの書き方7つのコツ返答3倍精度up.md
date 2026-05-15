@@ -6,6 +6,7 @@ category: "Claude活用"
 tags: ["Claude", "プロンプト", "AI副業", "ChatGPT比較"]
 keyword: "Claude プロンプト 書き方 コツ"
 draft: false
+image: "/auto-blog/ogp/claudeプロンプトの書き方7つのコツ返答3倍精度up.png"
 ---
 
 「Claudeに質問しても、なんかズレた答えしか返ってこない」

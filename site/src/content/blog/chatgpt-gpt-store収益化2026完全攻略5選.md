@@ -6,6 +6,7 @@ category: "ChatGPT活用"
 tags: ["ChatGPT", "GPT Store", "AI副業", "収益化"]
 keyword: "ChatGPT GPT Store 収益化"
 draft: false
+image: "/auto-blog/ogp/chatgpt-gpt-store収益化2026完全攻略5選.png"
 ---
 
 「ChatGPTのGPT Storeで稼げる」と聞いて、実際に登録してみたものの全く収益が出ない。そんな状態で止まっていないでしょうか。

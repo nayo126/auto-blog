@@ -17,6 +17,8 @@ const { Content } = await render(post);
   updatedDate={post.data.updatedDate}
   category={post.data.category}
   tags={post.data.tags}
+  image={post.data.image}
+  slug={post.id}
 >
   <article>
     <h1>{post.data.title}</h1>

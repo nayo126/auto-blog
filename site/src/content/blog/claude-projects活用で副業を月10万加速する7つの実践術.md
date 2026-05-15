@@ -6,6 +6,7 @@ category: "Claude活用"
 tags: ["Claude Projects", "AI副業", "Claude活用", "生産性"]
 keyword: "Claude Projects 活用 副業"
 draft: false
+image: "/auto-blog/ogp/claude-projects活用で副業を月10万加速する7つの実践術.png"
 ---
 
 「Claude Projectsって便利そうだけど、結局どう副業に使えばいいの?」

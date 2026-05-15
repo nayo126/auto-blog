@@ -6,6 +6,7 @@ category: "プロンプトエンジニアリング"
 tags: ["PromptBase", "プロンプト販売", "AI副業", "プロンプトエンジニアリング"]
 keyword: "プロンプト 売る PromptBase"
 draft: false
+image: "/auto-blog/ogp/プロンプトを売る方法2026promptbaseで月3万稼ぐ5ステップ.png"
 ---
 
 「ChatGPTでいい感じのプロンプトが書けるようになってきた。でも、これってお金になるの？」

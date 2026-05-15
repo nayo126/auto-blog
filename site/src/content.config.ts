@@ -11,6 +11,7 @@ const blog = defineCollection({
     category: z.string().default("AI副業"),
     tags: z.array(z.string()).default([]),
     keyword: z.string().optional(),
+    image: z.string().optional(),
     draft: z.boolean().default(false),
   }),
 });

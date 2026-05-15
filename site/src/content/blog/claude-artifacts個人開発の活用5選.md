@@ -6,6 +6,7 @@ category: "Claude活用"
 tags: ["Claude Artifacts", "個人開発", "プロトタイプ", "AI開発"]
 keyword: "Claude Artifacts 個人開発"
 draft: false
+image: "/auto-blog/ogp/claude-artifacts個人開発の活用5選.png"
 ---
 
 「プロトタイプを作るのに毎回時間がかかりすぎる」「アイデアを形にする前に熱が冷めてしまう」——個人開発を続けている人なら、一度は突き当たる壁ではないだろうか。

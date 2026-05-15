@@ -6,6 +6,7 @@ category: "ChatGPT活用"
 tags: ["ChatGPT", "セールスコピー", "AI副業", "ライティング"]
 keyword: "ChatGPT セールスコピー 作り方"
 draft: false
+image: "/auto-blog/ogp/chatgptで売れるセールスコピー作り方7ステップ.png"
 ---
 
 「商品はいいのに、なぜか売れない」

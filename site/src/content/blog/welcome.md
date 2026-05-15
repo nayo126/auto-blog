@@ -5,5 +5,7 @@ pubDate: 2026-05-14
 category: "お知らせ"
 tags: ["AI副業", "海外副業"]
 draft: false
+image: "/auto-blog/ogp/welcome.png"
 ---
+
 このサイトでは、海外の AI 副業トレンドを、日本語でわかりやすくまとめていきます。

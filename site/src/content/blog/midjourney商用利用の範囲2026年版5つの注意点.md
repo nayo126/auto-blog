@@ -6,6 +6,7 @@ category: "AI画像生成"
 tags: ["Midjourney", "商用利用", "AI画像生成", "著作権"]
 keyword: "Midjourney 商用利用 範囲"
 draft: false
+image: "/auto-blog/ogp/midjourney商用利用の範囲2026年版5つの注意点.png"
 ---
 
 「Midjourneyで作った画像、noteの有料記事に使っていいの？」

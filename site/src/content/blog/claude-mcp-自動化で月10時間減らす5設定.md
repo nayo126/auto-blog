@@ -6,6 +6,7 @@ category: "Claude活用"
 tags: ["Claude", "MCP", "自動化", "副業"]
 keyword: "Claude MCP 自動化"
 draft: false
+image: "/auto-blog/ogp/claude-mcp-自動化で月10時間減らす5設定.png"
 ---
 
 朝5時に起きて、リサーチ→下書き→投稿→経費入力を毎日繰り返す。気づけば本業より副業の事務作業に時間を食われている――そんな状態に心当たりはないでしょうか。

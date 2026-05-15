@@ -6,6 +6,7 @@ category: "AI動画生成"
 tags: ["Pika Labs", "AI動画生成", "副業", "動画編集"]
 keyword: "Pika Labs 1.5 動画副業"
 draft: false
+image: "/auto-blog/ogp/pika-labs-15で始める動画副業月5万円ロードマップ.png"
 ---
 
 「動画編集は時間がかかりすぎて副業にならない」

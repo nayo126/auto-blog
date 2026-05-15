@@ -6,6 +6,7 @@ category: "ChatGPT活用"
 tags: ["ChatGPT", "副業", "初心者", "AI活用"]
 keyword: "ChatGPTで稼ぐ方法 初心者"
 draft: false
+image: "/auto-blog/ogp/chatgptで稼ぐ方法-初心者向け7ステップ完全版.png"
 ---
 
 「ChatGPTを使えば月10万稼げる」——SNSでこんな投稿を見て、自分も挑戦してみたいと思った人は多いはずです。でも実際に始めようとすると、「結局なにから手をつければいいの？」で止まってしまう。これは初心者の9割がぶつかる壁です。

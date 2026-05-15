@@ -6,6 +6,7 @@ category: "AI画像生成"
 tags: ["Leonardo AI", "AI画像生成", "無料ツール", "副業"]
 keyword: "Leonardo AI 無料 範囲"
 draft: false
+image: "/auto-blog/ogp/leonardo-ai-無料プランの範囲と限界2026年版.png"
 ---
 
 「Leonardo AIって無料でどこまで使えるんだろう？」
