@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-16T02:30:00.769318+00:00",
+  "picked_at": "2026-05-16T08:30:02.814921+00:00",
   "count": 5,
   "items": [
     {
-      "category": "Claude活用",
-      "keyword": "claude-code mcp おすすめ"
-    },
-    {
       "category": "ChatGPT活用",
-      "keyword": "chatgpt apiキー"
+      "keyword": "chatgpt プロンプト おすすめ 本"
     },
     {
-      "category": "海外AIトレンド",
-      "keyword": "openai api モデル おすすめ"
+      "category": "Claude活用",
+      "keyword": "claude code おすすめスキル"
+    },
+    {
+      "category": "個人開発",
+      "keyword": "bolt.new v0 比較"
     },
     {
       "category": "AIツール比較",
-      "keyword": "ai 動画 おすすめ 無料"
+      "keyword": "ai 動画生成 ローカル"
     },
     {
-      "category": "AI副業",
-      "keyword": "ai フリーランス 未経験"
+      "category": "海外AIトレンド",
+      "keyword": "bedrock openai 比較"
     }
   ]
 }
