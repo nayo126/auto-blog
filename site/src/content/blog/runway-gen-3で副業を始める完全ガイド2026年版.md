@@ -128,7 +128,7 @@ Runway Gen-3は副業ツールとして優秀だが、ツール契約だけで�
 <!-- CROSS_LINKS -->
 ## 他サイトの最新AI記事
 
-- [ChatGPTの回答精度が話題に、Reddit r/ChatGPTで「正確すぎる」と共感の声が拡散](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-chatgpt-reddit-r-chatgpt/)
+- [ChatGPTの回答精度が話題に、Reddit r/ChatGPTで「正確すぎる」と共感の声が拡散](https://nayo126.github.io/ai-news-jp/posts/chatgpt-reddit-r-chatgpt.html)
 
 <!-- SEO_MESH_START -->
 

@@ -69,13 +69,17 @@ def load_news_articles() -> list[dict]:
             continue
         if not fm.get("title"):
             continue
-        slug = f.stem
+        # ai-news-jp's published URL uses the frontmatter `slug` field
+        # (e.g. "sea-limited-openai-codex") and the path is `/posts/{slug}.html`.
+        # Falling back to f.stem produces broken links because the filename has
+        # a `YYYY-MM-DD-` date prefix that the static-site builder strips off.
+        slug = fm.get("slug") or f.stem
         out.append({
             "slug": slug,
             "title": fm.get("title", ""),
             "category": fm.get("category", ""),
             "tags": fm.get("tags") if isinstance(fm.get("tags"), list) else [],
-            "url": f"{NEWS_BASE}/posts/{slug}/",
+            "url": f"{NEWS_BASE}/posts/{slug}.html",
         })
     return out
 

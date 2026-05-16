@@ -150,7 +150,7 @@ Claude Projectsは単なる便利機能ではなく、副業ワークを仕組�
 <!-- CROSS_LINKS -->
 ## 他サイトの最新AI記事
 
-- [Claude Proの使用制限が話題、映画『In Time』に例えるRedditユーザーの嘆き](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-claude-pro-in-time-reddit/)
+- [Claude Proの使用制限が話題、映画『In Time』に例えるRedditユーザーの嘆き](https://nayo126.github.io/ai-news-jp/posts/claude-pro-in-time-reddit.html)
 
 <!-- SEO_MESH_START -->
 

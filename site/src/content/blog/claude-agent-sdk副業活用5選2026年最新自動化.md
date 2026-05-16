@@ -102,9 +102,9 @@ Claude Agent SDKは、副業の生産性を大きく引き上げる強力なツ�
 <!-- CROSS_LINKS -->
 ## 他サイトの最新AI記事
 
-- [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/2026-05-13-claude-code-git-push---ai/)
-- [Claude Proの使用制限が話題、映画『In Time』に例えるRedditユーザーの嘆き](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-claude-pro-in-time-reddit/)
-- [OpenAI Codex、財務チームのMBRや差異分析を自動化する活用法を公開](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-openai-codex-mbr/)
+- [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html)
+- [Claude Proの使用制限が話題、映画『In Time』に例えるRedditユーザーの嘆き](https://nayo126.github.io/ai-news-jp/posts/claude-pro-in-time-reddit.html)
+- [OpenAI Codex、財務チームのMBRや差異分析を自動化する活用法を公開](https://nayo126.github.io/ai-news-jp/posts/openai-codex-mbr.html)
 
 <!-- SEO_MESH_START -->
 
