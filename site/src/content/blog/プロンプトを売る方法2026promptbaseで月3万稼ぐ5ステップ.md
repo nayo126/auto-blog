@@ -19,6 +19,10 @@ image: "/auto-blog/ogp/プロンプトを売る方法2026promptbaseで月3万稼
 
 ## PromptBaseとは？2026年の市場規模と特徴
 
+<!-- INLINE_IMG -->
+![プロンプトを売る方法2026｜PromptBaseで月3万稼ぐ5ステップ - PromptBaseとは？2026年の市場規模と特徴](/auto-blog/inline-images/-2026promptbase-3-5--0.jpg)
+
+
 PromptBaseは2022年6月に米国で立ち上がったプロンプトマーケットで、現在は世界最大級のプロンプト販売プラットフォームとして定着しています。出品されているプロンプトは数十万本、対応AIはChatGPT、Claude、Midjourney、DALL-E、Stable Diffusion、Sora、Veo、Flux、Suno、Runwayなど主要モデルをほぼ網羅しています。
 
 **販売者にとってのメリットは3つ**。

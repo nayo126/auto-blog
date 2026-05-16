@@ -15,6 +15,10 @@ image: "/auto-blog/ogp/reddit発ai副業トレンド5選2026年最新版.png"
 
 ## なぜRedditが「AI副業トレンドの最前線」なのか
 
+<!-- INLINE_IMG -->
+![Reddit発AI副業トレンド5選｜2026年最新版 - なぜRedditが「AI副業トレンドの最前線」なのか](/auto-blog/inline-images/reddit-ai-5-2026--0.jpg)
+
+
 Redditは匿名性が高く、収益スクショや失敗談がそのまま公開されるため、TwitterやLinkedInよりリアルな数字が出やすい。特に r/ChatGPT・r/SideHustle・r/Entrepreneur・r/PromptEngineering の4つは日次の投稿数が多く、新ツールの登場から1〜2週間で「実際に稼げた/稼げなかった」報告が一通り集まる。
 
 日本でこのスピードに追いつける媒体は今のところ存在しない。X（旧Twitter）の日本語AI界隈は概念紹介が中心で、月次の収益データを生で出す文化が薄いからだ。逆に言えば、Redditの一次情報を読める人だけが半年先のトレンドを仕込めるということになる。
@@ -29,6 +33,10 @@ Redditは匿名性が高く、収益スクショや失敗談がそのまま公�
 
 
 ## 2026年に伸びているAI副業トレンド5つ
+
+<!-- INLINE_IMG -->
+![Reddit発AI副業トレンド5選｜2026年最新版 - 2026年に伸びているAI副業トレンド5つ](/auto-blog/inline-images/reddit-ai-5-2026--1.jpg)
+
 
 海外のRedditで繰り返し話題に上がっている領域を整理すると、次の5つに集約される。
 
