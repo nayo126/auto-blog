@@ -6,6 +6,7 @@ category: "ChatGPT活用"
 tags: ["ChatGPT", "YouTube", "台本作成", "AI副業"]
 keyword: "ChatGPT YouTube 台本"
 draft: false
+image: "/auto-blog/ogp/chatgptでyoutube台本を10分作成する完全手順2026.png"
 ---
 
 「動画は出したいけど、台本に毎回3時間かかる」「企画は浮かぶのに言語化が追いつかない」——YouTube運用でこの壁にぶつかる人は本当に多い。実は2026年現在、ChatGPT 5を正しい手順で使えば、10分で1本の台本を完成させることが可能になっている。
@@ -26,7 +27,14 @@ draft: false
 
 このやり方なら、各ステップでこちらが軌道修正できるため、出力品質が安定する。海外のYouTuberコミュニティでも、一発出しではなく分割プロンプトが主流になっている。
 
-<!-- AFFILIATE_SLOT:ChatGPT Plus -->
+
+<aside class="affiliate-card">
+<div class="label">ChatGPT Plus に関連する書籍・ツール</div>
+<p>「ChatGPT Plus」について実践的に学ぶための参考リソースを集めました。</p>
+<p><a href="https://search.rakuten.co.jp/search/mall/ChatGPT%20Plus/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT Plus」関連を見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20Plus" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT Plus」関連を見る</a></p>
+</aside>
+
 
 ## 視聴維持率を上げる冒頭フック用プロンプト
 
@@ -67,7 +75,14 @@ PREP法（結論→理由→具体例→結論）をベースに、章を3〜5�
 
 「結論先出し→3位→2位→1位→総括」の構成を指示する。ChatGPTは比較表を作るのが得意なので、「各項目を5観点で点数化した表を最初に提示してから本文に入って」と頼むと、画面映えする台本が完成する。
 
-<!-- AFFILIATE_SLOT:YouTube 副業 教材 -->
+
+<aside class="affiliate-card">
+<div class="label">YouTube 副業 教材 に関連する書籍・ツール</div>
+<p>「YouTube 副業 教材」について実践的に学ぶための参考リソースを集めました。</p>
+<p><a href="https://search.rakuten.co.jp/search/mall/YouTube%20%E5%89%AF%E6%A5%AD%20%E6%95%99%E6%9D%90/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「YouTube 副業 教材」関連を見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=YouTube%20%E5%89%AF%E6%A5%AD%20%E6%95%99%E6%9D%90" target="_blank" rel="sponsored noopener">▶ Amazonで「YouTube 副業 教材」関連を見る</a></p>
+</aside>
+
 
 ## ChatGPT台本の弱点と人間が必ず手を入れるべき3箇所
 
@@ -86,3 +101,16 @@ PREP法（結論→理由→具体例→結論）をベースに、章を3〜5�
 ChatGPT 5を使えば、YouTube台本作成は確かに10分程度まで短縮できる。ただし、「企画・構成・本文」を分割して指示し、冒頭フックを別枠で磨き、ジャンル別テンプレートを切り替え、最後に人間が語尾と具体例を整える——この4ステップを守ることが前提条件になる。
 
 毎週3本の動画を出そうと思うと、台本にかかる時間が一番のボトルネックになりがちだ。今回紹介したプロンプト構造をテンプレ化しておけば、企画さえ決まれば残り作業は半分以下になる。まずは次の1本から、3段階分割プロンプトを試してみてほしい。
+
+## 関連記事
+
+- [ChatGPT GPT Store収益化2026完全攻略5選](/auto-blog/blog/chatgpt-gpt-store収益化2026完全攻略5選/)
+- [ChatGPT営業メール自動生成｜返信2倍の型5選](/auto-blog/blog/chatgpt営業メール自動生成返信2倍の型5選/)
+- [ChatGPTプロンプト本おすすめ7選｜2026年最新](/auto-blog/blog/chatgptプロンプト本おすすめ7選2026年最新/)
+
+<!-- CROSS_LINKS -->
+## 他サイトの最新AI記事
+
+- [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html)
+- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html)
+- [AutoScout24がOpenAI CodexとChatGPTで開発効率化、AI駆動ワークフロー導入事例](https://nayo126.github.io/ai-news-jp/posts/autoscout24-openai-codex-chatgpt-ai.html)
