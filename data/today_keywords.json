@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-16T00:12:09.320760+00:00",
+  "picked_at": "2026-05-16T02:30:00.769318+00:00",
   "count": 5,
   "items": [
     {
-      "category": "プロンプトエンジニアリング",
-      "keyword": "プロンプト エンジニア 副業"
+      "category": "Claude活用",
+      "keyword": "claude-code mcp おすすめ"
     },
     {
       "category": "ChatGPT活用",
-      "keyword": "claude chatgpt api 比較"
+      "keyword": "chatgpt apiキー"
     },
     {
       "category": "海外AIトレンド",
-      "keyword": "anthropic api 利用 方法"
+      "keyword": "openai api モデル おすすめ"
+    },
+    {
+      "category": "AIツール比較",
+      "keyword": "ai 動画 おすすめ 無料"
     },
     {
       "category": "AI副業",
-      "keyword": "ブログ 記事 作成 ai おすすめ"
-    },
-    {
-      "category": "Claude活用",
-      "keyword": "claude code おすすめターミナル"
+      "keyword": "ai フリーランス 未経験"
     }
   ]
 }
