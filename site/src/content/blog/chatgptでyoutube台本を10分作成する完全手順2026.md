@@ -17,6 +17,10 @@ image: "/auto-blog/ogp/chatgptでyoutube台本を10分作成する完全手順20
 
 ## 結論：ChatGPT 5で台本を作るなら「3段階分割」が最速
 
+<!-- INLINE_IMG -->
+![ChatGPTでYouTube台本を10分作成する完全手順2026 - 結論：ChatGPT 5で台本を作るなら「3段階分割」が最速](/auto-blog/inline-images/chatgpt-youtube-10-2026-0.jpg)
+
+
 結論から書くと、ChatGPTでYouTube台本を作るときは**「企画 → 構成 → 本文」の3ステップに分けて指示する**のが最も精度が高い。理由は、1回のプロンプトで全部やらせると、冒頭フックが弱く、後半が間延びする台本が出来上がるからだ。
 
 具体的には次の流れになる。
@@ -37,6 +41,10 @@ image: "/auto-blog/ogp/chatgptでyoutube台本を10分作成する完全手順20
 
 
 ## 視聴維持率を上げる冒頭フック用プロンプト
+
+<!-- INLINE_IMG -->
+![ChatGPTでYouTube台本を10分作成する完全手順2026 - 視聴維持率を上げる冒頭フック用プロンプト](/auto-blog/inline-images/chatgpt-youtube-10-2026-1.jpg)
+
 
 YouTubeの台本で最も重要なのは最初の15秒。ここで離脱されると、どんなに本編が良くても再生は伸びない。冒頭フック専用のプロンプトを用意しておくと、品質が一気に変わる。
 

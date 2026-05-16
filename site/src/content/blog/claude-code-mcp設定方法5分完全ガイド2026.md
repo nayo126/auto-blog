@@ -17,6 +17,10 @@ Claude Codeを使い始めて「MCPサーバーって何？どう設定するの
 
 ## そもそもMCPとは何か、なぜ設定するのか
 
+<!-- INLINE_IMG -->
+![Claude Code MCP設定方法5分完全ガイド2026 - そもそもMCPとは何か、なぜ設定するのか](/auto-blog/inline-images/claude-code-mcp-5-2026-0.jpg)
+
+
 MCP（Model Context Protocol）はAnthropicが2024年末に公開したオープン規格で、AIアシスタントと外部ツール・データソースを安全に接続するための共通プロトコルだ。Claude CodeにMCPサーバーを設定すると、Claudeが「自分のPC内のファイル」「GitHubリポジトリ」「データベース」「Slack」などに直接アクセスして作業できるようになる。
 
 設定しない状態のClaude Codeは、基本的に現在のディレクトリ内のファイル操作とBashコマンド実行までしかできない。MCPを足すと、たとえば次のようなことが一気に可能になる。
@@ -38,6 +42,10 @@ MCP（Model Context Protocol）はAnthropicが2024年末に公開したオープ
 
 
 ## 設定ファイルの場所と基本構造
+
+<!-- INLINE_IMG -->
+![Claude Code MCP設定方法5分完全ガイド2026 - 設定ファイルの場所と基本構造](/auto-blog/inline-images/claude-code-mcp-5-2026-1.jpg)
+
 
 Claude CodeのMCP設定は、ユーザーホーム直下の設定ファイルに記述する。具体的なパスはOSごとに異なる。
 

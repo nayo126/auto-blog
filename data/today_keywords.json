@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-16T13:30:04.703124+00:00",
+  "picked_at": "2026-05-16T18:14:15.981694+00:00",
   "count": 5,
   "items": [
     {
-      "category": "Claude活用",
-      "keyword": "claude code mcp 設定 方法"
+      "category": "AI副業",
+      "keyword": "python ai フリーランス"
     },
     {
       "category": "AIツール比較",
-      "keyword": "ai ライティング ツール 無料"
+      "keyword": "ai 画像生成 無料 サイト"
+    },
+    {
+      "category": "Claude活用",
+      "keyword": "claude code おすすめの使い方"
+    },
+    {
+      "category": "AI動画生成",
+      "keyword": "AI ショート動画 月収"
     },
     {
       "category": "ChatGPT活用",
-      "keyword": "ChatGPT YouTube 台本"
-    },
-    {
-      "category": "個人開発",
-      "keyword": "bolt.new 評判"
-    },
-    {
-      "category": "海外AIトレンド",
-      "keyword": "openai sora"
+      "keyword": "chatgpt api 無料 枠 確認"
     }
   ]
 }

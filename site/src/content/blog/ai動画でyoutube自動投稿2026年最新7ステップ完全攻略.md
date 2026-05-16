@@ -147,3 +147,29 @@ AI動画×YouTube自動投稿は、2026年時点で個人副業として最も�
 - [Leonardo AI 無料プランの範囲と限界2026年版](https://nayo126.github.io/auto-blog/blog/leonardo-ai-無料プランの範囲と限界2026年版/)
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### AI動画でYouTube自動投稿は無料でできますか？
+
+n8nセルフホスト、Voicevox、Pexels素材、CapCutを組み合わせれば月0円で構築可能です。ただし映像品質を上げるならKling 3.0(月約1,050円)とにじボイス(月500円)の併用がおすすめです。
+
+### AI動画チャンネルはYouTubeの規約違反になりませんか？
+
+AI生成自体は合法ですが、2025年7月のInauthentic Policy強化でテンプレ量産型は16ch・4.7B再生が削除されました。脚本を手編集し、サムネ・BGMを毎本変えれば回避可能です。
+
+### AI動画チャンネルが収益化するまで何ヶ月かかりますか？
+
+中央値で3ヶ月、早い人は6週間で登録者1,000人と再生時間4,000時間を達成しています。Shorts経由なら90日で300万再生でも収益化可能で、毎日1〜2本投稿が最短ルートです。
+
+### AI動画で月収はいくら稼げますか？
+
+海外事例ではStoic Bondが28本で月8,000ドル、Am I the Jerk?は月31,000ドル稼いでいます。日本語市場では登録1万人で月5〜15万円、10万人で月30〜100万円が目安です。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "AI動画でYouTube自動投稿は無料でできますか？", "acceptedAnswer": {"@type": "Answer", "text": "n8nセルフホスト、Voicevox、Pexels素材、CapCutを組み合わせれば月0円で構築可能です。ただし映像品質を上げるならKling 3.0(月約1,050円)とにじボイス(月500円)の併用がおすすめです。"}}, {"@type": "Question", "name": "AI動画チャンネルはYouTubeの規約違反になりませんか？", "acceptedAnswer": {"@type": "Answer", "text": "AI生成自体は合法ですが、2025年7月のInauthentic Policy強化でテンプレ量産型は16ch・4.7B再生が削除されました。脚本を手編集し、サムネ・BGMを毎本変えれば回避可能です。"}}, {"@type": "Question", "name": "AI動画チャンネルが収益化するまで何ヶ月かかりますか？", "acceptedAnswer": {"@type": "Answer", "text": "中央値で3ヶ月、早い人は6週間で登録者1,000人と再生時間4,000時間を達成しています。Shorts経由なら90日で300万再生でも収益化可能で、毎日1〜2本投稿が最短ルートです。"}}, {"@type": "Question", "name": "AI動画で月収はいくら稼げますか？", "acceptedAnswer": {"@type": "Answer", "text": "海外事例ではStoic Bondが28本で月8,000ドル、Am I the Jerk?は月31,000ドル稼いでいます。日本語市場では登録1万人で月5〜15万円、10万人で月30〜100万円が目安です。"}}]}
+</script>
+
+<!-- FAQ_END -->
