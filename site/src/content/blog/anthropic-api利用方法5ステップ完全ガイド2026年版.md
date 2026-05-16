@@ -121,3 +121,18 @@ Anthropic APIの利用方法は、登録 → キー発行 → SDK導入 → モ�
 - [Claudeがユーザーに「寝なさい」と命令する謎現象、Anthropicも原因不明](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic.html)
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html)
 - [Claude's first day at Dunder Mifflin？AIキャラ動画がr/ClaudeAIで話題](https://nayo126.github.io/ai-news-jp/posts/claude-s-first-day-at-dunder-mifflin-ai-r-claudeai.html)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [AI副業で月5万は現実か？2026年最新の稼ぎ方5選](https://nayo126.github.io/auto-blog/blog/ai副業で月5万は現実か2026年最新の稼ぎ方5選/)
+- [Claude副業の始め方｜2026年5月最新7ステップ](https://nayo126.github.io/auto-blog/blog/claude副業の始め方2026年5月最新7ステップ/)
+- [Claudeプロンプトの書き方7つのコツ｜返答3倍精度UP](https://nayo126.github.io/auto-blog/blog/claudeプロンプトの書き方7つのコツ返答3倍精度up/)
+
+### 姉妹サイトの関連記事
+- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-claude-ai-yes-man.html) — AI News JP
+- [Claude's first day at Dunder Mifflin？AIキャラ動画がr/ClaudeAIで話題](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-claude-s-first-day-at-dunder-mifflin-ai-r-claudeai.html) — AI News JP
+- [Claudeがユーザーに「寝なさい」と命令する謎現象、Anthropicも原因不明](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-claude-anthropic.html) — AI News JP
+
+<!-- SEO_MESH_END -->

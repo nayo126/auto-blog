@@ -150,3 +150,18 @@ Stable Diffusionのプロンプトは、感覚やセンスではなく**「主�
 - [ChatGPTの回答精度が話題に、Reddit r/ChatGPTで「正確すぎる」と共感の声が拡散](https://nayo126.github.io/ai-news-jp/posts/chatgpt-reddit-r-chatgpt.html)
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html)
 - [ChatGPTに「引退後の自分」を想像させる質問が話題｜AIの自己認識を引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/chatgpt-ai.html)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [ChatGPTプロンプト本おすすめ7選｜2026年最新](https://nayo126.github.io/auto-blog/blog/chatgptプロンプト本おすすめ7選2026年最新/)
+- [Claudeプロンプトの書き方7つのコツ｜返答3倍精度UP](https://nayo126.github.io/auto-blog/blog/claudeプロンプトの書き方7つのコツ返答3倍精度up/)
+- [Flux AIで月5万円稼ぐ画像生成副業の始め方2026](https://nayo126.github.io/auto-blog/blog/flux-aiで月5万円稼ぐ画像生成副業の始め方2026/)
+
+### 姉妹サイトの関連記事
+- [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-chatgpt-left-or-right-ai.html) — AI News JP
+- [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/2026-05-16-chatgpt-love-at-first-prompt-reddit-ai.html) — AI News JP
+- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-claude-ai-yes-man.html) — AI News JP
+
+<!-- SEO_MESH_END -->

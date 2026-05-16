@@ -115,6 +115,8 @@ Claude Agent SDKは、副業の生産性を大きく引き上げる強力なツ�
 - [AIライター単価相場2026｜文字単価0.5〜3円の実態](https://nayo126.github.io/auto-blog/blog/aiライター単価相場2026文字単価053円の実態/)
 
 ### 姉妹サイトの関連記事
-- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
+- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-claude-ai-yes-man.html) — AI News JP
+- [Claude's first day at Dunder Mifflin？AIキャラ動画がr/ClaudeAIで話題](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-claude-s-first-day-at-dunder-mifflin-ai-r-claudeai.html) — AI News JP
+- [Claudeがユーザーに「寝なさい」と命令する謎現象、Anthropicも原因不明](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-claude-anthropic.html) — AI News JP
 
 <!-- SEO_MESH_END -->

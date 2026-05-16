@@ -147,3 +147,13 @@ ChatGPT APIを使った個人開発は、低コスト・低リスクで始めら
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html)
 - [AutoScout24がOpenAI CodexとChatGPTで開発効率化、AI駆動ワークフロー導入事例](https://nayo126.github.io/ai-news-jp/posts/autoscout24-openai-codex-chatgpt-ai.html)
 - [ChatGPTに「引退後の自分」を想像させる質問が話題｜AIの自己認識を引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/chatgpt-ai.html)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [ChatGPT APIキー取得5ステップと安全管理術2026](https://nayo126.github.io/auto-blog/blog/chatgpt-apiキー取得5ステップと安全管理術2026/)
+- [Claude Code 無料で使う3つの方法【2026年最新】](https://nayo126.github.io/auto-blog/blog/claude-code-無料で使う3つの方法2026年最新/)
+- [AI副業ラボ、はじめます](https://nayo126.github.io/auto-blog/blog/welcome/)
+
+<!-- SEO_MESH_END -->

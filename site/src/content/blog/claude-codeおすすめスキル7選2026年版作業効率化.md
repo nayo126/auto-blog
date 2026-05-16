@@ -85,3 +85,18 @@ Claude Codeのスキルは「使うか使わないか」で開発体験が二極
 - [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html)
 - [Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速](https://nayo126.github.io/ai-news-jp/posts/sea-limited-openai-codex.html)
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Claude Code MCPおすすめ7選2026年最新版](https://nayo126.github.io/auto-blog/blog/claude-code-mcpおすすめ7選2026年最新版/)
+- [Claude Code MCP設定方法5分完全ガイド2026](https://nayo126.github.io/auto-blog/blog/claude-code-mcp設定方法5分完全ガイド2026/)
+- [bolt.new vs v0徹底比較2026年版｜個人開発で稼ぐ最適解](https://nayo126.github.io/auto-blog/blog/boltnew-vs-v0徹底比較2026年版個人開発で稼ぐ最適解/)
+
+### 姉妹サイトの関連記事
+- [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/2026-05-13-claude-code-git-push---ai.html) — AI News JP
+- [Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-sea-limited-openai-codex.html) — AI News JP
+- [ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題](https://nayo126.github.io/ai-news-jp/posts/2026-05-16-chatgpt-3-reddit.html) — AI News JP
+
+<!-- SEO_MESH_END -->

@@ -119,5 +119,6 @@ DeepLやGoogle翻訳の公式Discord連携ボットを個人で導入すれば�
 ## 関連する記事
 
 - [Reddit発AI副業トレンド5選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/reddit発ai副業トレンド5選2026年最新版/)
+- [HackerNewsで話題のAI起業トレンド2026年版5選](https://nayo126.github.io/auto-blog/blog/hackernewsで話題のai起業トレンド2026年版5選/)
 
 <!-- SEO_MESH_END -->

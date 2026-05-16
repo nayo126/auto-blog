@@ -99,13 +99,17 @@ def process_file(path: Path) -> bool:
 
 
 def main() -> int:
+    import os as _os
+    import sys as _sys
     log(f"=== affiliate insert (rakuten={RAKUTEN_OK} moshimo={MOSHIMO_OK} ninja={NINJA_OK}) ===")
     if not BLOG_DIR.exists():
         log("blog dir missing")
         return 1
+    # --all flag (or ALL=1 env) forces processing ALL articles, not just recent
+    force_all = "--all" in _sys.argv or _os.environ.get("ALL") == "1"
     last = DATA / "last_written.json"
     files: list[Path] = []
-    if last.exists():
+    if last.exists() and not force_all:
         ld = json.loads(last.read_text())
         for rel in ld.get("files", []):
             p = ROOT / rel

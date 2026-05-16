@@ -107,3 +107,13 @@ ECサイトや個人ブログのアイキャッチ動画として使うパター
 - [OpenAI、Windows版Codexにセキュアサンドボックス実装 安全なコーディングエージェント実現へ](https://nayo126.github.io/ai-news-jp/posts/openai-windows-codex.html)
 - [OpenAIがTanStack npmサプライチェーン攻撃に対応 macOS版アプリは2026年6月12日までに更新必須](https://nayo126.github.io/ai-news-jp/posts/openai-tanstack-npm-macos-2026-6-12.html)
 - [Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速](https://nayo126.github.io/ai-news-jp/posts/sea-limited-openai-codex.html)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [AI副業ラボ、はじめます](https://nayo126.github.io/auto-blog/blog/welcome/)
+- [プロンプトを売る方法2026｜PromptBaseで月3万稼ぐ5ステップ](https://nayo126.github.io/auto-blog/blog/プロンプトを売る方法2026promptbaseで月3万稼ぐ5ステップ/)
+- [AI副業で月5万は現実か？2026年最新の稼ぎ方5選](https://nayo126.github.io/auto-blog/blog/ai副業で月5万は現実か2026年最新の稼ぎ方5選/)
+
+<!-- SEO_MESH_END -->
