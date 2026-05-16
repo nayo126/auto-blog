@@ -1,0 +1,32 @@
+---
+import { getCollection } from "astro:content";
+import Base from "../layouts/Base.astro";
+
+const posts = await getCollection("blog", ({ data }) => !data.draft);
+const tagCounts: Record<string, number> = {};
+for (const p of posts) {
+  for (const t of p.data.tags) {
+    tagCounts[t] = (tagCounts[t] || 0) + 1;
+  }
+}
+const tags = Object.entries(tagCounts)
+  .filter(([, n]) => n >= 2)
+  .sort(([, a], [, b]) => b - a);
+
+const slugify = (s: string) =>
+  s.toLowerCase().replace(/[^a-z0-9一-龠ぁ-んァ-ヶー]+/g, "-").replace(/^-|-$/g, "");
+---
+<Base title="タグ一覧 | AI副業ラボ" description="AI副業ラボの全タグ一覧。気になるトピックから記事を探せます。">
+  <article>
+    <h1>タグ一覧</h1>
+    <p>記事を関連トピックでまとめました。気になるタグから読み進めてください。</p>
+
+    <div style="display:flex;flex-wrap:wrap;gap:10px;margin-top:30px;">
+      {tags.map(([tag, n]) => (
+        <a class="tag" href={`${import.meta.env.BASE_URL}tag/${slugify(tag)}/`} style="padding:8px 16px;font-size:14px;">
+          #{tag} <span style="color:var(--muted);font-size:12px;">{n}本</span>
+        </a>
+      ))}
+    </div>
+  </article>
+</Base>

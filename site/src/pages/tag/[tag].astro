@@ -1,0 +1,48 @@
+---
+import { getCollection } from "astro:content";
+import Base from "../../layouts/Base.astro";
+
+export async function getStaticPaths() {
+  const posts = await getCollection("blog", ({ data }) => !data.draft);
+  const tagCounts: Record<string, number> = {};
+  for (const p of posts) {
+    for (const t of p.data.tags) {
+      tagCounts[t] = (tagCounts[t] || 0) + 1;
+    }
+  }
+  // Only generate pages for tags with 2+ articles (otherwise thin content)
+  const eligibleTags = Object.entries(tagCounts).filter(([, n]) => n >= 2).map(([t]) => t);
+  const slugify = (s: string) =>
+    s.toLowerCase().replace(/[^a-z0-9一-龠ぁ-んァ-ヶー]+/g, "-").replace(/^-|-$/g, "");
+  return eligibleTags.map((tag) => ({
+    params: { tag: slugify(tag) },
+    props: {
+      tag,
+      posts: posts.filter((p) => p.data.tags.includes(tag)),
+    },
+  }));
+}
+
+const { tag, posts } = Astro.props;
+const sorted = posts.sort((a: any, b: any) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const description = `「${tag}」関連の記事${sorted.length}本まとめ。AI副業ラボの最新${tag}記事をすべてここから読めます。`;
+---
+<Base title={`「${tag}」関連記事まとめ | AI副業ラボ`} description={description}>
+  <article>
+    <h1>「{tag}」関連記事 {sorted.length}本</h1>
+    <p>{tag}について書かれた記事を新しい順に並べました。</p>
+
+    <ul class="post-list">
+      {sorted.map((p: any) => (
+        <li>
+          <time>{p.data.pubDate.toISOString().slice(0, 10)}</time>
+          <h2><a href={`${import.meta.env.BASE_URL}blog/${p.id}/`}>{p.data.title}</a></h2>
+          <p>{p.data.description}</p>
+          <div style="margin-top:6px;">
+            {p.data.tags.slice(0, 5).map((t: string) => <span class="tag">#{t}</span>)}
+          </div>
+        </li>
+      ))}
+    </ul>
+  </article>
+</Base>
