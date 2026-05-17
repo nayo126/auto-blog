@@ -137,3 +137,29 @@ bolt.newとv0は競合のように見えて、実は得意領域が異なる補�
 - [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/2026-05-13-claude-code-git-push---ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### bolt.newとv0は無料で使えますか？
+
+両方とも無料プランがあります。bolt.newは1日約150kトークン、v0は月200クレジット程度の無料枠が付与されます。本格運用にはbolt.new $20/月、v0 $20/月のProプランが必要です。
+
+### bolt.newで作ったアプリを商用利用してもいいですか？
+
+可能です。bolt.newが生成したコードは利用者に著作権が帰属し、商用利用・販売・改変すべて自由です。ただしStackBlitzのWebContainer技術自体の再配布は規約で禁止されています。
+
+### v0で生成したコンポーネントはNext.js以外でも使えますか？
+
+使えます。v0はshadcn/ui+Tailwind CSSベースのReactコードを出力するため、Vite・Remix・Astroなど任意のReact環境にコピペで移植可能です。ただしNext.js App Router向けに最適化されています。
+
+### AI開発ツールでWebアプリを作って月いくら稼げますか？
+
+個人開発で月3〜30万円が現実的なレンジです。SaaS型なら$10/月×100ユーザーで月15万円、ココナラ等の受託なら1案件3〜10万円で月2〜5件が目安。bolt.newのフルスタック出力を活かせば1日で1MVPを量産できます。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "bolt.newとv0は無料で使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "両方とも無料プランがあります。bolt.newは1日約150kトークン、v0は月200クレジット程度の無料枠が付与されます。本格運用にはbolt.new $20/月、v0 $20/月のProプランが必要です。"}}, {"@type": "Question", "name": "bolt.newで作ったアプリを商用利用してもいいですか？", "acceptedAnswer": {"@type": "Answer", "text": "可能です。bolt.newが生成したコードは利用者に著作権が帰属し、商用利用・販売・改変すべて自由です。ただしStackBlitzのWebContainer技術自体の再配布は規約で禁止されています。"}}, {"@type": "Question", "name": "v0で生成したコンポーネントはNext.js以外でも使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "使えます。v0はshadcn/ui+Tailwind CSSベースのReactコードを出力するため、Vite・Remix・Astroなど任意のReact環境にコピペで移植可能です。ただしNext.js App Router向けに最適化されています。"}}, {"@type": "Question", "name": "AI開発ツールでWebアプリを作って月いくら稼げますか？", "acceptedAnswer": {"@type": "Answer", "text": "個人開発で月3〜30万円が現実的なレンジです。SaaS型なら$10/月×100ユーザーで月15万円、ココナラ等の受託なら1案件3〜10万円で月2〜5件が目安。bolt.newのフルスタック出力を活かせば1日で1MVPを量産できます。"}}]}
+</script>
+
+<!-- FAQ_END -->

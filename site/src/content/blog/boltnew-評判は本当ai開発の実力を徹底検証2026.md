@@ -119,3 +119,29 @@ bolt.newの評判は「初心者〜中級者のプロトタイプ用途では神
 - [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/2026-05-13-claude-code-git-push---ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### bolt.newとCursorはどっちがおすすめ？
+
+ゼロからWebアプリを爆速で立ち上げるならbolt.new、既存コードの編集や大規模開発ならCursorが向いています。bolt.newはブラウザ完結で環境構築不要、Cursorはローカル開発で柔軟性が高いのが特徴です。
+
+### bolt.newの無料プランで何ができる？
+
+無料プランでは1日約150kトークン、月1Mトークンまで使え、簡単なランディングページや小規模アプリの作成が可能です。本格的な開発には月20ドルのProプラン以上が必要になります。
+
+### bolt.newは日本語のプロンプトでも使える？
+
+日本語プロンプトでも動作しますが、英語の方が精度が高く、トークン消費も少なく済みます。日本語で指示する場合は「ReactでTodoアプリを作って」など具体的に書くと精度が上がります。
+
+### bolt.newで作ったアプリはどうやって公開する？
+
+Netlifyとの連携機能でワンクリックデプロイが可能です。またGitHubへのエクスポートにも対応しており、VercelやCloudflare Pagesなど好きなホスティング先に移行することもできます。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "bolt.newとCursorはどっちがおすすめ？", "acceptedAnswer": {"@type": "Answer", "text": "ゼロからWebアプリを爆速で立ち上げるならbolt.new、既存コードの編集や大規模開発ならCursorが向いています。bolt.newはブラウザ完結で環境構築不要、Cursorはローカル開発で柔軟性が高いのが特徴です。"}}, {"@type": "Question", "name": "bolt.newの無料プランで何ができる？", "acceptedAnswer": {"@type": "Answer", "text": "無料プランでは1日約150kトークン、月1Mトークンまで使え、簡単なランディングページや小規模アプリの作成が可能です。本格的な開発には月20ドルのProプラン以上が必要になります。"}}, {"@type": "Question", "name": "bolt.newは日本語のプロンプトでも使える？", "acceptedAnswer": {"@type": "Answer", "text": "日本語プロンプトでも動作しますが、英語の方が精度が高く、トークン消費も少なく済みます。日本語で指示する場合は「ReactでTodoアプリを作って」など具体的に書くと精度が上がります。"}}, {"@type": "Question", "name": "bolt.newで作ったアプリはどうやって公開する？", "acceptedAnswer": {"@type": "Answer", "text": "Netlifyとの連携機能でワンクリックデプロイが可能です。またGitHubへのエクスポートにも対応しており、VercelやCloudflare Pagesなど好きなホスティング先に移行することもできます。"}}]}
+</script>
+
+<!-- FAQ_END -->

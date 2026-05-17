@@ -157,3 +157,29 @@ ChatGPT APIを使った個人開発は、低コスト・低リスクで始めら
 - [AI副業ラボ、はじめます](https://nayo126.github.io/auto-blog/blog/welcome/)
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### ChatGPT APIの個人開発で最初に作るべきツールは何ですか？
+
+議事録要約・メール文章生成・SNS投稿自動化など、入力と出力が明確な単機能ツールが最適です。GPT-5 miniなら1リクエスト0.1円程度で、Stripe決済を組めば月額500円×100人で月5万円に到達します。
+
+### ChatGPT APIの月額コストを抑えるコツは？
+
+miniやnanoモデルを基本にし、プロンプトキャッシュとバッチAPIを併用すると入力コストが最大50%削減できます。要約・分類は全てmini、創作系のみGPT-5を使う設計で月1000円以下に抑えられます。
+
+### ChatGPT APIで作ったSaaSの集客はどうすればいいですか？
+
+X(旧Twitter)で開発過程を発信し、ZennやQiitaで技術記事を書く流れが鉄板です。ProductHuntに英語版をローンチすれば初日200〜500人の流入が見込め、無料プランからの転換率は3〜5%が目安です。
+
+### ChatGPT APIキーを使ったツールを公開する際のセキュリティ対策は？
+
+APIキーはサーバー側の環境変数に隔離し、フロントからは絶対に呼び出さないことが必須です。1ユーザーあたり1分10リクエストの上限と、$50/月のハードリミットをOpenAIダッシュボードで設定すれば暴走を防げます。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "ChatGPT APIの個人開発で最初に作るべきツールは何ですか？", "acceptedAnswer": {"@type": "Answer", "text": "議事録要約・メール文章生成・SNS投稿自動化など、入力と出力が明確な単機能ツールが最適です。GPT-5 miniなら1リクエスト0.1円程度で、Stripe決済を組めば月額500円×100人で月5万円に到達します。"}}, {"@type": "Question", "name": "ChatGPT APIの月額コストを抑えるコツは？", "acceptedAnswer": {"@type": "Answer", "text": "miniやnanoモデルを基本にし、プロンプトキャッシュとバッチAPIを併用すると入力コストが最大50%削減できます。要約・分類は全てmini、創作系のみGPT-5を使う設計で月1000円以下に抑えられます。"}}, {"@type": "Question", "name": "ChatGPT APIで作ったSaaSの集客はどうすればいいですか？", "acceptedAnswer": {"@type": "Answer", "text": "X(旧Twitter)で開発過程を発信し、ZennやQiitaで技術記事を書く流れが鉄板です。ProductHuntに英語版をローンチすれば初日200〜500人の流入が見込め、無料プランからの転換率は3〜5%が目安です。"}}, {"@type": "Question", "name": "ChatGPT APIキーを使ったツールを公開する際のセキュリティ対策は？", "acceptedAnswer": {"@type": "Answer", "text": "APIキーはサーバー側の環境変数に隔離し、フロントからは絶対に呼び出さないことが必須です。1ユーザーあたり1分10リクエストの上限と、$50/月のハードリミットをOpenAIダッシュボードで設定すれば暴走を防げます。"}}]}
+</script>
+
+<!-- FAQ_END -->
