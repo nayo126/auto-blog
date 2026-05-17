@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-17T13:30:00.251951+00:00",
+  "picked_at": "2026-05-17T20:30:05.255882+00:00",
   "count": 5,
   "items": [
     {
+      "category": "Claude活用",
+      "keyword": "claude mcp add serena"
+    },
+    {
       "category": "AI副業",
-      "keyword": "ai 副業 セミナー おすすめ"
+      "keyword": "ai 副業 詐欺"
+    },
+    {
+      "category": "海外AIトレンド",
+      "keyword": "anthropic"
     },
     {
       "category": "ChatGPT活用",
-      "keyword": "chatgpt api おすすめ モデル"
+      "keyword": "chatgpt apiとは"
     },
     {
-      "category": "Claude活用",
-      "keyword": "claude code vscode"
-    },
-    {
-      "category": "個人開発",
-      "keyword": "cursor 使い方 vscode"
-    },
-    {
-      "category": "AIツール比較",
-      "keyword": "ai 議事録 無料 zoom"
+      "category": "AI画像生成",
+      "keyword": "leonardo ai 料金"
     }
   ]
 }
