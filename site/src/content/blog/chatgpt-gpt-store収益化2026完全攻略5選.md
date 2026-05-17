@@ -136,7 +136,7 @@ GPT Storeの収益化は、「有料ユーザーが日常業務で使い続け�
 
 - [AI副業で月5万は現実か？2026年最新の稼ぎ方5選](https://nayo126.github.io/auto-blog/blog/ai副業で月5万は現実か2026年最新の稼ぎ方5選/)
 - [Reddit発AI副業トレンド5選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/reddit発ai副業トレンド5選2026年最新版/)
-- [AI副業おすすめランキング2026年最新7選で月10万円](https://nayo126.github.io/auto-blog/blog/ai副業おすすめランキング2026年最新7選で月10万円/)
+- [AI副業初心者が月3万稼ぐ最短5ステップ2026](https://nayo126.github.io/auto-blog/blog/ai副業初心者が月3万稼ぐ最短5ステップ2026/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP
@@ -144,3 +144,29 @@ GPT Storeの収益化は、「有料ユーザーが日常業務で使い続け�
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### GPT Storeで収益化するには何人くらいの利用者が必要ですか？
+
+明確な人数は非公開ですが、月数千ドル稼ぐ上位GPTは日次アクティブユーザー1,000人以上が目安です。月10万円なら継続利用者500人前後、ニッチ特化で30秒以上の対話を生むGPT設計が現実的なラインです。
+
+### GPT Storeに日本から参加できますか？
+
+2026年時点で日本を含む複数地域から参加可能です。参加にはChatGPT Plus契約、GPTビルダープロフィール設定、米国TIN相当の税務情報提出、Stripe Connectでの本人確認が必要で、未成年は親名義での申請になります。
+
+### GPT Storeとアフィリエイトはどっちが稼げますか？
+
+短期はアフィリエイトが有利で、3ヶ月で月3-5万円が射程です。GPT Storeは仕込みに6-12ヶ月かかりますが、人気GPT1本で月10-50万円のストック収入になり、長期ROIではGPT Storeが上回ります。
+
+### GPT Storeで上位に表示されるコツは何ですか？
+
+カテゴリ特化、明確な1機能、検索キーワードを含むGPT名の3点が必須です。Writing/Productivity/Educationの3カテゴリに集中投下し、レビュー20件以上で初動ブースト、利用時間60秒超を狙うプロンプト設計が上位食い込みの条件です。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "GPT Storeで収益化するには何人くらいの利用者が必要ですか？", "acceptedAnswer": {"@type": "Answer", "text": "明確な人数は非公開ですが、月数千ドル稼ぐ上位GPTは日次アクティブユーザー1,000人以上が目安です。月10万円なら継続利用者500人前後、ニッチ特化で30秒以上の対話を生むGPT設計が現実的なラインです。"}}, {"@type": "Question", "name": "GPT Storeに日本から参加できますか？", "acceptedAnswer": {"@type": "Answer", "text": "2026年時点で日本を含む複数地域から参加可能です。参加にはChatGPT Plus契約、GPTビルダープロフィール設定、米国TIN相当の税務情報提出、Stripe Connectでの本人確認が必要で、未成年は親名義での申請になります。"}}, {"@type": "Question", "name": "GPT Storeとアフィリエイトはどっちが稼げますか？", "acceptedAnswer": {"@type": "Answer", "text": "短期はアフィリエイトが有利で、3ヶ月で月3-5万円が射程です。GPT Storeは仕込みに6-12ヶ月かかりますが、人気GPT1本で月10-50万円のストック収入になり、長期ROIではGPT Storeが上回ります。"}}, {"@type": "Question", "name": "GPT Storeで上位に表示されるコツは何ですか？", "acceptedAnswer": {"@type": "Answer", "text": "カテゴリ特化、明確な1機能、検索キーワードを含むGPT名の3点が必須です。Writing/Productivity/Educationの3カテゴリに集中投下し、レビュー20件以上で初動ブースト、利用時間60秒超を狙うプロンプト設計が上位食い込みの条件です。"}}]}
+</script>
+
+<!-- FAQ_END -->

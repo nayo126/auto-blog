@@ -104,13 +104,39 @@ ChatGPT APIキーは10分で取得できますが、価値が高い分だけリ�
 
 ## 関連する記事
 
-- [ChatGPT API 個人開発で月5万円稼ぐ7つの実例](https://nayo126.github.io/auto-blog/blog/chatgpt-api-個人開発で月5万円稼ぐ7つの実例/)
-- [AI副業ラボ、はじめます](https://nayo126.github.io/auto-blog/blog/welcome/)
-- [プロンプトを売る方法2026｜PromptBaseで月3万稼ぐ5ステップ](https://nayo126.github.io/auto-blog/blog/プロンプトを売る方法2026promptbaseで月3万稼ぐ5ステップ/)
+- [ChatGPT API無料モデル2026年最新7選比較](https://nayo126.github.io/auto-blog/blog/chatgpt-api無料モデル2026年最新7選比較/)
+- [ChatGPT APIおすすめモデル6選｜2026年最新の選び方](https://nayo126.github.io/auto-blog/blog/chatgpt-apiおすすめモデル6選2026年最新の選び方/)
+- [OpenAI無料枠2026最新ガイド｜7つの活用法と上限突破術](https://nayo126.github.io/auto-blog/blog/openai無料枠2026最新ガイド7つの活用法と上限突破術/)
 
 ### 姉妹サイトの関連記事
+- [OpenAIがマルタ政府と提携、全国民にChatGPT Plus提供と研修を実施](https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus.html) — AI News JP
 - [OpenAI、Windows版Codexにセキュアサンドボックス実装 安全なコーディングエージェント実現へ](https://nayo126.github.io/ai-news-jp/posts/openai-windows-codex.html) — AI News JP
 - [OpenAIがTanStack npmサプライチェーン攻撃に対応 macOS版アプリは2026年6月12日までに更新必須](https://nayo126.github.io/ai-news-jp/posts/openai-tanstack-npm-macos-2026-6-12.html) — AI News JP
-- [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### ChatGPT APIキーは無料で使えますか？
+
+APIキーの発行自体は無料ですが、利用は従量課金制です。新規アカウントには5ドル分の無料クレジットが3ヶ月間付与され、GPT-4o miniなら数万回の軽い処理が可能です。期限切れ後は最低5ドルからのチャージが必要になります。
+
+### ChatGPT APIキーが漏洩したらどうすればいい？
+
+OpenAIの管理画面から該当キーを即座にRevoke（無効化）し、新しいキーを発行してください。同時にUsage画面で不正利用の有無を確認し、被害があればOpenAIサポートへ申請すれば最大80%程度の返金対応が受けられるケースがあります。
+
+### ChatGPT APIの月額上限はいくらに設定すべき？
+
+個人副業なら初期はHard Limit 10ドル、Soft Limit 5ドルが安全です。慣れて運用が安定したら30〜50ドルに引き上げ、業務利用では100ドル以上に設定します。上限到達でAPIが自動停止するため不正利用の被害を最小化できます。
+
+### ChatGPT APIキーはどこに保存するのが安全？
+
+コード内への直書きは絶対NGです。.envファイルに記述し.gitignoreで除外するか、AWS Secrets Managerなどのシークレット管理サービスを使います。GitHubへの誤コミット時はOpenAIが自動検知して30分以内にキーを無効化します。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "ChatGPT APIキーは無料で使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "APIキーの発行自体は無料ですが、利用は従量課金制です。新規アカウントには5ドル分の無料クレジットが3ヶ月間付与され、GPT-4o miniなら数万回の軽い処理が可能です。期限切れ後は最低5ドルからのチャージが必要になります。"}}, {"@type": "Question", "name": "ChatGPT APIキーが漏洩したらどうすればいい？", "acceptedAnswer": {"@type": "Answer", "text": "OpenAIの管理画面から該当キーを即座にRevoke（無効化）し、新しいキーを発行してください。同時にUsage画面で不正利用の有無を確認し、被害があればOpenAIサポートへ申請すれば最大80%程度の返金対応が受けられるケースがあります。"}}, {"@type": "Question", "name": "ChatGPT APIの月額上限はいくらに設定すべき？", "acceptedAnswer": {"@type": "Answer", "text": "個人副業なら初期はHard Limit 10ドル、Soft Limit 5ドルが安全です。慣れて運用が安定したら30〜50ドルに引き上げ、業務利用では100ドル以上に設定します。上限到達でAPIが自動停止するため不正利用の被害を最小化できます。"}}, {"@type": "Question", "name": "ChatGPT APIキーはどこに保存するのが安全？", "acceptedAnswer": {"@type": "Answer", "text": "コード内への直書きは絶対NGです。.envファイルに記述し.gitignoreで除外するか、AWS Secrets Managerなどのシークレット管理サービスを使います。GitHubへの誤コミット時はOpenAIが自動検知して30分以内にキーを無効化します。"}}]}
+</script>
+
+<!-- FAQ_END -->

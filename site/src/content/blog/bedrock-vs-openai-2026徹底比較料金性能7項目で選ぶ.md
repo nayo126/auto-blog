@@ -96,12 +96,14 @@ BedrockとOpenAIは競合というより役割分担の関係に近く、「速�
 
 ## 関連する記事
 
-- [ChatGPT APIキー取得5ステップと安全管理術2026](https://nayo126.github.io/auto-blog/blog/chatgpt-apiキー取得5ステップと安全管理術2026/)
+- [DALL-E 2の使い方完全ガイド｜2026年最新の始め方と料金](https://nayo126.github.io/auto-blog/blog/dall-e-2の使い方完全ガイド2026年最新の始め方と料金/)
+- [OpenAI無料枠2026最新ガイド｜7つの活用法と上限突破術](https://nayo126.github.io/auto-blog/blog/openai無料枠2026最新ガイド7つの活用法と上限突破術/)
+- [ChatGPT API無料モデル2026年最新7選比較](https://nayo126.github.io/auto-blog/blog/chatgpt-api無料モデル2026年最新7選比較/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP
+- [OpenAIがマルタ政府と提携、全国民にChatGPT Plus提供と研修を実施](https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus.html) — AI News JP
 - [OpenAI、Windows版Codexにセキュアサンドボックス実装 安全なコーディングエージェント実現へ](https://nayo126.github.io/ai-news-jp/posts/openai-windows-codex.html) — AI News JP
-- [OpenAIがTanStack npmサプライチェーン攻撃に対応 macOS版アプリは2026年6月12日までに更新必須](https://nayo126.github.io/ai-news-jp/posts/openai-tanstack-npm-macos-2026-6-12.html) — AI News JP
 
 <!-- SEO_MESH_END -->
 

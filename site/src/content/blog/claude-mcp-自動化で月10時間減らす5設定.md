@@ -96,12 +96,12 @@ Claude MCPの自動化は、難しい知識がなくても設定ファイル1つ
 ## 関連する記事
 
 - [Claude Agent SDK副業活用5選|2026年最新自動化](https://nayo126.github.io/auto-blog/blog/claude-agent-sdk副業活用5選2026年最新自動化/)
+- [Claude MCP設定方法を15分で完了する2026最新手順](https://nayo126.github.io/auto-blog/blog/claude-mcp設定方法を15分で完了する2026最新手順/)
 - [ChatGPT×Excel自動化副業｜2026年最新7つの稼ぎ方](https://nayo126.github.io/auto-blog/blog/chatgptexcel自動化副業2026年最新7つの稼ぎ方/)
-- [AIライター単価相場2026｜文字単価0.5〜3円の実態](https://nayo126.github.io/auto-blog/blog/aiライター単価相場2026文字単価053円の実態/)
 
 ### 姉妹サイトの関連記事
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
+- [今週のAIニュース10選 (2026/05/17付)](https://nayo126.github.io/ai-news-jp/posts/ai-weekly-roundup-20260517.html) — AI News JP
 - [Claude's first day at Dunder Mifflin？AIキャラ動画がr/ClaudeAIで話題](https://nayo126.github.io/ai-news-jp/posts/claude-s-first-day-at-dunder-mifflin-ai-r-claudeai.html) — AI News JP
-- [Claudeがユーザーに「寝なさい」と命令する謎現象、Anthropicも原因不明](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic.html) — AI News JP
 
 <!-- SEO_MESH_END -->

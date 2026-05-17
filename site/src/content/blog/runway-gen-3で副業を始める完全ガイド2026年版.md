@@ -148,7 +148,7 @@ Runway Gen-3は副業ツールとして優秀だが、ツール契約だけで�
 
 - [AI動画作成おすすめ無料ツール7選2026年最新](https://nayo126.github.io/auto-blog/blog/ai動画作成おすすめ無料ツール7選2026年最新/)
 - [AI動画でYouTube自動投稿｜2026年最新7ステップ完全攻略](https://nayo126.github.io/auto-blog/blog/ai動画でyoutube自動投稿2026年最新7ステップ完全攻略/)
-- [ChatGPT×Excel自動化副業｜2026年最新7つの稼ぎ方](https://nayo126.github.io/auto-blog/blog/chatgptexcel自動化副業2026年最新7つの稼ぎ方/)
+- [Claude Codeおすすめプラグイン7選 2026年版](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめプラグイン7選-2026年版/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPT Image 2.0とSeedance 2.0で短編映像を制作する手順](https://nayo126.github.io/ai-news-jp/posts/chatgpt-image-2-0-seedance-2-0.html) — AI News JP

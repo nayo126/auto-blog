@@ -146,6 +146,6 @@ PromptBaseは、英語のハードルさえ越えれば月3万円の副業とし
 
 - [プロンプト副業で月収10万円を狙う2026年の実践ロードマップ](https://nayo126.github.io/auto-blog/blog/プロンプト副業で月収10万円を狙う2026年の実践ロードマップ/)
 - [Chain-of-Thought副業活用法5選｜AI思考連鎖で月10万稼ぐ](https://nayo126.github.io/auto-blog/blog/chain-of-thought副業活用法5選ai思考連鎖で月10万稼ぐ/)
-- [AI副業ラボ、はじめます](https://nayo126.github.io/auto-blog/blog/welcome/)
+- [Geminiプロンプト作り方7原則｜上位3%が使う最新テンプレ2026](https://nayo126.github.io/auto-blog/blog/geminiプロンプト作り方7原則上位3が使う最新テンプレ2026/)
 
 <!-- SEO_MESH_END -->

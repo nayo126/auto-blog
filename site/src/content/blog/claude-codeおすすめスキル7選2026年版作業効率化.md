@@ -97,8 +97,8 @@ Claude Codeのスキルは「使うか使わないか」で開発体験が二極
 ## 関連する記事
 
 - [Claude Code MCPおすすめ7選2026年最新版](https://nayo126.github.io/auto-blog/blog/claude-code-mcpおすすめ7選2026年最新版/)
-- [Claude Code MCP設定方法5分完全ガイド2026](https://nayo126.github.io/auto-blog/blog/claude-code-mcp設定方法5分完全ガイド2026/)
-- [bolt.new vs v0徹底比較2026年版｜個人開発で稼ぐ最適解](https://nayo126.github.io/auto-blog/blog/boltnew-vs-v0徹底比較2026年版個人開発で稼ぐ最適解/)
+- [Claude Codeおすすめプラグイン7選 2026年版](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめプラグイン7選-2026年版/)
+- [Claude Code×VSCode連携｜2026年最新7つの活用術](https://nayo126.github.io/auto-blog/blog/claude-codevscode連携2026年最新7つの活用術/)
 
 ### 姉妹サイトの関連記事
 - [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html) — AI News JP

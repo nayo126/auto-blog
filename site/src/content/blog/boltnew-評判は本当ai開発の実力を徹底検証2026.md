@@ -123,7 +123,7 @@ bolt.newの評判は「初心者〜中級者のプロトタイプ用途では神
 
 - [bolt.new vs v0徹底比較2026年版｜個人開発で稼ぐ最適解](https://nayo126.github.io/auto-blog/blog/boltnew-vs-v0徹底比較2026年版個人開発で稼ぐ最適解/)
 - [Claude Artifacts個人開発の活用5選](https://nayo126.github.io/auto-blog/blog/claude-artifacts個人開発の活用5選/)
-- [ノーコードAIツール比較2026｜副業に効く7選](https://nayo126.github.io/auto-blog/blog/ノーコードaiツール比較2026副業に効く7選/)
+- [Cursor使い方完全ガイド｜VSCodeから乗り換えで開発効率3倍](https://nayo126.github.io/auto-blog/blog/cursor使い方完全ガイドvscodeから乗り換えで開発効率3倍/)
 
 ### 姉妹サイトの関連記事
 - [Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速](https://nayo126.github.io/ai-news-jp/posts/sea-limited-openai-codex.html) — AI News JP

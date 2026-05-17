@@ -135,6 +135,6 @@ Midjourneyの商用利用は、有料プランの契約者であれば原則自�
 
 - [AI画像生成ツール比較2026｜商用利用OK5選](https://nayo126.github.io/auto-blog/blog/ai画像生成ツール比較2026商用利用ok5選/)
 - [AI画像の著作権2026年版｜日本の最新ルール7選](https://nayo126.github.io/auto-blog/blog/ai画像の著作権2026年版日本の最新ルール7選/)
-- [Leonardo AI 無料プランの範囲と限界2026年版](https://nayo126.github.io/auto-blog/blog/leonardo-ai-無料プランの範囲と限界2026年版/)
+- [Midjourney副業で月5万円稼ぐ7つの方法【2026年】](https://nayo126.github.io/auto-blog/blog/midjourney副業で月5万円稼ぐ7つの方法2026年/)
 
 <!-- SEO_MESH_END -->

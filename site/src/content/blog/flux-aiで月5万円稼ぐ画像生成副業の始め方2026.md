@@ -130,7 +130,7 @@ Flux AIは、写実性・文字再現・コストの3点で副業向きの画像
 
 - [Leonardo AI 無料プランの範囲と限界2026年版](https://nayo126.github.io/auto-blog/blog/leonardo-ai-無料プランの範囲と限界2026年版/)
 - [DALL-E 3使い方完全ガイド｜ブログ画像で月3万円稼ぐ7手順](https://nayo126.github.io/auto-blog/blog/dall-e-3使い方完全ガイドブログ画像で月3万円稼ぐ7手順/)
-- [ChatGPT×Excel自動化副業｜2026年最新7つの稼ぎ方](https://nayo126.github.io/auto-blog/blog/chatgptexcel自動化副業2026年最新7つの稼ぎ方/)
+- [AI画像生成 無料アプリ7選｜2026年最新比較](https://nayo126.github.io/auto-blog/blog/ai画像生成-無料アプリ7選2026年最新比較/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPT Image 2.0とSeedance 2.0で短編映像を制作する手順](https://nayo126.github.io/ai-news-jp/posts/chatgpt-image-2-0-seedance-2-0.html) — AI News JP

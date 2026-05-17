@@ -131,7 +131,7 @@ Chain-of-Thoughtは特別なツールではなく、プロンプトに「考え�
 
 - [プロンプトを売る方法2026｜PromptBaseで月3万稼ぐ5ステップ](https://nayo126.github.io/auto-blog/blog/プロンプトを売る方法2026promptbaseで月3万稼ぐ5ステップ/)
 - [プロンプト副業で月収10万円を狙う2026年の実践ロードマップ](https://nayo126.github.io/auto-blog/blog/プロンプト副業で月収10万円を狙う2026年の実践ロードマップ/)
-- [AI副業ラボ、はじめます](https://nayo126.github.io/auto-blog/blog/welcome/)
+- [Geminiプロンプト作り方7原則｜上位3%が使う最新テンプレ2026](https://nayo126.github.io/auto-blog/blog/geminiプロンプト作り方7原則上位3が使う最新テンプレ2026/)
 
 <!-- SEO_MESH_END -->
 

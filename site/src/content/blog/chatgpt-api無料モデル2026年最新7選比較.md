@@ -138,3 +138,44 @@ ChatGPT APIを無料で使う方法は、2026年現在いくつも存在しま�
 - [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html)
 - [AutoScout24がOpenAI CodexとChatGPTで開発効率化、AI駆動ワークフロー導入事例](https://nayo126.github.io/ai-news-jp/posts/autoscout24-openai-codex-chatgpt-ai.html)
 - [OpenAIがマルタ政府と提携、全国民にChatGPT Plus提供と研修を実施](https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus.html)
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### ChatGPT APIの無料枠は何回まで使える？
+
+OpenAI公式の評価枠はデータ共有に同意した場合、GPT-4o miniで1日1000万トークン、GPT-4oで25万トークンまで無料です。新規アカウントの5ドルクレジットは2026年現在、地域により付与されない場合があります。
+
+### ChatGPT APIとGeminiやClaude APIの無料枠の違いは？
+
+Google Gemini APIは1分15リクエスト・1日1500回まで完全無料、Claudeは無料APIなし(5ドル課金後利用可)、OpenAIは条件付き無料です。完全無料運用ならGemini Flashが2026年時点で最強の選択肢です。
+
+### ChatGPT APIキーの取得方法と注意点は？
+
+platform.openai.comでアカウント作成後、API Keysから発行できます。発行後は再表示不可なので必ず保存し、GitHubに誤コミットしないよう.envファイルで管理してください。漏洩すると数時間で数万円課金される事例があります。
+
+### 無料のローカルLLMでChatGPT API互換のものは？
+
+Ollama+Llama 3.3 70B、LM Studio+Qwen 2.5、GPT4Allの3つが代表例で、OpenAI互換エンドポイント(/v1/chat/completions)を提供します。M1以上のMacなら8GBメモリでも7Bモデルが動作し、完全無料・無制限で使えます。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "ChatGPT APIの無料枠は何回まで使える？", "acceptedAnswer": {"@type": "Answer", "text": "OpenAI公式の評価枠はデータ共有に同意した場合、GPT-4o miniで1日1000万トークン、GPT-4oで25万トークンまで無料です。新規アカウントの5ドルクレジットは2026年現在、地域により付与されない場合があります。"}}, {"@type": "Question", "name": "ChatGPT APIとGeminiやClaude APIの無料枠の違いは？", "acceptedAnswer": {"@type": "Answer", "text": "Google Gemini APIは1分15リクエスト・1日1500回まで完全無料、Claudeは無料APIなし(5ドル課金後利用可)、OpenAIは条件付き無料です。完全無料運用ならGemini Flashが2026年時点で最強の選択肢です。"}}, {"@type": "Question", "name": "ChatGPT APIキーの取得方法と注意点は？", "acceptedAnswer": {"@type": "Answer", "text": "platform.openai.comでアカウント作成後、API Keysから発行できます。発行後は再表示不可なので必ず保存し、GitHubに誤コミットしないよう.envファイルで管理してください。漏洩すると数時間で数万円課金される事例があります。"}}, {"@type": "Question", "name": "無料のローカルLLMでChatGPT API互換のものは？", "acceptedAnswer": {"@type": "Answer", "text": "Ollama+Llama 3.3 70B、LM Studio+Qwen 2.5、GPT4Allの3つが代表例で、OpenAI互換エンドポイント(/v1/chat/completions)を提供します。M1以上のMacなら8GBメモリでも7Bモデルが動作し、完全無料・無制限で使えます。"}}]}
+</script>
+
+<!-- FAQ_END -->
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [ChatGPT APIキー取得5ステップと安全管理術2026](https://nayo126.github.io/auto-blog/blog/chatgpt-apiキー取得5ステップと安全管理術2026/)
+- [ChatGPT APIおすすめモデル6選｜2026年最新の選び方](https://nayo126.github.io/auto-blog/blog/chatgpt-apiおすすめモデル6選2026年最新の選び方/)
+- [OpenAI無料枠2026最新ガイド｜7つの活用法と上限突破術](https://nayo126.github.io/auto-blog/blog/openai無料枠2026最新ガイド7つの活用法と上限突破術/)
+
+### 姉妹サイトの関連記事
+- [OpenAIがマルタ政府と提携、全国民にChatGPT Plus提供と研修を実施](https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus.html) — AI News JP
+- [OpenAI、Windows版Codexにセキュアサンドボックス実装 安全なコーディングエージェント実現へ](https://nayo126.github.io/ai-news-jp/posts/openai-windows-codex.html) — AI News JP
+- [OpenAIがTanStack npmサプライチェーン攻撃に対応 macOS版アプリは2026年6月12日までに更新必須](https://nayo126.github.io/ai-news-jp/posts/openai-tanstack-npm-macos-2026-6-12.html) — AI News JP
+
+<!-- SEO_MESH_END -->

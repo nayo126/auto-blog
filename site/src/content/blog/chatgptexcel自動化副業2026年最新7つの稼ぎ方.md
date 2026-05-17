@@ -120,8 +120,8 @@ ChatGPT×Excel自動化副業は、2026年の現時点で参入障壁が低く�
 ## 関連する記事
 
 - [Claude MCP 自動化で月10時間減らす5設定](https://nayo126.github.io/auto-blog/blog/claude-mcp-自動化で月10時間減らす5設定/)
+- [AIブログ作成は無料で可能?2026年の最新3手順](https://nayo126.github.io/auto-blog/blog/aiブログ作成は無料で可能2026年の最新3手順/)
 - [ChatGPTで稼ぐ方法 初心者向け7ステップ完全版](https://nayo126.github.io/auto-blog/blog/chatgptで稼ぐ方法-初心者向け7ステップ完全版/)
-- [Claude Agent SDK副業活用5選|2026年最新自動化](https://nayo126.github.io/auto-blog/blog/claude-agent-sdk副業活用5選2026年最新自動化/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP
@@ -129,3 +129,29 @@ ChatGPT×Excel自動化副業は、2026年の現時点で参入障壁が低く�
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### ChatGPT×Excel副業は未経験でも本当に稼げますか？
+
+未経験でも月3〜5万円は現実的です。クラウドワークスの初心者向けExcel案件は1件500〜3,000円が中心で、週10件こなせば月3万円に到達します。VBAの基礎を1週間学べば対応可能です。
+
+### ChatGPTでExcel VBAを書かせるときのコツは？
+
+「シート名・列番号・処理内容・エラー時の挙動」の4点を明示してください。例：「Sheet1のA列を読み、空白なら処理スキップ」と書くだけで、コード精度が約2倍上がり修正回数が減ります。
+
+### Excel自動化案件はどこで取るのが一番早いですか？
+
+クラウドワークスとココナラの2サイト併用が最速です。クラウドワークスは案件数が月1,000件超、ココナラは出品型で待ちの集客が可能。最初の実績3件はココナラの1,500円出品で作るのが定石です。
+
+### ChatGPTで作ったVBAコードを納品して著作権の問題はないですか？
+
+OpenAIの利用規約上、生成コードは利用者に帰属し商用利用可能です。ただし依頼主の機密データをChatGPTに直接貼り付けるのはNGで、ダミーデータで作成後に納品先で実データを当てる運用が安全です。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "ChatGPT×Excel副業は未経験でも本当に稼げますか？", "acceptedAnswer": {"@type": "Answer", "text": "未経験でも月3〜5万円は現実的です。クラウドワークスの初心者向けExcel案件は1件500〜3,000円が中心で、週10件こなせば月3万円に到達します。VBAの基礎を1週間学べば対応可能です。"}}, {"@type": "Question", "name": "ChatGPTでExcel VBAを書かせるときのコツは？", "acceptedAnswer": {"@type": "Answer", "text": "「シート名・列番号・処理内容・エラー時の挙動」の4点を明示してください。例：「Sheet1のA列を読み、空白なら処理スキップ」と書くだけで、コード精度が約2倍上がり修正回数が減ります。"}}, {"@type": "Question", "name": "Excel自動化案件はどこで取るのが一番早いですか？", "acceptedAnswer": {"@type": "Answer", "text": "クラウドワークスとココナラの2サイト併用が最速です。クラウドワークスは案件数が月1,000件超、ココナラは出品型で待ちの集客が可能。最初の実績3件はココナラの1,500円出品で作るのが定石です。"}}, {"@type": "Question", "name": "ChatGPTで作ったVBAコードを納品して著作権の問題はないですか？", "acceptedAnswer": {"@type": "Answer", "text": "OpenAIの利用規約上、生成コードは利用者に帰属し商用利用可能です。ただし依頼主の機密データをChatGPTに直接貼り付けるのはNGで、ダミーデータで作成後に納品先で実データを当てる運用が安全です。"}}]}
+</script>
+
+<!-- FAQ_END -->

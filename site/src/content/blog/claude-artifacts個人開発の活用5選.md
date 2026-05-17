@@ -104,7 +104,7 @@ Claude Artifactsは、個人開発のプロトタイピング工程を圧縮す�
 
 - [bolt.new vs v0徹底比較2026年版｜個人開発で稼ぐ最適解](https://nayo126.github.io/auto-blog/blog/boltnew-vs-v0徹底比較2026年版個人開発で稼ぐ最適解/)
 - [bolt.new 評判は本当？AI開発の実力を徹底検証2026](https://nayo126.github.io/auto-blog/blog/boltnew-評判は本当ai開発の実力を徹底検証2026/)
-- [Claude Codeおすすめスキル7選｜2026年版作業効率化](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめスキル7選2026年版作業効率化/)
+- [Cursor使い方完全ガイド｜VSCodeから乗り換えで開発効率3倍](https://nayo126.github.io/auto-blog/blog/cursor使い方完全ガイドvscodeから乗り換えで開発効率3倍/)
 
 ### 姉妹サイトの関連記事
 - [Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速](https://nayo126.github.io/ai-news-jp/posts/sea-limited-openai-codex.html) — AI News JP

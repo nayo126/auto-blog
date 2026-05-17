@@ -96,3 +96,18 @@ Claude CodeとVSCodeの連携は、もはや「便利」を超えて副業や実
 - [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html)
 - [Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速](https://nayo126.github.io/ai-news-jp/posts/sea-limited-openai-codex.html)
 - [ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-3-reddit.html)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Claude Codeおすすめプラグイン7選 2026年版](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめプラグイン7選-2026年版/)
+- [Claude Code始め方完全ガイド｜2026年最新版5ステップ](https://nayo126.github.io/auto-blog/blog/claude-code始め方完全ガイド2026年最新版5ステップ/)
+- [Claude Codeおすすめスキル7選｜2026年版作業効率化](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめスキル7選2026年版作業効率化/)
+
+### 姉妹サイトの関連記事
+- [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html) — AI News JP
+- [Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速](https://nayo126.github.io/ai-news-jp/posts/sea-limited-openai-codex.html) — AI News JP
+- [ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-3-reddit.html) — AI News JP
+
+<!-- SEO_MESH_END -->

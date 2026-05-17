@@ -17,6 +17,10 @@ image: "/auto-blog/ogp/hackernewsで話題のai起業トレンド2026年版5選.
 
 ## なぜHackerNewsがAI起業の最前線なのか
 
+<!-- INLINE_IMG -->
+![HackerNewsで話題のAI起業トレンド2026年版5選 - なぜHackerNewsがAI起業の最前線なのか](/auto-blog/inline-images/hackernews-ai-2026-5--0.jpg)
+
+
 結論:HackerNewsは**世界の創業者と投資家が集う唯一無二のシグナル源**だからです。
 理由は3つあります。
 
@@ -44,6 +48,10 @@ image: "/auto-blog/ogp/hackernewsで話題のai起業トレンド2026年版5選.
 
 
 ## AIエージェント特化のマイクロSaaSが熱い
+
+<!-- INLINE_IMG -->
+![HackerNewsで話題のAI起業トレンド2026年版5選 - AIエージェント特化のマイクロSaaSが熱い](/auto-blog/inline-images/hackernews-ai-2026-5--1.jpg)
+
 
 2026年最大のテーマは間違いなく**AIエージェント**です。HackerNewsでは「Show HN: I built an agent that ◯◯」という投稿が毎週上位に上がっています。
 

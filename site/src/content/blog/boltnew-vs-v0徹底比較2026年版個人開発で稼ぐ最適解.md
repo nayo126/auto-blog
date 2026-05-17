@@ -141,7 +141,7 @@ bolt.newとv0は競合のように見えて、実は得意領域が異なる補�
 
 - [bolt.new 評判は本当？AI開発の実力を徹底検証2026](https://nayo126.github.io/auto-blog/blog/boltnew-評判は本当ai開発の実力を徹底検証2026/)
 - [Claude Artifacts個人開発の活用5選](https://nayo126.github.io/auto-blog/blog/claude-artifacts個人開発の活用5選/)
-- [Claude Codeおすすめスキル7選｜2026年版作業効率化](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめスキル7選2026年版作業効率化/)
+- [Cursor使い方完全ガイド｜VSCodeから乗り換えで開発効率3倍](https://nayo126.github.io/auto-blog/blog/cursor使い方完全ガイドvscodeから乗り換えで開発効率3倍/)
 
 ### 姉妹サイトの関連記事
 - [Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速](https://nayo126.github.io/ai-news-jp/posts/sea-limited-openai-codex.html) — AI News JP

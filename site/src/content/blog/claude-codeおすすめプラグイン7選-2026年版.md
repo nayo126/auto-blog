@@ -26,6 +26,10 @@ image: "/auto-blog/ogp/claude-codeおすすめプラグイン7選-2026年版.png
 
 ## Claude Codeのプラグイン構造を理解する
 
+<!-- INLINE_IMG -->
+![Claude Codeおすすめプラグイン7選 2026年版 - Claude Codeのプラグイン構造を理解する](/auto-blog/inline-images/claude-code-7-2026--0.jpg)
+
+
 Claude Codeで「プラグイン」と呼ばれているものは、厳密には3種類に分かれます。この前提を押さえないと、何を入れていいか迷子になります。
 
 1つ目は**MCP(Model Context Protocol)サーバー**。Claudeに外部ツールへのアクセス能力を与える拡張で、2026年現在もっとも注目されているのがこの仕組みです。FigmaやNotion、SlackなどとClaudeを直結できます。
@@ -37,6 +41,10 @@ Claude Codeで「プラグイン」と呼ばれているものは、厳密には
 この3層を組み合わせるのが正攻法です。以下、具体的な7つを紹介していきます。
 
 ## 必須級MCPサーバー4選
+
+<!-- INLINE_IMG -->
+![Claude Codeおすすめプラグイン7選 2026年版 - 必須級MCPサーバー4選](/auto-blog/inline-images/claude-code-7-2026--1.jpg)
+
 
 ### 1. Filesystem MCP
 
@@ -118,3 +126,18 @@ Claude Codeのおすすめプラグインを7つ紹介しました。MCPサー�
 - [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html)
 - [Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速](https://nayo126.github.io/ai-news-jp/posts/sea-limited-openai-codex.html)
 - [ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-3-reddit.html)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Claude Code×VSCode連携｜2026年最新7つの活用術](https://nayo126.github.io/auto-blog/blog/claude-codevscode連携2026年最新7つの活用術/)
+- [Claude Code始め方完全ガイド｜2026年最新版5ステップ](https://nayo126.github.io/auto-blog/blog/claude-code始め方完全ガイド2026年最新版5ステップ/)
+- [Claude Codeおすすめスキル7選｜2026年版作業効率化](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめスキル7選2026年版作業効率化/)
+
+### 姉妹サイトの関連記事
+- [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html) — AI News JP
+- [Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速](https://nayo126.github.io/ai-news-jp/posts/sea-limited-openai-codex.html) — AI News JP
+- [ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-3-reddit.html) — AI News JP
+
+<!-- SEO_MESH_END -->

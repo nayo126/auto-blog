@@ -156,7 +156,7 @@ AI動画×YouTube自動投稿は、2026年時点で個人副業として最も�
 
 - [AI動画作成おすすめ無料ツール7選2026年最新](https://nayo126.github.io/auto-blog/blog/ai動画作成おすすめ無料ツール7選2026年最新/)
 - [Runway Gen-3で副業を始める完全ガイド2026年版](https://nayo126.github.io/auto-blog/blog/runway-gen-3で副業を始める完全ガイド2026年版/)
-- [ChatGPT×Excel自動化副業｜2026年最新7つの稼ぎ方](https://nayo126.github.io/auto-blog/blog/chatgptexcel自動化副業2026年最新7つの稼ぎ方/)
+- [Claude Codeおすすめプラグイン7選 2026年版](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめプラグイン7選-2026年版/)
 
 ### 姉妹サイトの関連記事
 - [Claude's first day at Dunder Mifflin？AIキャラ動画がr/ClaudeAIで話題](https://nayo126.github.io/ai-news-jp/posts/claude-s-first-day-at-dunder-mifflin-ai-r-claudeai.html) — AI News JP
