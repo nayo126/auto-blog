@@ -94,7 +94,7 @@ Claude Codeの体験はターミナル選びで大きく変わる。AI連携を�
 - [Claude Codeで個人開発を収益化する5戦略](https://nayo126.github.io/auto-blog/blog/claude-codeで個人開発を収益化する5戦略/)
 
 ### 姉妹サイトの関連記事
-- [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/2026-05-13-claude-code-git-push---ai.html) — AI News JP
-- [Claude Codeが1時間連続編集？AIコーディング長時間自律作業の実態と注意点](https://nayo126.github.io/ai-news-jp/posts/2026-05-16-claude-code-1-ai.html) — AI News JP
+- [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html) — AI News JP
+- [Claude Codeが1時間連続編集？AIコーディング長時間自律作業の実態と注意点](https://nayo126.github.io/ai-news-jp/posts/claude-code-1-ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->

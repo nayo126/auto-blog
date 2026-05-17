@@ -140,8 +140,8 @@ ChatGPT 5を使えば、YouTube台本作成は確かに10分程度まで短縮�
 - [ChatGPT GPT Store収益化2026完全攻略5選](https://nayo126.github.io/auto-blog/blog/chatgpt-gpt-store収益化2026完全攻略5選/)
 
 ### 姉妹サイトの関連記事
-- [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-chatgpt-left-or-right-ai.html) — AI News JP
-- [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/2026-05-16-chatgpt-love-at-first-prompt-reddit-ai.html) — AI News JP
-- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-claude-ai-yes-man.html) — AI News JP
+- [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP
+- [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html) — AI News JP
+- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
 
 <!-- SEO_MESH_END -->

@@ -122,9 +122,9 @@ bolt.newの評判は「初心者〜中級者のプロトタイプ用途では神
 - [ノーコードAIツール比較2026｜副業に効く7選](https://nayo126.github.io/auto-blog/blog/ノーコードaiツール比較2026副業に効く7選/)
 
 ### 姉妹サイトの関連記事
-- [Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-sea-limited-openai-codex.html) — AI News JP
-- [ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題](https://nayo126.github.io/ai-news-jp/posts/2026-05-16-chatgpt-3-reddit.html) — AI News JP
-- [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/2026-05-13-claude-code-git-push---ai.html) — AI News JP
+- [Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速](https://nayo126.github.io/ai-news-jp/posts/sea-limited-openai-codex.html) — AI News JP
+- [ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-3-reddit.html) — AI News JP
+- [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->
 

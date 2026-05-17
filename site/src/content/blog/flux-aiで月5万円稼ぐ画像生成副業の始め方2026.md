@@ -129,6 +129,6 @@ Flux AIは、写実性・文字再現・コストの3点で副業向きの画像
 - [ChatGPT×Excel自動化副業｜2026年最新7つの稼ぎ方](https://nayo126.github.io/auto-blog/blog/chatgptexcel自動化副業2026年最新7つの稼ぎ方/)
 
 ### 姉妹サイトの関連記事
-- [ChatGPT Image 2.0とSeedance 2.0で短編映像を制作する手順](https://nayo126.github.io/ai-news-jp/posts/2026-05-16-chatgpt-image-2-0-seedance-2-0.html) — AI News JP
+- [ChatGPT Image 2.0とSeedance 2.0で短編映像を制作する手順](https://nayo126.github.io/ai-news-jp/posts/chatgpt-image-2-0-seedance-2-0.html) — AI News JP
 
 <!-- SEO_MESH_END -->

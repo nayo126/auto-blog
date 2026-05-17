@@ -139,9 +139,9 @@ Anthropic APIの利用方法は、登録 → キー発行 → SDK導入 → モ�
 - [Claudeプロンプトの書き方7つのコツ｜返答3倍精度UP](https://nayo126.github.io/auto-blog/blog/claudeプロンプトの書き方7つのコツ返答3倍精度up/)
 
 ### 姉妹サイトの関連記事
-- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-claude-ai-yes-man.html) — AI News JP
-- [Claude's first day at Dunder Mifflin？AIキャラ動画がr/ClaudeAIで話題](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-claude-s-first-day-at-dunder-mifflin-ai-r-claudeai.html) — AI News JP
-- [Claudeがユーザーに「寝なさい」と命令する謎現象、Anthropicも原因不明](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-claude-anthropic.html) — AI News JP
+- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
+- [Claude's first day at Dunder Mifflin？AIキャラ動画がr/ClaudeAIで話題](https://nayo126.github.io/ai-news-jp/posts/claude-s-first-day-at-dunder-mifflin-ai-r-claudeai.html) — AI News JP
+- [Claudeがユーザーに「寝なさい」と命令する謎現象、Anthropicも原因不明](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic.html) — AI News JP
 
 <!-- SEO_MESH_END -->
 

@@ -201,8 +201,8 @@ Claudeのプロンプトは「型」と「数値」と「対話」が三本柱�
 - [ChatGPTプロンプト本おすすめ7選｜2026年最新](https://nayo126.github.io/auto-blog/blog/chatgptプロンプト本おすすめ7選2026年最新/)
 
 ### 姉妹サイトの関連記事
-- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-claude-ai-yes-man.html) — AI News JP
-- [Claude's first day at Dunder Mifflin？AIキャラ動画がr/ClaudeAIで話題](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-claude-s-first-day-at-dunder-mifflin-ai-r-claudeai.html) — AI News JP
-- [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-chatgpt-left-or-right-ai.html) — AI News JP
+- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
+- [Claude's first day at Dunder Mifflin？AIキャラ動画がr/ClaudeAIで話題](https://nayo126.github.io/ai-news-jp/posts/claude-s-first-day-at-dunder-mifflin-ai-r-claudeai.html) — AI News JP
+- [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->

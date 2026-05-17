@@ -103,7 +103,7 @@ Claude Codeを使えば、エンジニア専業でなくても個人開発で副
 - [Leonardo AI 無料プランの範囲と限界2026年版](https://nayo126.github.io/auto-blog/blog/leonardo-ai-無料プランの範囲と限界2026年版/)
 
 ### 姉妹サイトの関連記事
-- [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/2026-05-13-claude-code-git-push---ai.html) — AI News JP
-- [Claude Codeが1時間連続編集？AIコーディング長時間自律作業の実態と注意点](https://nayo126.github.io/ai-news-jp/posts/2026-05-16-claude-code-1-ai.html) — AI News JP
+- [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html) — AI News JP
+- [Claude Codeが1時間連続編集？AIコーディング長時間自律作業の実態と注意点](https://nayo126.github.io/ai-news-jp/posts/claude-code-1-ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->

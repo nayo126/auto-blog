@@ -140,9 +140,9 @@ bolt.newとv0は競合のように見えて、実は得意領域が異なる補�
 - [Claude Codeおすすめスキル7選｜2026年版作業効率化](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめスキル7選2026年版作業効率化/)
 
 ### 姉妹サイトの関連記事
-- [Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-sea-limited-openai-codex.html) — AI News JP
-- [ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題](https://nayo126.github.io/ai-news-jp/posts/2026-05-16-chatgpt-3-reddit.html) — AI News JP
-- [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/2026-05-13-claude-code-git-push---ai.html) — AI News JP
+- [Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速](https://nayo126.github.io/ai-news-jp/posts/sea-limited-openai-codex.html) — AI News JP
+- [ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-3-reddit.html) — AI News JP
+- [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->
 

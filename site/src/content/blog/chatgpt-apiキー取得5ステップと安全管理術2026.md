@@ -107,8 +107,8 @@ ChatGPT APIキーは10分で取得できますが、価値が高い分だけリ�
 - [プロンプトを売る方法2026｜PromptBaseで月3万稼ぐ5ステップ](https://nayo126.github.io/auto-blog/blog/プロンプトを売る方法2026promptbaseで月3万稼ぐ5ステップ/)
 
 ### 姉妹サイトの関連記事
-- [OpenAI、Windows版Codexにセキュアサンドボックス実装 安全なコーディングエージェント実現へ](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-openai-windows-codex.html) — AI News JP
-- [OpenAIがTanStack npmサプライチェーン攻撃に対応 macOS版アプリは2026年6月12日までに更新必須](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-openai-tanstack-npm-macos-2026-6-12.html) — AI News JP
-- [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/2026-05-16-chatgpt-love-at-first-prompt-reddit-ai.html) — AI News JP
+- [OpenAI、Windows版Codexにセキュアサンドボックス実装 安全なコーディングエージェント実現へ](https://nayo126.github.io/ai-news-jp/posts/openai-windows-codex.html) — AI News JP
+- [OpenAIがTanStack npmサプライチェーン攻撃に対応 macOS版アプリは2026年6月12日までに更新必須](https://nayo126.github.io/ai-news-jp/posts/openai-tanstack-npm-macos-2026-6-12.html) — AI News JP
+- [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->
