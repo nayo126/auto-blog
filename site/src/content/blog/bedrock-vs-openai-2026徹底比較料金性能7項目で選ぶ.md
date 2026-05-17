@@ -18,12 +18,14 @@ image: "/auto-blog/ogp/bedrock-vs-openai-2026徹底比較料金性能7項目で�
 特にAI副業でnoteやChrome拡張を作るフェーズなら、curl一本で叩けるOpenAIのスピード感が圧勝。一方で受託案件や法人プロダクトに組み込む場合は、VPC内完結・監査ログ・データ非学習保証がデフォルトのBedrockが選ばれます。
 
 
+
 <aside class="affiliate-card">
 <div class="label">AWS学習 に関連する書籍・ツール</div>
 <p>「AWS学習」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/AWS%E5%AD%A6%E7%BF%92/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AWS学習」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAWS%25E5%25AD%25A6%25E7%25BF%2592%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AWS学習」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=AWS%E5%AD%A6%E7%BF%92" target="_blank" rel="sponsored noopener">▶ Amazonで「AWS学習」関連を見る</a></p>
 </aside>
+
 
 
 ## 料金体系の違い：従量課金の中身が別物
@@ -39,12 +41,14 @@ OpenAIで使えるのはGPT系列+Sora2のみ。代わりに「最新版がま�
 Bedrockは2026年5月時点でAnthropic(Claude)、Meta(Llama 4)、Mistral、Cohere、AI21、Amazon Nova、Stability AIの7社モデルを横断利用可能。同じプロンプトを複数モデルに投げてA/Bテストできるため、コスト最適化や精度比較で重宝されます。海外のAWS関連カンファレンスでも「Claudeで下書き→Novaで要約」のように役割分担させる事例が紹介されており、マルチモデル前提の設計が主流になりつつある印象です。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude活用 に関連する書籍・ツール</div>
 <p>「Claude活用」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Claude%E6%B4%BB%E7%94%A8/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude活用」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%25E6%25B4%25BB%25E7%2594%25A8%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude活用」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%E6%B4%BB%E7%94%A8" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude活用」関連を見る</a></p>
 </aside>
+
 
 
 ## セキュリティとデータ取り扱いの差

@@ -32,12 +32,14 @@ image: "/auto-blog/ogp/chatgptでyoutube台本を10分作成する完全手順20
 このやり方なら、各ステップでこちらが軌道修正できるため、出力品質が安定する。海外のYouTuberコミュニティでも、一発出しではなく分割プロンプトが主流になっている。
 
 
+
 <aside class="affiliate-card">
 <div class="label">ChatGPT Plus に関連する書籍・ツール</div>
 <p>「ChatGPT Plus」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/ChatGPT%20Plus/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT Plus」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520Plus%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT Plus」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20Plus" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT Plus」関連を見る</a></p>
 </aside>
+
 
 
 ## 視聴維持率を上げる冒頭フック用プロンプト
@@ -84,12 +86,14 @@ PREP法（結論→理由→具体例→結論）をベースに、章を3〜5�
 「結論先出し→3位→2位→1位→総括」の構成を指示する。ChatGPTは比較表を作るのが得意なので、「各項目を5観点で点数化した表を最初に提示してから本文に入って」と頼むと、画面映えする台本が完成する。
 
 
+
 <aside class="affiliate-card">
 <div class="label">YouTube 副業 教材 に関連する書籍・ツール</div>
 <p>「YouTube 副業 教材」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/YouTube%20%E5%89%AF%E6%A5%AD%20%E6%95%99%E6%9D%90/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「YouTube 副業 教材」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FYouTube%2520%25E5%2589%25AF%25E6%25A5%25AD%2520%25E6%2595%2599%25E6%259D%2590%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「YouTube 副業 教材」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=YouTube%20%E5%89%AF%E6%A5%AD%20%E6%95%99%E6%9D%90" target="_blank" rel="sponsored noopener">▶ Amazonで「YouTube 副業 教材」関連を見る</a></p>
 </aside>
+
 
 
 ## ChatGPT台本の弱点と人間が必ず手を入れるべき3箇所

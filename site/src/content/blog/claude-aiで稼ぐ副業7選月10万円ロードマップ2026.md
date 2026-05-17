@@ -24,12 +24,14 @@ ChatGPTやGeminiと比較したとき、Claude Sonnet 4.6やOpus 4.7は **20万�
 加えて、Claude DesktopやClaude Codeといった専用クライアントが整備され、ファイルを直接読ませたりコードを実行させたりが手軽になりました。ツール環境の成熟も、副業参入の追い風になっています。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude Pro に関連する書籍・ツール</div>
 <p>「Claude Pro」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Claude%20Pro/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Pro」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Pro%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Pro」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Pro" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude Pro」関連を見る</a></p>
 </aside>
+
 
 
 ## Claude AIで稼げる副業7選
@@ -80,12 +82,14 @@ Claude Pro（月20ドル）に契約し、まずはSEO記事執筆を10本ほど
 ここで重要なのは「Claudeに丸投げしない」こと。最終的な事実確認と語尾の調整は人間がやる前提で進めると、納品クオリティが落ちずリピート率が上がります。
 
 
+
 <aside class="affiliate-card">
 <div class="label">クラウドワークス に関連する書籍・ツール</div>
 <p>「クラウドワークス」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「クラウドワークス」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%2589%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2582%25B9%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「クラウドワークス」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9" target="_blank" rel="sponsored noopener">▶ Amazonで「クラウドワークス」関連を見る</a></p>
 </aside>
+
 
 
 ## 失敗しないために押さえておきたい3つの注意点

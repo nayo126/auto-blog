@@ -36,12 +36,14 @@ JSONの編集、サーバーの追加、再起動してもツールが表示さ�
 MCPはClaude DesktopアプリとClaude Code（CLI）の両方で利用できますが、設定ファイルの場所と書き方が微妙に異なります。Desktopは`claude_desktop_config.json`、Claude Codeは`.mcp.json`またはCLIコマンドで管理する点を、まず押さえておきましょう。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude Pro に関連する書籍・ツール</div>
 <p>「Claude Pro」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Claude%20Pro/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Pro」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Pro%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Pro」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Pro" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude Pro」関連を見る</a></p>
 </aside>
+
 
 
 ## Claude Desktop での MCP 設定方法（5ステップ）
@@ -127,12 +129,14 @@ Claude Codeでは3種類のスコープが選べます。
 公式のMCPサーバー一覧は[modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)で随時更新されています。サードパーティ製も含めると100以上の選択肢があります。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Notion に関連する書籍・ツール</div>
 <p>「Notion」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Notion/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Notion」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNotion%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Notion」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Notion" target="_blank" rel="sponsored noopener">▶ Amazonで「Notion」関連を見る</a></p>
 </aside>
+
 
 
 ## 設定でつまずいた時の対処法

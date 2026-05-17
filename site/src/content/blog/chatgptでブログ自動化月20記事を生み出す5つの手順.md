@@ -28,12 +28,14 @@ image: "/auto-blog/ogp/chatgptでブログ自動化月20記事を生み出す5�
 ただし注意点として、YMYL領域（医療・金融・法律）は手動チェックが必須です。誤情報による損失リスクが大きいため、AIに任せきりにせず、必ず一次情報を参照しましょう。
 
 
+
 <aside class="affiliate-card">
 <div class="label">ChatGPT Plus に関連する書籍・ツール</div>
 <p>「ChatGPT Plus」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/ChatGPT%20Plus/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT Plus」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520Plus%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT Plus」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20Plus" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT Plus」関連を見る</a></p>
 </aside>
+
 
 
 ## 自動化のための事前準備3点セット
@@ -71,12 +73,14 @@ Ubersuggest、ラッコキーワード、もしくはGoogleキーワードプラ
 DALL·E 3かMidjourneyでアイキャッチを生成し、Markdownに埋め込んで公開。GitHub Actionsを組めばコミット→デプロイまで全自動です。
 
 
+
 <aside class="affiliate-card">
 <div class="label">WordPress に関連する書籍・ツール</div>
 <p>「WordPress」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/WordPress/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「WordPress」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWordPress%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「WordPress」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=WordPress" target="_blank" rel="sponsored noopener">▶ Amazonで「WordPress」関連を見る</a></p>
 </aside>
+
 
 
 ## やってはいけない自動化の罠

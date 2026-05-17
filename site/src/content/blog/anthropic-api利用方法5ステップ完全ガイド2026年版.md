@@ -30,12 +30,14 @@ image: "/auto-blog/ogp/anthropic-api利用方法5ステップ完全ガイド2026
 特に支出上限は必須設定です。ループ処理のバグで一晩に数万円飛ぶ事例は海外フォーラムでも報告されています。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Anthropic API に関連する書籍・ツール</div>
 <p>「Anthropic API」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Anthropic%20API/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Anthropic API」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAnthropic%2520API%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Anthropic API」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Anthropic%20API" target="_blank" rel="sponsored noopener">▶ Amazonで「Anthropic API」関連を見る</a></p>
 </aside>
+
 
 
 ## ステップ2：APIキーを発行して安全に保管
@@ -87,12 +89,14 @@ TypeScriptなら`npm install @anthropic-ai/sdk`で導入し、ほぼ同じ構造
 さらにコストを下げたいなら**Prompt Caching**機能の活用が効きます。同じシステムプロンプトを繰り返し使う場合、キャッシュ済み部分の料金が最大90%オフになります。RAGや長い指示文を持つエージェントには必須機能です。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude API に関連する書籍・ツール</div>
 <p>「Claude API」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Claude%20API/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude API」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520API%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude API」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20API" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude API」関連を見る</a></p>
 </aside>
+
 
 
 ## ステップ5：レート制限とエラーハンドリング

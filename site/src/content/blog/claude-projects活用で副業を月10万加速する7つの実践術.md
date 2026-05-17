@@ -28,12 +28,14 @@ Claude Projectsは、Claudeの有料プラン(Pro/Max)で使える「ナレッ�
 通常チャットは「使い捨ての対話」、Projectsは「育てる作業環境」と捉えるとイメージしやすいでしょう。とくに継続案件や複数クライアントを抱える人ほど、効果が跳ね上がります。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude Pro に関連する書籍・ツール</div>
 <p>「Claude Pro」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Claude%20Pro/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Pro」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Pro%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Pro」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Pro" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude Pro」関連を見る</a></p>
 </aside>
+
 
 
 ## 活用術1:案件別プロジェクトでクライアント情報を一元管理
@@ -80,12 +82,14 @@ Projectsには最大数十ファイルのドキュメントをアップロード
 たとえばSEOライティング副業なら、Googleが公開している品質ガイドラインPDFと、自分の過去のヒット記事10本を入れておくだけで、Claudeは「あなた好みの構成」と「検索エンジン評価軸」の両方を踏まえた原稿を生成します。手動で毎回プロンプトに貼るより、はるかに精度が安定します。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude Max に関連する書籍・ツール</div>
 <p>「Claude Max」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Claude%20Max/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Max」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Max%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Max」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Max" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude Max」関連を見る</a></p>
 </aside>
+
 
 
 ## 活用術4:複数案件を並行管理してスイッチングコストを削減

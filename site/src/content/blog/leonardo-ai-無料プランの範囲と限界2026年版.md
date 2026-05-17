@@ -22,12 +22,14 @@ Leonardo AIの無料プランは、登録後すぐに利用できる「Free」�
 無料プランで付与されるのは1日150トークン。これがLeonardo AIの単位で、画像1枚あたりの消費トークンはモデルや解像度によって変わります。Phoenixモデルの標準解像度なら1枚あたり数トークン、Flux Devなど高品質モデルは10〜30トークン前後を消費します。ざっくり言えば、無料枠で1日10〜30枚程度の生成が現実的なラインです。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Leonardo AI 無料 に関連する書籍・ツール</div>
 <p>「Leonardo AI 無料」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Leonardo%20AI%20%E7%84%A1%E6%96%99/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Leonardo AI 無料」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLeonardo%2520AI%2520%25E7%2584%25A1%25E6%2596%2599%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Leonardo AI 無料」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Leonardo%20AI%20%E7%84%A1%E6%96%99" target="_blank" rel="sponsored noopener">▶ Amazonで「Leonardo AI 無料」関連を見る</a></p>
 </aside>
+
 
 
 無料プランで使える主な機能は以下の通りです。
@@ -64,12 +66,14 @@ Leonardo AIの無料プランは、登録後すぐに利用できる「Free」�
 無料で得たスキルは、後から有料プランに移行したときそのまま売上に直結します。「いきなり課金」より「無料で型を作る→有料で量産」の順番が、結果的に出費を抑えます。
 
 
+
 <aside class="affiliate-card">
 <div class="label">AI画像生成 副業 に関連する書籍・ツール</div>
 <p>「AI画像生成 副業」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/AI%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90%20%E5%89%AF%E6%A5%AD/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI画像生成 副業」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E7%2594%25BB%25E5%2583%258F%25E7%2594%259F%25E6%2588%2590%2520%25E5%2589%25AF%25E6%25A5%25AD%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI画像生成 副業」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=AI%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90%20%E5%89%AF%E6%A5%AD" target="_blank" rel="sponsored noopener">▶ Amazonで「AI画像生成 副業」関連を見る</a></p>
 </aside>
+
 
 
 ## 有料プランに切り替える判断ライン

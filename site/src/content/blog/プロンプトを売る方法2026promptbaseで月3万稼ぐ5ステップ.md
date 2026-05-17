@@ -34,12 +34,14 @@ PromptBaseは2022年6月に米国で立ち上がったプロンプトマーケ�
 一方デメリットは、英語インターフェースのみで、プロンプト本文と説明も英語が基本という点。ただし2026年現在、ChatGPTやClaudeで翻訳すれば質の高い英語ページが10分で作れるので、ハードルはほぼゼロになっています。
 
 
+
 <aside class="affiliate-card">
 <div class="label">PromptBase に関連する書籍・ツール</div>
 <p>「PromptBase」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/PromptBase/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「PromptBase」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPromptBase%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「PromptBase」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=PromptBase" target="_blank" rel="sponsored noopener">▶ Amazonで「PromptBase」関連を見る</a></p>
 </aside>
+
 
 
 ## 売れるジャンルと売れないジャンル
@@ -86,12 +88,14 @@ ChatGPT 5またはClaude Sonnet 4.6に「PromptBase用の販売ページ説明�
 初出品は**2.99ドル〜4.99ドル**が鉄板。実績ゼロのアカウントで9.99ドル以上をつけても売れません。10本売れて実績ができたら徐々に値上げします。
 
 
+
 <aside class="affiliate-card">
 <div class="label">ChatGPT に関連する書籍・ツール</div>
 <p>「ChatGPT」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/ChatGPT/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT」関連を見る</a></p>
 </aside>
+
 
 
 ## 月3万円を達成する現実的な数字感

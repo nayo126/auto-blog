@@ -28,12 +28,14 @@ AI画像生成を副業に取り入れたい人がまず引っかかるのが、
 つまり、月10ドルの「Basic」プラン以上に加入している個人事業主や中小企業であれば、note販売・YouTubeサムネ・ブログのアイキャッチ・クライアントワークなど、ほぼすべての用途で利用できます。逆に大企業のインハウス利用や大規模商用キャンペーンでは、上位プランに切り替える必要があります。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Midjourney に関連する書籍・ツール</div>
 <p>「Midjourney」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Midjourney/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Midjourney」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMidjourney%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Midjourney」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Midjourney" target="_blank" rel="sponsored noopener">▶ Amazonで「Midjourney」関連を見る</a></p>
 </aside>
+
 
 
 ## プラン別に変わる「商用利用の範囲」
@@ -99,12 +101,14 @@ Midjourney規約上は利用者が画像の所有権を持ちますが、**日�
 特に5番目のログ管理は軽視されがちですが、Midjourneyの公式Webアプリには生成履歴が自動保存されています。商用納品案件では、納品時に生成履歴のスクリーンショットを残しておくと、後から「これは本当にAI生成か」「いつ作ったか」を証明できます。
 
 
+
 <aside class="affiliate-card">
 <div class="label">AI画像生成 に関連する書籍・ツール</div>
 <p>「AI画像生成」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/AI%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI画像生成」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E7%2594%25BB%25E5%2583%258F%25E7%2594%259F%25E6%2588%2590%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI画像生成」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=AI%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90" target="_blank" rel="sponsored noopener">▶ Amazonで「AI画像生成」関連を見る</a></p>
 </aside>
+
 
 
 ## まとめ

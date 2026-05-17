@@ -22,12 +22,14 @@ Claude Codeは内部的にANSIエスケープシーケンスを多用し、差�
 第三に**ペイン分割と検索機能**だ。コードを書きながら別ペインでテストを走らせ、さらに上部にClaude Codeを置く三分割構成は、生産性を体感で1.5〜2倍に押し上げる。標準ターミナルでは難しいこの構成が、後述するターミナルでは標準機能で組める。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude Code に関連する書籍・ツール</div>
 <p>「Claude Code」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Claude%20Code/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Code」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Code%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Code」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Code" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude Code」関連を見る</a></p>
 </aside>
+
 
 
 ## おすすめ①Warp：AI統合で最有力の2026本命

@@ -26,12 +26,14 @@ image: "/auto-blog/ogp/flux-aiで月5万円稼ぐ画像生成副業の始め方2
 第三にコスト面。Flux.1 Schnellは無料枠での生成が可能で、Flux.1 ProでもAPI従量課金で1枚あたり数円〜数十円。Midjourneyの月額10ドルプランと比べて、副業のスタート時に固定費を抱えずに済むのは大きい。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Flux AI に関連する書籍・ツール</div>
 <p>「Flux AI」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Flux%20AI/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Flux AI」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFlux%2520AI%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Flux AI」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Flux%20AI" target="_blank" rel="sponsored noopener">▶ Amazonで「Flux AI」関連を見る</a></p>
 </aside>
+
 
 
 ## Flux AIを使った副業の具体的な収益化ルート
@@ -69,12 +71,14 @@ Flux.1 Schnell(無料版)とFlux.1 Pro(商用版)では商用利用範囲が異�
 受託案件を取るならBehanceやXに作例を並べておく必要がある。Flux AIで生成した作品を週2〜3回、テーマを揃えて投稿していくと、3ヶ月程度で問い合わせが入り始める例が多い。
 
 
+
 <aside class="affiliate-card">
 <div class="label">画像生成AI に関連する書籍・ツール</div>
 <p>「画像生成AI」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90AI/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「画像生成AI」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E7%2594%25BB%25E5%2583%258F%25E7%2594%259F%25E6%2588%2590AI%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「画像生成AI」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90AI" target="_blank" rel="sponsored noopener">▶ Amazonで「画像生成AI」関連を見る</a></p>
 </aside>
+
 
 
 ## 月5万円達成までの90日ロードマップ

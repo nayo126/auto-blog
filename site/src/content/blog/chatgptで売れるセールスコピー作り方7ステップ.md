@@ -32,12 +32,14 @@ image: "/auto-blog/ogp/chatgptで売れるセールスコピー作り方7ステ�
 この3点さえ押さえれば、ChatGPT 5でもClaude Sonnet 4.6でも、十分に「お金を払ってでも欲しい」と思わせる文章が書けます。
 
 
+
 <aside class="affiliate-card">
 <div class="label">ChatGPT 有料プラン に関連する書籍・ツール</div>
 <p>「ChatGPT 有料プラン」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/ChatGPT%20%E6%9C%89%E6%96%99%E3%83%97%E3%83%A9%E3%83%B3/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT 有料プラン」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520%25E6%259C%2589%25E6%2596%2599%25E3%2583%2597%25E3%2583%25A9%25E3%2583%25B3%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT 有料プラン」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20%E6%9C%89%E6%96%99%E3%83%97%E3%83%A9%E3%83%B3" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT 有料プラン」関連を見る</a></p>
 </aside>
+
 
 
 ## ステップ1〜3:準備フェーズで成果が9割決まる
@@ -102,12 +104,14 @@ ChatGPT 5は対話を重ねるほど精度が上がるので、最低3回は対�
 副業ライターであれば、クラウドソーシングのセールスライティング案件で1本5,000〜30,000円の報酬が一般的です。月10本受注すれば5万円以上の副収入も現実的なラインになります。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Webライティング 講座 に関連する書籍・ツール</div>
 <p>「Webライティング 講座」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Web%E3%83%A9%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E8%AC%9B%E5%BA%A7/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Webライティング 講座」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWeb%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%2520%25E8%25AC%259B%25E5%25BA%25A7%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Webライティング 講座」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Web%E3%83%A9%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E8%AC%9B%E5%BA%A7" target="_blank" rel="sponsored noopener">▶ Amazonで「Webライティング 講座」関連を見る</a></p>
 </aside>
+
 
 
 ## まとめ:ChatGPTは「型」を与える人にだけ味方する

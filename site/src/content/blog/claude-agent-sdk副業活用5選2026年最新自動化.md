@@ -28,12 +28,14 @@ Claude Agent SDKは、AnthropicがClaude Codeの基盤として公開してい�
 PythonとTypeScriptのSDKが用意されており、簡単なスクリプトでもAPI連携・ファイル生成・スケジュール実行を組み込める。Claude Sonnet 4.6やOpus 4.7といった上位モデルを切り替えられるため、コストと品質のバランスを自分で設計できるのも強みだ。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude Pro に関連する書籍・ツール</div>
 <p>「Claude Pro」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Claude%20Pro/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Pro」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Pro%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Pro」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Pro" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude Pro」関連を見る</a></p>
 </aside>
+
 
 
 ## 副業で使える5つの実践パターン
@@ -49,12 +51,14 @@ Claude Agent SDKを副業に活かす具体的なパターンを5つ紹介する
 特に1つ目のブログ自動化はAdSense・アフィリエイトと組み合わせやすく、海外の開発者コミュニティでもエージェント1台で月数百ドル規模の収益化に成功した事例が報告されている。
 
 
+
 <aside class="affiliate-card">
 <div class="label">ConoHa WING に関連する書籍・ツール</div>
 <p>「ConoHa WING」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/ConoHa%20WING/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ConoHa WING」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FConoHa%2520WING%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ConoHa WING」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ConoHa%20WING" target="_blank" rel="sponsored noopener">▶ Amazonで「ConoHa WING」関連を見る</a></p>
 </aside>
+
 
 
 ## 始め方:最低限の準備と初期コスト

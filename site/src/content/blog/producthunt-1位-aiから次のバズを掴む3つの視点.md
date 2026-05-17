@@ -22,12 +22,14 @@ ProductHuntは2013年に米サンフランシスコで生まれた新興プロ�
 副業視点で重要なのは、1位を取った直後の3〜7日間が「日本語圏での先行解説需要」が最も高まるタイミングだという点。Googleで「(プロダクト名) 使い方」「(プロダクト名) 日本語」と検索する人が一気に増え、英語の公式サイトしかヒットしない状態になります。この空白を埋める記事や動画は、SEO・SNSともに伸びやすい構造になっています。
 
 
+
 <aside class="affiliate-card">
 <div class="label">ProductHunt に関連する書籍・ツール</div>
 <p>「ProductHunt」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/ProductHunt/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ProductHunt」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FProductHunt%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ProductHunt」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ProductHunt" target="_blank" rel="sponsored noopener">▶ Amazonで「ProductHunt」関連を見る</a></p>
 </aside>
+
 
 
 ## 1位を取るAIプロダクトに共通する4つの特徴
@@ -59,12 +61,14 @@ ProductHunt公式のメール通知を「Daily Digest」に設定し、毎朝5�
 海外のRedditでは、この手法でAdSense月収を6か月で約3倍にした個人ブロガーの報告も流れており、再現性の高いフォーマットとして定着しつつあります。
 
 
+
 <aside class="affiliate-card">
 <div class="label">AIツール に関連する書籍・ツール</div>
 <p>「AIツール」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/AI%E3%83%84%E3%83%BC%E3%83%AB/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AIツール」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AIツール」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=AI%E3%83%84%E3%83%BC%E3%83%AB" target="_blank" rel="sponsored noopener">▶ Amazonで「AIツール」関連を見る</a></p>
 </aside>
+
 
 
 ## 注意したい3つの落とし穴

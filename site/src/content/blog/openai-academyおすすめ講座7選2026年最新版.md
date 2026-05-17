@@ -24,12 +24,14 @@ academy.openai.comからアクセスでき、登録は無料。学習形式は�
 また、日本語字幕付きの講座も徐々に増えており、英語に自信がない人でも安心して受講可能。2026年5月時点では約120以上のモジュールが公開されており、新しいモデル(GPT-5シリーズなど)の登場に合わせてカリキュラムも継続的にアップデートされています。受講証明書(Certificate)が発行されるコースもあり、LinkedInプロフィールに掲載してキャリアアピールに使う海外ユーザーも増えています。
 
 
+
 <aside class="affiliate-card">
 <div class="label">AI学習 に関連する書籍・ツール</div>
 <p>「AI学習」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/AI%E5%AD%A6%E7%BF%92/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI学習」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E5%25AD%25A6%25E7%25BF%2592%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI学習」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=AI%E5%AD%A6%E7%BF%92" target="_blank" rel="sponsored noopener">▶ Amazonで「AI学習」関連を見る</a></p>
 </aside>
+
 
 
 ## 初心者におすすめのコース3選
@@ -59,12 +61,14 @@ academy.openai.comからアクセスでき、登録は無料。学習形式は�
 **Advanced Prompt Engineering**では、メタプロンプト、ロールプロンプティング、自己批評ループといった高度な技法を学習。生成品質を一段引き上げたい中級者に最適です。
 
 
+
 <aside class="affiliate-card">
 <div class="label">プロンプトエンジニアリング に関連する書籍・ツール</div>
 <p>「プロンプトエンジニアリング」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「プロンプトエンジニアリング」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「プロンプトエンジニアリング」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0" target="_blank" rel="sponsored noopener">▶ Amazonで「プロンプトエンジニアリング」関連を見る</a></p>
 </aside>
+
 
 
 ## 上級者・専門領域に踏み込む講座

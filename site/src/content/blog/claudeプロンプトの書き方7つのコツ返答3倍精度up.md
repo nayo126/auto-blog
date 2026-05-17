@@ -28,12 +28,14 @@ ChatGPTは曖昧な指示でも空気を読んで補完してくれる傾向が�
 特にClaude Sonnet 4.6以降は、200Kトークンの長文コンテキストと「Extended Thinking」機能が組み合わさり、構造化プロンプトとの相性がさらに強くなった。書き方のコツを押さえるだけで、月の作業時間が半分になるケースも珍しくない。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude Pro に関連する書籍・ツール</div>
 <p>「Claude Pro」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Claude%20Pro/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Pro」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Pro%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Pro」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Pro" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude Pro」関連を見る</a></p>
 </aside>
+
 
 
 ## コツ1〜3：基本構造を整える「型」のテクニック
@@ -124,12 +126,14 @@ Claudeに自分の出力を採点させ、改善版を出させるテクニッ�
 副業で記事納品をしている人なら、この数値固定だけで修正依頼の数が半分以下になる。Claude Sonnet 4.6は200Kトークンの長文を扱えるため、納品物まるごとの精緻なチェックも一回で済む。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude API に関連する書籍・ツール</div>
 <p>「Claude API」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Claude%20API/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude API」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520API%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude API」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20API" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude API」関連を見る</a></p>
 </aside>
+
 
 
 ## 副業で月5万円を目指す人向けの実践プロンプト集

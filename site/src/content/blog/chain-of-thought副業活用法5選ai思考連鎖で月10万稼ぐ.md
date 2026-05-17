@@ -26,12 +26,14 @@ image: "/auto-blog/ogp/chain-of-thought副業活用法5選ai思考連鎖で月10
 ChatGPT 5やClaude Sonnet 4.6では「ステップバイステップで考えて」と一言添えるだけでも内部的にCoTが起動しますが、明示的に手順を指定したほうが再現性が圧倒的に高い。これが副業実践者が押さえるべき第一歩です。
 
 
+
 <aside class="affiliate-card">
 <div class="label">プロンプトエンジニアリング 講座 に関連する書籍・ツール</div>
 <p>「プロンプトエンジニアリング 講座」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%20%E8%AC%9B%E5%BA%A7/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「プロンプトエンジニアリング 講座」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%2520%25E8%25AC%259B%25E5%25BA%25A7%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「プロンプトエンジニアリング 講座」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%20%E8%AC%9B%E5%BA%A7" target="_blank" rel="sponsored noopener">▶ Amazonで「プロンプトエンジニアリング 講座」関連を見る</a></p>
 </aside>
+
 
 
 ## 活用法①Webライティング:構成の質を底上げする
@@ -73,12 +75,14 @@ Step5: 最終的な結論を導出
 注意点として、AIの仮説をそのまま信じない姿勢が大切です。CoTはあくまで思考の補助輪であり、最終判断は人間が下す。特に医療・法律・金融に踏み込む相談では、必ず専門家への接続を案内する設計にしてください。
 
 
+
 <aside class="affiliate-card">
 <div class="label">ChatGPT ビジネス活用 に関連する書籍・ツール</div>
 <p>「ChatGPT ビジネス活用」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/ChatGPT%20%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%B4%BB%E7%94%A8/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT ビジネス活用」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520%25E3%2583%2593%25E3%2582%25B8%25E3%2583%258D%25E3%2582%25B9%25E6%25B4%25BB%25E7%2594%25A8%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT ビジネス活用」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%B4%BB%E7%94%A8" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT ビジネス活用」関連を見る</a></p>
 </aside>
+
 
 
 ## 活用法④商品レビュー・比較記事の説得力を増す

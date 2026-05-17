@@ -33,12 +33,14 @@ MCP（Model Context Protocol）はAnthropicが2024年末に公開したオープ
 要するに「Claudeにできることの上限を引き上げる仕組み」だ。海外のRedditでも、MCPを使い始めた開発者は「もはやMCPなしのClaude Codeには戻れない」という反応が圧倒的に多い。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude Pro に関連する書籍・ツール</div>
 <p>「Claude Pro」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Claude%20Pro/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Pro」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Pro%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Pro」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Pro" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude Pro」関連を見る</a></p>
 </aside>
+
 
 
 ## 設定ファイルの場所と基本構造
@@ -125,12 +127,14 @@ Issue、PR、リポジトリの内容を直接操作できる。Personal Access 
 3つとも `npx` で動くため、Node.js（v18以降推奨）が入っていれば追加インストール不要で立ち上がる。Python製のサーバーを使う場合は `uvx` コマンドに置き換える。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Cursor に関連する書籍・ツール</div>
 <p>「Cursor」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Cursor/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Cursor」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCursor%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Cursor」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Cursor" target="_blank" rel="sponsored noopener">▶ Amazonで「Cursor」関連を見る</a></p>
 </aside>
+
 
 
 ## 設定後の確認とよくあるエラーの切り分け

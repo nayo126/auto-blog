@@ -30,12 +30,14 @@ image: "/auto-blog/ogp/anthropic-academyとは無料で学べるclaude講座5選
 Udemyや日本の有料スクールが2026年現在3〜10万円台で類似内容を販売している中、原典を無料で学べる価値は計り知れません。
 
 
+
 <aside class="affiliate-card">
 <div class="label">anthropic academy に関連する書籍・ツール</div>
 <p>「anthropic academy」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/anthropic%20academy/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「anthropic academy」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fanthropic%2520academy%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「anthropic academy」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=anthropic%20academy" target="_blank" rel="sponsored noopener">▶ Amazonで「anthropic academy」関連を見る</a></p>
 </aside>
+
 
 
 ## 注目すべき無料コース5選
@@ -70,12 +72,14 @@ Claude Agent SDKを用いた自律エージェント開発の入門講座。ル�
 学んだ内容を即アウトプットに変える前提で取り組むと、3か月後の収益化スピードが大きく変わります。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude API に関連する書籍・ツール</div>
 <p>「Claude API」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Claude%20API/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude API」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520API%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude API」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20API" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude API」関連を見る</a></p>
 </aside>
+
 
 
 ## 登録手順と効率的な学び方

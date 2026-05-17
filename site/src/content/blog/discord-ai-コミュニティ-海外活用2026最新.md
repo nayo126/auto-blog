@@ -30,12 +30,14 @@ image: "/auto-blog/ogp/discord-ai-コミュニティ-海外活用2026最新.png"
 3つ目は**コラボのしやすさ**。海外のAIフリーランスは、Discord内のチャンネルで案件を募集し、そのまま納品まで完結させる文化が根付いている。日本のクラウドソーシングと比べて単価が2〜5倍というケースも珍しくない。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Discord に関連する書籍・ツール</div>
 <p>「Discord」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Discord/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Discord」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDiscord%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Discord」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Discord" target="_blank" rel="sponsored noopener">▶ Amazonで「Discord」関連を見る</a></p>
 </aside>
+
 
 
 特に副業視点で重要なのは、海外コミュニティが「日本市場の競合がほぼいないブルーオーシャン」という点だ。英語のサーバーで仕入れた最新プロンプトテクニックを日本語で発信するだけで、半月〜2ヶ月の情報優位が取れる。
@@ -77,12 +79,14 @@ DeepLやGoogle翻訳の公式Discord連携ボットを個人で導入すれば�
 海外のDiscord文化では、いきなり質問するのではなく数日ROMってから動くのが普通だ。気に入った投稿に絵文字でリアクションするだけでも、サーバー内での存在感は出る。これに慣れてからスレッド返信→チャンネル投稿の順で参加範囲を広げていけばいい。
 
 
+
 <aside class="affiliate-card">
 <div class="label">英語学習 に関連する書籍・ツール</div>
 <p>「英語学習」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/%E8%8B%B1%E8%AA%9E%E5%AD%A6%E7%BF%92/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「英語学習」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E8%258B%25B1%25E8%25AA%259E%25E5%25AD%25A6%25E7%25BF%2592%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「英語学習」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=%E8%8B%B1%E8%AA%9E%E5%AD%A6%E7%BF%92" target="_blank" rel="sponsored noopener">▶ Amazonで「英語学習」関連を見る</a></p>
 </aside>
+
 
 
 ポイントは「完璧な英語を書こうとしない」こと。海外のAIコミュニティは英語非ネイティブが半数以上で、ブロークンな英語でも内容が面白ければ普通に会話が成立する。

@@ -29,12 +29,14 @@ image: "/auto-blog/ogp/hackernewsで話題のai起業トレンド2026年版5選.
 英語が苦手でも、Claude Sonnet 4.6やChatGPT 5に「このスレッドの要約と、日本人が参入する場合のチャンス分析を」と頼めば数秒で読めます。情報の鮮度差そのものが、もはや個人のスキル差より大きな参入障壁になっているのが現状です。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude Pro に関連する書籍・ツール</div>
 <p>「Claude Pro」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Claude%20Pro/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Pro」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Pro%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Pro」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Pro" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude Pro」関連を見る</a></p>
 </aside>
+
 
 
 ## AIエージェント特化のマイクロSaaSが熱い
@@ -60,12 +62,14 @@ HackerNewsで毎月のように話題になるのが**LLMインフラ系のス�
 参入難易度は高めですが、技術ブログ運営や開発者向けノートで月数十万円の副収入を作っている個人開発者も増えています。コードが書けるなら、自分が日々困っている開発上の小さな摩擦をそのままプロダクト化するのが王道ルート。書けない場合でも、海外ツールの**日本語ドキュメント整備**や**導入支援代行**だけで仕事が成立します。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Cursor Pro に関連する書籍・ツール</div>
 <p>「Cursor Pro」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Cursor%20Pro/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Cursor Pro」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCursor%2520Pro%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Cursor Pro」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Cursor%20Pro" target="_blank" rel="sponsored noopener">▶ Amazonで「Cursor Pro」関連を見る</a></p>
 </aside>
+
 
 
 ## Vertical AI SaaSという2026年最大の鉱脈

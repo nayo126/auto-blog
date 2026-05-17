@@ -38,12 +38,14 @@ masterpiece, best quality, 8k, ultra detailed
 カンマで区切ること、強調したい要素は前に置くこと、`(word:1.3)`の形で重み付けできることを覚えておけば、ほとんどのモデルで通用する。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Stable Diffusion 入門書 に関連する書籍・ツール</div>
 <p>「Stable Diffusion 入門書」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Stable%20Diffusion%20%E5%85%A5%E9%96%80%E6%9B%B8/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Stable Diffusion 入門書」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FStable%2520Diffusion%2520%25E5%2585%25A5%25E9%2596%2580%25E6%259B%25B8%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Stable Diffusion 入門書」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Stable%20Diffusion%20%E5%85%A5%E9%96%80%E6%9B%B8" target="_blank" rel="sponsored noopener">▶ Amazonで「Stable Diffusion 入門書」関連を見る</a></p>
 </aside>
+
 
 
 ## ジャンル別プロンプトテンプレート10選
@@ -110,12 +112,14 @@ watermark, username, blurry, ugly, deformed
 ネガティブプロンプトのコツは、**「全部入り」より「対症療法」**。手の崩れが目立つなら手系の単語を、ぼやけが気になるなら`blurry`の重みを上げる、という調整型で運用するのが効率的だ。
 
 
+
 <aside class="affiliate-card">
 <div class="label">AI画像生成 講座 に関連する書籍・ツール</div>
 <p>「AI画像生成 講座」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/AI%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90%20%E8%AC%9B%E5%BA%A7/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI画像生成 講座」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E7%2594%25BB%25E5%2583%258F%25E7%2594%259F%25E6%2588%2590%2520%25E8%25AC%259B%25E5%25BA%25A7%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI画像生成 講座」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=AI%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90%20%E8%AC%9B%E5%BA%A7" target="_blank" rel="sponsored noopener">▶ Amazonで「AI画像生成 講座」関連を見る</a></p>
 </aside>
+
 
 
 ## プロンプトを使いこなす5つのコツ

@@ -26,12 +26,14 @@ Claude Codeを使い始めたものの、「もっと作業を自動化できな
 ポイントは、コード補完の延長ではなく**Claudeを「作業エージェント」に変える基盤**であること。ここを理解すると、どのMCPを入れるべきかが見えてきます。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude Code に関連する書籍・ツール</div>
 <p>「Claude Code」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Claude%20Code/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Code」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Code%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Code」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Code" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude Code」関連を見る</a></p>
 </aside>
+
 
 
 ## 実務で効くMCPおすすめ7選
@@ -83,12 +85,14 @@ Web検索結果をClaudeに返します。最新情報を引きながらコー�
 もう一つの落とし穴は**権限の与えすぎ**。書き込み可能な状態で動かすと、Claudeが意図せずデータを更新することがあります。本番DBは必ず読み取り専用、ステージング以下のみ書き込み許可、と分けるのが安全です。
 
 
+
 <aside class="affiliate-card">
 <div class="label">AI開発ツール に関連する書籍・ツール</div>
 <p>「AI開発ツール」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/AI%E9%96%8B%E7%99%BA%E3%83%84%E3%83%BC%E3%83%AB/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI開発ツール」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E9%2596%258B%25E7%2599%25BA%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI開発ツール」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=AI%E9%96%8B%E7%99%BA%E3%83%84%E3%83%BC%E3%83%AB" target="_blank" rel="sponsored noopener">▶ Amazonで「AI開発ツール」関連を見る</a></p>
 </aside>
+
 
 
 ## どのMCPから入れるべきか:タイプ別おすすめ

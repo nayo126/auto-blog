@@ -28,12 +28,14 @@ OpenAI Soraは2024年12月に一般公開され、その後アップデートを
 一方で、Kling 3.0(中国・Kuaishou系)やGoogleのVeo 3.1が「コスパ」「カメラワーク」で猛追しています。海外のRedditやXでも「Soraは芸術性、Klingは量産、Veoは音声込み」と用途で住み分ける議論が定着しつつあります。
 
 
+
 <aside class="affiliate-card">
 <div class="label">ChatGPT Plus に関連する書籍・ツール</div>
 <p>「ChatGPT Plus」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/ChatGPT%20Plus/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT Plus」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520Plus%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT Plus」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20Plus" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT Plus」関連を見る</a></p>
 </aside>
+
 
 
 ## Soraの料金体系と他ツールとの比較
@@ -71,12 +73,14 @@ ECサイトや個人ブログのアイキャッチ動画として使うパター
 ココナラやランサーズで「AI動画素材作成」を5,000円〜2万円で受注する流れ。Sora単体の月20ドルでも、月3〜5件こなせば即黒字になります。実写の撮影では難しい抽象表現や、ストック素材で見つからない構図を「ピンポイントで作れる」ことが付加価値になります。
 
 
+
 <aside class="affiliate-card">
 <div class="label">動画編集ソフト に関連する書籍・ツール</div>
 <p>「動画編集ソフト」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/%E5%8B%95%E7%94%BB%E7%B7%A8%E9%9B%86%E3%82%BD%E3%83%95%E3%83%88/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「動画編集ソフト」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%258B%2595%25E7%2594%25BB%25E7%25B7%25A8%25E9%259B%2586%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「動画編集ソフト」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=%E5%8B%95%E7%94%BB%E7%B7%A8%E9%9B%86%E3%82%BD%E3%83%95%E3%83%88" target="_blank" rel="sponsored noopener">▶ Amazonで「動画編集ソフト」関連を見る</a></p>
 </aside>
+
 
 
 ## Soraを使う上での注意点と落とし穴

@@ -20,12 +20,14 @@ OpenAIの公式ドキュメントを開いた瞬間、「モデルが多すぎ�
 海外の開発者コミュニティでは、すべてをフラッグシップで回すと月数十万円規模のAPI費用がかかるという報告が珍しくありません。一方で、テキスト分類や要約のような定型タスクはGPT-4.1 nanoでほぼ十分というベンチマーク結果も共有されています。フラッグシップ1択にせず、タスクごとに振り分けるルーター設計こそが2026年の主流です。
 
 
+
 <aside class="affiliate-card">
 <div class="label">OpenAI API に関連する書籍・ツール</div>
 <p>「OpenAI API」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/OpenAI%20API/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「OpenAI API」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOpenAI%2520API%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「OpenAI API」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=OpenAI%20API" target="_blank" rel="sponsored noopener">▶ Amazonで「OpenAI API」関連を見る</a></p>
 </aside>
+
 
 
 ## GPT-5系：複雑な推論とエージェント開発の主力
@@ -45,12 +47,14 @@ o4-miniは推論特化の小型モデルです。数学的な思考や論理パ�
 ポイントは、新しいモデル=正解とは限らないこと。安定運用の観点では、旧世代のAPIが突然deprecated（廃止）にならないよう、OpenAIの公式アナウンスを定期的にチェックしておく必要があります。
 
 
+
 <aside class="affiliate-card">
 <div class="label">AI開発スクール に関連する書籍・ツール</div>
 <p>「AI開発スクール」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/AI%E9%96%8B%E7%99%BA%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI開発スクール」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E9%2596%258B%25E7%2599%25BA%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25BC%25E3%2583%25AB%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI開発スクール」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=AI%E9%96%8B%E7%99%BA%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB" target="_blank" rel="sponsored noopener">▶ Amazonで「AI開発スクール」関連を見る</a></p>
 </aside>
+
 
 
 ## 用途別のおすすめ早見表

@@ -20,12 +20,14 @@ ChatGPTを毎日触っているのに、出てくる答えがいつも平凡。�
 本で学ぶ最大の利点は、再現性のある「型」が身につく点です。具体的には、役割指定(Role)、文脈共有(Context)、制約条件(Constraint)、出力形式(Format)という4要素を意識する習慣がつき、ブログ執筆・要約・コード生成・データ分析と用途を問わず応用が利くようになります。動画やX投稿で学ぶと知識が断片化しがちですが、書籍なら1冊で全体像が把握できるため、初学者ほど書籍から入る価値が高いといえます。
 
 
+
 <aside class="affiliate-card">
 <div class="label">ChatGPTプロンプト本 に関連する書籍・ツール</div>
 <p>「ChatGPTプロンプト本」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/ChatGPT%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E6%9C%AC/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPTプロンプト本」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E6%259C%25AC%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPTプロンプト本」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E6%9C%AC" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPTプロンプト本」関連を見る</a></p>
 </aside>
+
 
 
 ## 初心者におすすめのChatGPTプロンプト本3冊
@@ -43,12 +45,14 @@ ChatGPTを毎日触っているのに、出てくる答えがいつも平凡。�
 国内書籍では、AIエージェント運用やAPI連携を見据えた本が増えています。たとえばClaude CodeやMCP(Model Context Protocol)を取り上げ、複数AIを業務フローに組み込む手順を解説したタイプは、副業で受託案件をこなす層に支持されています。読むときのコツは、章末の演習を必ず手を動かして再現すること。読むだけでは身につかず、最低でも10個は自分の業務プロンプトに翻訳して試すと定着します。
 
 
+
 <aside class="affiliate-card">
 <div class="label">ChatGPT実務本 に関連する書籍・ツール</div>
 <p>「ChatGPT実務本」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/ChatGPT%E5%AE%9F%E5%8B%99%E6%9C%AC/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT実務本」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%25E5%25AE%259F%25E5%258B%2599%25E6%259C%25AC%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT実務本」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT%E5%AE%9F%E5%8B%99%E6%9C%AC" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT実務本」関連を見る</a></p>
 </aside>
+
 
 
 ## AI副業で稼ぐ人向けの本2冊
