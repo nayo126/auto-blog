@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-16T20:30:00.998172+00:00",
+  "picked_at": "2026-05-17T00:18:44.864580+00:00",
   "count": 5,
   "items": [
     {
-      "category": "AI副業",
-      "keyword": "ai ブログ 作成 無料"
-    },
-    {
       "category": "Claude活用",
-      "keyword": "claude desktop mcp 無料 プラン"
-    },
-    {
-      "category": "AIツール比較",
-      "keyword": "議事録 ai 文字起こし おすすめ"
-    },
-    {
-      "category": "AI画像生成",
-      "keyword": "dall e 2 使い方"
+      "keyword": "claude ai 副業"
     },
     {
       "category": "海外AIトレンド",
-      "keyword": "openai academy おすすめ"
+      "keyword": "anthropic academy"
+    },
+    {
+      "category": "AI副業",
+      "keyword": "ai フリーランスエンジニア"
+    },
+    {
+      "category": "AIツール比較",
+      "keyword": "ai 動画 料金 比較"
+    },
+    {
+      "category": "AI画像生成",
+      "keyword": "midjourney 副業"
     }
   ]
 }
