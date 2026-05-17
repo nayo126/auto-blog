@@ -1,0 +1,67 @@
+---
+import Base from "../layouts/Base.astro";
+---
+<Base title="クリック統計（運営者向け）" description="アフィリエイトクリックの統計表示ページ" noindex={true}>
+  <article>
+    <h1>クリック統計</h1>
+    <p>あなたのブラウザに記録されたアフィリエイトクリックの履歴です（localStorage 由来）。他端末のクリックは反映されません。</p>
+
+    <div style="margin:20px 0;">
+      <button id="refresh" style="padding:8px 16px;">更新</button>
+      <button id="clear" style="padding:8px 16px;margin-left:8px;background:#fee;border:1px solid #f99;">記録を消去</button>
+      <button id="dl" style="padding:8px 16px;margin-left:8px;">JSONダウンロード</button>
+    </div>
+
+    <div id="summary"></div>
+    <div id="list" style="margin-top:20px;font-size:13px;"></div>
+
+    <script>
+      function render() {
+        var clicks = (window.__autoBlogClicks && window.__autoBlogClicks.list()) || [];
+        var byHost = {};
+        var byPage = {};
+        for (var i = 0; i < clicks.length; i++) {
+          var c = clicks[i];
+          var host = "";
+          try { host = new URL(c.href).hostname; } catch (e) {}
+          byHost[host] = (byHost[host] || 0) + 1;
+          byPage[c.page] = (byPage[c.page] || 0) + 1;
+        }
+        var html = "<h2>合計: " + clicks.length + " クリック</h2>";
+        html += "<h3>ドメイン別</h3><ul>";
+        Object.keys(byHost).sort(function(a,b){return byHost[b]-byHost[a];}).forEach(function(h){
+          html += "<li>" + h + ": " + byHost[h] + "</li>";
+        });
+        html += "</ul><h3>記事別（クリックの多い順）</h3><ol>";
+        Object.keys(byPage).sort(function(a,b){return byPage[b]-byPage[a];}).slice(0,30).forEach(function(p){
+          html += "<li>" + byPage[p] + " - " + p + "</li>";
+        });
+        html += "</ol>";
+        document.getElementById("summary").innerHTML = html;
+
+        var lhtml = "<h3>最新20件のクリック</h3><table style='font-size:12px;border-collapse:collapse'><tr><th style='border:1px solid #ccc;padding:4px'>時刻</th><th style='border:1px solid #ccc;padding:4px'>記事</th><th style='border:1px solid #ccc;padding:4px'>リンク</th></tr>";
+        clicks.slice(-20).reverse().forEach(function(c){
+          var d = new Date(c.t).toLocaleString("ja-JP");
+          lhtml += "<tr><td style='border:1px solid #ccc;padding:4px'>" + d + "</td><td style='border:1px solid #ccc;padding:4px'>" + c.page + "</td><td style='border:1px solid #ccc;padding:4px;max-width:300px;overflow:hidden'>" + (c.label || c.href.substring(0,60)) + "</td></tr>";
+        });
+        lhtml += "</table>";
+        document.getElementById("list").innerHTML = lhtml;
+      }
+      document.addEventListener("DOMContentLoaded", function() {
+        render();
+        document.getElementById("refresh").addEventListener("click", render);
+        document.getElementById("clear").addEventListener("click", function() {
+          if (confirm("本当に消去しますか?")) { window.__autoBlogClicks.clear(); render(); }
+        });
+        document.getElementById("dl").addEventListener("click", function() {
+          var data = JSON.stringify(window.__autoBlogClicks.list(), null, 2);
+          var blob = new Blob([data], { type: "application/json" });
+          var a = document.createElement("a");
+          a.href = URL.createObjectURL(blob);
+          a.download = "click-history-" + Date.now() + ".json";
+          a.click();
+        });
+      });
+    </script>
+  </article>
+</Base>
