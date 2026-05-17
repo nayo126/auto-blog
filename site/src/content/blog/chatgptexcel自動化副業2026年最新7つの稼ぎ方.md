@@ -27,12 +27,14 @@ image: "/auto-blog/ogp/chatgptexcel自動化副業2026年最新7つの稼ぎ方.
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">ChatGPT Excel 講座 に関連する書籍・ツール</div>
 <p>「ChatGPT Excel 講座」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520Excel%2520%25E8%25AC%259B%25E5%25BA%25A7%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT Excel 講座」関連を見る</a></p>
+<p><a href="https://search.rakuten.co.jp/search/mall/ChatGPT%20Excel%20%E8%AC%9B%E5%BA%A7/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT Excel 講座」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20Excel%20%E8%AC%9B%E5%BA%A7" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT Excel 講座」関連を見る</a></p>
 </aside>
+
 
 
 

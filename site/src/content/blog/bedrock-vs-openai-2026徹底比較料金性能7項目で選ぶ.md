@@ -19,12 +19,14 @@ image: "/auto-blog/ogp/bedrock-vs-openai-2026徹底比較料金性能7項目で�
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">AWS学習 に関連する書籍・ツール</div>
 <p>「AWS学習」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAWS%25E5%25AD%25A6%25E7%25BF%2592%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AWS学習」関連を見る</a></p>
+<p><a href="https://search.rakuten.co.jp/search/mall/AWS%E5%AD%A6%E7%BF%92/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AWS学習」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=AWS%E5%AD%A6%E7%BF%92" target="_blank" rel="sponsored noopener">▶ Amazonで「AWS学習」関連を見る</a></p>
 </aside>
+
 
 
 
@@ -42,12 +44,14 @@ Bedrockは2026年5月時点でAnthropic(Claude)、Meta(Llama 4)、Mistral、Cohe
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude活用 に関連する書籍・ツール</div>
 <p>「Claude活用」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%25E6%25B4%25BB%25E7%2594%25A8%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude活用」関連を見る</a></p>
+<p><a href="https://search.rakuten.co.jp/search/mall/Claude%E6%B4%BB%E7%94%A8/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude活用」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%E6%B4%BB%E7%94%A8" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude活用」関連を見る</a></p>
 </aside>
+
 
 
 

@@ -25,12 +25,14 @@ academy.openai.comからアクセスでき、登録は無料。学習形式は�
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">AI学習 に関連する書籍・ツール</div>
 <p>「AI学習」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E5%25AD%25A6%25E7%25BF%2592%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI学習」関連を見る</a></p>
+<p><a href="https://search.rakuten.co.jp/search/mall/AI%E5%AD%A6%E7%BF%92/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI学習」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=AI%E5%AD%A6%E7%BF%92" target="_blank" rel="sponsored noopener">▶ Amazonで「AI学習」関連を見る</a></p>
 </aside>
+
 
 
 
@@ -62,12 +64,14 @@ academy.openai.comからアクセスでき、登録は無料。学習形式は�
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">プロンプトエンジニアリング に関連する書籍・ツール</div>
 <p>「プロンプトエンジニアリング」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「プロンプトエンジニアリング」関連を見る</a></p>
+<p><a href="https://search.rakuten.co.jp/search/mall/%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「プロンプトエンジニアリング」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0" target="_blank" rel="sponsored noopener">▶ Amazonで「プロンプトエンジニアリング」関連を見る</a></p>
 </aside>
+
 
 
 

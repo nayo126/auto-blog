@@ -27,12 +27,14 @@ image: "/auto-blog/ogp/runway-gen-3で副業を始める完全ガイド2026年�
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">Runway Gen-3 に関連する書籍・ツール</div>
 <p>「Runway Gen-3」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRunway%2520Gen-3%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Runway Gen-3」関連を見る</a></p>
+<p><a href="https://search.rakuten.co.jp/search/mall/Runway%20Gen-3/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Runway Gen-3」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Runway%20Gen-3" target="_blank" rel="sponsored noopener">▶ Amazonで「Runway Gen-3」関連を見る</a></p>
 </aside>
+
 
 
 
@@ -73,12 +75,14 @@ X(旧Twitter)やInstagramで生成サンプルを発信し、DMで直接依頼�
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">動画生成AI に関連する書籍・ツール</div>
 <p>「動画生成AI」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%258B%2595%25E7%2594%25BB%25E7%2594%259F%25E6%2588%2590AI%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「動画生成AI」関連を見る</a></p>
+<p><a href="https://search.rakuten.co.jp/search/mall/%E5%8B%95%E7%94%BB%E7%94%9F%E6%88%90AI/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「動画生成AI」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=%E5%8B%95%E7%94%BB%E7%94%9F%E6%88%90AI" target="_blank" rel="sponsored noopener">▶ Amazonで「動画生成AI」関連を見る</a></p>
 </aside>
+
 
 
 

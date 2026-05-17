@@ -27,12 +27,14 @@ image: "/auto-blog/ogp/midjourney副業で月5万円稼ぐ7つの方法2026年.p
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">Midjourney有料プラン に関連する書籍・ツール</div>
 <p>「Midjourney有料プラン」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMidjourney%25E6%259C%2589%25E6%2596%2599%25E3%2583%2597%25E3%2583%25A9%25E3%2583%25B3%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Midjourney有料プラン」関連を見る</a></p>
+<p><a href="https://search.rakuten.co.jp/search/mall/Midjourney%E6%9C%89%E6%96%99%E3%83%97%E3%83%A9%E3%83%B3/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Midjourney有料プラン」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Midjourney%E6%9C%89%E6%96%99%E3%83%97%E3%83%A9%E3%83%B3" target="_blank" rel="sponsored noopener">▶ Amazonで「Midjourney有料プラン」関連を見る</a></p>
 </aside>
+
 
 
 
@@ -73,12 +75,14 @@ Midjourney副業はAI副業の中でも初期費用が安い部類に入る。
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">Canva Pro に関連する書籍・ツール</div>
 <p>「Canva Pro」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://hb.afl.rakuten.co.jp/hgc/TESTID12345.abcdef0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCanva%2520Pro%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Canva Pro」関連を見る</a></p>
+<p><a href="https://search.rakuten.co.jp/search/mall/Canva%20Pro/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Canva Pro」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Canva%20Pro" target="_blank" rel="sponsored noopener">▶ Amazonで「Canva Pro」関連を見る</a></p>
 </aside>
+
 
 
 
