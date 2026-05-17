@@ -136,3 +136,29 @@ Anthropic APIの利用方法は、登録 → キー発行 → SDK導入 → モ�
 - [Claudeがユーザーに「寝なさい」と命令する謎現象、Anthropicも原因不明](https://nayo126.github.io/ai-news-jp/posts/2026-05-15-claude-anthropic.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Anthropic APIの料金はChatGPT APIより高いですか？
+
+Claude Haiku 4.5は入力$1/Mトークン、出力$5/Mトークンで、GPT-4o miniと同水準です。Opus 4.7は入力$15/出力$75/Mトークンと高価ですが、プロンプトキャッシュで最大90%削減できます。
+
+### Anthropic APIキーが無効と表示されるのはなぜ？
+
+主な原因は3つです。1つ目はsk-ant-で始まる完全なキーをコピーしていない、2つ目はクレジット残高が$0、3つ目はワークスペース権限不足です。Console>Settings>API Keysで再発行すれば解決します。
+
+### Claude APIに無料枠はありますか？
+
+新規登録時に$5分の無料クレジットが付与されます。Claude Haiku 4.5なら約500万トークン分試せるので、検証目的なら課金なしで十分動作確認できます。有効期限は発行から14日間です。
+
+### Anthropic APIは日本から決済できますか？
+
+VisaまたはMastercardブランドのクレジットカードで決済可能です。デビットカードやKyash等のプリペイドも使えます。最低チャージ額は$5から、自動チャージ設定で残高$10以下になったら$20追加といった運用ができます。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Anthropic APIの料金はChatGPT APIより高いですか？", "acceptedAnswer": {"@type": "Answer", "text": "Claude Haiku 4.5は入力$1/Mトークン、出力$5/Mトークンで、GPT-4o miniと同水準です。Opus 4.7は入力$15/出力$75/Mトークンと高価ですが、プロンプトキャッシュで最大90%削減できます。"}}, {"@type": "Question", "name": "Anthropic APIキーが無効と表示されるのはなぜ？", "acceptedAnswer": {"@type": "Answer", "text": "主な原因は3つです。1つ目はsk-ant-で始まる完全なキーをコピーしていない、2つ目はクレジット残高が$0、3つ目はワークスペース権限不足です。Console>Settings>API Keysで再発行すれば解決します。"}}, {"@type": "Question", "name": "Claude APIに無料枠はありますか？", "acceptedAnswer": {"@type": "Answer", "text": "新規登録時に$5分の無料クレジットが付与されます。Claude Haiku 4.5なら約500万トークン分試せるので、検証目的なら課金なしで十分動作確認できます。有効期限は発行から14日間です。"}}, {"@type": "Question", "name": "Anthropic APIは日本から決済できますか？", "acceptedAnswer": {"@type": "Answer", "text": "VisaまたはMastercardブランドのクレジットカードで決済可能です。デビットカードやKyash等のプリペイドも使えます。最低チャージ額は$5から、自動チャージ設定で残高$10以下になったら$20追加といった運用ができます。"}}]}
+</script>
+
+<!-- FAQ_END -->

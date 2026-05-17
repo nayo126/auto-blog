@@ -92,3 +92,29 @@ BedrockとOpenAIは競合というより役割分担の関係に近く、「速�
 - [OpenAIがTanStack npmサプライチェーン攻撃に対応 macOS版アプリは2026年6月12日までに更新必須](https://nayo126.github.io/ai-news-jp/posts/2026-05-14-openai-tanstack-npm-macos-2026-6-12.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Bedrockで使えるClaudeとAnthropic公式APIのClaudeは性能に差がありますか？
+
+モデル本体は同一でClaude Opus 4.7やSonnet 4.6の性能差はありません。違いはレイテンシとリージョンで、Bedrockは東京リージョン経由で平均200ms前後、Anthropic公式は米国経由で400ms程度かかります。
+
+### OpenAI APIとBedrockの料金はどちらが安いですか？
+
+GPT-5.4は入力100万トークンあたり$2.5、Bedrock経由のClaude Sonnet 4.6は$3です。ただしBedrockはプロビジョンドスループットで最大40%割引でき、月100万リクエスト超なら逆転します。
+
+### BedrockとOpenAI APIの初期設定はどちらが簡単ですか？
+
+OpenAIはAPIキー発行から3分でcurlが叩けます。Bedrockはモデルアクセス申請に最大24時間かかり、IAMロール設定も必要なため初回は1〜2時間見ておきます。
+
+### 個人情報を扱う業務でBedrockとOpenAIどちらを選ぶべきですか？
+
+BedrockはVPCエンドポイント経由でデータが外部に出ず、入力データの学習利用もデフォルトで無効です。OpenAIもEnterprise契約で同等保証が得られますが月額$25以上のTeam以上が必要です。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Bedrockで使えるClaudeとAnthropic公式APIのClaudeは性能に差がありますか？", "acceptedAnswer": {"@type": "Answer", "text": "モデル本体は同一でClaude Opus 4.7やSonnet 4.6の性能差はありません。違いはレイテンシとリージョンで、Bedrockは東京リージョン経由で平均200ms前後、Anthropic公式は米国経由で400ms程度かかります。"}}, {"@type": "Question", "name": "OpenAI APIとBedrockの料金はどちらが安いですか？", "acceptedAnswer": {"@type": "Answer", "text": "GPT-5.4は入力100万トークンあたり$2.5、Bedrock経由のClaude Sonnet 4.6は$3です。ただしBedrockはプロビジョンドスループットで最大40%割引でき、月100万リクエスト超なら逆転します。"}}, {"@type": "Question", "name": "BedrockとOpenAI APIの初期設定はどちらが簡単ですか？", "acceptedAnswer": {"@type": "Answer", "text": "OpenAIはAPIキー発行から3分でcurlが叩けます。Bedrockはモデルアクセス申請に最大24時間かかり、IAMロール設定も必要なため初回は1〜2時間見ておきます。"}}, {"@type": "Question", "name": "個人情報を扱う業務でBedrockとOpenAIどちらを選ぶべきですか？", "acceptedAnswer": {"@type": "Answer", "text": "BedrockはVPCエンドポイント経由でデータが外部に出ず、入力データの学習利用もデフォルトで無効です。OpenAIもEnterprise契約で同等保証が得られますが月額$25以上のTeam以上が必要です。"}}]}
+</script>
+
+<!-- FAQ_END -->
