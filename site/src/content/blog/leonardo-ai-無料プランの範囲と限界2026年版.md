@@ -24,12 +24,14 @@ Leonardo AIの無料プランは、登録後すぐに利用できる「Free」�
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">Leonardo AI 無料 に関連する書籍・ツール</div>
 <p>「Leonardo AI 無料」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Leonardo%20AI%20%E7%84%A1%E6%96%99/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Leonardo AI 無料」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLeonardo%2520AI%2520%25E7%2584%25A1%25E6%2596%2599%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Leonardo AI 無料」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Leonardo%20AI%20%E7%84%A1%E6%96%99" target="_blank" rel="sponsored noopener">▶ Amazonで「Leonardo AI 無料」関連を見る</a></p>
 </aside>
+
 
 
 
@@ -70,12 +72,14 @@ Leonardo AIの無料プランは、登録後すぐに利用できる「Free」�
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">AI画像生成 副業 に関連する書籍・ツール</div>
 <p>「AI画像生成 副業」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/AI%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90%20%E5%89%AF%E6%A5%AD/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI画像生成 副業」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E7%2594%25BB%25E5%2583%258F%25E7%2594%259F%25E6%2588%2590%2520%25E5%2589%25AF%25E6%25A5%25AD%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI画像生成 副業」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=AI%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90%20%E5%89%AF%E6%A5%AD" target="_blank" rel="sponsored noopener">▶ Amazonで「AI画像生成 副業」関連を見る</a></p>
 </aside>
+
 
 
 

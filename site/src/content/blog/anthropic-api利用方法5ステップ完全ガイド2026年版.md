@@ -32,12 +32,14 @@ image: "/auto-blog/ogp/anthropic-api利用方法5ステップ完全ガイド2026
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">Anthropic API に関連する書籍・ツール</div>
 <p>「Anthropic API」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Anthropic%20API/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Anthropic API」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAnthropic%2520API%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Anthropic API」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Anthropic%20API" target="_blank" rel="sponsored noopener">▶ Amazonで「Anthropic API」関連を見る</a></p>
 </aside>
+
 
 
 
@@ -93,12 +95,14 @@ TypeScriptなら`npm install @anthropic-ai/sdk`で導入し、ほぼ同じ構造
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude API に関連する書籍・ツール</div>
 <p>「Claude API」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Claude%20API/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude API」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520API%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude API」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20API" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude API」関連を見る</a></p>
 </aside>
+
 
 
 

@@ -22,12 +22,14 @@ ChatGPTを毎日触っているのに、出てくる答えがいつも平凡。�
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">ChatGPTプロンプト本 に関連する書籍・ツール</div>
 <p>「ChatGPTプロンプト本」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/ChatGPT%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E6%9C%AC/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPTプロンプト本」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E6%259C%25AC%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPTプロンプト本」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E6%9C%AC" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPTプロンプト本」関連を見る</a></p>
 </aside>
+
 
 
 
@@ -49,12 +51,14 @@ ChatGPTを毎日触っているのに、出てくる答えがいつも平凡。�
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">ChatGPT実務本 に関連する書籍・ツール</div>
 <p>「ChatGPT実務本」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/ChatGPT%E5%AE%9F%E5%8B%99%E6%9C%AC/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT実務本」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%25E5%25AE%259F%25E5%258B%2599%25E6%259C%25AC%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT実務本」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT%E5%AE%9F%E5%8B%99%E6%9C%AC" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT実務本」関連を見る</a></p>
 </aside>
+
 
 
 

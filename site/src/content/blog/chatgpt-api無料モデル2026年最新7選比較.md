@@ -30,12 +30,14 @@ OpenAIは過去に新規アカウント向けに5ドル分の無料クレジッ�
 特に副業や個人開発でAPIを試したい人にとっては、3番目のサードパーティ経由が最もハードルが低いです。クレジットカード登録なしで試せるサービスも増えてきました。
 
 
+
 <aside class="affiliate-card">
 <div class="label">ChatGPT API入門書 に関連する書籍・ツール</div>
 <p>「ChatGPT API入門書」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/ChatGPT%20API%E5%85%A5%E9%96%80%E6%9B%B8/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT API入門書」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520API%25E5%2585%25A5%25E9%2596%2580%25E6%259B%25B8%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT API入門書」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20API%E5%85%A5%E9%96%80%E6%9B%B8" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT API入門書」関連を見る</a></p>
 </aside>
+
 
 
 ## OpenAI公式で無料に近づける2つの方法
@@ -77,12 +79,14 @@ OpenRouterは多数のプロバイダのモデルを一つのAPIキーで使え�
 Hugging FaceはAIモデルのGitHubのような存在で、Inference APIを通じて無料でテキスト生成モデルを試せます。商用利用の可否はモデルごとに異なるため、ライセンス確認は必須です。
 
 
+
 <aside class="affiliate-card">
 <div class="label">プログラミングスクール AI に関連する書籍・ツール</div>
 <p>「プログラミングスクール AI」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%20AI/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「プログラミングスクール AI」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25BC%25E3%2583%25AB%2520AI%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「プログラミングスクール AI」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%20AI" target="_blank" rel="sponsored noopener">▶ Amazonで「プログラミングスクール AI」関連を見る</a></p>
 </aside>
+
 
 
 ## 副業で「無料API」を使いこなす実践パターン

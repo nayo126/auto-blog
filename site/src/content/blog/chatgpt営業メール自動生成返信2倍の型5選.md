@@ -54,12 +54,14 @@ image: "/auto-blog/ogp/chatgpt営業メール自動生成返信2倍の型5選.pn
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">ChatGPT 有料プラン に関連する書籍・ツール</div>
 <p>「ChatGPT 有料プラン」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/ChatGPT%20%E6%9C%89%E6%96%99%E3%83%97%E3%83%A9%E3%83%B3/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT 有料プラン」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520%25E6%259C%2589%25E6%2596%2599%25E3%2583%2597%25E3%2583%25A9%25E3%2583%25B3%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT 有料プラン」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20%E6%9C%89%E6%96%99%E3%83%97%E3%83%A9%E3%83%B3" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT 有料プラン」関連を見る</a></p>
 </aside>
+
 
 
 

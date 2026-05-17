@@ -31,12 +31,14 @@ CursorはAnysphere社が開発したAIファーストのコードエディタで
 料金は無料プランでも一定回数AIが使えますが、本気で使うならProプラン月額20ドルが現実的です。ChatGPT PlusやClaude Proを別契約しているなら、Cursor Proに集約してしまった方がトータルコストは下がります。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Cursor Pro に関連する書籍・ツール</div>
 <p>「Cursor Pro」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Cursor%20Pro/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Cursor Pro」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCursor%2520Pro%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Cursor Pro」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Cursor%20Pro" target="_blank" rel="sponsored noopener">▶ Amazonで「Cursor Pro」関連を見る</a></p>
 </aside>
+
 
 
 ## VSCodeからの移行は3分で完了する
@@ -78,12 +80,14 @@ Cmd+I（Mac）またはCtrl+I（Windows）でComposerを開き、「ユーザー
 プロジェクトルートに`.cursorrules`を置いて「TypeScriptは必ずstrictモード」「コメントは日本語」「テストはVitest使用」などを書いておくと、AIの提案がすべてその規約に従うようになります。個人開発でも自分のコーディングスタイルを統一できて便利です。
 
 
+
 <aside class="affiliate-card">
 <div class="label">プログラミング学習 に関連する書籍・ツール</div>
 <p>「プログラミング学習」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%AD%A6%E7%BF%92/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「プログラミング学習」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E5%25AD%25A6%25E7%25BF%2592%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「プログラミング学習」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%AD%A6%E7%BF%92" target="_blank" rel="sponsored noopener">▶ Amazonで「プログラミング学習」関連を見る</a></p>
 </aside>
+
 
 
 ## つまずきやすいポイントと対処法

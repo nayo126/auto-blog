@@ -24,12 +24,14 @@ image: "/auto-blog/ogp/chatgpt-apiおすすめモデル6選2026年最新の選�
 理由はシンプルで、上位モデルほどトークン単価が高く、下位モデルほど安いから。タスクの難易度と単価のバランスで決めるのが鉄則です。例えば1日10万件のレビュー分類を最上位モデルで回すと簡単に数万円飛びますが、miniなら数百円〜数千円で済みます。
 
 
+
 <aside class="affiliate-card">
 <div class="label">ChatGPT API に関連する書籍・ツール</div>
 <p>「ChatGPT API」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/ChatGPT%20API/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT API」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520API%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT API」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20API" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT API」関連を見る</a></p>
 </aside>
+
 
 
 ## GPT-5：思考力が必要なタスク向けの本命
@@ -71,12 +73,14 @@ GPT-4.1は指示追従性とコーディング精度に強く、業務システ�
 精度は上位モデルに譲りますが、明確なルールが書けるタスクなら実用上ほぼ差は出ません。1リクエストあたりの単価が極端に安いため、月間100万リクエスト超のバッチ処理でも数千円〜数万円に収まります。**「if文で書ける処理をAIに任せる」感覚で気軽に投げられるのがminiの強み**です。
 
 
+
 <aside class="affiliate-card">
 <div class="label">OpenAI に関連する書籍・ツール</div>
 <p>「OpenAI」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/OpenAI/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「OpenAI」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOpenAI%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「OpenAI」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=OpenAI" target="_blank" rel="sponsored noopener">▶ Amazonで「OpenAI」関連を見る</a></p>
 </aside>
+
 
 
 ## 副業で使い分けるための実践テンプレ

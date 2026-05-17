@@ -31,12 +31,14 @@ image: "/auto-blog/ogp/hackernewsで話題のai起業トレンド2026年版5選.
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude Pro に関連する書籍・ツール</div>
 <p>「Claude Pro」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Claude%20Pro/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Pro」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Pro%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Pro」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Pro" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude Pro」関連を見る</a></p>
 </aside>
+
 
 
 
@@ -66,12 +68,14 @@ HackerNewsで毎月のように話題になるのが**LLMインフラ系のス�
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">Cursor Pro に関連する書籍・ツール</div>
 <p>「Cursor Pro」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Cursor%20Pro/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Cursor Pro」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCursor%2520Pro%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Cursor Pro」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Cursor%20Pro" target="_blank" rel="sponsored noopener">▶ Amazonで「Cursor Pro」関連を見る</a></p>
 </aside>
+
 
 
 

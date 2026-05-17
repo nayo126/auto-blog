@@ -34,12 +34,14 @@ image: "/auto-blog/ogp/leonardo-aiはどこの国豪州発の真実2026.png"
 中国系・ロシア系のサービスではないため、データの取り扱いに関する不安は比較的小さいと考えてよいでしょう。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Leonardo AI に関連する書籍・ツール</div>
 <p>「Leonardo AI」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/Leonardo%20AI/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Leonardo AI」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLeonardo%2520AI%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Leonardo AI」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Leonardo%20AI" target="_blank" rel="sponsored noopener">▶ Amazonで「Leonardo AI」関連を見る</a></p>
 </aside>
+
 
 
 ## なぜオーストラリア発で世界的に成功したのか
@@ -94,12 +96,14 @@ Leonardo AIがここまで急成長した背景には、Stable Diffusionをベ�
 副業で結果を出している層を見ると、ツールを1本に絞らず「Leonardo AIで素材生成 → Canvaで装飾 → Photoshopで微調整」という流れを定型化している人が多い印象です。買収によりCanvaとの連携が強化されていけば、このワークフローはさらに快適になるはずです。
 
 
+
 <aside class="affiliate-card">
 <div class="label">AI画像生成 副業 に関連する書籍・ツール</div>
 <p>「AI画像生成 副業」について実践的に学ぶための参考リソースを集めました。</p>
-<p><a href="https://search.rakuten.co.jp/search/mall/AI%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90%20%E5%89%AF%E6%A5%AD/" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI画像生成 副業」関連を見る</a></p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E7%2594%25BB%25E5%2583%258F%25E7%2594%259F%25E6%2588%2590%2520%25E5%2589%25AF%25E6%25A5%25AD%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI画像生成 副業」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=AI%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90%20%E5%89%AF%E6%A5%AD" target="_blank" rel="sponsored noopener">▶ Amazonで「AI画像生成 副業」関連を見る</a></p>
 </aside>
+
 
 
 ## 利用前に確認しておきたい注意点
