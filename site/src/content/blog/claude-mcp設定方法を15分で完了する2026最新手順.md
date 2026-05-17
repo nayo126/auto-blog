@@ -17,6 +17,10 @@ JSONの編集、サーバーの追加、再起動してもツールが表示さ�
 
 ## Claude MCPとは？設定する前に知っておきたい基本
 
+<!-- INLINE_IMG -->
+![Claude MCP設定方法を15分で完了する2026最新手順 - Claude MCPとは？設定する前に知っておきたい基本](/auto-blog/inline-images/claude-mcp-15-2026--0.jpg)
+
+
 結論：MCP（Model Context Protocol）はAnthropicが2024年11月に公開した規格で、Claudeを外部ツールやデータと接続するための共通プロトコルです。
 
 これまでClaudeに「自分のNotionを読ませる」「ローカルファイルを操作させる」といった連携をするには、個別のAPI実装が必要でした。MCPはこの連携を「サーバー」という単位で標準化し、設定ファイル一つで複数のツールを横断できるようにします。
@@ -49,6 +53,10 @@ MCPはClaude DesktopアプリとClaude Code（CLI）の両方で利用できま�
 
 
 ## Claude Desktop での MCP 設定方法（5ステップ）
+
+<!-- INLINE_IMG -->
+![Claude MCP設定方法を15分で完了する2026最新手順 - Claude Desktop での MCP 設定方法（5ステップ）](/auto-blog/inline-images/claude-mcp-15-2026--1.jpg)
+
 
 結論：Claude DesktopでのMCP設定は、設定ファイルにサーバー情報をJSONで追記してアプリを再起動するだけです。
 

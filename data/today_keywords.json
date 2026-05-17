@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-17T02:30:00.941438+00:00",
+  "picked_at": "2026-05-17T08:30:02.998429+00:00",
   "count": 5,
   "items": [
     {
-      "category": "AIツール比較",
-      "keyword": "ai 動画 高画質化 比較"
-    },
-    {
-      "category": "ChatGPT活用",
-      "keyword": "chatgpt システム プロンプト 設定 方法"
-    },
-    {
       "category": "Claude活用",
-      "keyword": "claude mcp 設定 方法"
+      "keyword": "claude code おすすめプラグイン"
     },
     {
-      "category": "海外AIトレンド",
-      "keyword": "openai 無料枠"
+      "category": "AI画像生成",
+      "keyword": "leonardo ai どこの国"
     },
     {
-      "category": "AI副業",
-      "keyword": "ai 副業 初心者"
+      "category": "プロンプトエンジニアリング",
+      "keyword": "プロンプト 作り方 gemini"
+    },
+    {
+      "category": "AIツール比較",
+      "keyword": "ai 動画 おすすめ pc"
+    },
+    {
+      "category": "AIライティング",
+      "keyword": "AI コンテンツ Googleアップデート"
     }
   ]
 }

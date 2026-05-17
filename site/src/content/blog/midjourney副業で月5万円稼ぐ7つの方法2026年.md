@@ -17,6 +17,10 @@ image: "/auto-blog/ogp/midjourney副業で月5万円稼ぐ7つの方法2026年.p
 
 ## Midjourney副業が2026年に伸びている3つの理由
 
+<!-- INLINE_IMG -->
+![Midjourney副業で月5万円稼ぐ7つの方法【2026年】 - Midjourney副業が2026年に伸びている3つの理由](/auto-blog/inline-images/midjourney-5-7-2026--0.jpg)
+
+
 結論：参入障壁が下がり、需要側の理解が進んだから。
 
 第一に、Midjourney v7のスタイル一貫性機能により、キャラクターや世界観を固定したシリーズ制作が可能になった。これまでAI画像は「単発の絵」しか作れなかったが、今は絵本・漫画・ブランド素材のような連続性が必要な仕事も受注できる。
@@ -39,6 +43,10 @@ image: "/auto-blog/ogp/midjourney副業で月5万円稼ぐ7つの方法2026年.p
 
 
 ## 月5万円を狙える収益化ルート7選
+
+<!-- INLINE_IMG -->
+![Midjourney副業で月5万円稼ぐ7つの方法【2026年】 - 月5万円を狙える収益化ルート7選](/auto-blog/inline-images/midjourney-5-7-2026--1.jpg)
+
 
 ルートごとに必要スキルと収益化スピードが違うので、自分に合うものを選んでほしい。
 

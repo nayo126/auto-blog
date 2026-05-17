@@ -15,6 +15,10 @@ image: "/auto-blog/ogp/claude-aiで稼ぐ副業7選月10万円ロードマップ
 
 ## なぜ今「Claude AI×副業」が伸びているのか
 
+<!-- INLINE_IMG -->
+![Claude AIで稼ぐ副業7選｜月10万円ロードマップ2026 - なぜ今「Claude AI×副業」が伸びているのか](/auto-blog/inline-images/claude-ai-7-10-2026-0.jpg)
+
+
 結論：Claudeは長文処理と日本語の自然さで頭ひとつ抜けており、納品物の修正コストが下がるためです。
 
 ChatGPTやGeminiと比較したとき、Claude Sonnet 4.6やOpus 4.7は **20万トークン超の長文** をブレずに処理できる強みがあります。たとえば1万字のインタビュー文字起こしを一気に要約させても、話の流れや固有名詞が崩れにくい。これは記事ライター・編集者・リサーチャーといった「長文を扱う副業」と相性が抜群です。
@@ -37,6 +41,10 @@ ChatGPTやGeminiと比較したとき、Claude Sonnet 4.6やOpus 4.7は **20万�
 
 
 ## Claude AIで稼げる副業7選
+
+<!-- INLINE_IMG -->
+![Claude AIで稼ぐ副業7選｜月10万円ロードマップ2026 - Claude AIで稼げる副業7選](/auto-blog/inline-images/claude-ai-7-10-2026-1.jpg)
+
 
 ここからは、初心者でも始めやすく、実際に収益化事例が多いものを7つに絞って紹介します。
 

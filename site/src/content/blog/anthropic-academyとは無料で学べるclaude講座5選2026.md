@@ -17,6 +17,10 @@ image: "/auto-blog/ogp/anthropic-academyとは無料で学べるclaude講座5選
 
 ## Anthropic Academyとは何か
 
+<!-- INLINE_IMG -->
+![Anthropic Academyとは？無料で学べるClaude講座5選2026 - Anthropic Academyとは何か](/auto-blog/inline-images/anthropic-academy-claude-5-2026-0.jpg)
+
+
 結論：Anthropic AcademyはClaudeシリーズの正しい使い方を、開発元自らが無料で教えてくれる公式ラーニングプラットフォームです。
 
 提供元は、Claude Opus 4.7やSonnet 4.6を世に出しているAnthropic社。サイトURLは `anthropic.com/learn` 配下に整理されており、コースは大きく分けて「Claudeを使う人向け」と「Claude APIで開発する人向け」の2系統に分かれています。
@@ -43,6 +47,10 @@ Udemyや日本の有料スクールが2026年現在3〜10万円台で類似内�
 
 
 ## 注目すべき無料コース5選
+
+<!-- INLINE_IMG -->
+![Anthropic Academyとは？無料で学べるClaude講座5選2026 - 注目すべき無料コース5選](/auto-blog/inline-images/anthropic-academy-claude-5-2026-1.jpg)
+
 
 Anthropic Academyの中でも、副業や業務効率化に直結する人気コースを5本紹介します。
 
