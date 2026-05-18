@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-18T08:30:03.392016+00:00",
+  "picked_at": "2026-05-18T09:18:26.254294+00:00",
   "count": 5,
   "items": [
     {
-      "category": "個人開発",
-      "keyword": "bolt.new ログイン"
-    },
-    {
-      "category": "AI画像生成",
-      "keyword": "leonardo ai 日本語"
-    },
-    {
-      "category": "海外AIトレンド",
-      "keyword": "anthropic 無料講座"
+      "category": "AIツール比較",
+      "keyword": "ai 画像生成 グラボ 比較"
     },
     {
       "category": "ChatGPT活用",
-      "keyword": "chatgpt 使い方 本"
+      "keyword": "chatgpt gemini api 料金 比較"
     },
     {
-      "category": "AIツール比較",
-      "keyword": "ai 議事録 比較"
+      "category": "海外AIトレンド",
+      "keyword": "anthropic mythos"
+    },
+    {
+      "category": "AI副業",
+      "keyword": "ai 副業 月5万"
+    },
+    {
+      "category": "個人開発",
+      "keyword": "bolt new 解約 方法"
     }
   ]
 }
