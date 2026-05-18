@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-18T18:35:11.552123+00:00",
+  "picked_at": "2026-05-18T20:30:01.617762+00:00",
   "count": 5,
   "items": [
     {
-      "category": "海外AIトレンド",
-      "keyword": "anthropic 無料プラン"
-    },
-    {
-      "category": "Claude活用",
-      "keyword": "claude code できること"
-    },
-    {
-      "category": "個人開発",
-      "keyword": "bolt new 比較"
-    },
-    {
-      "category": "ChatGPT活用",
-      "keyword": "chatgpt プロンプト 書き方"
+      "category": "AIツール比較",
+      "keyword": "ai 動画 を 見抜く 方法"
     },
     {
       "category": "AI副業",
-      "keyword": "AI 副業 音声 ナレーション"
+      "keyword": "ai ブログ"
+    },
+    {
+      "category": "ChatGPT活用",
+      "keyword": "chatgpt apiキー 無料"
+    },
+    {
+      "category": "海外AIトレンド",
+      "keyword": "claude openai 比較"
+    },
+    {
+      "category": "プロンプトエンジニアリング",
+      "keyword": "プロンプト テンプレート copilot"
     }
   ]
 }

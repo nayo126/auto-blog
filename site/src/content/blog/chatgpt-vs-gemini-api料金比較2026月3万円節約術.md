@@ -169,3 +169,29 @@ ChatGPT APIとGemini APIは、単純な料金比較ではGeminiが2〜3倍安い
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### ChatGPT APIとGemini APIはどっちが安いですか？
+
+2026年5月時点ではGeminiの方が約2〜3割安く、特にGemini 2.5 Flashは100万トークンあたり入力$0.075と業界最安水準です。ただし複雑な推論はGPT-5.4が精度で勝るため、用途別の使い分けが月3万円節約の鍵になります。
+
+### 個人ブログでAPIを使う場合、月いくらかかりますか？
+
+1日3記事(1記事5000字)をGPT-5.4 miniで生成する場合、月90記事で約$8〜12(約1,200〜1,800円)です。Gemini 2.5 Flashなら月$3〜5(約450〜750円)に抑えられ、年間で1万円以上の差になります。
+
+### API料金を節約する具体的な方法は？
+
+プロンプトキャッシュで入力コスト50%削減、バッチAPIで処理コスト50%オフ、軽量モデル(mini/nano/Flash)への切り替えで最大90%削減できます。3つ併用すれば月3万円の請求が5,000円以下になる事例も実在します。
+
+### ChatGPT APIの利用に月額料金はかかりますか？
+
+基本料金は0円で完全従量課金制です。クレジットカードを登録して使った分だけ請求される仕組みで、月$5から利用開始できます。Tier制で月の上限額(初期$100)が決まっており、使い過ぎを防げます。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "ChatGPT APIとGemini APIはどっちが安いですか？", "acceptedAnswer": {"@type": "Answer", "text": "2026年5月時点ではGeminiの方が約2〜3割安く、特にGemini 2.5 Flashは100万トークンあたり入力$0.075と業界最安水準です。ただし複雑な推論はGPT-5.4が精度で勝るため、用途別の使い分けが月3万円節約の鍵になります。"}}, {"@type": "Question", "name": "個人ブログでAPIを使う場合、月いくらかかりますか？", "acceptedAnswer": {"@type": "Answer", "text": "1日3記事(1記事5000字)をGPT-5.4 miniで生成する場合、月90記事で約$8〜12(約1,200〜1,800円)です。Gemini 2.5 Flashなら月$3〜5(約450〜750円)に抑えられ、年間で1万円以上の差になります。"}}, {"@type": "Question", "name": "API料金を節約する具体的な方法は？", "acceptedAnswer": {"@type": "Answer", "text": "プロンプトキャッシュで入力コスト50%削減、バッチAPIで処理コスト50%オフ、軽量モデル(mini/nano/Flash)への切り替えで最大90%削減できます。3つ併用すれば月3万円の請求が5,000円以下になる事例も実在します。"}}, {"@type": "Question", "name": "ChatGPT APIの利用に月額料金はかかりますか？", "acceptedAnswer": {"@type": "Answer", "text": "基本料金は0円で完全従量課金制です。クレジットカードを登録して使った分だけ請求される仕組みで、月$5から利用開始できます。Tier制で月の上限額(初期$100)が決まっており、使い過ぎを防げます。"}}]}
+</script>
+
+<!-- FAQ_END -->
