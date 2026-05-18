@@ -17,6 +17,10 @@ image: "/auto-blog/ogp/claude使い方おすすめ本5選2026年最新の独学�
 
 ## Claudeの使い方を本で学ぶメリットと注意点
 
+<!-- INLINE_IMG -->
+![Claude使い方おすすめ本5選｜2026年最新の独学ロードマップ - Claudeの使い方を本で学ぶメリットと注意点](/auto-blog/inline-images/claude-5-2026--0.jpg)
+
+
 ネットの情報が無限にある時代に、なぜあえて本で学ぶのか。理由は3つあります。
 
 1つ目は**体系性**です。Claude Sonnet 4.6やOpus 4.1などモデルごとの特徴、Projects機能、Artifacts、MCP（Model Context Protocol）といった機能は相互に関係していて、断片的な記事だと全体像が見えません。本なら章立てに沿って前提知識から積み上げられます。
@@ -37,6 +41,10 @@ image: "/auto-blog/ogp/claude使い方おすすめ本5選2026年最新の独学�
 
 
 ## 初心者向け：基礎から学べるClaude入門書2冊
+
+<!-- INLINE_IMG -->
+![Claude使い方おすすめ本5選｜2026年最新の独学ロードマップ - 初心者向け：基礎から学べるClaude入門書2冊](/auto-blog/inline-images/claude-5-2026--1.jpg)
+
 
 Claudeを触ったことがない、もしくはChatGPTからの乗り換え組には次の2タイプの本がおすすめです。
 

@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-18T09:18:26.254294+00:00",
+  "picked_at": "2026-05-18T18:35:11.552123+00:00",
   "count": 5,
   "items": [
     {
-      "category": "AIツール比較",
-      "keyword": "ai 画像生成 グラボ 比較"
-    },
-    {
-      "category": "ChatGPT活用",
-      "keyword": "chatgpt gemini api 料金 比較"
-    },
-    {
       "category": "海外AIトレンド",
-      "keyword": "anthropic mythos"
+      "keyword": "anthropic 無料プラン"
     },
     {
-      "category": "AI副業",
-      "keyword": "ai 副業 月5万"
+      "category": "Claude活用",
+      "keyword": "claude code できること"
     },
     {
       "category": "個人開発",
-      "keyword": "bolt new 解約 方法"
+      "keyword": "bolt new 比較"
+    },
+    {
+      "category": "ChatGPT活用",
+      "keyword": "chatgpt プロンプト 書き方"
+    },
+    {
+      "category": "AI副業",
+      "keyword": "AI 副業 音声 ナレーション"
     }
   ]
 }

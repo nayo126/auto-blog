@@ -17,6 +17,10 @@ image: "/auto-blog/ogp/anthropic-mythosとは何か2026年最新ai動向7選.png
 
 ## 結論：Anthropic Mythosは「Claude開発元をめぐる物語性」を指す
 
+<!-- INLINE_IMG -->
+![Anthropic Mythosとは何か？2026年最新AI動向7選 - 結論：Anthropic Mythosは「Claude開発元をめぐる物語性」を指す](/auto-blog/inline-images/anthropic-mythos-2026-ai-7--0.jpg)
+
+
 結論から書きます。Anthropic Mythosとは、Claudeを開発するAnthropic社をめぐる**思想・カルチャー・創業ストーリー・安全性哲学**の総体を指して海外コミュニティで使われる表現です。
 
 理由は3つあります。
@@ -28,6 +32,10 @@ image: "/auto-blog/ogp/anthropic-mythosとは何か2026年最新ai動向7選.png
 つまり「Mythos」はネガティブな意味ではなく、**ブランドを形づくる神話的な厚み**を表す中立的なスラングだと捉えるのが正確です。海外RedditのAI関連サブでも、Anthropicに対しては「他社と違う宗教的な真面目さがある」といった文脈で語られることが増えています。
 
 ## Anthropic Mythosを構成する5つの要素
+
+<!-- INLINE_IMG -->
+![Anthropic Mythosとは何か？2026年最新AI動向7選 - Anthropic Mythosを構成する5つの要素](/auto-blog/inline-images/anthropic-mythos-2026-ai-7--1.jpg)
+
 
 「物語性」と言われても抽象的なので、具体的に何が語られているのかを分解します。
 
