@@ -17,6 +17,10 @@ image: "/auto-blog/ogp/chatgpt-apiとは2026年最新の料金使い方を5分�
 
 ## ChatGPT APIとは？通常版との違いをわかりやすく解説
 
+<!-- INLINE_IMG -->
+![ChatGPT APIとは？2026年最新の料金・使い方を5分で解説 - ChatGPT APIとは？通常版との違いをわかりやすく解説](/auto-blog/inline-images/chatgpt-api-2026-5--0.jpg)
+
+
 **結論：ChatGPT APIとは、OpenAIが提供するGPTモデルを外部のアプリやプログラムから呼び出せる仕組みのことです。** 理由は、ブラウザ版ChatGPTが「人間が画面で対話する」用途なのに対し、APIは「ソフトウェアが自動で対話する」ために設計されているからです。
 
 具体的な違いは次の3点に集約されます。
@@ -37,6 +41,10 @@ image: "/auto-blog/ogp/chatgpt-apiとは2026年最新の料金使い方を5分�
 
 
 ## ChatGPT APIの料金体系と2026年最新モデル
+
+<!-- INLINE_IMG -->
+![ChatGPT APIとは？2026年最新の料金・使い方を5分で解説 - ChatGPT APIの料金体系と2026年最新モデル](/auto-blog/inline-images/chatgpt-api-2026-5--1.jpg)
+
 
 APIの料金は「トークン」という単位で課金されます。トークンとは文章を細かく区切った文字のかたまりのことで、日本語ではおおよそ1文字=1〜2トークンが目安です。
 

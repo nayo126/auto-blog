@@ -184,3 +184,29 @@ ChatGPTのシステムプロンプト設定方法は、Custom Instructions・GPT
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### ChatGPTのシステムプロンプトは無料プランでも使えますか？
+
+はい、無料プランでもCustom Instructions機能が使えます。設定画面の「パーソナライズ」から最大1500文字×2項目を登録でき、GPT-4oやGPT-3.5の全モデルに自動適用されます。
+
+### ChatGPTのシステムプロンプトとメモリ機能の違いは何ですか？
+
+システムプロンプトは自分で明示的に設定する固定ルール、メモリ機能は会話から自動学習する記憶です。前者は文体や役割の固定、後者は名前や好みの自動記録に向いており、併用で精度が約2倍上がります。
+
+### ChatGPTのシステムプロンプトに何文字まで入力できますか？
+
+Custom Instructionsは「あなたについて」「応答方法」の2欄に各1500文字、合計3000文字まで入力可能です。GPTsのInstructionsは8000文字、API版のsystem roleは128Kトークンまで対応します。
+
+### ChatGPTのシステムプロンプトが反映されない時の対処法は？
+
+ブラウザのキャッシュ削除と再ログインを試し、設定画面で「新しいチャットに適用」がONか確認します。それでも反映されない場合は、指示を箇条書き5項目以内に絞り、文末に「必ず守ること」を追記すると改善します。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "ChatGPTのシステムプロンプトは無料プランでも使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "はい、無料プランでもCustom Instructions機能が使えます。設定画面の「パーソナライズ」から最大1500文字×2項目を登録でき、GPT-4oやGPT-3.5の全モデルに自動適用されます。"}}, {"@type": "Question", "name": "ChatGPTのシステムプロンプトとメモリ機能の違いは何ですか？", "acceptedAnswer": {"@type": "Answer", "text": "システムプロンプトは自分で明示的に設定する固定ルール、メモリ機能は会話から自動学習する記憶です。前者は文体や役割の固定、後者は名前や好みの自動記録に向いており、併用で精度が約2倍上がります。"}}, {"@type": "Question", "name": "ChatGPTのシステムプロンプトに何文字まで入力できますか？", "acceptedAnswer": {"@type": "Answer", "text": "Custom Instructionsは「あなたについて」「応答方法」の2欄に各1500文字、合計3000文字まで入力可能です。GPTsのInstructionsは8000文字、API版のsystem roleは128Kトークンまで対応します。"}}, {"@type": "Question", "name": "ChatGPTのシステムプロンプトが反映されない時の対処法は？", "acceptedAnswer": {"@type": "Answer", "text": "ブラウザのキャッシュ削除と再ログインを試し、設定画面で「新しいチャットに適用」がONか確認します。それでも反映されない場合は、指示を箇条書き5項目以内に絞り、文末に「必ず守ること」を追記すると改善します。"}}]}
+</script>
+
+<!-- FAQ_END -->

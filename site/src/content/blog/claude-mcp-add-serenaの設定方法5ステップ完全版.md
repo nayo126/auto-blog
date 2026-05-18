@@ -17,6 +17,10 @@ image: "/auto-blog/ogp/claude-mcp-add-serenaの設定方法5ステップ完全�
 
 ## Serenaとは何か：コードを「意味」で扱えるMCPサーバー
 
+<!-- INLINE_IMG -->
+![claude mcp add serenaの設定方法5ステップ完全版 - Serenaとは何か：コードを「意味」で扱えるMCPサーバー](/auto-blog/inline-images/claude-mcp-add-serena-5--0.jpg)
+
+
 結論：Serenaは、Claude Codeが大規模なコードベースを「シンボル単位」で理解できるようにするMCPサーバーです。
 
 通常、Claude Codeは`grep`や`find`を駆使してファイルを探しますが、Serenaを追加するとLanguage Server Protocol(LSP)ベースのセマンティック検索が使えるようになります。つまり「`processUser`という関数の定義」を探すときに、変数名やコメントの中にある同名文字列を無視して、本当の関数定義だけをピンポイントで返してくれます。
@@ -35,6 +39,10 @@ Model Context Protocol(MCP)という仕組み自体がAnthropic発の標準規�
 
 
 ## claude mcp add serenaの基本コマンドと書き方
+
+<!-- INLINE_IMG -->
+![claude mcp add serenaの設定方法5ステップ完全版 - claude mcp add serenaの基本コマンドと書き方](/auto-blog/inline-images/claude-mcp-add-serena-5--1.jpg)
+
 
 結論：最もシンプルなインストールコマンドは以下の1行です。
 

@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-18T02:30:03.343772+00:00",
+  "picked_at": "2026-05-18T08:30:03.392016+00:00",
   "count": 5,
   "items": [
     {
-      "category": "AIツール比較",
-      "keyword": "ai 動画 おすすめ"
+      "category": "個人開発",
+      "keyword": "bolt.new ログイン"
     },
     {
-      "category": "Claude活用",
-      "keyword": "claude code 無料 制限"
+      "category": "AI画像生成",
+      "keyword": "leonardo ai 日本語"
     },
     {
       "category": "海外AIトレンド",
-      "keyword": "anthropic claude"
-    },
-    {
-      "category": "個人開発",
-      "keyword": "cursor 使い方 youtube"
+      "keyword": "anthropic 無料講座"
     },
     {
       "category": "ChatGPT活用",
-      "keyword": "chatgpt プロンプト 改行 方法"
+      "keyword": "chatgpt 使い方 本"
+    },
+    {
+      "category": "AIツール比較",
+      "keyword": "ai 議事録 比較"
     }
   ]
 }

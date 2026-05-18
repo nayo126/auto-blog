@@ -17,6 +17,10 @@ image: "/auto-blog/ogp/anthropic最新動向2026claude活用で副業収益化�
 
 ## Anthropicとは?2026年最新の立ち位置
 
+<!-- INLINE_IMG -->
+![Anthropic最新動向2026｜Claude活用で副業収益化する5つの方法 - Anthropicとは?2026年最新の立ち位置](/auto-blog/inline-images/anthropic-2026claude-5--0.jpg)
+
+
 結論:Anthropicは「安全性と長文処理」で差別化したAI企業で、特にコーディング・長文ドキュメント処理の領域でOpenAIを上回る評価を獲得しています。
 
 Anthropicは2021年に元OpenAI研究者らが設立した米サンフランシスコのAI企業です。主力製品のClaudeシリーズは、2026年現在「Claude Opus 4.7」「Claude Sonnet 4.6」「Claude Haiku 4.5」の3モデル構成で展開されています。特徴は以下の3点です。
@@ -37,6 +41,10 @@ Anthropicは2021年に元OpenAI研究者らが設立した米サンフランシ�
 
 
 ## 海外で話題のAnthropic評価ポイント3つ
+
+<!-- INLINE_IMG -->
+![Anthropic最新動向2026｜Claude活用で副業収益化する5つの方法 - 海外で話題のAnthropic評価ポイント3つ](/auto-blog/inline-images/anthropic-2026claude-5--1.jpg)
+
 
 Redditのr/ClaudeAIやr/singularityでは、Anthropicに関する議論が日々活発に交わされています。海外ユーザーが特に評価しているポイントを3つ紹介します。
 

@@ -137,3 +137,29 @@ ChatGPTの改行は基本Shift+Enter、スマホはEnterで改行・ボタンで
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html)
 - [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html)
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html)
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### ChatGPTのスマホアプリで改行するには？
+
+iOS・Androidアプリともにキーボードの改行キー(return/Enter)を押せば改行され、画面下の送信ボタン(紙飛行機アイコン)をタップして初めて送信されます。PC版と違い誤送信の心配はありません。
+
+### Shift+Enterが効かない場合の対処法は？
+
+ブラウザ拡張機能の干渉が原因のことが多いです。一度シークレットモードで試し、効くなら拡張機能を1つずつ無効化して特定します。Grammarlyや翻訳系拡張がよく競合します。
+
+### Macで改行するショートカットは？
+
+Macのブラウザ版でもShift+Enter(Shift+Return)で改行できます。Command+EnterやOption+Enterではなく、Windowsと同じShift+Enterが正解です。
+
+### ChatGPTのAPIでプロンプトに改行を入れるには？
+
+API利用時は文字列内に\n(バックスラッシュn)を入れれば改行されます。Pythonならトリプルクォート(""")で複数行をそのまま記述する方法が一般的で、可読性も高くなります。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "ChatGPTのスマホアプリで改行するには？", "acceptedAnswer": {"@type": "Answer", "text": "iOS・Androidアプリともにキーボードの改行キー(return/Enter)を押せば改行され、画面下の送信ボタン(紙飛行機アイコン)をタップして初めて送信されます。PC版と違い誤送信の心配はありません。"}}, {"@type": "Question", "name": "Shift+Enterが効かない場合の対処法は？", "acceptedAnswer": {"@type": "Answer", "text": "ブラウザ拡張機能の干渉が原因のことが多いです。一度シークレットモードで試し、効くなら拡張機能を1つずつ無効化して特定します。Grammarlyや翻訳系拡張がよく競合します。"}}, {"@type": "Question", "name": "Macで改行するショートカットは？", "acceptedAnswer": {"@type": "Answer", "text": "Macのブラウザ版でもShift+Enter(Shift+Return)で改行できます。Command+EnterやOption+Enterではなく、Windowsと同じShift+Enterが正解です。"}}, {"@type": "Question", "name": "ChatGPTのAPIでプロンプトに改行を入れるには？", "acceptedAnswer": {"@type": "Answer", "text": "API利用時は文字列内に\\n(バックスラッシュn)を入れれば改行されます。Pythonならトリプルクォート(\"\"\")で複数行をそのまま記述する方法が一般的で、可読性も高くなります。"}}]}
+</script>
+
+<!-- FAQ_END -->
