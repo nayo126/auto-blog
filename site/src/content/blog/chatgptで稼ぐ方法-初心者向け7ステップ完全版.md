@@ -109,7 +109,7 @@ ChatGPTで稼ぐ方法は、特別な才能がなくても再現できる地に�
 ### 姉妹サイトの関連記事
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
 - [ChatGPTの回答精度を上げる質問テンプレ｜Reddit話題の活用法を解説](https://nayo126.github.io/ai-news-jp/posts/chatgpt-reddit.html) — AI News JP
-- [ChatGPTの回答精度が話題に、Reddit r/ChatGPTで「正確すぎる」と共感の声が拡散](https://nayo126.github.io/ai-news-jp/posts/chatgpt-reddit-r-chatgpt.html) — AI News JP
+- [ChatGPTに個人資産管理機能が登場 Pro向け米国先行で口座連携可能に](https://nayo126.github.io/ai-news-jp/posts/chatgpt-pro.html) — AI News JP
 
 <!-- SEO_MESH_END -->
 

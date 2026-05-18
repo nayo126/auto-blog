@@ -167,9 +167,9 @@ Stable Diffusionのプロンプトは、感覚やセンスではなく**「主�
 
 ## 関連する記事
 
+- [画像生成AI向けGPU比較2026｜RTX 5090から実用機まで7選](https://nayo126.github.io/auto-blog/blog/画像生成ai向けgpu比較2026rtx-5090から実用機まで7選/)
 - [Midjourney副業で月5万円稼ぐ7つの方法【2026年】](https://nayo126.github.io/auto-blog/blog/midjourney副業で月5万円稼ぐ7つの方法2026年/)
 - [DALL-E 2の使い方完全ガイド｜2026年最新の始め方と料金](https://nayo126.github.io/auto-blog/blog/dall-e-2の使い方完全ガイド2026年最新の始め方と料金/)
-- [ChatGPTプロンプト本おすすめ7選｜2026年最新](https://nayo126.github.io/auto-blog/blog/chatgptプロンプト本おすすめ7選2026年最新/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP

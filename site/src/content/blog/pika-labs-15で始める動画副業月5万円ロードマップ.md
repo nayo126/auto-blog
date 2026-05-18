@@ -103,7 +103,7 @@ Pika Labs 1.5は月$8から始められ、短尺AI動画の量産と副業化に
 ## 関連する記事
 
 - [Claude Codeおすすめプラグイン7選 2026年版](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめプラグイン7選-2026年版/)
+- [AI動画おすすめ7選2026年版｜副業で稼ぐ最強ツール比較](https://nayo126.github.io/auto-blog/blog/ai動画おすすめ7選2026年版副業で稼ぐ最強ツール比較/)
 - [ChatGPT×Excel自動化副業｜2026年最新7つの稼ぎ方](https://nayo126.github.io/auto-blog/blog/chatgptexcel自動化副業2026年最新7つの稼ぎ方/)
-- [Leonardo AI 無料プランの範囲と限界2026年版](https://nayo126.github.io/auto-blog/blog/leonardo-ai-無料プランの範囲と限界2026年版/)
 
 <!-- SEO_MESH_END -->

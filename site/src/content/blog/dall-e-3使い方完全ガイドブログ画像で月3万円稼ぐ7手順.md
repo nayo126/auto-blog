@@ -140,7 +140,7 @@ DALL-E 3はブログのアイキャッチ内製化、画像作成代行、プロ
 ## 関連する記事
 
 - [Leonardo AI 無料プランの範囲と限界2026年版](https://nayo126.github.io/auto-blog/blog/leonardo-ai-無料プランの範囲と限界2026年版/)
+- [Leonardo AI 日本語完全ガイド｜5分で始める画像生成術](https://nayo126.github.io/auto-blog/blog/leonardo-ai-日本語完全ガイド5分で始める画像生成術/)
 - [AI画像生成 無料アプリ7選｜2026年最新比較](https://nayo126.github.io/auto-blog/blog/ai画像生成-無料アプリ7選2026年最新比較/)
-- [Flux AIで月5万円稼ぐ画像生成副業の始め方2026](https://nayo126.github.io/auto-blog/blog/flux-aiで月5万円稼ぐ画像生成副業の始め方2026/)
 
 <!-- SEO_MESH_END -->

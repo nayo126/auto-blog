@@ -156,11 +156,11 @@ ClaudeとChatGPT APIの選択は「どちらが優れているか」ではなく
 
 - [AI副業で月5万は現実か？2026年最新の稼ぎ方5選](https://nayo126.github.io/auto-blog/blog/ai副業で月5万は現実か2026年最新の稼ぎ方5選/)
 - [AI副業初心者が月3万稼ぐ最短5ステップ2026](https://nayo126.github.io/auto-blog/blog/ai副業初心者が月3万稼ぐ最短5ステップ2026/)
-- [AI副業セミナーおすすめ7選｜2026年最新の選び方と注意点](https://nayo126.github.io/auto-blog/blog/ai副業セミナーおすすめ7選2026年最新の選び方と注意点/)
+- [AIフリーランスとは?2026年最新の始め方と月収50万への道](https://nayo126.github.io/auto-blog/blog/aiフリーランスとは2026年最新の始め方と月収50万への道/)
 
 ### 姉妹サイトの関連記事
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
 - [今週のAIニュース10選 (2026/05/17付)](https://nayo126.github.io/ai-news-jp/posts/ai-weekly-roundup-20260517.html) — AI News JP
-- [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP
+- [Claude AIで激変するLinkedInプロフィール作成術2026年最新版](https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html) — AI News JP
 
 <!-- SEO_MESH_END -->

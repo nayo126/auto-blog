@@ -117,9 +117,9 @@ Claude Codeは、無料クレジット・Claude.ai・クラウド開発環境を
 
 ## 関連する記事
 
+- [Claude Code無料の制限まとめ｜2026年最新の上限と回避3手](https://nayo126.github.io/auto-blog/blog/claude-code無料の制限まとめ2026年最新の上限と回避3手/)
 - [ChatGPT API 個人開発で月5万円稼ぐ7つの実例](https://nayo126.github.io/auto-blog/blog/chatgpt-api-個人開発で月5万円稼ぐ7つの実例/)
-- [AI副業ラボ、はじめます](https://nayo126.github.io/auto-blog/blog/welcome/)
-- [プロンプトを売る方法2026｜PromptBaseで月3万稼ぐ5ステップ](https://nayo126.github.io/auto-blog/blog/プロンプトを売る方法2026promptbaseで月3万稼ぐ5ステップ/)
+- [Claude Codeでできること15選｜2026年最新の活用法](https://nayo126.github.io/auto-blog/blog/claude-codeでできること15選2026年最新の活用法/)
 
 ### 姉妹サイトの関連記事
 - [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html) — AI News JP

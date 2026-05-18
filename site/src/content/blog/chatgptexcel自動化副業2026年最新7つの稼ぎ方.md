@@ -121,7 +121,7 @@ ChatGPT×Excel自動化副業は、2026年の現時点で参入障壁が低く�
 
 - [Claude MCP 自動化で月10時間減らす5設定](https://nayo126.github.io/auto-blog/blog/claude-mcp-自動化で月10時間減らす5設定/)
 - [AIブログ作成は無料で可能?2026年の最新3手順](https://nayo126.github.io/auto-blog/blog/aiブログ作成は無料で可能2026年の最新3手順/)
-- [ChatGPTで稼ぐ方法 初心者向け7ステップ完全版](https://nayo126.github.io/auto-blog/blog/chatgptで稼ぐ方法-初心者向け7ステップ完全版/)
+- [ChatGPT使い方の本おすすめ7選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/chatgpt使い方の本おすすめ7選2026年最新版/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP

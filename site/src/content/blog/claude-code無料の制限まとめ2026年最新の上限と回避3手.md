@@ -107,3 +107,18 @@ Claude Codeの無料制限は「5時間ごとのメッセージ枠×モデル制
 - [Claude Codeが1時間連続編集？AIコーディング長時間自律作業の実態と注意点](https://nayo126.github.io/ai-news-jp/posts/claude-code-1-ai.html)
 - [AutoScout24がOpenAI CodexとChatGPTで開発効率化、AI駆動ワークフロー導入事例](https://nayo126.github.io/ai-news-jp/posts/autoscout24-openai-codex-chatgpt-ai.html)
 - [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Claude Desktop MCPは無料プランで使える？2026年最新の始め方5選](https://nayo126.github.io/auto-blog/blog/claude-desktop-mcpは無料プランで使える2026年最新の始め方5選/)
+- [Anthropic無料プランの全貌2026｜Claude無料で月3万円稼ぐ方法](https://nayo126.github.io/auto-blog/blog/anthropic無料プランの全貌2026claude無料で月3万円稼ぐ方法/)
+- [Claude Codeでできること15選｜2026年最新の活用法](https://nayo126.github.io/auto-blog/blog/claude-codeでできること15選2026年最新の活用法/)
+
+### 姉妹サイトの関連記事
+- [Claude Codeが1時間連続編集？AIコーディング長時間自律作業の実態と注意点](https://nayo126.github.io/ai-news-jp/posts/claude-code-1-ai.html) — AI News JP
+- [AutoScout24がOpenAI CodexとChatGPTで開発効率化、AI駆動ワークフロー導入事例](https://nayo126.github.io/ai-news-jp/posts/autoscout24-openai-codex-chatgpt-ai.html) — AI News JP
+- [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html) — AI News JP
+
+<!-- SEO_MESH_END -->

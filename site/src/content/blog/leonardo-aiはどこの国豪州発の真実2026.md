@@ -140,7 +140,7 @@ Leonardo AIはオーストラリア・シドニー発のAI画像生成サービ�
 ## 関連する記事
 
 - [Leonardo AI 無料プランの範囲と限界2026年版](https://nayo126.github.io/auto-blog/blog/leonardo-ai-無料プランの範囲と限界2026年版/)
-- [DALL-E 2の使い方完全ガイド｜2026年最新の始め方と料金](https://nayo126.github.io/auto-blog/blog/dall-e-2の使い方完全ガイド2026年最新の始め方と料金/)
-- [AI画像の著作権2026年版｜日本の最新ルール7選](https://nayo126.github.io/auto-blog/blog/ai画像の著作権2026年版日本の最新ルール7選/)
+- [Leonardo AI 日本語完全ガイド｜5分で始める画像生成術](https://nayo126.github.io/auto-blog/blog/leonardo-ai-日本語完全ガイド5分で始める画像生成術/)
+- [Leonardo AI 料金完全ガイド｜2026年最新の4プラン徹底比較](https://nayo126.github.io/auto-blog/blog/leonardo-ai-料金完全ガイド2026年最新の4プラン徹底比較/)
 
 <!-- SEO_MESH_END -->

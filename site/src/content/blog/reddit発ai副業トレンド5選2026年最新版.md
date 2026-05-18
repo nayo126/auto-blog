@@ -118,6 +118,6 @@ AI副業で先行者利益を取りたいなら、Redditの主要サブレディ
 ### 姉妹サイトの関連記事
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP
 - [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html) — AI News JP
-- [ChatGPTの回答精度を上げる質問テンプレ｜Reddit話題の活用法を解説](https://nayo126.github.io/ai-news-jp/posts/chatgpt-reddit.html) — AI News JP
+- [ChatGPTで明らかになるデザイナーとプログラマーの思考差・r/ChatGPT話題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-r-chatgpt.html) — AI News JP
 
 <!-- SEO_MESH_END -->

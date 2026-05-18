@@ -124,8 +124,8 @@ ECサイトや個人ブログのアイキャッチ動画として使うパター
 
 ## 関連する記事
 
+- [Anthropic最新動向2026｜Claude活用で副業収益化する5つの方法](https://nayo126.github.io/auto-blog/blog/anthropic最新動向2026claude活用で副業収益化する5つの方法/)
+- [Anthropic Mythosとは何か？2026年最新AI動向7選](https://nayo126.github.io/auto-blog/blog/anthropic-mythosとは何か2026年最新ai動向7選/)
 - [AI副業ラボ、はじめます](https://nayo126.github.io/auto-blog/blog/welcome/)
-- [プロンプトを売る方法2026｜PromptBaseで月3万稼ぐ5ステップ](https://nayo126.github.io/auto-blog/blog/プロンプトを売る方法2026promptbaseで月3万稼ぐ5ステップ/)
-- [Claude AIで稼ぐ副業7選｜月10万円ロードマップ2026](https://nayo126.github.io/auto-blog/blog/claude-aiで稼ぐ副業7選月10万円ロードマップ2026/)
 
 <!-- SEO_MESH_END -->

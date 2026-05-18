@@ -104,14 +104,14 @@ ChatGPT APIキーは10分で取得できますが、価値が高い分だけリ�
 
 ## 関連する記事
 
+- [ChatGPT APIとは？2026年最新の料金・使い方を5分で解説](https://nayo126.github.io/auto-blog/blog/chatgpt-apiとは2026年最新の料金使い方を5分で解説/)
 - [ChatGPT API無料モデル2026年最新7選比較](https://nayo126.github.io/auto-blog/blog/chatgpt-api無料モデル2026年最新7選比較/)
 - [ChatGPT APIおすすめモデル6選｜2026年最新の選び方](https://nayo126.github.io/auto-blog/blog/chatgpt-apiおすすめモデル6選2026年最新の選び方/)
-- [OpenAI無料枠2026最新ガイド｜7つの活用法と上限突破術](https://nayo126.github.io/auto-blog/blog/openai無料枠2026最新ガイド7つの活用法と上限突破術/)
 
 ### 姉妹サイトの関連記事
+- [OpenAI Codexをデータサイエンスチームが活用する5つのワークフロー](https://nayo126.github.io/ai-news-jp/posts/openai-codex-5.html) — AI News JP
 - [OpenAIがマルタ政府と提携、全国民にChatGPT Plus提供と研修を実施](https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus.html) — AI News JP
 - [OpenAI、Windows版Codexにセキュアサンドボックス実装 安全なコーディングエージェント実現へ](https://nayo126.github.io/ai-news-jp/posts/openai-windows-codex.html) — AI News JP
-- [OpenAIがTanStack npmサプライチェーン攻撃に対応 macOS版アプリは2026年6月12日までに更新必須](https://nayo126.github.io/ai-news-jp/posts/openai-tanstack-npm-macos-2026-6-12.html) — AI News JP
 
 <!-- SEO_MESH_END -->
 

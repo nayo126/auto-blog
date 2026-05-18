@@ -125,9 +125,9 @@ Cursorは「VSCodeにAIが深く統合された姿」と捉えるのが一番し
 
 ## 関連する記事
 
+- [Cursor使い方YouTube厳選7選｜2026年最新の学習動線](https://nayo126.github.io/auto-blog/blog/cursor使い方youtube厳選7選2026年最新の学習動線/)
 - [bolt.new vs v0徹底比較2026年版｜個人開発で稼ぐ最適解](https://nayo126.github.io/auto-blog/blog/boltnew-vs-v0徹底比較2026年版個人開発で稼ぐ最適解/)
 - [bolt.new 評判は本当？AI開発の実力を徹底検証2026](https://nayo126.github.io/auto-blog/blog/boltnew-評判は本当ai開発の実力を徹底検証2026/)
-- [Claude Artifacts個人開発の活用5選](https://nayo126.github.io/auto-blog/blog/claude-artifacts個人開発の活用5選/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-3-reddit.html) — AI News JP
