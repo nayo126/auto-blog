@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-18T00:26:41.123979+00:00",
+  "picked_at": "2026-05-18T02:30:03.343772+00:00",
   "count": 5,
   "items": [
     {
-      "category": "Claude活用",
-      "keyword": "claude 使い方 本"
-    },
-    {
-      "category": "AI副業",
-      "keyword": "ai フリーランスとは"
-    },
-    {
-      "category": "プロンプトエンジニアリング",
-      "keyword": "プロンプト 販売 副業"
-    },
-    {
       "category": "AIツール比較",
-      "keyword": "ai 動画 か 見分ける 方法"
+      "keyword": "ai 動画 おすすめ"
+    },
+    {
+      "category": "Claude活用",
+      "keyword": "claude code 無料 制限"
+    },
+    {
+      "category": "海外AIトレンド",
+      "keyword": "anthropic claude"
     },
     {
       "category": "個人開発",
-      "keyword": "bolt.co.jp"
+      "keyword": "cursor 使い方 youtube"
+    },
+    {
+      "category": "ChatGPT活用",
+      "keyword": "chatgpt プロンプト 改行 方法"
     }
   ]
 }

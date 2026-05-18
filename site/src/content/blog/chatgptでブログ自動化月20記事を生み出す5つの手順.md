@@ -141,3 +141,29 @@ ChatGPTのブログ自動化は、ツールを使うだけでは成立しませ�
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### ChatGPTで書いた記事はGoogleにペナルティを受けますか？
+
+AI生成自体はペナルティ対象外です。2026年のGoogle Core Updateでは「読者の役に立つか」が基準で、人間が監修・編集したAI記事は上位表示されています。完全な丸投げは弾かれるため、必ず事実確認と独自視点の追加を行ってください。
+
+### ChatGPTでブログを書くと1記事いくらかかりますか？
+
+ChatGPT Plusは月額20ドル（約3,000円）で、1日10記事生成しても月コストは固定です。1記事あたり約10円換算となり、外注ライターの3,000〜5,000円と比べて300分の1のコストで運用できます。
+
+### ChatGPTとClaude、ブログ執筆にはどちらが向いていますか？
+
+構成案やリサーチはChatGPT 5、本文の自然な文章化はClaude Sonnet 4.6が得意です。海外SEO界隈では「ChatGPTで骨格、Claudeで肉付け」という併用が主流で、文体の自然さが人間と判別できないレベルになります。
+
+### AIブログで月20記事書いて収益化までどれくらいかかりますか？
+
+Googleアドセンスの場合、月20記事ペースで6ヶ月継続すると累計120記事に到達し、月1〜3万円の収益が現実的なラインです。アフィリエイト併用なら3ヶ月で月5万円超えの事例も2026年は増えています。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "ChatGPTで書いた記事はGoogleにペナルティを受けますか？", "acceptedAnswer": {"@type": "Answer", "text": "AI生成自体はペナルティ対象外です。2026年のGoogle Core Updateでは「読者の役に立つか」が基準で、人間が監修・編集したAI記事は上位表示されています。完全な丸投げは弾かれるため、必ず事実確認と独自視点の追加を行ってください。"}}, {"@type": "Question", "name": "ChatGPTでブログを書くと1記事いくらかかりますか？", "acceptedAnswer": {"@type": "Answer", "text": "ChatGPT Plusは月額20ドル（約3,000円）で、1日10記事生成しても月コストは固定です。1記事あたり約10円換算となり、外注ライターの3,000〜5,000円と比べて300分の1のコストで運用できます。"}}, {"@type": "Question", "name": "ChatGPTとClaude、ブログ執筆にはどちらが向いていますか？", "acceptedAnswer": {"@type": "Answer", "text": "構成案やリサーチはChatGPT 5、本文の自然な文章化はClaude Sonnet 4.6が得意です。海外SEO界隈では「ChatGPTで骨格、Claudeで肉付け」という併用が主流で、文体の自然さが人間と判別できないレベルになります。"}}, {"@type": "Question", "name": "AIブログで月20記事書いて収益化までどれくらいかかりますか？", "acceptedAnswer": {"@type": "Answer", "text": "Googleアドセンスの場合、月20記事ペースで6ヶ月継続すると累計120記事に到達し、月1〜3万円の収益が現実的なラインです。アフィリエイト併用なら3ヶ月で月5万円超えの事例も2026年は増えています。"}}]}
+</script>
+
+<!-- FAQ_END -->
