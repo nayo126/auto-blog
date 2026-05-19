@@ -146,3 +146,29 @@ Claude Codeでできることは、コード生成だけにとどまりません
 - [Claude Codeが1時間連続編集？AIコーディング長時間自律作業の実態と注意点](https://nayo126.github.io/ai-news-jp/posts/claude-code-1-ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude Codeは無料で使えますか？
+
+Claude Codeの利用にはAnthropicのProプラン（月20ドル）以上が必要です。無料枠はなく、本格的に使うならMaxプラン（月100ドルまたは200ドル）でOpus 4.7と1Mコンテキストが解放されます。
+
+### Claude CodeとCursorはどちらが良いですか？
+
+ターミナルで完結させたい・既存プロジェクトに後付けしたいならClaude Code、エディタ統合とGUI重視ならCursorです。Claude Codeはファイル読み書き＋bash実行を直接行えるので、自動化や長時間タスクに強いです。
+
+### Claude Codeはプログラミング初心者でも使えますか？
+
+日本語で「このフォルダのCSVを整理して」と指示するだけで動くため初心者でも使えます。最初の3日はターミナル操作とPermissionモードの理解だけ覚えれば、コード知識ゼロでもブログ運営や資料作成に活用可能です。
+
+### Claude Codeで作ったコードの著作権はどうなりますか？
+
+Anthropicの利用規約上、Claude Codeで生成したコードの権利はユーザーに帰属します。商用利用・販売も可能ですが、機密情報を含むプロジェクトでは設定でデータ学習をオフ（デフォルトでオフ）にしておくのが安全です。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude Codeは無料で使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "Claude Codeの利用にはAnthropicのProプラン（月20ドル）以上が必要です。無料枠はなく、本格的に使うならMaxプラン（月100ドルまたは200ドル）でOpus 4.7と1Mコンテキストが解放されます。"}}, {"@type": "Question", "name": "Claude CodeとCursorはどちらが良いですか？", "acceptedAnswer": {"@type": "Answer", "text": "ターミナルで完結させたい・既存プロジェクトに後付けしたいならClaude Code、エディタ統合とGUI重視ならCursorです。Claude Codeはファイル読み書き＋bash実行を直接行えるので、自動化や長時間タスクに強いです。"}}, {"@type": "Question", "name": "Claude Codeはプログラミング初心者でも使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "日本語で「このフォルダのCSVを整理して」と指示するだけで動くため初心者でも使えます。最初の3日はターミナル操作とPermissionモードの理解だけ覚えれば、コード知識ゼロでもブログ運営や資料作成に活用可能です。"}}, {"@type": "Question", "name": "Claude Codeで作ったコードの著作権はどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "Anthropicの利用規約上、Claude Codeで生成したコードの権利はユーザーに帰属します。商用利用・販売も可能ですが、機密情報を含むプロジェクトでは設定でデータ学習をオフ（デフォルトでオフ）にしておくのが安全です。"}}]}
+</script>
+
+<!-- FAQ_END -->

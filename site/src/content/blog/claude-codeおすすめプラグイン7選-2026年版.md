@@ -141,3 +141,29 @@ Claude Codeのおすすめプラグインを7つ紹介しました。MCPサー�
 - [ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-3-reddit.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude CodeのMCPサーバーとは何ですか？
+
+MCPはClaude Codeに外部ツールやデータソースを接続する仕組みです。GitHub、Slack、データベースなど100以上のサーバーが公開されており、claude mcp addコマンドで1分で追加できます。
+
+### Claude CodeとCursorはどちらがおすすめですか？
+
+長時間の自律作業ならClaude Code、リアルタイム補完中心ならCursorが向いています。Claude Codeは月20,000円〜でターミナル常駐型、Cursorは月20ドルでエディタ統合型です。副業の量産用途ならClaude Codeが有利です。
+
+### Claude Codeのカスタムスラッシュコマンドの作り方は？
+
+プロジェクトルートに.claude/commands/ディレクトリを作り、コマンド名.mdファイルを置くだけです。例えばreview.mdに指示を書けば/reviewで呼び出せます。チームで共有すれば作業時間が約3割短縮できます。
+
+### Claude Codeを無料で試す方法はありますか？
+
+Anthropic公式は有料のみですが、API経由でPay-as-you-go利用なら月数百円から試せます。Claude Pro（月3,000円）契約者はWeb版で同等機能を制限付きで使え、本格運用前のテストに十分です。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude CodeのMCPサーバーとは何ですか？", "acceptedAnswer": {"@type": "Answer", "text": "MCPはClaude Codeに外部ツールやデータソースを接続する仕組みです。GitHub、Slack、データベースなど100以上のサーバーが公開されており、claude mcp addコマンドで1分で追加できます。"}}, {"@type": "Question", "name": "Claude CodeとCursorはどちらがおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "長時間の自律作業ならClaude Code、リアルタイム補完中心ならCursorが向いています。Claude Codeは月20,000円〜でターミナル常駐型、Cursorは月20ドルでエディタ統合型です。副業の量産用途ならClaude Codeが有利です。"}}, {"@type": "Question", "name": "Claude Codeのカスタムスラッシュコマンドの作り方は？", "acceptedAnswer": {"@type": "Answer", "text": "プロジェクトルートに.claude/commands/ディレクトリを作り、コマンド名.mdファイルを置くだけです。例えばreview.mdに指示を書けば/reviewで呼び出せます。チームで共有すれば作業時間が約3割短縮できます。"}}, {"@type": "Question", "name": "Claude Codeを無料で試す方法はありますか？", "acceptedAnswer": {"@type": "Answer", "text": "Anthropic公式は有料のみですが、API経由でPay-as-you-go利用なら月数百円から試せます。Claude Pro（月3,000円）契約者はWeb版で同等機能を制限付きで使え、本格運用前のテストに十分です。"}}]}
+</script>
+
+<!-- FAQ_END -->
