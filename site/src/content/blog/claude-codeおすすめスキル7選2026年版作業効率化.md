@@ -106,3 +106,29 @@ Claude Codeのスキルは「使うか使わないか」で開発体験が二極
 - [ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-3-reddit.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude Codeのスキルはどこにインストールすればいいですか？
+
+プロジェクト固有なら`.claude/skills/`、全プロジェクトで使うなら`~/.claude/skills/`配下にMarkdownファイルを置きます。配置後はClaude Code再起動不要で、`/skill-name`で即呼び出し可能です。
+
+### Claude Codeのスキルとスラッシュコマンドの違いは？
+
+スラッシュコマンドは単純なプロンプト呼び出し、スキルはツール権限・実行手順・参照ファイルまでパッケージ化された拡張機能です。スキルの方が再現性が高く、5〜10ステップの複雑な作業も自動化できます。
+
+### Claude Codeのスキルは無料で使えますか？
+
+スキル自体は無料です。ただしClaude Code本体のAPI利用料（Pro月20ドル、Max月100〜200ドル）は別途必要。公式スキルもGitHubで公開されており、追加課金なしで導入できます。
+
+### Claude Codeのスキルを自作する方法は？
+
+`.claude/skills/skill-name.md`を作成し、フロントマターに`name`と`description`、本文に手順を記述するだけです。10行程度の簡単な定義から始められ、チーム共有はGit経由で配布可能です。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude Codeのスキルはどこにインストールすればいいですか？", "acceptedAnswer": {"@type": "Answer", "text": "プロジェクト固有なら`.claude/skills/`、全プロジェクトで使うなら`~/.claude/skills/`配下にMarkdownファイルを置きます。配置後はClaude Code再起動不要で、`/skill-name`で即呼び出し可能です。"}}, {"@type": "Question", "name": "Claude Codeのスキルとスラッシュコマンドの違いは？", "acceptedAnswer": {"@type": "Answer", "text": "スラッシュコマンドは単純なプロンプト呼び出し、スキルはツール権限・実行手順・参照ファイルまでパッケージ化された拡張機能です。スキルの方が再現性が高く、5〜10ステップの複雑な作業も自動化できます。"}}, {"@type": "Question", "name": "Claude Codeのスキルは無料で使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "スキル自体は無料です。ただしClaude Code本体のAPI利用料（Pro月20ドル、Max月100〜200ドル）は別途必要。公式スキルもGitHubで公開されており、追加課金なしで導入できます。"}}, {"@type": "Question", "name": "Claude Codeのスキルを自作する方法は？", "acceptedAnswer": {"@type": "Answer", "text": "`.claude/skills/skill-name.md`を作成し、フロントマターに`name`と`description`、本文に手順を記述するだけです。10行程度の簡単な定義から始められ、チーム共有はGit経由で配布可能です。"}}]}
+</script>
+
+<!-- FAQ_END -->

@@ -111,3 +111,29 @@ Claude CodeとVSCodeの連携は、もはや「便利」を超えて副業や実
 - [ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-3-reddit.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude CodeのVSCode拡張は無料で使えますか？
+
+拡張機能自体は無料ですが、Claude本体のAPI利用料またはClaude Proプラン（月20ドル）以上の契約が必要です。Claude Maxプラン（月100ドル〜）なら使用量上限が大きく副業用途で安定します。
+
+### Claude CodeとGitHub Copilotはどちらが優秀ですか？
+
+用途で分かれます。Copilotは1行〜数行の補完が速く月10ドルで安価、Claude Codeは数十ファイルにまたがるリファクタや仕様変更に強いです。実務では併用が最適で、補完はCopilot、まとまった改修はClaudeが定番です。
+
+### Claude CodeをVSCodeで使うとセキュリティは大丈夫ですか？
+
+コードは暗号化通信でAnthropicに送られ、デフォルトで学習には使われません。社外秘コードを扱う場合は設定からテレメトリーをオフにし、.claudeignoreで.envやsecrets配下を除外すれば安全に運用できます。
+
+### Claude CodeがVSCodeで動かない時の対処法は？
+
+まずNode.js 18以上が入っているか確認し、ターミナルで`claude --version`を実行します。エラーが出る場合は`npm install -g @anthropic-ai/claude-code`で再インストール、認証エラーなら`claude logout`後に再ログインすれば9割解決します。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude CodeのVSCode拡張は無料で使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "拡張機能自体は無料ですが、Claude本体のAPI利用料またはClaude Proプラン（月20ドル）以上の契約が必要です。Claude Maxプラン（月100ドル〜）なら使用量上限が大きく副業用途で安定します。"}}, {"@type": "Question", "name": "Claude CodeとGitHub Copilotはどちらが優秀ですか？", "acceptedAnswer": {"@type": "Answer", "text": "用途で分かれます。Copilotは1行〜数行の補完が速く月10ドルで安価、Claude Codeは数十ファイルにまたがるリファクタや仕様変更に強いです。実務では併用が最適で、補完はCopilot、まとまった改修はClaudeが定番です。"}}, {"@type": "Question", "name": "Claude CodeをVSCodeで使うとセキュリティは大丈夫ですか？", "acceptedAnswer": {"@type": "Answer", "text": "コードは暗号化通信でAnthropicに送られ、デフォルトで学習には使われません。社外秘コードを扱う場合は設定からテレメトリーをオフにし、.claudeignoreで.envやsecrets配下を除外すれば安全に運用できます。"}}, {"@type": "Question", "name": "Claude CodeがVSCodeで動かない時の対処法は？", "acceptedAnswer": {"@type": "Answer", "text": "まずNode.js 18以上が入っているか確認し、ターミナルで`claude --version`を実行します。エラーが出る場合は`npm install -g @anthropic-ai/claude-code`で再インストール、認証エラーなら`claude logout`後に再ログインすれば9割解決します。"}}]}
+</script>
+
+<!-- FAQ_END -->

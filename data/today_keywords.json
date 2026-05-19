@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-19T08:30:03.629417+00:00",
+  "picked_at": "2026-05-19T09:21:45.320168+00:00",
   "count": 5,
   "items": [
     {
       "category": "海外AIトレンド",
-      "keyword": "anthropic 無料 枠"
+      "keyword": "openai 無料 api"
     },
     {
-      "category": "Claude活用",
-      "keyword": "claude mcp add"
+      "category": "ChatGPT活用",
+      "keyword": "chatgpt api 無料 クレジット"
     },
     {
       "category": "AI副業",
-      "keyword": "ai ブログ プロンプト"
-    },
-    {
-      "category": "プロンプトエンジニアリング",
-      "keyword": "メタ プロンプト 作り方"
+      "keyword": "ai 在宅ワーホリ"
     },
     {
       "category": "AIツール比較",
-      "keyword": "ai 画像生成 無料 ブラウザ"
+      "keyword": "web ライティング ai おすすめ"
+    },
+    {
+      "category": "AI画像生成",
+      "keyword": "midjourney leonardo ai 比較"
     }
   ]
 }
