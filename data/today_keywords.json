@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-19T00:42:47.565533+00:00",
+  "picked_at": "2026-05-19T02:30:01.648208+00:00",
   "count": 5,
   "items": [
     {
       "category": "Claude活用",
-      "keyword": "claude code 料金"
+      "keyword": "claude code"
     },
     {
       "category": "海外AIトレンド",
-      "keyword": "anthropic chatgpt 比較"
+      "keyword": "azure openai 比較"
+    },
+    {
+      "category": "AIツール比較",
+      "keyword": "動画 アップ スケーリング ai 比較"
+    },
+    {
+      "category": "ChatGPT活用",
+      "keyword": "chatgpt アプリ 無料 使い方"
     },
     {
       "category": "AI副業",
-      "keyword": "ai エンジニア フリーランス"
-    },
-    {
-      "category": "プロンプトエンジニアリング",
-      "keyword": "プロンプト 入力 副業"
-    },
-    {
-      "category": "AI画像生成",
-      "keyword": "leonardo ai 使い方"
+      "keyword": "ai ブログ 無料"
     }
   ]
 }

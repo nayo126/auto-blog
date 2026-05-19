@@ -132,3 +132,29 @@ Claude Agent SDKは、副業の生産性を大きく引き上げる強力なツ�
 - [今週のAIニュース10選 (2026/05/17付)](https://nayo126.github.io/ai-news-jp/posts/ai-weekly-roundup-20260517.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude Agent SDKは無料で使えますか?
+
+SDK自体は無料で公開されているが、Claude APIの利用は従量課金制で、月数千円から運用可能。軽い副業用途なら月3,000〜5,000円、本格運用でも月1〜2万円程度に収まるケースが多い。
+
+### Claude Agent SDKとClaude Codeの違いは何ですか?
+
+Claude CodeはSDKを基盤に構築されたCLIツールで、Agent SDKは開発者が独自エージェントを構築するためのフレームワーク。SDKを使えば副業向けの自動化スクリプトや独自ワークフローを自由に設計できる。
+
+### プログラミング初心者でもClaude Agent SDKを使えますか?
+
+PythonかTypeScriptの基本構文が分かれば導入可能。公式ドキュメントのサンプルコードをコピペし、APIキーを設定するだけで動作する。完全未経験なら2週間程度の学習で副業活用レベルに到達できる。
+
+### Claude Agent SDKで副業を始めて月どれくらい稼げますか?
+
+リサーチ代行で月3〜10万円、ブログ記事量産で月5〜20万円、エージェント構築の受託案件なら1案件5〜30万円が相場。本業との並行で月10万円台を達成する事例が多い。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude Agent SDKは無料で使えますか?", "acceptedAnswer": {"@type": "Answer", "text": "SDK自体は無料で公開されているが、Claude APIの利用は従量課金制で、月数千円から運用可能。軽い副業用途なら月3,000〜5,000円、本格運用でも月1〜2万円程度に収まるケースが多い。"}}, {"@type": "Question", "name": "Claude Agent SDKとClaude Codeの違いは何ですか?", "acceptedAnswer": {"@type": "Answer", "text": "Claude CodeはSDKを基盤に構築されたCLIツールで、Agent SDKは開発者が独自エージェントを構築するためのフレームワーク。SDKを使えば副業向けの自動化スクリプトや独自ワークフローを自由に設計できる。"}}, {"@type": "Question", "name": "プログラミング初心者でもClaude Agent SDKを使えますか?", "acceptedAnswer": {"@type": "Answer", "text": "PythonかTypeScriptの基本構文が分かれば導入可能。公式ドキュメントのサンプルコードをコピペし、APIキーを設定するだけで動作する。完全未経験なら2週間程度の学習で副業活用レベルに到達できる。"}}, {"@type": "Question", "name": "Claude Agent SDKで副業を始めて月どれくらい稼げますか?", "acceptedAnswer": {"@type": "Answer", "text": "リサーチ代行で月3〜10万円、ブログ記事量産で月5〜20万円、エージェント構築の受託案件なら1案件5〜30万円が相場。本業との並行で月10万円台を達成する事例が多い。"}}]}
+</script>
+
+<!-- FAQ_END -->
