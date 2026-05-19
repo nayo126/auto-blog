@@ -150,6 +150,6 @@ Claude DesktopのMCPは無料プランでも完全に動作し、filesystemやme
 
 - [Claude MCP設定方法を15分で完了する2026最新手順](https://nayo126.github.io/auto-blog/blog/claude-mcp設定方法を15分で完了する2026最新手順/)
 - [Claude Code無料の制限まとめ｜2026年最新の上限と回避3手](https://nayo126.github.io/auto-blog/blog/claude-code無料の制限まとめ2026年最新の上限と回避3手/)
-- [Anthropic無料プランの全貌2026｜Claude無料で月3万円稼ぐ方法](https://nayo126.github.io/auto-blog/blog/anthropic無料プランの全貌2026claude無料で月3万円稼ぐ方法/)
+- [claude mcp addの使い方完全ガイド2026年最新7手順](https://nayo126.github.io/auto-blog/blog/claude-mcp-addの使い方完全ガイド2026年最新7手順/)
 
 <!-- SEO_MESH_END -->

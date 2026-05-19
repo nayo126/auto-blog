@@ -127,3 +127,44 @@ Anthropicのプラン選びは、自分の「AIに頼る量」で決まります
 - [Claudeがユーザーに「寝なさい」と命令する謎現象、Anthropicも原因不明](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic.html)
 - [Claude AIで激変するLinkedInプロフィール作成術2026年最新版](https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html)
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html)
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude ProとChatGPT Plusはどちらがおすすめですか？
+
+長文処理や日本語の自然さを重視するならClaude Pro、画像生成や音声入力など多機能を求めるならChatGPT Plusが向いています。月額はどちらも約20ドルで、副業ライティング用途ならClaude Proが優勢です。
+
+### Claude Maxの月額20,000円は元が取れますか？
+
+1日3時間以上Claudeを使う人や、Claude Codeで開発する人なら十分元が取れます。時給1,500円換算で月13時間分の作業効率化で回収可能。ライターなら記事10本/月の自動化で黒字化します。
+
+### Claude Freeプランで1日に何回使えますか？
+
+Freeプランは時間帯や混雑状況によって変動しますが、目安は5時間ごとに約10〜20メッセージです。Sonnet 4.6が中心で、Opus 4.7はFreeでは利用不可。本格作業なら数時間で上限に達します。
+
+### Claude Proの支払い方法は何がありますか？
+
+クレジットカード（Visa、Mastercard、JCB、American Express）とデビットカードに対応。日本のコンビニ決済や銀行振込は非対応です。年払いプランを選ぶと月額換算で約17ドルに割引されます。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude ProとChatGPT Plusはどちらがおすすめですか？", "acceptedAnswer": {"@type": "Answer", "text": "長文処理や日本語の自然さを重視するならClaude Pro、画像生成や音声入力など多機能を求めるならChatGPT Plusが向いています。月額はどちらも約20ドルで、副業ライティング用途ならClaude Proが優勢です。"}}, {"@type": "Question", "name": "Claude Maxの月額20,000円は元が取れますか？", "acceptedAnswer": {"@type": "Answer", "text": "1日3時間以上Claudeを使う人や、Claude Codeで開発する人なら十分元が取れます。時給1,500円換算で月13時間分の作業効率化で回収可能。ライターなら記事10本/月の自動化で黒字化します。"}}, {"@type": "Question", "name": "Claude Freeプランで1日に何回使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "Freeプランは時間帯や混雑状況によって変動しますが、目安は5時間ごとに約10〜20メッセージです。Sonnet 4.6が中心で、Opus 4.7はFreeでは利用不可。本格作業なら数時間で上限に達します。"}}, {"@type": "Question", "name": "Claude Proの支払い方法は何がありますか？", "acceptedAnswer": {"@type": "Answer", "text": "クレジットカード（Visa、Mastercard、JCB、American Express）とデビットカードに対応。日本のコンビニ決済や銀行振込は非対応です。年払いプランを選ぶと月額換算で約17ドルに割引されます。"}}]}
+</script>
+
+<!-- FAQ_END -->
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Anthropic最新動向2026｜Claude活用で副業収益化する5つの方法](https://nayo126.github.io/auto-blog/blog/anthropic最新動向2026claude活用で副業収益化する5つの方法/)
+- [Anthropic Mythosとは何か？2026年最新AI動向7選](https://nayo126.github.io/auto-blog/blog/anthropic-mythosとは何か2026年最新ai動向7選/)
+- [Anthropic無料枠の使い方2026最新7選](https://nayo126.github.io/auto-blog/blog/anthropic無料枠の使い方2026最新7選/)
+
+### 姉妹サイトの関連記事
+- [Claudeがユーザーに「寝なさい」と命令する謎現象、Anthropicも原因不明](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic.html) — AI News JP
+- [Claude AIで激変するLinkedInプロフィール作成術2026年最新版](https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html) — AI News JP
+- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
+
+<!-- SEO_MESH_END -->

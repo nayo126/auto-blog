@@ -15,6 +15,10 @@ AI画像生成で副業を始めたいけれど、MidjourneyとLeonardo AIのど
 
 ## 結論：副業初心者はLeonardo AI、本気の作品制作はMidjourney
 
+<!-- INLINE_IMG -->
+![Midjourney vs Leonardo AI 2026徹底比較7項目 - 結論：副業初心者はLeonardo AI、本気の作品制作はMidjourney](/auto-blog/inline-images/midjourney-vs-leonardo-ai-2026-7--0.jpg)
+
+
 結論から書きます。コストを抑えて副業を始めたい人にはLeonardo AI、画質と表現力で勝負したい人にはMidjourney v7が向いています。
 
 理由はシンプルで、両者は競合に見えて実は得意領域が違うからです。Midjourneyは2026年4月にv7がリリースされ、シネマティックな質感と構図センスでは依然としてトップクラス。一方Leonardo AIは無料枠が広く、SDXLベースの独自モデルやリアルタイム生成機能で「量産」に強い設計になっています。
@@ -39,6 +43,10 @@ AI画像生成で副業を始めたいけれど、MidjourneyとLeonardo AIのど
 
 
 ## 1. 料金プランの違い：無料で試せるのはLeonardo AIだけ
+
+<!-- INLINE_IMG -->
+![Midjourney vs Leonardo AI 2026徹底比較7項目 - 1. 料金プランの違い：無料で試せるのはLeonardo AIだけ](/auto-blog/inline-images/midjourney-vs-leonardo-ai-2026-7--1.jpg)
+
 
 最初に気になるのが料金です。2026年5月時点の公式情報を整理しました。
 
@@ -126,3 +134,13 @@ MidjourneyとLeonardo AIは、競合に見えて実は補完関係にあるツ�
 
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html)
 - [ChatGPTの画像生成制限を回避する手法がRedditで拡散 第三者コンテンツの生成リスクと対策](https://nayo126.github.io/ai-news-jp/posts/chatgpt-reddit.html)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Leonardo AI 無料プランの範囲と限界2026年版](https://nayo126.github.io/auto-blog/blog/leonardo-ai-無料プランの範囲と限界2026年版/)
+- [Leonardo AI 日本語完全ガイド｜5分で始める画像生成術](https://nayo126.github.io/auto-blog/blog/leonardo-ai-日本語完全ガイド5分で始める画像生成術/)
+- [Leonardo AI使い方完全ガイド2026年版|月5万稼ぐ7ステップ](https://nayo126.github.io/auto-blog/blog/leonardo-ai使い方完全ガイド2026年版月5万稼ぐ7ステップ/)
+
+<!-- SEO_MESH_END -->

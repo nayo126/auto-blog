@@ -128,4 +128,7 @@ ECサイトや個人ブログのアイキャッチ動画として使うパター
 - [Anthropic Mythosとは何か？2026年最新AI動向7選](https://nayo126.github.io/auto-blog/blog/anthropic-mythosとは何か2026年最新ai動向7選/)
 - [AI副業ラボ、はじめます](https://nayo126.github.io/auto-blog/blog/welcome/)
 
+### 姉妹サイトの関連記事
+- [AI生成動画のリアルさが話題に｜r/singularityで議論される2026年最新クオリティ](https://nayo126.github.io/ai-news-jp/posts/ai-r-singularity-2026.html) — AI News JP
+
 <!-- SEO_MESH_END -->

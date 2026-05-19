@@ -100,3 +100,29 @@ Claude Codeの体験はターミナル選びで大きく変わる。AI連携を�
 - [Claude Codeが1時間連続編集？AIコーディング長時間自律作業の実態と注意点](https://nayo126.github.io/ai-news-jp/posts/claude-code-1-ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude CodeはWindowsのターミナルでも使える？
+
+WSL2上のUbuntuで動かすのが安定で、Windows TerminalやWezTermをフロントにすればTrue Color表示も問題なく動作する。PowerShell単体だとANSI描画が崩れるため非推奨。
+
+### Warpは無料で使える？有料プランとの違いは？
+
+個人利用は無料で月150回までAI機能が使える。Pro($15/月)はAIリクエスト無制限、Team($22/月)はワークフロー共有が可能。Claude Code併用なら無料プランで十分。
+
+### iTerm2とWezTermはどっちが速い？
+
+GPU描画のWezTermが約2〜3倍高速で、ログ大量出力時のスクロールでもfps低下しない。iTerm2はCPU描画だが機能数で勝り、分割ペインやトリガー設定の柔軟性はWezTermより上。
+
+### Claude Codeでフォントが文字化けする時の対処法は？
+
+Nerd Fonts対応のHackGenやFiraCode Nerd Fontを導入し、ターミナル設定でフォントサイズ14pt・行間1.2に設定する。さらにLANG=ja_JP.UTF-8を.zshrcに追記すれば日本語崩れも解消する。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude CodeはWindowsのターミナルでも使える？", "acceptedAnswer": {"@type": "Answer", "text": "WSL2上のUbuntuで動かすのが安定で、Windows TerminalやWezTermをフロントにすればTrue Color表示も問題なく動作する。PowerShell単体だとANSI描画が崩れるため非推奨。"}}, {"@type": "Question", "name": "Warpは無料で使える？有料プランとの違いは？", "acceptedAnswer": {"@type": "Answer", "text": "個人利用は無料で月150回までAI機能が使える。Pro($15/月)はAIリクエスト無制限、Team($22/月)はワークフロー共有が可能。Claude Code併用なら無料プランで十分。"}}, {"@type": "Question", "name": "iTerm2とWezTermはどっちが速い？", "acceptedAnswer": {"@type": "Answer", "text": "GPU描画のWezTermが約2〜3倍高速で、ログ大量出力時のスクロールでもfps低下しない。iTerm2はCPU描画だが機能数で勝り、分割ペインやトリガー設定の柔軟性はWezTermより上。"}}, {"@type": "Question", "name": "Claude Codeでフォントが文字化けする時の対処法は？", "acceptedAnswer": {"@type": "Answer", "text": "Nerd Fonts対応のHackGenやFiraCode Nerd Fontを導入し、ターミナル設定でフォントサイズ14pt・行間1.2に設定する。さらにLANG=ja_JP.UTF-8を.zshrcに追記すれば日本語崩れも解消する。"}}]}
+</script>
+
+<!-- FAQ_END -->

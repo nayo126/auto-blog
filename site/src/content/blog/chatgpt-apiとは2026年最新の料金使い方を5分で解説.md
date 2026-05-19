@@ -159,8 +159,8 @@ Pythonの基本構文がわかれば10行程度で動かせます。難しい場
 - [ChatGPT APIおすすめモデル6選｜2026年最新の選び方](https://nayo126.github.io/auto-blog/blog/chatgpt-apiおすすめモデル6選2026年最新の選び方/)
 
 ### 姉妹サイトの関連記事
+- [Elon Musk敗訴：OpenAI・Sam Altmanへの訴訟で判決、AI業界への影響を解説](https://nayo126.github.io/ai-news-jp/posts/elon-musk-openai-sam-altman-ai.html) — AI News JP
 - [OpenAI Codexをデータサイエンスチームが活用する5つのワークフロー](https://nayo126.github.io/ai-news-jp/posts/openai-codex-5.html) — AI News JP
 - [OpenAIがマルタ政府と提携、全国民にChatGPT Plus提供と研修を実施](https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus.html) — AI News JP
-- [OpenAI、Windows版Codexにセキュアサンドボックス実装 安全なコーディングエージェント実現へ](https://nayo126.github.io/ai-news-jp/posts/openai-windows-codex.html) — AI News JP
 
 <!-- SEO_MESH_END -->

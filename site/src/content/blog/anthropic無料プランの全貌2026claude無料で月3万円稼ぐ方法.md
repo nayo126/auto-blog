@@ -138,7 +138,7 @@ Claude無料プランは時間帯ごとに上限があり、目安として5時�
 
 - [Anthropic最新動向2026｜Claude活用で副業収益化する5つの方法](https://nayo126.github.io/auto-blog/blog/anthropic最新動向2026claude活用で副業収益化する5つの方法/)
 - [Anthropic Mythosとは何か？2026年最新AI動向7選](https://nayo126.github.io/auto-blog/blog/anthropic-mythosとは何か2026年最新ai動向7選/)
-- [Anthropic無料講座2026|副業活用5つの学び方](https://nayo126.github.io/auto-blog/blog/anthropic無料講座2026副業活用5つの学び方/)
+- [Anthropic無料枠の使い方2026最新7選](https://nayo126.github.io/auto-blog/blog/anthropic無料枠の使い方2026最新7選/)
 
 ### 姉妹サイトの関連記事
 - [Claudeがユーザーに「寝なさい」と命令する謎現象、Anthropicも原因不明](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic.html) — AI News JP

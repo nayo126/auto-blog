@@ -130,8 +130,8 @@ Midjourney副業は2026年時点で「やれば確実に月5万円までは届�
 ## 関連する記事
 
 - [Claude AIで稼ぐ副業7選｜月10万円ロードマップ2026](https://nayo126.github.io/auto-blog/blog/claude-aiで稼ぐ副業7選月10万円ロードマップ2026/)
+- [Leonardo AI使い方完全ガイド2026年版|月5万稼ぐ7ステップ](https://nayo126.github.io/auto-blog/blog/leonardo-ai使い方完全ガイド2026年版月5万稼ぐ7ステップ/)
 - [AI副業おすすめランキング2026年最新7選で月10万円](https://nayo126.github.io/auto-blog/blog/ai副業おすすめランキング2026年最新7選で月10万円/)
-- [AI副業×イラスト完全ガイド2026｜月5万稼ぐ7ステップ](https://nayo126.github.io/auto-blog/blog/ai副業イラスト完全ガイド2026月5万稼ぐ7ステップ/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPT Image 2.0とSeedance 2.0で短編映像を制作する手順](https://nayo126.github.io/ai-news-jp/posts/chatgpt-image-2-0-seedance-2-0.html) — AI News JP

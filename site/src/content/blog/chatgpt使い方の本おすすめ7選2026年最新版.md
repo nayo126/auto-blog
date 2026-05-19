@@ -129,8 +129,8 @@ ChatGPTの使い方を本で学ぶなら、2025年後半以降に出版された
 ## 関連する記事
 
 - [ChatGPT×Excel自動化副業｜2026年最新7つの稼ぎ方](https://nayo126.github.io/auto-blog/blog/chatgptexcel自動化副業2026年最新7つの稼ぎ方/)
+- [AIブログを無料で始める7つの方法【2026年最新】](https://nayo126.github.io/auto-blog/blog/aiブログを無料で始める7つの方法2026年最新/)
 - [OpenAI Academyおすすめ講座7選2026年最新版](https://nayo126.github.io/auto-blog/blog/openai-academyおすすめ講座7選2026年最新版/)
-- [AIブログ作成は無料で可能?2026年の最新3手順](https://nayo126.github.io/auto-blog/blog/aiブログ作成は無料で可能2026年の最新3手順/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP

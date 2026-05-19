@@ -138,3 +138,44 @@ bolt.newは、コードが書けなくてもWebアプリを公開できる革命
 - [Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速](https://nayo126.github.io/ai-news-jp/posts/sea-limited-openai-codex.html)
 - [ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-3-reddit.html)
 - [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html)
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### bolt.newは無料で使えますか？
+
+無料プランは1日約150,000トークン・月1,000,000トークンまで使えます。本格的に副業で使うならProプラン月20ドル（約3,000円）が必要で、月10,000,000トークン使えます。
+
+### bolt.newとCursorはどちらが副業向きですか？
+
+副業初心者ならbolt.newが向きます。ブラウザだけで完結しデプロイまで自動で、コード知識ゼロでもOK。Cursorはローカル環境とGit操作が必要で、月20ドルで本格開発向けです。
+
+### bolt.newで作ったアプリはどこで公開できますか？
+
+Netlifyへワンクリック公開が標準機能で、独自ドメインも設定可能です。Vercel/Cloudflare Pagesにも手動デプロイでき、GitHub連携でソースコード管理もできます。
+
+### bolt.newで本当に月10万円稼げますか？
+
+可能ですが平均3〜6ヶ月の継続が必要です。LemonSqueezyやStripeで月額制SaaSを作り、X/Threadsで集客するパターンが鉄板で、月額500円×200人で月10万円に到達します。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "bolt.newは無料で使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "無料プランは1日約150,000トークン・月1,000,000トークンまで使えます。本格的に副業で使うならProプラン月20ドル（約3,000円）が必要で、月10,000,000トークン使えます。"}}, {"@type": "Question", "name": "bolt.newとCursorはどちらが副業向きですか？", "acceptedAnswer": {"@type": "Answer", "text": "副業初心者ならbolt.newが向きます。ブラウザだけで完結しデプロイまで自動で、コード知識ゼロでもOK。Cursorはローカル環境とGit操作が必要で、月20ドルで本格開発向けです。"}}, {"@type": "Question", "name": "bolt.newで作ったアプリはどこで公開できますか？", "acceptedAnswer": {"@type": "Answer", "text": "Netlifyへワンクリック公開が標準機能で、独自ドメインも設定可能です。Vercel/Cloudflare Pagesにも手動デプロイでき、GitHub連携でソースコード管理もできます。"}}, {"@type": "Question", "name": "bolt.newで本当に月10万円稼げますか？", "acceptedAnswer": {"@type": "Answer", "text": "可能ですが平均3〜6ヶ月の継続が必要です。LemonSqueezyやStripeで月額制SaaSを作り、X/Threadsで集客するパターンが鉄板で、月額500円×200人で月10万円に到達します。"}}]}
+</script>
+
+<!-- FAQ_END -->
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [bolt.new 評判は本当？AI開発の実力を徹底検証2026](https://nayo126.github.io/auto-blog/blog/boltnew-評判は本当ai開発の実力を徹底検証2026/)
+- [Claude Codeおすすめプラグイン7選 2026年版](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめプラグイン7選-2026年版/)
+- [bolt.new vs v0徹底比較2026年版｜個人開発で稼ぐ最適解](https://nayo126.github.io/auto-blog/blog/boltnew-vs-v0徹底比較2026年版個人開発で稼ぐ最適解/)
+
+### 姉妹サイトの関連記事
+- [Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速](https://nayo126.github.io/ai-news-jp/posts/sea-limited-openai-codex.html) — AI News JP
+- [ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-3-reddit.html) — AI News JP
+- [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html) — AI News JP
+
+<!-- SEO_MESH_END -->

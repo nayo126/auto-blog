@@ -28,6 +28,10 @@ image: "/auto-blog/ogp/claude-computer-use-自動化で副業効率3倍実践7�
 
 ## Claude Computer Useとは何か|従来のAPI自動化との違い
 
+<!-- INLINE_IMG -->
+![Claude Computer Use 自動化で副業効率3倍|実践7事例 - Claude Computer Useとは何か|従来のAPI自動化との違い](/auto-blog/inline-images/claude-computer-use-3-7--0.jpg)
+
+
 Claude Computer Useは、AnthropicがClaude 3.5 Sonnet世代から提供を始めた機能で、現在はClaude Sonnet 4.6やOpus 4世代でも利用可能です。最大の特徴は、画面のスクリーンショットを連続的に取得し、その内容を解釈しながらマウスのクリック位置やキー入力を自律的に決定する点にあります。
 
 従来のAPI自動化は、対象サービスがAPIを公開していることが前提でした。例えばSlackやNotionは公式APIが整備されていますが、社内ツールや一部のSaaS、Web上のフォームなどはAPIを持たないものも多く、自動化のハードルが高い領域でした。
@@ -41,6 +45,10 @@ Computer Useは、人間が画面で行う操作をそのままトレースす�
 ただし、銀行や決済など機密性の高い操作はリスクが大きく、Anthropicも本番運用には専用の隔離環境を推奨しています。副業利用では、まずは自分のリサーチ用ブラウザなど、被害が出ない範囲から試すのが安全です。
 
 ## 副業で効く自動化の実践7事例
+
+<!-- INLINE_IMG -->
+![Claude Computer Use 自動化で副業効率3倍|実践7事例 - 副業で効く自動化の実践7事例](/auto-blog/inline-images/claude-computer-use-3-7--1.jpg)
+
 
 実際にどんな業務が任せられるのか、副業との相性が良い7つを挙げます。いずれも私が想定するシナリオで、構築には1〜数時間程度のセットアップが必要です。
 
@@ -124,3 +132,18 @@ Claude Computer Useは、ブラウザやSaaSをまたぐ作業を「画面ごと
 - [Claude AIで激変するLinkedInプロフィール作成術2026年最新版](https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html)
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html)
 - [今週のAIニュース10選 (2026/05/17付)](https://nayo126.github.io/ai-news-jp/posts/ai-weekly-roundup-20260517.html)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Claude MCP 自動化で月10時間減らす5設定](https://nayo126.github.io/auto-blog/blog/claude-mcp-自動化で月10時間減らす5設定/)
+- [Claude Agent SDK副業活用5選|2026年最新自動化](https://nayo126.github.io/auto-blog/blog/claude-agent-sdk副業活用5選2026年最新自動化/)
+- [Claude AIで稼ぐ副業7選｜月10万円ロードマップ2026](https://nayo126.github.io/auto-blog/blog/claude-aiで稼ぐ副業7選月10万円ロードマップ2026/)
+
+### 姉妹サイトの関連記事
+- [Claude AIで激変するLinkedInプロフィール作成術2026年最新版](https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html) — AI News JP
+- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
+- [今週のAIニュース10選 (2026/05/17付)](https://nayo126.github.io/ai-news-jp/posts/ai-weekly-roundup-20260517.html) — AI News JP
+
+<!-- SEO_MESH_END -->

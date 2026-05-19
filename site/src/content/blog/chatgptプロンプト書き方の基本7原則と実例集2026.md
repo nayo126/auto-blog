@@ -147,8 +147,8 @@ ChatGPTのプロンプトは「役割・目的・制約・対象・形式・例�
 ## 関連する記事
 
 - [プロンプト副業で月収10万円を狙う2026年の実践ロードマップ](https://nayo126.github.io/auto-blog/blog/プロンプト副業で月収10万円を狙う2026年の実践ロードマップ/)
+- [プロンプト入力で副業を始める7つの型｜月5万への最短ルート](https://nayo126.github.io/auto-blog/blog/プロンプト入力で副業を始める7つの型月5万への最短ルート/)
 - [プロンプトエンジニアリング副業で月20万稼ぐ7ステップ](https://nayo126.github.io/auto-blog/blog/プロンプトエンジニアリング副業で月20万稼ぐ7ステップ/)
-- [ChatGPTプロンプト本おすすめ7選｜2026年最新](https://nayo126.github.io/auto-blog/blog/chatgptプロンプト本おすすめ7選2026年最新/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP

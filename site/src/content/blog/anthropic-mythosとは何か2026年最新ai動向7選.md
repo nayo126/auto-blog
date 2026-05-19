@@ -175,8 +175,8 @@ Anthropicは2025年の資金調達で評価額1830億ドル(約27兆円)に達�
 ## 関連する記事
 
 - [Anthropic最新動向2026｜Claude活用で副業収益化する5つの方法](https://nayo126.github.io/auto-blog/blog/anthropic最新動向2026claude活用で副業収益化する5つの方法/)
+- [Anthropic無料枠の使い方2026最新7選](https://nayo126.github.io/auto-blog/blog/anthropic無料枠の使い方2026最新7選/)
 - [Anthropic無料プランの全貌2026｜Claude無料で月3万円稼ぐ方法](https://nayo126.github.io/auto-blog/blog/anthropic無料プランの全貌2026claude無料で月3万円稼ぐ方法/)
-- [Anthropic無料講座2026|副業活用5つの学び方](https://nayo126.github.io/auto-blog/blog/anthropic無料講座2026副業活用5つの学び方/)
 
 ### 姉妹サイトの関連記事
 - [Claudeがユーザーに「寝なさい」と命令する謎現象、Anthropicも原因不明](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic.html) — AI News JP

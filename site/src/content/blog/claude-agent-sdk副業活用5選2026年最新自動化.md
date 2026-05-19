@@ -124,7 +124,7 @@ Claude Agent SDKは、副業の生産性を大きく引き上げる強力なツ�
 
 - [Claude MCP 自動化で月10時間減らす5設定](https://nayo126.github.io/auto-blog/blog/claude-mcp-自動化で月10時間減らす5設定/)
 - [ChatGPT×Excel自動化副業｜2026年最新7つの稼ぎ方](https://nayo126.github.io/auto-blog/blog/chatgptexcel自動化副業2026年最新7つの稼ぎ方/)
-- [AIライター単価相場2026｜文字単価0.5〜3円の実態](https://nayo126.github.io/auto-blog/blog/aiライター単価相場2026文字単価053円の実態/)
+- [Claude Computer Use 自動化で副業効率3倍|実践7事例](https://nayo126.github.io/auto-blog/blog/claude-computer-use-自動化で副業効率3倍実践7事例/)
 
 ### 姉妹サイトの関連記事
 - [Claude AIで激変するLinkedInプロフィール作成術2026年最新版](https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html) — AI News JP

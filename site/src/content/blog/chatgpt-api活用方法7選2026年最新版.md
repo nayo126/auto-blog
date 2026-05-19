@@ -137,3 +137,44 @@ ChatGPT APIは、月額固定のサブスクとは異なり、副業に組み込
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html)
 - [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html)
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html)
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### ChatGPT APIとChatGPT Plusの違いは何ですか？
+
+ChatGPT Plusは月額20ドル固定でWeb版を使い放題のサブスク、APIはトークン単位の従量課金で自作アプリに組み込む開発者向けサービスです。副業で収益化する仕組みを作るならAPI一択です。
+
+### ChatGPT APIは初心者でもPythonなしで使えますか？
+
+使えます。Make(旧Integromat)やZapier、Difyなどのノーコードツール経由でAPIキーを登録すれば、コードを書かずに自動化フローが組めます。月10ドル前後で記事生成BotやSlack連携を構築可能です。
+
+### ChatGPT APIの料金は1ヶ月いくらかかりますか？
+
+個人副業レベルなら月3〜15ドルが目安です。GPT-4o miniは100万トークンあたり入力0.15ドル、出力0.6ドルで、ブログ記事を毎日1本生成しても月5ドル以下に収まります。GPT-5を多用すると月50ドル超もあります。
+
+### ChatGPT APIで作ったツールを販売しても規約違反になりませんか？
+
+OpenAIの利用規約上、API経由で生成した出力物の販売や商用利用は明示的に許可されています。ただし「ChatGPT製」と偽る表記や、医療・法律の専門助言として提供する用途は禁止されているため、用途を明記して販売してください。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "ChatGPT APIとChatGPT Plusの違いは何ですか？", "acceptedAnswer": {"@type": "Answer", "text": "ChatGPT Plusは月額20ドル固定でWeb版を使い放題のサブスク、APIはトークン単位の従量課金で自作アプリに組み込む開発者向けサービスです。副業で収益化する仕組みを作るならAPI一択です。"}}, {"@type": "Question", "name": "ChatGPT APIは初心者でもPythonなしで使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "使えます。Make(旧Integromat)やZapier、Difyなどのノーコードツール経由でAPIキーを登録すれば、コードを書かずに自動化フローが組めます。月10ドル前後で記事生成BotやSlack連携を構築可能です。"}}, {"@type": "Question", "name": "ChatGPT APIの料金は1ヶ月いくらかかりますか？", "acceptedAnswer": {"@type": "Answer", "text": "個人副業レベルなら月3〜15ドルが目安です。GPT-4o miniは100万トークンあたり入力0.15ドル、出力0.6ドルで、ブログ記事を毎日1本生成しても月5ドル以下に収まります。GPT-5を多用すると月50ドル超もあります。"}}, {"@type": "Question", "name": "ChatGPT APIで作ったツールを販売しても規約違反になりませんか？", "acceptedAnswer": {"@type": "Answer", "text": "OpenAIの利用規約上、API経由で生成した出力物の販売や商用利用は明示的に許可されています。ただし「ChatGPT製」と偽る表記や、医療・法律の専門助言として提供する用途は禁止されているため、用途を明記して販売してください。"}}]}
+</script>
+
+<!-- FAQ_END -->
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [ChatGPT×Excel自動化副業｜2026年最新7つの稼ぎ方](https://nayo126.github.io/auto-blog/blog/chatgptexcel自動化副業2026年最新7つの稼ぎ方/)
+- [ChatGPT API無料クレジットの真実2026|0円活用術7選](https://nayo126.github.io/auto-blog/blog/chatgpt-api無料クレジットの真実20260円活用術7選/)
+- [AIブログを無料で始める7つの方法【2026年最新】](https://nayo126.github.io/auto-blog/blog/aiブログを無料で始める7つの方法2026年最新/)
+
+### 姉妹サイトの関連記事
+- [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP
+- [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html) — AI News JP
+- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
+
+<!-- SEO_MESH_END -->
