@@ -17,6 +17,10 @@ image: "/auto-blog/ogp/leonardo-ai使い方完全ガイド2026年版月5万稼�
 
 ## Leonardo AIとは?2026年に選ばれる3つの理由
 
+<!-- INLINE_IMG -->
+![Leonardo AI使い方完全ガイド2026年版|月5万稼ぐ7ステップ - Leonardo AIとは?2026年に選ばれる3つの理由](/auto-blog/inline-images/leonardo-ai-2026-5-7--0.jpg)
+
+
 結論:Leonardo AIは「Midjourneyの画質」と「Stable Diffusionの自由度」のいいとこ取りをした、副業初心者に最適な画像生成AIです。
 
 理由は3つあります。
@@ -42,6 +46,10 @@ Leonardo Phoenix、Lucid Origin、Flux Devなど2026年時点で20以上のモ�
 
 
 ## アカウント作成と日本語設定までの3分手順
+
+<!-- INLINE_IMG -->
+![Leonardo AI使い方完全ガイド2026年版|月5万稼ぐ7ステップ - アカウント作成と日本語設定までの3分手順](/auto-blog/inline-images/leonardo-ai-2026-5-7--1.jpg)
+
 
 結論:メールアドレスがあれば3分でアカウント作成と日本語化が完了します。
 

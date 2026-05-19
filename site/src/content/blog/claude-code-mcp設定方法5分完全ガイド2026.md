@@ -195,3 +195,29 @@ Claude CodeのMCP設定は「設定ファイルのパスを知る」「JSONを�
 - [ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-3-reddit.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude CodeのMCP設定ファイルはどこにありますか？
+
+macOSは~/.config/claude-code/mcp.json、Windowsは%APPDATA%\claude-code\mcp.jsonです。プロジェクト単位なら.mcp.jsonをルートに置けば、その作業ディレクトリ起動時に自動読み込みされます。
+
+### MCPサーバーが認識されない時の確認手順は？
+
+1) claude mcp listでサーバー登録を確認、2) JSON構文をjqで検証、3) npxやuvxのPATH通過確認、4) Claude Code完全再起動の4ステップ。9割はJSONのカンマ抜けかコマンドのフルパス未指定が原因です。
+
+### Claude Codeで最初に入れるべきMCPサーバー3選は？
+
+filesystem（ローカルファイル操作）、github（リポジトリ操作・PR作成）、playwright（ブラウザ自動操作）の3つ。すべてnpx -y @modelcontextprotocol/server-xxx形式で導入でき、追加設定なしで即動作します。
+
+### MCPサーバーの設定変更後に再起動は必要ですか？
+
+必要です。Claude Codeは起動時にのみmcp.jsonを読み込むため、/exitで完全終了→再起動が必須。VSCode拡張版の場合は拡張機能のリロード（Cmd+Shift+P→Reload Window）で反映されます。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude CodeのMCP設定ファイルはどこにありますか？", "acceptedAnswer": {"@type": "Answer", "text": "macOSは~/.config/claude-code/mcp.json、Windowsは%APPDATA%\\claude-code\\mcp.jsonです。プロジェクト単位なら.mcp.jsonをルートに置けば、その作業ディレクトリ起動時に自動読み込みされます。"}}, {"@type": "Question", "name": "MCPサーバーが認識されない時の確認手順は？", "acceptedAnswer": {"@type": "Answer", "text": "1) claude mcp listでサーバー登録を確認、2) JSON構文をjqで検証、3) npxやuvxのPATH通過確認、4) Claude Code完全再起動の4ステップ。9割はJSONのカンマ抜けかコマンドのフルパス未指定が原因です。"}}, {"@type": "Question", "name": "Claude Codeで最初に入れるべきMCPサーバー3選は？", "acceptedAnswer": {"@type": "Answer", "text": "filesystem（ローカルファイル操作）、github（リポジトリ操作・PR作成）、playwright（ブラウザ自動操作）の3つ。すべてnpx -y @modelcontextprotocol/server-xxx形式で導入でき、追加設定なしで即動作します。"}}, {"@type": "Question", "name": "MCPサーバーの設定変更後に再起動は必要ですか？", "acceptedAnswer": {"@type": "Answer", "text": "必要です。Claude Codeは起動時にのみmcp.jsonを読み込むため、/exitで完全終了→再起動が必須。VSCode拡張版の場合は拡張機能のリロード（Cmd+Shift+P→Reload Window）で反映されます。"}}]}
+</script>
+
+<!-- FAQ_END -->

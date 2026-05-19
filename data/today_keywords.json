@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-19T02:30:01.648208+00:00",
+  "picked_at": "2026-05-19T08:30:03.629417+00:00",
   "count": 5,
   "items": [
     {
-      "category": "Claude活用",
-      "keyword": "claude code"
-    },
-    {
       "category": "海外AIトレンド",
-      "keyword": "azure openai 比較"
+      "keyword": "anthropic 無料 枠"
     },
     {
-      "category": "AIツール比較",
-      "keyword": "動画 アップ スケーリング ai 比較"
-    },
-    {
-      "category": "ChatGPT活用",
-      "keyword": "chatgpt アプリ 無料 使い方"
+      "category": "Claude活用",
+      "keyword": "claude mcp add"
     },
     {
       "category": "AI副業",
-      "keyword": "ai ブログ 無料"
+      "keyword": "ai ブログ プロンプト"
+    },
+    {
+      "category": "プロンプトエンジニアリング",
+      "keyword": "メタ プロンプト 作り方"
+    },
+    {
+      "category": "AIツール比較",
+      "keyword": "ai 画像生成 無料 ブラウザ"
     }
   ]
 }

@@ -126,3 +126,29 @@ Claude Codeは、無料クレジット・Claude.ai・クラウド開発環境を
 - [Claude Codeが1時間連続編集？AIコーディング長時間自律作業の実態と注意点](https://nayo126.github.io/ai-news-jp/posts/claude-code-1-ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude Codeの無料クレジットはいくらもらえますか？
+
+Anthropic APIの新規登録で5ドル分の無料クレジットが付与されます。Claude Haiku 4.5なら約300万トークン処理でき、小規模プロジェクトのコード生成や修正を数十回実行可能です。
+
+### Claude CodeとCursorはどちらが安いですか？
+
+Cursorは月20ドル固定、Claude CodeはAPI従量課金で使った分だけ支払います。月10時間程度の軽い利用ならClaude Codeの方が5〜10ドルで済み、ヘビーユーザーはCursorが割安です。
+
+### Claude Codeは商用利用しても無料枠で使えますか？
+
+Anthropic APIの無料クレジット5ドル分は商用利用も可能です。ただし利用規約上、生成コードの責任は利用者にあり、機密情報を含むコードを送信する場合はZero Data Retention設定が必要です。
+
+### Claude Codeの有料プランに切り替えるべき目安は？
+
+月のAPI使用料が20ドルを超えたらClaude Pro(月20ドル)への移行が目安です。1日2時間以上コーディングに使う、または週5日以上利用する場合は固定プランの方が3〜5割安くなります。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude Codeの無料クレジットはいくらもらえますか？", "acceptedAnswer": {"@type": "Answer", "text": "Anthropic APIの新規登録で5ドル分の無料クレジットが付与されます。Claude Haiku 4.5なら約300万トークン処理でき、小規模プロジェクトのコード生成や修正を数十回実行可能です。"}}, {"@type": "Question", "name": "Claude CodeとCursorはどちらが安いですか？", "acceptedAnswer": {"@type": "Answer", "text": "Cursorは月20ドル固定、Claude CodeはAPI従量課金で使った分だけ支払います。月10時間程度の軽い利用ならClaude Codeの方が5〜10ドルで済み、ヘビーユーザーはCursorが割安です。"}}, {"@type": "Question", "name": "Claude Codeは商用利用しても無料枠で使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "Anthropic APIの無料クレジット5ドル分は商用利用も可能です。ただし利用規約上、生成コードの責任は利用者にあり、機密情報を含むコードを送信する場合はZero Data Retention設定が必要です。"}}, {"@type": "Question", "name": "Claude Codeの有料プランに切り替えるべき目安は？", "acceptedAnswer": {"@type": "Answer", "text": "月のAPI使用料が20ドルを超えたらClaude Pro(月20ドル)への移行が目安です。1日2時間以上コーディングに使う、または週5日以上利用する場合は固定プランの方が3〜5割安くなります。"}}]}
+</script>
+
+<!-- FAQ_END -->

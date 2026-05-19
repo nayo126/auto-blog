@@ -112,3 +112,29 @@ Claude Artifactsは、個人開発のプロトタイピング工程を圧縮す�
 - [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude Artifactsは無料プランでも使えますか?
+
+無料プランでも基本機能は利用可能です。ただし1日の使用回数に制限があり、長いコード生成を繰り返すと数時間で上限に達します。本格的に個人開発で使うならPro($20/月)以上を推奨します。
+
+### Claude ArtifactsとChatGPTのCanvasの違いは何ですか?
+
+Artifactsはブラウザ上でReactやHTMLを即実行・プレビューできる点が強みです。ChatGPT CanvasはGPT-4oベースで文書編集寄り、Artifactsはコード実行とSVG/Mermaid描画が得意で、プロト作成スピードは約2〜3倍速いです。
+
+### Claude Artifactsで作ったコードはそのまま本番運用できますか?
+
+そのまま本番投入は推奨されません。生成コードはプロトタイプ品質で、認証・DB接続・エラー処理が不足しがちです。Vercelなどへデプロイする際は、最低限セキュリティとパフォーマンスのレビューを通してください。
+
+### Claude Artifactsで使えるライブラリには制限がありますか?
+
+サンドボックス内で動くため使えるライブラリは限定的です。React、Tailwind CSS、Recharts、Lucide、shadcn/uiなど約15種類は標準対応していますが、外部APIや独自npmパッケージは読み込めません。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude Artifactsは無料プランでも使えますか?", "acceptedAnswer": {"@type": "Answer", "text": "無料プランでも基本機能は利用可能です。ただし1日の使用回数に制限があり、長いコード生成を繰り返すと数時間で上限に達します。本格的に個人開発で使うならPro($20/月)以上を推奨します。"}}, {"@type": "Question", "name": "Claude ArtifactsとChatGPTのCanvasの違いは何ですか?", "acceptedAnswer": {"@type": "Answer", "text": "Artifactsはブラウザ上でReactやHTMLを即実行・プレビューできる点が強みです。ChatGPT CanvasはGPT-4oベースで文書編集寄り、Artifactsはコード実行とSVG/Mermaid描画が得意で、プロト作成スピードは約2〜3倍速いです。"}}, {"@type": "Question", "name": "Claude Artifactsで作ったコードはそのまま本番運用できますか?", "acceptedAnswer": {"@type": "Answer", "text": "そのまま本番投入は推奨されません。生成コードはプロトタイプ品質で、認証・DB接続・エラー処理が不足しがちです。Vercelなどへデプロイする際は、最低限セキュリティとパフォーマンスのレビューを通してください。"}}, {"@type": "Question", "name": "Claude Artifactsで使えるライブラリには制限がありますか?", "acceptedAnswer": {"@type": "Answer", "text": "サンドボックス内で動くため使えるライブラリは限定的です。React、Tailwind CSS、Recharts、Lucide、shadcn/uiなど約15種類は標準対応していますが、外部APIや独自npmパッケージは読み込めません。"}}]}
+</script>
+
+<!-- FAQ_END -->

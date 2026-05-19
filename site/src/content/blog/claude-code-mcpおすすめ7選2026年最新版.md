@@ -150,3 +150,29 @@ Claude CodeにMCPを組み合わせると、コード生成だけだったAIが�
 - [ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-3-reddit.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude CodeでMCPサーバーを追加する方法は？
+
+ターミナルで`claude mcp add <名前> <コマンド>`を実行するか、`~/.claude.json`に直接設定を追記します。追加後は`/mcp`コマンドで接続状態を確認でき、3秒以内に緑のステータスが出れば正常稼働です。
+
+### MCPサーバーは無料で使えますか？
+
+GitHub・Filesystem・Playwrightなど主要MCPの大半はOSSで完全無料です。ただしSupabaseやNotion連携は各サービスの無料枠（月500MB/1000リクエスト等）を超えると課金が発生します。
+
+### MCPとClaude Codeのプラグインの違いは？
+
+MCPは外部ツール接続用の標準プロトコルで言語非依存、プラグインはClaude Code内部の機能拡張です。例えばDB操作はMCP、UIカスタマイズはプラグインと使い分け、両者は併用可能です。
+
+### Claude CodeのMCPが動かない時の対処法は？
+
+まず`claude mcp list`で登録確認、次に`node -v`でNode 18以上か検証します。9割は環境変数の未設定かパス誤りが原因で、`~/.claude/logs/`のエラーログを見れば30秒で特定できます。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude CodeでMCPサーバーを追加する方法は？", "acceptedAnswer": {"@type": "Answer", "text": "ターミナルで`claude mcp add <名前> <コマンド>`を実行するか、`~/.claude.json`に直接設定を追記します。追加後は`/mcp`コマンドで接続状態を確認でき、3秒以内に緑のステータスが出れば正常稼働です。"}}, {"@type": "Question", "name": "MCPサーバーは無料で使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "GitHub・Filesystem・Playwrightなど主要MCPの大半はOSSで完全無料です。ただしSupabaseやNotion連携は各サービスの無料枠（月500MB/1000リクエスト等）を超えると課金が発生します。"}}, {"@type": "Question", "name": "MCPとClaude Codeのプラグインの違いは？", "acceptedAnswer": {"@type": "Answer", "text": "MCPは外部ツール接続用の標準プロトコルで言語非依存、プラグインはClaude Code内部の機能拡張です。例えばDB操作はMCP、UIカスタマイズはプラグインと使い分け、両者は併用可能です。"}}, {"@type": "Question", "name": "Claude CodeのMCPが動かない時の対処法は？", "acceptedAnswer": {"@type": "Answer", "text": "まず`claude mcp list`で登録確認、次に`node -v`でNode 18以上か検証します。9割は環境変数の未設定かパス誤りが原因で、`~/.claude/logs/`のエラーログを見れば30秒で特定できます。"}}]}
+</script>
+
+<!-- FAQ_END -->
