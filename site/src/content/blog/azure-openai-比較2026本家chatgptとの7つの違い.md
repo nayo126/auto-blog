@@ -15,6 +15,10 @@ image: "/auto-blog/ogp/azure-openai-比較2026本家chatgptとの7つの違い.p
 
 ## 結論：副業なら本家OpenAI、法人案件ならAzure
 
+<!-- INLINE_IMG -->
+![Azure OpenAI 比較2026｜本家ChatGPTとの7つの違い - 結論：副業なら本家OpenAI、法人案件ならAzure](/auto-blog/inline-images/azure-openai-2026-chatgpt-7--0.jpg)
+
+
 結論から書きます。個人の副業利用であれば本家OpenAI API、法人や受託案件であればAzure OpenAI Serviceが基本的な選択肢になります。
 
 理由はシンプルで、本家OpenAIはクレジットカード1枚で即時に使い始められ、最新モデル(GPT-5系)の解放も早い一方、Azureは申請ベースで数日〜数週間の審査が入る代わりに、データを学習に使わない契約・日本リージョン保管・SLA99.9%といった企業要件を満たせるからです。
@@ -31,6 +35,10 @@ image: "/auto-blog/ogp/azure-openai-比較2026本家chatgptとの7つの違い.p
 
 
 ## 料金体系の違い：トークン単価はほぼ同じ、最低料金が差を生む
+
+<!-- INLINE_IMG -->
+![Azure OpenAI 比較2026｜本家ChatGPTとの7つの違い - 料金体系の違い：トークン単価はほぼ同じ、最低料金が差を生む](/auto-blog/inline-images/azure-openai-2026-chatgpt-7--1.jpg)
+
 
 トークン単価そのものは2026年5月時点でほぼ同水準に揃っています。GPT-4o系・GPT-5系ともに入力・出力単価は両者でほぼ一致しており、純粋なAPI呼び出しコストで差はつきません。
 

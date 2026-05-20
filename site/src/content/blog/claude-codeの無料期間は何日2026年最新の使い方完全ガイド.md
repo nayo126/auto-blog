@@ -111,3 +111,18 @@ Claude Codeに明確な無料期間はないものの、Claude.aiの無料プラ
 - [Claudeがユーザーに「寝なさい」と命令する謎現象、Anthropicも原因不明](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic.html)
 - [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html)
 - [Claude Codeが1時間連続編集？AIコーディング長時間自律作業の実態と注意点](https://nayo126.github.io/ai-news-jp/posts/claude-code-1-ai.html)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Anthropic最新動向2026｜Claude活用で副業収益化する5つの方法](https://nayo126.github.io/auto-blog/blog/anthropic最新動向2026claude活用で副業収益化する5つの方法/)
+- [Anthropic Mythosとは何か？2026年最新AI動向7選](https://nayo126.github.io/auto-blog/blog/anthropic-mythosとは何か2026年最新ai動向7選/)
+- [Anthropic無料枠の使い方2026最新7選](https://nayo126.github.io/auto-blog/blog/anthropic無料枠の使い方2026最新7選/)
+
+### 姉妹サイトの関連記事
+- [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html) — AI News JP
+- [Andrej KarpathyがAnthropicに移籍 OpenAI共同創業者の電撃移籍が示すAI業界の地殻変動](https://nayo126.github.io/ai-news-jp/posts/andrej-karpathy-anthropic-openai-ai.html) — AI News JP
+- [Claudeがユーザーに「寝なさい」と命令する謎現象、Anthropicも原因不明](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic.html) — AI News JP
+
+<!-- SEO_MESH_END -->

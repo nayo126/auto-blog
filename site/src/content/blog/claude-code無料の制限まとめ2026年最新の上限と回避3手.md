@@ -17,6 +17,10 @@ image: "/auto-blog/ogp/claude-code無料の制限まとめ2026年最新の上限
 
 ## 結論：Claude Code無料は「5時間ごとのリセット型」で重い作業は途中で止まる
 
+<!-- INLINE_IMG -->
+![Claude Code無料の制限まとめ｜2026年最新の上限と回避3手 - 結論：Claude Code無料は「5時間ごとのリセット型」で重い作業は途中で止まる](/auto-blog/inline-images/claude-code-2026-3--0.jpg)
+
+
 結論から書きます。**Claude Codeの無料利用は、5時間ごとにリセットされるメッセージ枠と、モデル別のトークン消費量で管理されています**。理由は、Anthropicが計算コストを抑えつつ、有料プラン（Pro/Max）への動線を作るためです。
 
 無料ユーザーが体感する制限の実態は次のとおりです。
@@ -38,6 +42,10 @@ image: "/auto-blog/ogp/claude-code無料の制限まとめ2026年最新の上限
 
 
 ## H2-1：無料プランで何が制限される？回数・モデル・コンテキストの3軸
+
+<!-- INLINE_IMG -->
+![Claude Code無料の制限まとめ｜2026年最新の上限と回避3手 - H2-1：無料プランで何が制限される？回数・モデル・コンテキストの3軸](/auto-blog/inline-images/claude-code-2026-3--1.jpg)
+
 
 Claude Codeの無料制限は、ざっくり次の3軸で構成されています。
 

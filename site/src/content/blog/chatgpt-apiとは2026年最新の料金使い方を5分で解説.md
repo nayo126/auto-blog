@@ -160,7 +160,7 @@ Pythonの基本構文がわかれば10行程度で動かせます。難しい場
 
 ### 姉妹サイトの関連記事
 - [Elon Musk敗訴：OpenAI・Sam Altmanへの訴訟で判決、AI業界への影響を解説](https://nayo126.github.io/ai-news-jp/posts/elon-musk-openai-sam-altman-ai.html) — AI News JP
+- [OpenAIがContent Credentials/SynthID対応、AI生成コンテンツの来歴検証ツールを公開](https://nayo126.github.io/ai-news-jp/posts/openai-content-credentials-synthid-ai.html) — AI News JP
 - [OpenAI Codexをデータサイエンスチームが活用する5つのワークフロー](https://nayo126.github.io/ai-news-jp/posts/openai-codex-5.html) — AI News JP
-- [OpenAIがマルタ政府と提携、全国民にChatGPT Plus提供と研修を実施](https://nayo126.github.io/ai-news-jp/posts/openai-chatgpt-plus.html) — AI News JP
 
 <!-- SEO_MESH_END -->

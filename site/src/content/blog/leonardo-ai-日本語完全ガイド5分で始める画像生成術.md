@@ -17,6 +17,10 @@ MidjourneyやStable Diffusionと並んで注目されているLeonardo AIです�
 
 ## Leonardo AIは日本語対応している？基本仕様を整理
 
+<!-- INLINE_IMG -->
+![Leonardo AI 日本語完全ガイド｜5分で始める画像生成術 - Leonardo AIは日本語対応している？基本仕様を整理](/auto-blog/inline-images/leonardo-ai-5--0.jpg)
+
+
 結論：Leonardo AIは**プロンプト入力に日本語が使えます**。ただしUI自体は英語ベースで、ブラウザの翻訳機能を併用するのが実用的です。
 
 Leonardo AIはカナダ発の画像生成サービスで、Phoenix、Flux、SDXLなど複数のモデルを切り替えて使えるのが特徴です。Midjourneyのようなアート寄りの絵柄から、実写に近いフォトリアル系まで幅広く対応しており、1つのアカウントで作風を自在に変えられます。
@@ -33,6 +37,10 @@ Leonardo AIはカナダ発の画像生成サービスで、Phoenix、Flux、SDXL
 
 
 ## 料金プランと無料で使える範囲
+
+<!-- INLINE_IMG -->
+![Leonardo AI 日本語完全ガイド｜5分で始める画像生成術 - 料金プランと無料で使える範囲](/auto-blog/inline-images/leonardo-ai-5--1.jpg)
+
 
 Leonardo AIには無料プランがあり、**1日あたり150トークン**が付与されます。1枚の生成に約4〜10トークンを使うので、無料でも1日15〜30枚程度の画像が作れる計算です。
 

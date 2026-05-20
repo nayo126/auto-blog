@@ -102,8 +102,8 @@ BedrockとOpenAIは競合というより役割分担の関係に近く、「速�
 
 ### 姉妹サイトの関連記事
 - [Elon Musk敗訴：OpenAI・Sam Altmanへの訴訟で判決、AI業界への影響を解説](https://nayo126.github.io/ai-news-jp/posts/elon-musk-openai-sam-altman-ai.html) — AI News JP
+- [OpenAIがContent Credentials/SynthID対応、AI生成コンテンツの来歴検証ツールを公開](https://nayo126.github.io/ai-news-jp/posts/openai-content-credentials-synthid-ai.html) — AI News JP
 - [OpenAI Codexをデータサイエンスチームが活用する5つのワークフロー](https://nayo126.github.io/ai-news-jp/posts/openai-codex-5.html) — AI News JP
-- [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->
 

@@ -15,6 +15,10 @@ image: "/auto-blog/ogp/boltnew-解約方法を3分で完了2026年最新手順�
 
 ## 結論：Bolt.newの解約は管理画面から3分で完了する
 
+<!-- INLINE_IMG -->
+![Bolt.new 解約方法を3分で完了！2026年最新手順と注意点 - 結論：Bolt.newの解約は管理画面から3分で完了する](/auto-blog/inline-images/boltnew-3-2026--0.jpg)
+
+
 結論から書くと、Bolt.newの解約は公式サイトの「Settings」→「Subscription」から3クリックで完了します。電話やメールでの問い合わせは不要で、解約引き止めのポップアップもほぼ表示されません。
 
 具体的な手順は次の通りです。
@@ -39,6 +43,10 @@ image: "/auto-blog/ogp/boltnew-解約方法を3分で完了2026年最新手順�
 
 
 ## 解約前に必ず確認したい3つのポイント
+
+<!-- INLINE_IMG -->
+![Bolt.new 解約方法を3分で完了！2026年最新手順と注意点 - 解約前に必ず確認したい3つのポイント](/auto-blog/inline-images/boltnew-3-2026--1.jpg)
+
 
 「解約ボタンを押す前に、これだけは確認しておいて損はない」というポイントが3つあります。
 
@@ -138,6 +146,7 @@ StackBlitz社のポリシーでは月額・年額プランとも日割り返金�
 
 ## 関連する記事
 
+- [Leonardo AI解約方法を3分で完了する手順【2026年最新】](https://nayo126.github.io/auto-blog/blog/leonardo-ai解約方法を3分で完了する手順2026年最新/)
 - [Claude Code比較2026｜主要AI開発5ツールの実力差](https://nayo126.github.io/auto-blog/blog/claude-code比較2026主要ai開発5ツールの実力差/)
 - [Bolt.new徹底比較2026｜v0/Replit/Lovableとの違い7選](https://nayo126.github.io/auto-blog/blog/boltnew徹底比較2026v0replitlovableとの違い7選/)
 
