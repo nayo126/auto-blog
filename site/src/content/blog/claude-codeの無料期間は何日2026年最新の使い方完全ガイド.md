@@ -32,12 +32,14 @@ image: "/auto-blog/ogp/claude-codeの無料期間は何日2026年最新の使い
 「無料期間」を厳密に探している人は、APIの初回クレジットが最も近い概念だと考えるとわかりやすいでしょう。新規アカウントで5ドル分前後のクレジットが付与されるケースが過去にあり、これを使えばClaude Codeを実質無料で数時間試すことが可能です。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude Pro に関連する書籍・ツール</div>
 <p>「Claude Pro」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Pro%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Pro」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Pro" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude Pro」関連を見る</a></p>
 </aside>
+
 
 
 ## 無料枠だけでClaude Codeをどこまで使えるか
@@ -70,12 +72,14 @@ console.anthropic.comからAPIキーを発行すると、新規アカウント�
 副業収益が月1万円を超えたあたりからは、思い切ってMaxにする選択肢も視野に入れたいところ。海外のAIエンジニアコミュニティでは、Maxプランで複数のClaude Codeセッションを並列実行し、開発生産性を3倍以上に引き上げているという報告も見られます。
 
 
+
 <aside class="affiliate-card">
 <div class="label">AI開発ツール に関連する書籍・ツール</div>
 <p>「AI開発ツール」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E9%2596%258B%25E7%2599%25BA%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI開発ツール」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=AI%E9%96%8B%E7%99%BA%E3%83%84%E3%83%BC%E3%83%AB" target="_blank" rel="sponsored noopener">▶ Amazonで「AI開発ツール」関連を見る</a></p>
 </aside>
+
 
 
 ## 無料で試すときに失敗しない3つのコツ

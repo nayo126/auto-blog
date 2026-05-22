@@ -38,12 +38,14 @@ image: "/auto-blog/ogp/chatgpt-vs-gemini-api料金比較2026月3万円節約術.
 注意したいのは、両者とも長文コンテキスト（128K以上）では割増料金が発生する点。Gemini 3.1 Proは200Kトークン超で1.5倍、ChatGPTも長文時は専用エンドポイントに切り替わります。
 
 
+
 <aside class="affiliate-card">
 <div class="label">ChatGPT API に関連する書籍・ツール</div>
 <p>「ChatGPT API」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520API%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT API」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20API" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT API」関連を見る</a></p>
 </aside>
+
 
 
 ## 実際に副業で使うといくらかかる？月額シミュレーション
@@ -96,12 +98,14 @@ OpenAIのBatch APIを使うと、24時間以内に処理する非同期タスク
 API料金はドル建て決済。円安が進むと請求額が膨らみます。2026年5月の1ドル150円前後を基準に、月額予算は1.2倍のバッファを持つのが安全です。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Gemini API に関連する書籍・ツール</div>
 <p>「Gemini API」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGemini%2520API%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Gemini API」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Gemini%20API" target="_blank" rel="sponsored noopener">▶ Amazonで「Gemini API」関連を見る</a></p>
 </aside>
+
 
 
 ## タスク別おすすめの使い分け戦略

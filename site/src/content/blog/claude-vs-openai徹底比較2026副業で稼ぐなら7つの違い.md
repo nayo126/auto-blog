@@ -24,12 +24,14 @@ ChatGPTで副業を始めたものの、最近「Claudeのほうがいい」と�
 特に副業ライターの場合、リサーチをChatGPT、執筆をClaudeに振るだけで作業効率が体感1.5倍は上がる。
 
 
+
 <aside class="affiliate-card">
 <div class="label">AIライティング に関連する書籍・ツール</div>
 <p>「AIライティング」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AIライティング」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=AI%E3%83%A9%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0" target="_blank" rel="sponsored noopener">▶ Amazonで「AIライティング」関連を見る</a></p>
 </aside>
+
 
 
 ## 性能比較:ベンチマークと実務での感触
@@ -82,12 +84,14 @@ API料金で比べると、Claude Sonnet 4.6は入力100万トークンあたり
 逆に「文章で稼ぐ」と決まっているなら、最初からClaude Proでも問題ない。月数万字レベルの執筆ではClaudeのほうがやり直しの回数が減り、結果的に時給換算で得をする。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude Pro に関連する書籍・ツール</div>
 <p>「Claude Pro」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Pro%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Pro」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Pro" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude Pro」関連を見る</a></p>
 </aside>
+
 
 
 ## まとめ

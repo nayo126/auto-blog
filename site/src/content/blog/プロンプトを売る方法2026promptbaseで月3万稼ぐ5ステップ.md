@@ -37,12 +37,14 @@ PromptBaseは2022年6月に米国で立ち上がったプロンプトマーケ�
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">PromptBase に関連する書籍・ツール</div>
 <p>「PromptBase」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPromptBase%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「PromptBase」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=PromptBase" target="_blank" rel="sponsored noopener">▶ Amazonで「PromptBase」関連を見る</a></p>
 </aside>
+
 
 
 
@@ -95,12 +97,14 @@ ChatGPT 5またはClaude Sonnet 4.6に「PromptBase用の販売ページ説明�
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">ChatGPT に関連する書籍・ツール</div>
 <p>「ChatGPT」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT」関連を見る</a></p>
 </aside>
+
 
 
 

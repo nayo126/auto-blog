@@ -56,12 +56,14 @@ ChatGPTに長いプロンプトを送ろうとしてEnterを押した瞬間、�
 ベタ書きで1行に詰め込むより、ブロック単位で改行を入れたほうがChatGPTは指示を正確に理解します。これは内部的に空行が文脈の区切りとして解釈されるため。長文プロンプトを書く人ほど、Shift+Enterを連打する癖をつけるべきです。
 
 
+
 <aside class="affiliate-card">
 <div class="label">ChatGPT プロンプト 書籍 に関連する書籍・ツール</div>
 <p>「ChatGPT プロンプト 書籍」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%2520%25E6%259B%25B8%25E7%25B1%258D%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT プロンプト 書籍」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%20%E6%9B%B8%E7%B1%8D" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT プロンプト 書籍」関連を見る</a></p>
 </aside>
+
 
 
 ## 方法2：「\n」を使って強制的に改行を埋め込む
@@ -107,12 +109,14 @@ iPhone・Androidとも共通の挙動ですが、Bluetoothキーボードを接�
 スマホで長文を打つのが面倒な場合は、音声入力との組み合わせがおすすめです。マイクアイコンから音声で文章を流し込み、必要なところで手動でEnterを押して段落分けする。この方法だと通勤中の電車内でも、3分で1000字級のプロンプトを作れます。
 
 
+
 <aside class="affiliate-card">
 <div class="label">ChatGPT 副業 始め方 に関連する書籍・ツール</div>
 <p>「ChatGPT 副業 始め方」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520%25E5%2589%25AF%25E6%25A5%25AD%2520%25E5%25A7%258B%25E3%2582%2581%25E6%2596%25B9%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT 副業 始め方」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20%E5%89%AF%E6%A5%AD%20%E5%A7%8B%E3%82%81%E6%96%B9" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT 副業 始め方」関連を見る</a></p>
 </aside>
+
 
 
 ## 方法5：改行が反映されないときの対処法

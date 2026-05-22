@@ -26,12 +26,14 @@ image: "/auto-blog/ogp/azure-openai-比較2026本家chatgptとの7つの違い.p
 実際、海外のフォーラムでも「個人開発はplatform.openai.com、クライアントワークはAzure」と使い分けている開発者の声が多く見られます。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Azure OpenAI に関連する書籍・ツール</div>
 <p>「Azure OpenAI」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAzure%2520OpenAI%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Azure OpenAI」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Azure%20OpenAI" target="_blank" rel="sponsored noopener">▶ Amazonで「Azure OpenAI」関連を見る</a></p>
 </aside>
+
 
 
 ## 料金体系の違い：トークン単価はほぼ同じ、最低料金が差を生む
@@ -66,12 +68,14 @@ image: "/auto-blog/ogp/azure-openai-比較2026本家chatgptとの7つの違い.p
 特に医療・金融・自治体系の案件では、データ越境を禁じる要件が多く、Azure一択になります。副業でこの領域を狙うなら、Azureの設定経験は単価アップの武器になります。
 
 
+
 <aside class="affiliate-card">
 <div class="label">クラウド学習 に関連する書籍・ツール</div>
 <p>「クラウド学習」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%2589%25E5%25AD%25A6%25E7%25BF%2592%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「クラウド学習」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E5%AD%A6%E7%BF%92" target="_blank" rel="sponsored noopener">▶ Amazonで「クラウド学習」関連を見る</a></p>
 </aside>
+
 
 
 ## 開発体験：APIキー1本かAzure ADか

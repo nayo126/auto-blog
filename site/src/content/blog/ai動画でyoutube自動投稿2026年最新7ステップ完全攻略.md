@@ -36,12 +36,14 @@ Shortsアルゴリズムはチャンネル登録者ゼロでも初動で配信�
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">AI動画生成ツール に関連する書籍・ツール</div>
 <p>「AI動画生成ツール」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E5%258B%2595%25E7%2594%25BB%25E7%2594%259F%25E6%2588%2590%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI動画生成ツール」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=AI%E5%8B%95%E7%94%BB%E7%94%9F%E6%88%90%E3%83%84%E3%83%BC%E3%83%AB" target="_blank" rel="sponsored noopener">▶ Amazonで「AI動画生成ツール」関連を見る</a></p>
 </aside>
+
 
 
 
@@ -102,12 +104,14 @@ ElevenLabs、Runway Gen-4.5、Suno v4などを統合。プロチャンネル運�
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">n8n 自動化 に関連する書籍・ツール</div>
 <p>「n8n 自動化」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fn8n%2520%25E8%2587%25AA%25E5%258B%2595%25E5%258C%2596%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「n8n 自動化」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=n8n%20%E8%87%AA%E5%8B%95%E5%8C%96" target="_blank" rel="sponsored noopener">▶ Amazonで「n8n 自動化」関連を見る</a></p>
 </aside>
+
 
 
 

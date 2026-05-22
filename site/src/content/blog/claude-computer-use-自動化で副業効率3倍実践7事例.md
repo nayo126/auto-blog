@@ -18,12 +18,14 @@ image: "/auto-blog/ogp/claude-computer-use-自動化で副業効率3倍実践7�
 結論から書きます。Claude Computer Useを使えば、ブラウザ・スプレッドシート・各種SaaSを「画面ごと」AIに操作させる自動化が組めます。理由は、Claudeがスクリーンショットを読み取り、マウスやキーボードの操作を自律的に判断して実行できるからです。本記事では、副業ワーカーが今日から取り入れられる7つの実践例と、始め方の手順をまとめます。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude Pro に関連する書籍・ツール</div>
 <p>「Claude Pro」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Pro%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Pro」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Pro" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude Pro」関連を見る</a></p>
 </aside>
+
 
 
 ## Claude Computer Useとは何か|従来のAPI自動化との違い
@@ -74,12 +76,14 @@ PDFや画像の請求書を読み取り、会計freeeやマネーフォワード
 Google Analyticsやサーチコンソールにログインし、主要指標をスクリーンショット付きで日報にまとめる流れも組めます。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude API に関連する書籍・ツール</div>
 <p>「Claude API」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520API%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude API」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20API" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude API」関連を見る</a></p>
 </aside>
+
 
 
 ## Claude Computer Useを始める手順|最短ルート

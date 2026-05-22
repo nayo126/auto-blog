@@ -23,12 +23,14 @@ image: "/auto-blog/ogp/zoom議事録ai無料7選2026年最新比較.png"
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">AI議事録ツール に関連する書籍・ツール</div>
 <p>「AI議事録ツール」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E8%25AD%25B0%25E4%25BA%258B%25E9%258C%25B2%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI議事録ツール」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=AI%E8%AD%B0%E4%BA%8B%E9%8C%B2%E3%83%84%E3%83%BC%E3%83%AB" target="_blank" rel="sponsored noopener">▶ Amazonで「AI議事録ツール」関連を見る</a></p>
 </aside>
+
 
 
 
@@ -64,12 +66,14 @@ image: "/auto-blog/ogp/zoom議事録ai無料7選2026年最新比較.png"
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">Notta に関連する書籍・ツール</div>
 <p>「Notta」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNotta%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Notta」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Notta" target="_blank" rel="sponsored noopener">▶ Amazonで「Notta」関連を見る</a></p>
 </aside>
+
 
 
 

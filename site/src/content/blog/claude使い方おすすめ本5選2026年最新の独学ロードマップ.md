@@ -32,12 +32,14 @@ image: "/auto-blog/ogp/claude使い方おすすめ本5選2026年最新の独学�
 ただし注意点もあります。AI関連書籍は出版から1年で内容が古くなる宿命があるため、**2025年後半以降に発売された本を選ぶ**のが鉄則です。それ以前の本だとClaude 3.5以前の仕様を前提にしていて、Sonnet 4.6時代の機能と乖離している可能性が高いからです。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude入門書 に関連する書籍・ツール</div>
 <p>「Claude入門書」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%25E5%2585%25A5%25E9%2596%2580%25E6%259B%25B8%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude入門書」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%E5%85%A5%E9%96%80%E6%9B%B8" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude入門書」関連を見る</a></p>
 </aside>
+
 
 
 ## 初心者向け：基礎から学べるClaude入門書2冊
@@ -78,12 +80,14 @@ Claudeを触ったことがない、もしくはChatGPTからの乗り換え組�
 中級者向けの本を読むときのコツは、**読みながら必ずClaudeを開いて同じプロンプトを試す**こと。机上で読むだけでは身につかないので、ノートPCの隣にClaudeのタブを常に開いておく前提で進めるのが効率的です。
 
 
+
 <aside class="affiliate-card">
 <div class="label">プロンプトエンジニアリング書籍 に関連する書籍・ツール</div>
 <p>「プロンプトエンジニアリング書籍」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E6%259B%25B8%25E7%25B1%258D%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「プロンプトエンジニアリング書籍」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E6%9B%B8%E7%B1%8D" target="_blank" rel="sponsored noopener">▶ Amazonで「プロンプトエンジニアリング書籍」関連を見る</a></p>
 </aside>
+
 
 
 ## 上級者・副業向け：Claude APIと業務自動化の本

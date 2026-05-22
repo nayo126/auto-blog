@@ -28,12 +28,14 @@ image: "/auto-blog/ogp/chatgpt-api活用方法7選2026年最新版.png"
 副業初心者がまず触るべきは**mini系モデル**です。1記事あたりのコストが数円〜数十円に収まり、テスト段階での失敗コストを最小化できます。
 
 
+
 <aside class="affiliate-card">
 <div class="label">ChatGPT API入門書 に関連する書籍・ツール</div>
 <p>「ChatGPT API入門書」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520API%25E5%2585%25A5%25E9%2596%2580%25E6%259B%25B8%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT API入門書」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20API%E5%85%A5%E9%96%80%E6%9B%B8" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT API入門書」関連を見る</a></p>
 </aside>
+
 
 
 ## 方法1：API利用を始めるための初期設定3ステップ
@@ -87,12 +89,14 @@ APIを取得しても、何に使うかが見えなければ収益化できま�
 特に1と2は参入障壁が低く、クラウドワークスやランサーズでも実需があります。重要なのは「APIを使っている」と明かさず、**成果物の品質で勝負する**こと。プロンプトの作り込みが差別化の要素になります。
 
 
+
 <aside class="affiliate-card">
 <div class="label">プロンプトエンジニアリング講座 に関連する書籍・ツール</div>
 <p>「プロンプトエンジニアリング講座」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E8%25AC%259B%25E5%25BA%25A7%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「プロンプトエンジニアリング講座」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E8%AC%9B%E5%BA%A7" target="_blank" rel="sponsored noopener">▶ Amazonで「プロンプトエンジニアリング講座」関連を見る</a></p>
 </aside>
+
 
 
 ## 方法4：コストを抑える3つのテクニック

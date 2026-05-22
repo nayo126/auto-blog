@@ -30,12 +30,14 @@ ChatGPTやClaude Sonnet 4.6に「ブログを書いて」と指示するとき�
 海外の開発者コミュニティでも、Copilotの精度を上げる最大のコツは「ファイル名と変数名を英語で具体的にする」と繰り返し報告されています。日本語のローカル変数名でも動きますが、英語の方が学習データの量で圧倒的に有利です。
 
 
+
 <aside class="affiliate-card">
 <div class="label">GitHub Copilot に関連する書籍・ツール</div>
 <p>「GitHub Copilot」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGitHub%2520Copilot%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「GitHub Copilot」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=GitHub%20Copilot" target="_blank" rel="sponsored noopener">▶ Amazonで「GitHub Copilot」関連を見る</a></p>
 </aside>
+
 
 
 ## コード生成で使える基本テンプレ3選
@@ -78,12 +80,14 @@ Wordに会議の文字起こしを貼り付けた後、サイドパネルで以�
 Outlook Copilotで使えるテンプレートです。「丁寧度3/5・200字以内・代替日程を3つ提示・絵文字なし」のように、**数値で制約を入れる**と精度が安定します。形容詞だけだと結果がぶれやすいので注意してください。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Microsoft 365 Copilot に関連する書籍・ツール</div>
 <p>「Microsoft 365 Copilot」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMicrosoft%2520365%2520Copilot%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Microsoft 365 Copilot」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Microsoft%20365%20Copilot" target="_blank" rel="sponsored noopener">▶ Amazonで「Microsoft 365 Copilot」関連を見る</a></p>
 </aside>
+
 
 
 ## 副業で差がつく応用テンプレ2選

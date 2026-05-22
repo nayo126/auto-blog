@@ -60,12 +60,14 @@ image: "/auto-blog/ogp/anthropic-mythosとは何か2026年最新ai動向7選.png
 Claudeは過度に媚びず、しかし冷淡でもない独特のトーンを持ちます。これは偶然ではなく、設計思想の結果として語られます。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude Pro に関連する書籍・ツール</div>
 <p>「Claude Pro」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Pro%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Pro」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Pro" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude Pro」関連を見る</a></p>
 </aside>
+
 
 
 これら5つが絡み合って「Anthropic Mythos」と呼ばれる空気感を作っています。
@@ -97,12 +99,14 @@ Claude Sonnet 4.6(2025年リリース)とOpus 4.7(2026年リリース)を触る�
 これらは「便利さ」を犠牲にしているように見える瞬間もありますが、**業務利用での信頼性**という点では大きな価値があります。海外のエンジニアコミュニティでは「コーディングではClaude、雑談ではGPT」という使い分けが定番化しつつあり、その理由としてMythosが繰り返し言及されているのです。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Anthropic API に関連する書籍・ツール</div>
 <p>「Anthropic API」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAnthropic%2520API%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Anthropic API」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Anthropic%20API" target="_blank" rel="sponsored noopener">▶ Amazonで「Anthropic API」関連を見る</a></p>
 </aside>
+
 
 
 副業で生成AIを業務支援ツールとして売る場合、この「誠実さ」を訴求軸にできるかどうかで提案力が変わります。

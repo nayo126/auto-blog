@@ -32,12 +32,14 @@ ChatGPTとの最大の違いは、**安全性と長文処理能力**です。海
 また、Claudeは「曖昧な指示でも文脈を読み取る力」が強く、プロンプトを細かく設計しなくても意図を汲んでくれます。初心者がいきなり使い始めても扱いやすいのは、この特性のおかげです。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude に関連する書籍・ツール</div>
 <p>「Claude」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude」関連を見る</a></p>
 </aside>
+
 
 
 ## Claudeの始め方｜アカウント作成から初回利用まで5分
@@ -80,12 +82,14 @@ ChatGPTとの最大の違いは、**安全性と長文処理能力**です。海
 特に副業ライターやエンジニア、SNS運用者なら、Proプランの3,000円は1日換算で100円。1本のブログ記事執筆を1時間短縮できれば、すぐに元が取れる計算になります。さらに上のMaxプランは、Claude Codeなど開発系の機能を統合的に使いたい上級者向けです。
 
 
+
 <aside class="affiliate-card">
 <div class="label">AI副業 に関連する書籍・ツール</div>
 <p>「AI副業」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E5%2589%25AF%25E6%25A5%25AD%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI副業」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=AI%E5%89%AF%E6%A5%AD" target="_blank" rel="sponsored noopener">▶ Amazonで「AI副業」関連を見る</a></p>
 </aside>
+
 
 
 ## 実務で使える！Claudeの活用法7選

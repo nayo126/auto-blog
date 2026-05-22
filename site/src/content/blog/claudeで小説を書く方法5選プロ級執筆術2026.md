@@ -24,12 +24,14 @@ image: "/auto-blog/ogp/claudeで小説を書く方法5選プロ級執筆術2026.
 第三に、**指示への忠実度の高さ**。「ですます調で」「三人称視点で」「ハードボイルド風に」といった文体指定を、長文出力でも崩さずに維持します。海外のRedditの執筆コミュニティでも、Claudeを「最も従順な小説アシスタント」と評価する声が目立ちます。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude Pro に関連する書籍・ツール</div>
 <p>「Claude Pro」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Pro%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Pro」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Pro" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude Pro」関連を見る</a></p>
 </aside>
+
 
 
 ## 工程1：プロット作成は「三幕構成」で依頼する
@@ -86,12 +88,14 @@ image: "/auto-blog/ogp/claudeで小説を書く方法5選プロ級執筆術2026.
 書き上がった文章に対しては「比喩表現を3つ追加して」「会話文を増やして地の文を減らして」と部分修正を依頼できます。Claudeは局所的な書き換えが得意なので、人間が全体構成を握りつつ細部を任せる分業が最も効率的です。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Kindle出版 に関連する書籍・ツール</div>
 <p>「Kindle出版」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKindle%25E5%2587%25BA%25E7%2589%2588%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Kindle出版」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Kindle%E5%87%BA%E7%89%88" target="_blank" rel="sponsored noopener">▶ Amazonで「Kindle出版」関連を見る</a></p>
 </aside>
+
 
 
 ## 工程4：会話文は「キャラの語彙リスト」を渡す

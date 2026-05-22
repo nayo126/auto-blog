@@ -33,12 +33,14 @@ ChatGPT や Copilot がコードの**提案**を返すツールだとすれば�
 副業初心者が「コードを書く前段の環境構築」で詰まる現象も、Claude Code に丸投げできるのが大きな転換点です。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude Code に関連する書籍・ツール</div>
 <p>「Claude Code」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Code%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Code」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Code" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude Code」関連を見る</a></p>
 </aside>
+
 
 
 ## 副業で効くClaude Code活用術7選
@@ -74,12 +76,14 @@ ChatGPT や Copilot がコードの**提案**を返すツールだとすれば�
 ただし注意点として、Claude Code はファイル編集やコマンド実行を伴うため、**作業ディレクトリの権限管理**は必須です。git で履歴を残し、本番環境への直接アクセスは避ける、という基本ルールを守りましょう。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude Max に関連する書籍・ツール</div>
 <p>「Claude Max」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Max%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Max」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Max" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude Max」関連を見る</a></p>
 </aside>
+
 
 
 ## 導入の手順と最初の1週間でやるべきこと

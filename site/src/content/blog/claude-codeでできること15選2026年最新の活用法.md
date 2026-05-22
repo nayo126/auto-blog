@@ -26,12 +26,14 @@ image: "/auto-blog/ogp/claude-codeでできること15選2026年最新の活用�
 料金体系はAPI従量課金のほか、Claude Pro（月20ドル）・Max（月100〜200ドル）プランに含まれる形でも使えます。本格的に毎日使うならMaxプランが定額で安心です。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude Pro に関連する書籍・ツール</div>
 <p>「Claude Pro」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Pro%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Pro」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Pro" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude Pro」関連を見る</a></p>
 </aside>
+
 
 
 ## できること①〜⑤｜開発タスクの自動化
@@ -77,12 +79,14 @@ Whisperで起こしたテキストを渡し、「話者ごとに分けて要点�
 副業ライターや個人事業主にとっては、これらの作業をAIに任せられる時点で月10時間以上の余白が生まれます。
 
 
+
 <aside class="affiliate-card">
 <div class="label">AI副業講座 に関連する書籍・ツール</div>
 <p>「AI副業講座」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E5%2589%25AF%25E6%25A5%25AD%25E8%25AC%259B%25E5%25BA%25A7%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI副業講座」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=AI%E5%89%AF%E6%A5%AD%E8%AC%9B%E5%BA%A7" target="_blank" rel="sponsored noopener">▶ Amazonで「AI副業講座」関連を見る</a></p>
 </aside>
+
 
 
 ## できること⑪〜⑮｜2026年新機能と応用例

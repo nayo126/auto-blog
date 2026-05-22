@@ -34,12 +34,14 @@ Bolt.newはブラウザ上で動くAI開発環境で、自然言語で指示を�
 「ゼロからWebサービスを爆速で立ち上げたい」という用途なら、Bolt.newが現時点でもっとも摩擦が少ない選択肢です。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Bolt に関連する書籍・ツール</div>
 <p>「Bolt」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBolt%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Bolt」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Bolt" target="_blank" rel="sponsored noopener">▶ Amazonで「Bolt」関連を見る</a></p>
 </aside>
+
 
 
 ## 料金プランと無料枠でできること
@@ -73,12 +75,14 @@ Boltは無料でも触れますが、本格利用には課金が前提です。�
 特に強いのは2番目のMVP用途です。アイデアを温め続けて市場に出さないより、Boltで雑に作って公開し、ダメだったら次へ行くサイクルの方が、結果的にヒット確率は上がります。海外の事例でも、Boltで作った週末プロジェクトが月数千ドルの収益に化けたという話は珍しくありません。
 
 
+
 <aside class="affiliate-card">
 <div class="label">AI開発ツール に関連する書籍・ツール</div>
 <p>「AI開発ツール」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E9%2596%258B%25E7%2599%25BA%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI開発ツール」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=AI%E9%96%8B%E7%99%BA%E3%83%84%E3%83%BC%E3%83%AB" target="_blank" rel="sponsored noopener">▶ Amazonで「AI開発ツール」関連を見る</a></p>
 </aside>
+
 
 
 ## Boltで詰まりやすいポイントと回避策

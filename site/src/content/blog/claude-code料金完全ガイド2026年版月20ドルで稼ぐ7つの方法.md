@@ -16,12 +16,14 @@ image: "/auto-blog/ogp/claude-code料金完全ガイド2026年版月20ドルで�
 この記事では、2026年5月時点のClaude Codeの料金体系を整理しつつ、「どのプランなら月額の元が取れるのか」「副業でいくら稼げる目安なのか」まで、リアルな数字で解説します。読み終わる頃には、自分が選ぶべきプランが1つに絞れているはずです。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude Code に関連する書籍・ツール</div>
 <p>「Claude Code」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Code%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Code」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Code" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude Code」関連を見る</a></p>
 </aside>
+
 
 
 ## Claude Codeの料金プラン3種類を1分で把握する
@@ -85,12 +87,14 @@ Opus 4.7に至っては5倍以上の単価なので、本格的に使うと**月
 - **Maxが得**：副業として毎日稼働／長時間の対話作業
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude Pro に関連する書籍・ツール</div>
 <p>「Claude Pro」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Pro%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Pro」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Pro" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude Pro」関連を見る</a></p>
 </aside>
+
 
 
 ## Claude Codeの料金の元を取る7つの副業活用法

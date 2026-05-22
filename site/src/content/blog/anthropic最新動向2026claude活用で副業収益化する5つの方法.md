@@ -32,12 +32,14 @@ Anthropicは2021年に元OpenAI研究者らが設立した米サンフランシ�
 海外のテック系メディアでは「ChatGPTは万能型、Claudeは専門職向け」という評価が定着しつつあります。特に法務・金融・ヘルスケアといった精度が問われる業界で導入が進んでいる点が、ChatGPTとの大きな差です。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude Pro に関連する書籍・ツール</div>
 <p>「Claude Pro」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Pro%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Pro」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Pro" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude Pro」関連を見る</a></p>
 </aside>
+
 
 
 ## 海外で話題のAnthropic評価ポイント3つ
@@ -87,12 +89,14 @@ GumroadやPromptBaseでClaude向けプロンプト集を販売します。1セ�
 Claude Codeでランディングページや簡易Webアプリを構築する受託業務。1案件3万〜10万円で、エンジニア未経験者でも参入余地があります。
 
 
+
 <aside class="affiliate-card">
 <div class="label">AIライティング に関連する書籍・ツール</div>
 <p>「AIライティング」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AIライティング」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=AI%E3%83%A9%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0" target="_blank" rel="sponsored noopener">▶ Amazonで「AIライティング」関連を見る</a></p>
 </aside>
+
 
 
 ## Claudeで副業を始める前に押さえるべき3つの注意点

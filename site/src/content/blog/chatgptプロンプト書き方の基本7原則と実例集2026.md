@@ -30,12 +30,14 @@ ChatGPT 5は2026年時点でかなり推論性能が高くなりましたが、�
 海外のAI研究者の間でも「プロンプトの設計は新しいプログラミング言語」と言われており、書き方そのものが一つのスキルになっています。逆に言えば、ここをマスターすれば誰でも上位2割のユーザーに入れます。
 
 
+
 <aside class="affiliate-card">
 <div class="label">ChatGPT講座 に関連する書籍・ツール</div>
 <p>「ChatGPT講座」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%25E8%25AC%259B%25E5%25BA%25A7%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT講座」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT%E8%AC%9B%E5%BA%A7" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT講座」関連を見る</a></p>
 </aside>
+
 
 
 ## 押さえるべきプロンプト書き方の7原則
@@ -110,12 +112,14 @@ SCAMPER法を使って10案、それぞれ1行で説明してください。
 このテンプレは穴埋めするだけで使えます。とくにテンプレ1はAI副業のブログ運営者なら毎日使うレベルで便利です。
 
 
+
 <aside class="affiliate-card">
 <div class="label">プロンプトテンプレ に関連する書籍・ツール</div>
 <p>「プロンプトテンプレ」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E3%2583%2586%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AC%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「プロンプトテンプレ」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC" target="_blank" rel="sponsored noopener">▶ Amazonで「プロンプトテンプレ」関連を見る</a></p>
 </aside>
+
 
 
 ## よくある失敗とその修正法

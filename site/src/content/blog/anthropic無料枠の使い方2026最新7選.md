@@ -32,12 +32,14 @@ ChatGPTの無料版はよく話題になるのに、Claudeの無料枠につい�
 ただし上限は混雑度で変動します。海外フォーラムの報告では、Sonnet系で平日昼に1日10〜30メッセージ程度で頭打ちになるケースもあり、長文の連投や添付ファイルの多用で消費が一気に進みます。「無料で無制限」ではなく「お試し枠」と捉えるのが現実的です。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude Pro に関連する書籍・ツール</div>
 <p>「Claude Pro」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Pro%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Pro」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Pro" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude Pro」関連を見る</a></p>
 </aside>
+
 
 
 ## Web版無料とAPI無料クレジットの違い
@@ -68,12 +70,14 @@ API側では、アカウント作成時に少額のテストクレジットが�
 特に3つ目は、冗長な解説を抑える傾向があるClaudeの強みが出やすい領域です。海外のAI副業界隈でも「コード解説はClaude、画像プロンプト整形はChatGPT」と使い分ける投稿が増えています。
 
 
+
 <aside class="affiliate-card">
 <div class="label">AI副業 講座 に関連する書籍・ツール</div>
 <p>「AI副業 講座」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E5%2589%25AF%25E6%25A5%25AD%2520%25E8%25AC%259B%25E5%25BA%25A7%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI副業 講座」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=AI%E5%89%AF%E6%A5%AD%20%E8%AC%9B%E5%BA%A7" target="_blank" rel="sponsored noopener">▶ Amazonで「AI副業 講座」関連を見る</a></p>
 </aside>
+
 
 
 ## 無料枠を超えたあとの現実的な選択肢

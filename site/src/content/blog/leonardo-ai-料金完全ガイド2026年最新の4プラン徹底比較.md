@@ -31,12 +31,14 @@ image: "/auto-blog/ogp/leonardo-ai-料金完全ガイド2026年最新の4プラ�
 無料プランは「触ってみる」段階としては十分ですが、生成した画像をブログやSNS収益化に使うなら有料プラン必須です。商用利用権の有無は副業ユーザーにとって最重要ポイントになります。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Leonardo AI に関連する書籍・ツール</div>
 <p>「Leonardo AI」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLeonardo%2520AI%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Leonardo AI」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Leonardo%20AI" target="_blank" rel="sponsored noopener">▶ Amazonで「Leonardo AI」関連を見る</a></p>
 </aside>
+
 
 
 ## 各プランのトークン消費量と1枚あたりの実コスト

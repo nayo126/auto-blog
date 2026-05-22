@@ -28,12 +28,14 @@ ChatGPTやClaudeに「コードを書かせる」ツールとは違い、bolt.ne
 ログインしなくてもトップページからプロンプトを投げて試すことは可能ですが、保存・継続編集・デプロイなど実用的な機能はすべてアカウント連携が前提です。副業として個人開発を回したい人ほど、最初のログインを丁寧に済ませる価値があります。
 
 
+
 <aside class="affiliate-card">
 <div class="label">bolt.new に関連する書籍・ツール</div>
 <p>「bolt.new」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fbolt.new%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「bolt.new」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=bolt.new" target="_blank" rel="sponsored noopener">▶ Amazonで「bolt.new」関連を見る</a></p>
 </aside>
+
 
 
 ## bolt.newへのログイン手順5ステップ

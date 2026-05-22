@@ -30,12 +30,14 @@ image: "/auto-blog/ogp/anthropic-claude完全攻略2026副業で月10万稼ぐ7�
 また、Anthropicが提唱する「Constitutional AI」という安全設計により、有害コンテンツ生成のリスクが低く、ビジネス利用での安心感もあります。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude Pro に関連する書籍・ツール</div>
 <p>「Claude Pro」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Pro%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Pro」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Pro" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude Pro」関連を見る</a></p>
 </aside>
+
 
 
 ## Claudeを副業で使うメリット5つ
@@ -78,12 +80,14 @@ Anthropic APIは応答速度・稼働率ともに安定しており、自動化�
 API利用の場合は従量課金で、Sonnet 4.6なら入力1Mトークンあたり3ドル、出力1Mトークンあたり15ドル前後。自動化ツールを作る場合はAPI、人間が対話して使う場合はサブスク、と使い分けるのが定石になっています。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude API に関連する書籍・ツール</div>
 <p>「Claude API」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520API%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude API」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20API" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude API」関連を見る</a></p>
 </aside>
+
 
 
 ## 月10万円を狙えるClaude副業7選

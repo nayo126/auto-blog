@@ -40,12 +40,14 @@ ChatGPTを触ったことがない、または無料版で雑談に使った程�
 本選びで迷ったら、Amazonのレビュー数200件以上かつ星4.0以上を1つの目安にしてください。レビュー数が少ない新刊は当たり外れが大きいです。
 
 
+
 <aside class="affiliate-card">
 <div class="label">ChatGPT 本 入門 に関連する書籍・ツール</div>
 <p>「ChatGPT 本 入門」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520%25E6%259C%25AC%2520%25E5%2585%25A5%25E9%2596%2580%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT 本 入門」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20%E6%9C%AC%20%E5%85%A5%E9%96%80" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT 本 入門」関連を見る</a></p>
 </aside>
+
 
 
 ## 副業・収益化を狙う人向けの実践書3選
@@ -61,12 +63,14 @@ ChatGPTを触ったことがない、または無料版で雑談に使った程�
 特定の銘柄や案件への投資を強く推奨する本は、再現性が著者依存になりがちなので、自分の状況に合うか冷静に判断してください。
 
 
+
 <aside class="affiliate-card">
 <div class="label">ChatGPT 副業 本 に関連する書籍・ツール</div>
 <p>「ChatGPT 副業 本」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520%25E5%2589%25AF%25E6%25A5%25AD%2520%25E6%259C%25AC%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT 副業 本」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20%E5%89%AF%E6%A5%AD%20%E6%9C%AC" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT 副業 本」関連を見る</a></p>
 </aside>
+
 
 
 ## 本だけでは足りない部分をどう補うか

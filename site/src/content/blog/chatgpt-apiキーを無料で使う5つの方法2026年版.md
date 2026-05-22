@@ -32,12 +32,14 @@ ChatGPTのAPIキーを試したいけど、月額や従量課金が不安――�
 このクレジットは付与から約3ヶ月で失効する点に注意が必要です。GPT-4o-miniは入力100万トークンあたり$0.15と非常に安価なため、$5あれば軽量タスクなら数千回のリクエストをこなせます。一方、GPT-4oやGPT-5を使うと数十回で枯渇するため、検証段階ではミニモデルを優先しましょう。なお、同一電話番号で複数アカウントを作るのは規約違反でBANリスクが高いので避けてください。
 
 
+
 <aside class="affiliate-card">
 <div class="label">ChatGPT API入門書 に関連する書籍・ツール</div>
 <p>「ChatGPT API入門書」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520API%25E5%2585%25A5%25E9%2596%2580%25E6%259B%25B8%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT API入門書」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20API%E5%85%A5%E9%96%80%E6%9B%B8" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT API入門書」関連を見る</a></p>
 </aside>
+
 
 
 ## 無料枠が手厚い代替AI API 3選
@@ -64,12 +66,14 @@ LLaMAやMixtralなどのオープンモデルを超高速で動かせるサー�
 第三に、**キャッシュとバッチ処理を活用**します。OpenAIのプロンプトキャッシュ機能や、Batch APIの50%割引などを組み合わせれば、同じ用途でも実質コストを半分以下にできます。非同期で問題ないタスクは積極的にバッチに回しましょう。
 
 
+
 <aside class="affiliate-card">
 <div class="label">AI副業オンライン講座 に関連する書籍・ツール</div>
 <p>「AI副業オンライン講座」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E5%2589%25AF%25E6%25A5%25AD%25E3%2582%25AA%25E3%2583%25B3%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E8%25AC%259B%25E5%25BA%25A7%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI副業オンライン講座」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=AI%E5%89%AF%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E8%AC%9B%E5%BA%A7" target="_blank" rel="sponsored noopener">▶ Amazonで「AI副業オンライン講座」関連を見る</a></p>
 </aside>
+
 
 
 ## まとめ

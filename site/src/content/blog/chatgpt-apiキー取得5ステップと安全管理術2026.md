@@ -29,12 +29,14 @@ APIキーとは、OpenAIのモデル（GPT-5やGPT-4o、o4-miniなど）をプ�
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">chatgpt api に関連する書籍・ツール</div>
 <p>「chatgpt api」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fchatgpt%2520api%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「chatgpt api」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=chatgpt%20api" target="_blank" rel="sponsored noopener">▶ Amazonで「chatgpt api」関連を見る</a></p>
 </aside>
+
 
 
 

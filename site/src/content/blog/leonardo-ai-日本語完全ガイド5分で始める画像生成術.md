@@ -28,12 +28,14 @@ Leonardo AIはカナダ発の画像生成サービスで、Phoenix、Flux、SDXL
 日本語プロンプトは内部で英語にマッピングされて処理されるため、英語で書いたときよりも若干ニュアンスがずれるケースがあります。たとえば「和風の城」と入れると忍者っぽい城が出やすく、「Japanese castle, Himeji style」と書いた方が意図に近い結果が得られます。日本語で下書き→英語キーワードを足す、というハイブリッド運用がおすすめです。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Leonardo AI に関連する書籍・ツール</div>
 <p>「Leonardo AI」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLeonardo%2520AI%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Leonardo AI」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Leonardo%20AI" target="_blank" rel="sponsored noopener">▶ Amazonで「Leonardo AI」関連を見る</a></p>
 </aside>
+
 
 
 ## 料金プランと無料で使える範囲

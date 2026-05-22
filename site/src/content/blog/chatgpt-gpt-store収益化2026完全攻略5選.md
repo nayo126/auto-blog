@@ -35,12 +35,14 @@ OpenAIが2024年に発表した収益分配プログラム(GPT Builder Revenue P
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">ChatGPT Plus に関連する書籍・ツール</div>
 <p>「ChatGPT Plus」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520Plus%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT Plus」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20Plus" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT Plus」関連を見る</a></p>
 </aside>
+
 
 
 
@@ -89,12 +91,14 @@ Notion整理、議事録要約からのタスク化、メール返信ドラフ�
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">プロンプトエンジニアリング に関連する書籍・ツール</div>
 <p>「プロンプトエンジニアリング」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「プロンプトエンジニアリング」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0" target="_blank" rel="sponsored noopener">▶ Amazonで「プロンプトエンジニアリング」関連を見る</a></p>
 </aside>
+
 
 
 

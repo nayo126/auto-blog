@@ -29,12 +29,14 @@ image: "/auto-blog/ogp/anthropic無料プランの全貌2026claude無料で月3�
 という壁にぶつかります。つまり「お試し用途」「副業の初期検証」には最適ですが、毎日数時間ガッツリ作業するなら有料が必要、という線引きが妥当です。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude Pro に関連する書籍・ツール</div>
 <p>「Claude Pro」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Pro%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Pro」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Pro" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude Pro」関連を見る</a></p>
 </aside>
+
 
 
 ## Anthropic無料プランで具体的にできること
@@ -69,12 +71,14 @@ image: "/auto-blog/ogp/anthropic無料プランの全貌2026claude無料で月3�
 判断軸はシンプルで、**無料を1週間使って「上限で詰まる回数」をカウント**するのが最も確実です。1日2〜3回詰まる人はPro、ほぼ詰まらない人は無料継続でOKという判定ができます。
 
 
+
 <aside class="affiliate-card">
 <div class="label">AIツール比較 に関連する書籍・ツール</div>
 <p>「AIツール比較」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E6%25AF%2594%25E8%25BC%2583%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AIツール比較」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=AI%E3%83%84%E3%83%BC%E3%83%AB%E6%AF%94%E8%BC%83" target="_blank" rel="sponsored noopener">▶ Amazonで「AIツール比較」関連を見る</a></p>
 </aside>
+
 
 
 ## 無料プランを使い倒す3つのコツ

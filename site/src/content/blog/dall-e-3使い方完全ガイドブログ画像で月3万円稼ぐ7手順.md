@@ -25,12 +25,14 @@ ChatGPT Plus(月額20ドル)に含まれる形でDALL-E 3が使えるため、�
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">ChatGPT Plus に関連する書籍・ツール</div>
 <p>「ChatGPT Plus」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520Plus%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT Plus」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20Plus" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT Plus」関連を見る</a></p>
 </aside>
+
 
 
 
@@ -77,12 +79,14 @@ DALL-E 3はGPT-4のテキスト理解力を活かして、長文プロンプト�
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">プロンプトテンプレート に関連する書籍・ツール</div>
 <p>「プロンプトテンプレート」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E3%2583%2586%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2588%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「プロンプトテンプレート」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88" target="_blank" rel="sponsored noopener">▶ Amazonで「プロンプトテンプレート」関連を見る</a></p>
 </aside>
+
 
 
 
@@ -113,12 +117,14 @@ DALL-E 3で作った画像を「ブログ収益」につなげる動線は、大
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">ブログ収益化教材 に関連する書籍・ツール</div>
 <p>「ブログ収益化教材」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%25E5%258F%258E%25E7%259B%258A%25E5%258C%2596%25E6%2595%2599%25E6%259D%2590%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ブログ収益化教材」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=%E3%83%96%E3%83%AD%E3%82%B0%E5%8F%8E%E7%9B%8A%E5%8C%96%E6%95%99%E6%9D%90" target="_blank" rel="sponsored noopener">▶ Amazonで「ブログ収益化教材」関連を見る</a></p>
 </aside>
+
 
 
 

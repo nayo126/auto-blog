@@ -30,12 +30,14 @@ DALL-E 3 APIは「画像1枚あたりの従量課金」です。OpenAIの公式�
 文字入りバナーや指示通りの構図が必要な場面ではDALL-E 3、リアル写真風や大量生成ではStable Diffusion、と使い分けるのが現実的なバランスです。
 
 
+
 <aside class="affiliate-card">
 <div class="label">OpenAI API に関連する書籍・ツール</div>
 <p>「OpenAI API」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOpenAI%2520API%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「OpenAI API」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=OpenAI%20API" target="_blank" rel="sponsored noopener">▶ Amazonで「OpenAI API」関連を見る</a></p>
 </aside>
+
 
 
 ## APIキー取得からPython実装までの3ステップ
@@ -83,12 +85,14 @@ DALL-E 3 APIを副業で活かす定番パターンを5つ挙げます。
 商用利用についてもOpenAIの利用規約上、APIで生成した画像の権利は**ユーザーに帰属する**とされています(2026年5月時点)。販売・広告利用も基本的に問題ありませんが、規約は更新されるため、商用展開前に最新のTerms of Useを必ず読んでおきましょう。
 
 
+
 <aside class="affiliate-card">
 <div class="label">AI画像生成 副業 に関連する書籍・ツール</div>
 <p>「AI画像生成 副業」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E7%2594%25BB%25E5%2583%258F%25E7%2594%259F%25E6%2588%2590%2520%25E5%2589%25AF%25E6%25A5%25AD%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI画像生成 副業」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=AI%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90%20%E5%89%AF%E6%A5%AD" target="_blank" rel="sponsored noopener">▶ Amazonで「AI画像生成 副業」関連を見る</a></p>
 </aside>
+
 
 
 ## 失敗しないプロンプトの組み立て方

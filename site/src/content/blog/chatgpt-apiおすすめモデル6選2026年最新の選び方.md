@@ -29,12 +29,14 @@ image: "/auto-blog/ogp/chatgpt-apiおすすめモデル6選2026年最新の選�
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">ChatGPT API に関連する書籍・ツール</div>
 <p>「ChatGPT API」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520API%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT API」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20API" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT API」関連を見る</a></p>
 </aside>
+
 
 
 
@@ -82,12 +84,14 @@ GPT-4.1は指示追従性とコーディング精度に強く、業務システ�
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">OpenAI に関連する書籍・ツール</div>
 <p>「OpenAI」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOpenAI%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「OpenAI」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=OpenAI" target="_blank" rel="sponsored noopener">▶ Amazonで「OpenAI」関連を見る</a></p>
 </aside>
+
 
 
 

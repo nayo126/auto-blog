@@ -32,12 +32,14 @@ image: "/auto-blog/ogp/openai課金方法5選2026年最新の料金と支払い�
 開発者目線で見ると、APIは「使った分だけ」の従量課金。GPT-5系は入力100万トークンあたり数ドル単位の価格設定で、小規模な検証なら月数百円で済むケースも珍しくありません。
 
 
+
 <aside class="affiliate-card">
 <div class="label">ChatGPT Plus に関連する書籍・ツール</div>
 <p>「ChatGPT Plus」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520Plus%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT Plus」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20Plus" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT Plus」関連を見る</a></p>
 </aside>
+
 
 
 ## ChatGPT Plusに課金する具体的な手順
@@ -102,12 +104,14 @@ GPT-5フルではなく、GPT-5ミニや旧世代のGPT-4o系を選ぶことで�
 副業でAIライティングツールを自作する人は、**月10〜30ドルの予算上限**を設定してから始めると安心。海外の事例では、Batch APIとキャッシュを組み合わせて月5ドル以下で運用している個人開発者もいるようです。
 
 
+
 <aside class="affiliate-card">
 <div class="label">OpenAI API に関連する書籍・ツール</div>
 <p>「OpenAI API」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOpenAI%2520API%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「OpenAI API」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=OpenAI%20API" target="_blank" rel="sponsored noopener">▶ Amazonで「OpenAI API」関連を見る</a></p>
 </aside>
+
 
 
 ## 課金トラブル時の対処法と注意点

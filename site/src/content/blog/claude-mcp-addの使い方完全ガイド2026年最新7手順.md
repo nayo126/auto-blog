@@ -38,12 +38,14 @@ claude mcp add github npx -y @modelcontextprotocol/server-github
 ポイントは「MCPサーバーは別プロセスとして常駐するわけではない」こと。Claude Codeがセッション開始時にコマンドを起動し、終了時にプロセスも閉じます。そのため軽量で、複数プロジェクトに同じMCPを使い回しても干渉しません。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude Pro に関連する書籍・ツール</div>
 <p>「Claude Pro」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Pro%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Pro」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Pro" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude Pro」関連を見る</a></p>
 </aside>
+
 
 
 ## scope引数の使い分け：local・user・projectの違い
@@ -82,12 +84,14 @@ claude mcp add -s user github \
 第三の対策として、シェルの環境変数を参照させる書き方が推奨されます。`.mcp.json` を直接編集して `"env": {"TOKEN": "${env:GITHUB_TOKEN}"}` のように書けば、実トークンを `~/.zshrc` などに置いてリポジトリには漏らさずに済みます。海外のRedditでも「APIキーの誤コミットでアカウント停止された」という報告が定期的に上がっており、軽視できないポイントです。
 
 
+
 <aside class="affiliate-card">
 <div class="label">プログラミングスクール に関連する書籍・ツール</div>
 <p>「プログラミングスクール」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25BC%25E3%2583%25AB%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「プログラミングスクール」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB" target="_blank" rel="sponsored noopener">▶ Amazonで「プログラミングスクール」関連を見る</a></p>
 </aside>
+
 
 
 ## よくあるエラーと対処法5選

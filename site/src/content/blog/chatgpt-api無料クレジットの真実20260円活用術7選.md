@@ -28,12 +28,14 @@ image: "/auto-blog/ogp/chatgpt-api無料クレジットの真実20260円活用�
 つまり「個人が登録するだけで自動的に5ドル」という時代は終わり、**意図的に申請するか条件を満たす必要がある**フェーズに入ったということです。
 
 
+
 <aside class="affiliate-card">
 <div class="label">ChatGPT API に関連する書籍・ツール</div>
 <p>「ChatGPT API」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520API%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT API」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20API" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT API」関連を見る</a></p>
 </aside>
+
 
 
 ## 2026年に使える無料・低額の代替ルート7選
@@ -90,12 +92,14 @@ M2以上のMacなら、Llama 3やQwen2.5を完全ローカル実行できます�
 また、Startup Programなどの法人向けクレジットは「法人登記済み」「資金調達済み」など条件があり、個人の副業ではほぼ通りません。SNSで「審査通った」と謳う情報商材は誇張が多いので注意してください。
 
 
+
 <aside class="affiliate-card">
 <div class="label">プログラミングスクール に関連する書籍・ツール</div>
 <p>「プログラミングスクール」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25BC%25E3%2583%25AB%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「プログラミングスクール」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB" target="_blank" rel="sponsored noopener">▶ Amazonで「プログラミングスクール」関連を見る</a></p>
 </aside>
+
 
 
 正攻法で言えば、**OpenAIの公式ニュースレターに登録しておく**のが地味に効きます。新機能リリース時に期間限定クレジットが配られることがあり、過去にはGPT-4oローンチ時やSora公開時にメール経由で配布された例があります。

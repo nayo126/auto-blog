@@ -23,7 +23,14 @@ image: "/auto-blog/ogp/claude-code比較2026主要ai開発5ツールの実力差
 
 一方で、エディタ統合の体験を最優先するならCursor、コード補完だけ欲しいならGitHub Copilotの方が体感は軽い。つまり「Claude Code vs 他ツール」ではなく「何を作りたいか」で答えが変わる。以下、5ツールを機能・料金・実用面で比較していく。
 
-<!-- AFFILIATE_SLOT:Claude Code -->
+
+<aside class="affiliate-card">
+<div class="label">Claude Code に関連する書籍・ツール</div>
+<p>「Claude Code」について実践的に学ぶための参考リソースを集めました。</p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Code%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Code」関連を見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=Claude%20Code" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude Code」関連を見る</a></p>
+</aside>
+
 
 ## 主要5ツールの機能比較
 

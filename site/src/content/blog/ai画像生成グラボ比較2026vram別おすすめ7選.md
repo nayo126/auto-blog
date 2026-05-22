@@ -32,12 +32,14 @@ VRAMが足りないとそもそも起動しない、もしくは超低解像度�
 副業で画像販売や受注をするなら、最低でも**12GBを推奨ライン**として見ておくと後悔が少ないです。
 
 
+
 <aside class="affiliate-card">
 <div class="label">AI画像生成 グラボ に関連する書籍・ツール</div>
 <p>「AI画像生成 グラボ」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E7%2594%25BB%25E5%2583%258F%25E7%2594%259F%25E6%2588%2590%2520%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259C%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI画像生成 グラボ」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=AI%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90%20%E3%82%B0%E3%83%A9%E3%83%9C" target="_blank" rel="sponsored noopener">▶ Amazonで「AI画像生成 グラボ」関連を見る</a></p>
 </aside>
+
 
 
 ## 2026年版・AI画像生成向けグラボ比較7選
@@ -93,12 +95,14 @@ VRAM24GBで12万円前後。ただしAI画像生成はCUDA前提の環境が多�
 **RTX 4060 Ti 16GB版**。速度は遅めですが、VRAMで救われる場面が多く、初心者の最初の1枚として悪くない選択です。
 
 
+
 <aside class="affiliate-card">
 <div class="label">RTX グラボ に関連する書籍・ツール</div>
 <p>「RTX グラボ」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRTX%2520%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259C%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「RTX グラボ」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=RTX%20%E3%82%B0%E3%83%A9%E3%83%9C" target="_blank" rel="sponsored noopener">▶ Amazonで「RTX グラボ」関連を見る</a></p>
 </aside>
+
 
 
 ## グラボ以外で見落としやすい3つのポイント

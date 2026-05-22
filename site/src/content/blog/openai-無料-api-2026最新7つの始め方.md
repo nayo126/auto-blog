@@ -30,12 +30,14 @@ OpenAI は2024年後半から無料枠の付与条件を厳格化し、現在は
 「無料」にこだわるより、「月ワンコイン以下で動かす」発想に切り替えると、副業利用のハードルは一気に下がります。
 
 
+
 <aside class="affiliate-card">
 <div class="label">OpenAI API に関連する書籍・ツール</div>
 <p>「OpenAI API」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOpenAI%2520API%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「OpenAI API」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=OpenAI%20API" target="_blank" rel="sponsored noopener">▶ Amazonで「OpenAI API」関連を見る</a></p>
 </aside>
+
 
 
 ## 無料クレジットを最大限活用する7つの手順
@@ -95,12 +97,14 @@ API には「Tier」と呼ばれる利用枠ランクがあり、累計支払額
 この「2段階パイプライン」を組むと、品質を保ちつつコストを1/10に抑えられます。副業で利益を出している層は、ほぼ全員このやり方です。
 
 
+
 <aside class="affiliate-card">
 <div class="label">AI副業 に関連する書籍・ツール</div>
 <p>「AI副業」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E5%2589%25AF%25E6%25A5%25AD%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI副業」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=AI%E5%89%AF%E6%A5%AD" target="_blank" rel="sponsored noopener">▶ Amazonで「AI副業」関連を見る</a></p>
 </aside>
+
 
 
 ## 無料API利用で注意したい3つの落とし穴

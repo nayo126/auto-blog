@@ -27,12 +27,14 @@ image: "/auto-blog/ogp/aiコンテンツとgoogleアップデート2026最新対
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">SEOツール に関連する書籍・ツール</div>
 <p>「SEOツール」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSEO%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「SEOツール」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=SEO%E3%83%84%E3%83%BC%E3%83%AB" target="_blank" rel="sponsored noopener">▶ Amazonで「SEOツール」関連を見る</a></p>
 </aside>
+
 
 
 
@@ -74,12 +76,14 @@ Search Consoleで30日ごとに検索クエリと滞在時間を確認し、CTR�
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude に関連する書籍・ツール</div>
 <p>「Claude」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude」関連を見る</a></p>
 </aside>
+
 
 
 

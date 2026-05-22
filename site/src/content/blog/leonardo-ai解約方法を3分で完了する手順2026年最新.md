@@ -28,12 +28,14 @@ image: "/auto-blog/ogp/leonardo-ai解約方法を3分で完了する手順2026�
 まずは「自分がどこで支払い登録をしたか」を、過去のメール（領収書や購入確認メール）で確認することから始めてください。Stripeからのメールならweb契約、Appleからの領収書ならiOS契約、Googleからの領収書ならAndroid契約です。
 
 
+
 <aside class="affiliate-card">
 <div class="label">leonardo ai 解約 方法 に関連する書籍・ツール</div>
 <p>「leonardo ai 解約 方法」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fleonardo%2520ai%2520%25E8%25A7%25A3%25E7%25B4%2584%2520%25E6%2596%25B9%25E6%25B3%2595%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「leonardo ai 解約 方法」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=leonardo%20ai%20%E8%A7%A3%E7%B4%84%20%E6%96%B9%E6%B3%95" target="_blank" rel="sponsored noopener">▶ Amazonで「leonardo ai 解約 方法」関連を見る</a></p>
 </aside>
+
 
 
 ## Web版（公式サイト）からの解約手順

@@ -41,12 +41,14 @@ ChatGPT APIを契約したのに、自分のキーがどこに保存されてい
 `Last Used`列が「Never」のままなら一度も使われていないキーなので、削除しても影響はない。逆に直近で使われている本番キーは、誤って削除すると稼働中のシステムが止まるため要注意だ。
 
 
+
 <aside class="affiliate-card">
 <div class="label">ChatGPT API に関連する書籍・ツール</div>
 <p>「ChatGPT API」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520API%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT API」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20API" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT API」関連を見る</a></p>
 </aside>
+
 
 
 なお2026年現在、OpenAIは「Projects」という単位でAPIキーをグルーピングする方式が標準になっている。古い「User API keys」しか持っていない場合は、新規発行時に自動でProjectキーへ移行する設計に変わっている。

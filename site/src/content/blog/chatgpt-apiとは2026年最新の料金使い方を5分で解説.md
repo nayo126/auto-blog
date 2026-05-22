@@ -32,12 +32,14 @@ image: "/auto-blog/ogp/chatgpt-apiとは2026年最新の料金使い方を5分�
 つまり、ChatGPT APIは「GPTという頭脳を、自分の作りたい仕組みに組み込むためのパイプ」だと考えるとイメージしやすいでしょう。Slackに自動応答ボットを置く、Googleスプレッドシートで一括翻訳する、Notionと連携して議事録を要約する――こうした応用はすべてAPIだからこそ実現できます。
 
 
+
 <aside class="affiliate-card">
 <div class="label">ChatGPT API 入門書 に関連する書籍・ツール</div>
 <p>「ChatGPT API 入門書」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520API%2520%25E5%2585%25A5%25E9%2596%2580%25E6%259B%25B8%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT API 入門書」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20API%20%E5%85%A5%E9%96%80%E6%9B%B8" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT API 入門書」関連を見る</a></p>
 </aside>
+
 
 
 ## ChatGPT APIの料金体系と2026年最新モデル
@@ -75,12 +77,14 @@ ChatGPT APIで実現できることは、ブラウザ版でやれることの「
 ポイントは「ChatGPTでできる単発作業」を「毎日自動で回る仕組み」に変えられることです。1回の便利さではなく、繰り返しの累積効果で差が出ます。
 
 
+
 <aside class="affiliate-card">
 <div class="label">ChatGPT API 副業講座 に関連する書籍・ツール</div>
 <p>「ChatGPT API 副業講座」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520API%2520%25E5%2589%25AF%25E6%25A5%25AD%25E8%25AC%259B%25E5%25BA%25A7%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT API 副業講座」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20API%20%E5%89%AF%E6%A5%AD%E8%AC%9B%E5%BA%A7" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT API 副業講座」関連を見る</a></p>
 </aside>
+
 
 
 ## ChatGPT APIの始め方|初心者向けステップ

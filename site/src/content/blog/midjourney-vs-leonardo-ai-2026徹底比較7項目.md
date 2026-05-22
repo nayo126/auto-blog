@@ -34,12 +34,14 @@ AI画像生成で副業を始めたいけれど、MidjourneyとLeonardo AIのど
 副業の出口（SNS運用、素材販売、書籍表紙制作など）によって最適解は変わるので、以下で項目別に深掘りしていきます。
 
 
+
 <aside class="affiliate-card">
 <div class="label">AI画像生成ツール に関連する書籍・ツール</div>
 <p>「AI画像生成ツール」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E7%2594%25BB%25E5%2583%258F%25E7%2594%259F%25E6%2588%2590%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI画像生成ツール」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=AI%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90%E3%83%84%E3%83%BC%E3%83%AB" target="_blank" rel="sponsored noopener">▶ Amazonで「AI画像生成ツール」関連を見る</a></p>
 </aside>
+
 
 
 ## 1. 料金プランの違い：無料で試せるのはLeonardo AIだけ
@@ -87,12 +89,14 @@ Leonardo AIも有料プラン（Apprentice以上）で商用利用可能です�
 両者とも「実在人物の肖像権侵害」「他者の著作物に酷似した画像」の生成は規約違反です。Midjourneyは2024年に米国でジャーナリストらから集団訴訟を受けており、ライセンス周りは今後も流動的です。最新の利用規約は必ず公式ページで確認する習慣をつけましょう。
 
 
+
 <aside class="affiliate-card">
 <div class="label">AI画像生成スクール に関連する書籍・ツール</div>
 <p>「AI画像生成スクール」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E7%2594%25BB%25E5%2583%258F%25E7%2594%259F%25E6%2588%2590%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25BC%25E3%2583%25AB%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AI画像生成スクール」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=AI%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB" target="_blank" rel="sponsored noopener">▶ Amazonで「AI画像生成スクール」関連を見る</a></p>
 </aside>
+
 
 
 ## 5. 日本語対応とプロンプト設計：両方とも英語が基本

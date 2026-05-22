@@ -33,12 +33,14 @@ image: "/auto-blog/ogp/claude-code無料の制限まとめ2026年最新の上限
 つまり「軽い質問なら数十回はいける」「リファクタやテスト生成を回し始めると数回で打ち止め」というのが実感に近い使い方になります。副業でガッツリ書かせたい人は、無料枠の挙動を把握したうえで、有料プランか別の方法に逃がす設計が必須です。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude Pro に関連する書籍・ツール</div>
 <p>「Claude Pro」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Pro%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Pro」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Pro" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude Pro」関連を見る</a></p>
 </aside>
+
 
 
 ## H2-1：無料プランで何が制限される？回数・モデル・コンテキストの3軸
@@ -76,12 +78,14 @@ Astro、Next.js、Hugoなどの小規模サイトの修正は、無料枠でか�
 副業として時間単価を考えると、ここで止まるロスは小さくありません。月数千円の有料プランで一気に終わらせたほうが、トータルで安く済む計算になるケースは多いです。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude Code に関連する書籍・ツール</div>
 <p>「Claude Code」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Code%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Code」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Code" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude Code」関連を見る</a></p>
 </aside>
+
 
 
 ## H2-3：無料で粘るための回避3手と、課金すべき判断基準

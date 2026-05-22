@@ -16,12 +16,14 @@ image: "/auto-blog/ogp/anthropic無料講座2026副業活用5つの学び方.png
 結論から書く。**AnthropicのCoursesとCookbookを順番に進めれば、3〜4週間でClaude Sonnet 4.6を実務レベルで扱えるようになる。** しかも費用は0円。本記事では、その中身と、副業収益につなげるための学習ロードマップを整理する。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude Pro に関連する書籍・ツール</div>
 <p>「Claude Pro」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Pro%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Pro」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Pro" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude Pro」関連を見る</a></p>
 </aside>
+
 
 
 ## Anthropic無料講座とは何か
@@ -57,12 +59,14 @@ ChatGPTのOpenAI Academyと比べると、Anthropicの教材は「実コード+�
 **4週目:作った仕組みをポートフォリオ化し、ココナラやランサーズに出品。** 価格は最初は5,000円前後で実績を積み、レビュー10件を超えたあたりで2〜3万円帯に上げる流れが現実的だ。
 
 
+
 <aside class="affiliate-card">
 <div class="label">プログラミングスクール に関連する書籍・ツール</div>
 <p>「プログラミングスクール」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25BC%25E3%2583%25AB%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「プログラミングスクール」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB" target="_blank" rel="sponsored noopener">▶ Amazonで「プログラミングスクール」関連を見る</a></p>
 </aside>
+
 
 
 ## つまずきやすい3つの注意点

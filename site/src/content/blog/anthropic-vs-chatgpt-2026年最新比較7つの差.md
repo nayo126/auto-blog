@@ -20,12 +20,14 @@ image: "/auto-blog/ogp/anthropic-vs-chatgpt-2026年最新比較7つの差.png"
 理由はシンプルで、Anthropicは「安全性と長文推論」、OpenAIは「マルチモーダルと汎用性」を主戦場に据えているからだ。Claude Opus 4.7は1Mトークンの長文を読み込めるが画像生成は持たない。ChatGPTはDALLや音声機能を統合しているが、超長文の保持力ではClaudeに一歩譲る。
 
 
+
 <aside class="affiliate-card">
 <div class="label">Claude Pro に関連する書籍・ツール</div>
 <p>「Claude Pro」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FClaude%2520Pro%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Claude Pro」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=Claude%20Pro" target="_blank" rel="sponsored noopener">▶ Amazonで「Claude Pro」関連を見る</a></p>
 </aside>
+
 
 
 ## 料金プランの比較:同じ20ドルでも中身が違う
@@ -55,12 +57,14 @@ image: "/auto-blog/ogp/anthropic-vs-chatgpt-2026年最新比較7つの差.png"
 ただしClaudeは「Artifacts」というプレビュー機能で、HTMLやReactコンポーネントをその場でレンダリングできる。**ノーコードでミニアプリを試作したい人にはClaudeのArtifactsが刺さる**。両者の住み分けは「メディア生成のChatGPT、コード成果物のClaude」と覚えておくと整理しやすい。
 
 
+
 <aside class="affiliate-card">
 <div class="label">ChatGPT Plus に関連する書籍・ツール</div>
 <p>「ChatGPT Plus」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520Plus%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT Plus」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20Plus" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT Plus」関連を見る</a></p>
 </aside>
+
 
 
 ## 副業との相性:noteとブログのどちらに向くか

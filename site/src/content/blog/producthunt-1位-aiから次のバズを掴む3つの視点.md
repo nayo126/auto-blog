@@ -25,12 +25,14 @@ ProductHuntは2013年に米サンフランシスコで生まれた新興プロ�
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">ProductHunt に関連する書籍・ツール</div>
 <p>「ProductHunt」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FProductHunt%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ProductHunt」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=ProductHunt" target="_blank" rel="sponsored noopener">▶ Amazonで「ProductHunt」関連を見る</a></p>
 </aside>
+
 
 
 
@@ -68,12 +70,14 @@ ProductHunt公式のメール通知を「Daily Digest」に設定し、毎朝5�
 
 
 
+
 <aside class="affiliate-card">
 <div class="label">AIツール に関連する書籍・ツール</div>
 <p>「AIツール」について実践的に学ぶための参考リソースを集めました。</p>
 <p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAI%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「AIツール」関連を見る</a></p>
 <p><a href="https://www.amazon.co.jp/s?k=AI%E3%83%84%E3%83%BC%E3%83%AB" target="_blank" rel="sponsored noopener">▶ Amazonで「AIツール」関連を見る</a></p>
 </aside>
+
 
 
 
