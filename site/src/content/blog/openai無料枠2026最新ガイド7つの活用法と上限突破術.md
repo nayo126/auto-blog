@@ -17,6 +17,10 @@ image: "/auto-blog/ogp/openai無料枠2026最新ガイド7つの活用法と上�
 
 ## OpenAI無料枠とは？2026年版の全体像
 
+<!-- INLINE_IMG -->
+![OpenAI無料枠2026最新ガイド｜7つの活用法と上限突破術 - OpenAI無料枠とは？2026年版の全体像](/auto-blog/inline-images/openai-2026-7--0.jpg)
+
+
 まず押さえておきたいのは、「OpenAIの無料枠」には大きく2系統あるという点だ。混同したまま使うと、後で「使えない…」と詰まる。
 
 - **ChatGPT無料プラン**：Webアプリ chat.openai.com / chatgpt.com から誰でも使える
@@ -44,6 +48,10 @@ image: "/auto-blog/ogp/openai無料枠2026最新ガイド7つの活用法と上�
 
 
 ## ChatGPT無料版の制限と回避テクニック
+
+<!-- INLINE_IMG -->
+![OpenAI無料枠2026最新ガイド｜7つの活用法と上限突破術 - ChatGPT無料版の制限と回避テクニック](/auto-blog/inline-images/openai-2026-7--1.jpg)
+
 
 ChatGPT無料版で多くの人が最初にぶつかるのが、「数時間使うとGPT-5系が打ち止めになる」現象だ。2026年の仕様では、無料ユーザーは最新モデルに**ローリング制限**がかかり、上限を超えると自動的に軽量モデルへ切り替わる。
 

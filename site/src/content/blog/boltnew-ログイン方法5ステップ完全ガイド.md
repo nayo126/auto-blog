@@ -17,6 +17,10 @@ bolt.newはブラウザだけでフルスタックアプリを生成・デプロ
 
 ## bolt.newとは?ログイン前に押さえる基礎
 
+<!-- INLINE_IMG -->
+![bolt.new ログイン方法5ステップ完全ガイド - bolt.newとは?ログイン前に押さえる基礎](/auto-blog/inline-images/boltnew-5--0.jpg)
+
+
 結論:bolt.newはStackBlitzが提供する「ブラウザ完結型のAIフルスタック開発環境」です。理由はシンプルで、Node.jsをWebAssembly上で動かすWebContainersという独自技術により、ローカル環境なしでReactやNext.jsのアプリを即生成・実行できるからです。
 
 ChatGPTやClaudeに「コードを書かせる」ツールとは違い、bolt.newは**生成と実行とデプロイが一つの画面で完結**します。プロンプトを入力して数秒待つだけでプロジェクトのファイル構造、依存関係、プレビュー画面までが立ち上がります。
@@ -33,6 +37,10 @@ ChatGPTやClaudeに「コードを書かせる」ツールとは違い、bolt.ne
 
 
 ## bolt.newへのログイン手順5ステップ
+
+<!-- INLINE_IMG -->
+![bolt.new ログイン方法5ステップ完全ガイド - bolt.newへのログイン手順5ステップ](/auto-blog/inline-images/boltnew-5--1.jpg)
+
 
 ログインの流れは以下の通りです。所要時間はおよそ3分。
 

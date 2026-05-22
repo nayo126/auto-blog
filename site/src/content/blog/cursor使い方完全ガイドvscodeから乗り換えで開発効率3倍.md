@@ -17,6 +17,10 @@ image: "/auto-blog/ogp/cursor使い方完全ガイドvscodeから乗り換えで
 
 ## CursorとVSCodeの違いをまず理解する
 
+<!-- INLINE_IMG -->
+![Cursor使い方完全ガイド｜VSCodeから乗り換えで開発効率3倍 - CursorとVSCodeの違いをまず理解する](/auto-blog/inline-images/cursor-vscode-3--0.jpg)
+
+
 CursorはAnysphere社が開発したAIファーストのコードエディタで、VSCodeのオープンソース版（VSCodium）をベースに作られています。つまり**見た目も操作感もほぼVSCode**で、キーボードショートカットも共通です。
 
 大きな違いは「AIが標準で組み込まれている」点に尽きます。VSCodeでGitHub Copilotを使う場合、拡張機能のインストールと月額10ドルのサブスクが必要ですが、Cursorは標準搭載でモデルの切り替えも自由。Claude Sonnet 4.6、GPT-5.4、Gemini 3.1といった最新モデルをドロップダウンから瞬時に変更できます。
@@ -42,6 +46,10 @@ CursorはAnysphere社が開発したAIファーストのコードエディタで
 
 
 ## VSCodeからの移行は3分で完了する
+
+<!-- INLINE_IMG -->
+![Cursor使い方完全ガイド｜VSCodeから乗り換えで開発効率3倍 - VSCodeからの移行は3分で完了する](/auto-blog/inline-images/cursor-vscode-3--1.jpg)
+
 
 Cursor公式サイトからインストーラーをダウンロードして起動すると、初回セットアップで「VSCodeから設定をインポート」というステップが出てきます。ここで「Import」を押すだけで、拡張機能・テーマ・キーバインド・スニペットがそっくり移行されます。
 

@@ -17,6 +17,10 @@ image: "/auto-blog/ogp/openai-academyおすすめ講座7選2026年最新版.png"
 
 ## OpenAI Academyとは何か？基本情報を整理
 
+<!-- INLINE_IMG -->
+![OpenAI Academyおすすめ講座7選2026年最新版 - OpenAI Academyとは何か？基本情報を整理](/auto-blog/inline-images/openai-academy-7-2026--0.jpg)
+
+
 結論:OpenAI Academyは、OpenAIが運営する公式無料学習プラットフォームです。理由は、AI普及によるスキル格差を縮めることをミッションに掲げ、世界中の学習者へ平等にリソースを提供するためです。
 
 academy.openai.comからアクセスでき、登録は無料。学習形式は動画、テキスト、インタラクティブな演習が組み合わさっており、ChatGPTを実際に触りながらスキルを身につけられる構成になっています。特徴的なのは、教育者向け・開発者向け・ビジネスパーソン向けと受講者の属性別にコースが整理されている点。自分の立ち位置に合った学びをピンポイントで選べるのが大きな魅力です。
@@ -39,6 +43,10 @@ academy.openai.comからアクセスでき、登録は無料。学習形式は�
 
 
 ## 初心者におすすめのコース3選
+
+<!-- INLINE_IMG -->
+![OpenAI Academyおすすめ講座7選2026年最新版 - 初心者におすすめのコース3選](/auto-blog/inline-images/openai-academy-7-2026--1.jpg)
+
 
 ### 1. ChatGPT Fundamentals(基礎コース)
 

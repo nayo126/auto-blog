@@ -15,6 +15,10 @@ ChatGPTに長いプロンプトを送ろうとしてEnterを押した瞬間、�
 
 ## 結論：ChatGPTの改行はShift+Enterが基本
 
+<!-- INLINE_IMG -->
+![ChatGPTプロンプトで改行する方法5選｜Shift+Enterの使い方 - 結論：ChatGPTの改行はShift+Enterが基本](/auto-blog/inline-images/chatgpt-5-shiftenter--0.jpg)
+
+
 結論から言うと、ChatGPTのブラウザ版で改行したい場合は **Shift+Enter** を押せば送信されずに改行できます。Enter単体は「送信」、Shift+Enterは「改行」と覚えておけば、ほとんどのケースで困ることはありません。
 
 理由はシンプルで、ChatGPTの入力欄はチャットアプリと同じUI設計だからです。SlackやDiscordと同じ仕様なので、これらに慣れている人は無意識に使えているはず。ただし環境によってショートカットが微妙に異なるため、整理しておきましょう。
@@ -29,6 +33,10 @@ ChatGPTに長いプロンプトを送ろうとしてEnterを押した瞬間、�
 スマホ版だけは挙動が逆で、Enterキーが改行扱いになり、送信は右下のボタンを押す仕組みです。PCの感覚で「Enter押したら送られない！」と焦る必要はありません。
 
 ## 方法1：Shift+Enterで段落を分けて送る
+
+<!-- INLINE_IMG -->
+![ChatGPTプロンプトで改行する方法5選｜Shift+Enterの使い方 - 方法1：Shift+Enterで段落を分けて送る](/auto-blog/inline-images/chatgpt-5-shiftenter--1.jpg)
+
 
 最も基本的なやり方が、Shift+Enterで段落を視覚的に整理する方法です。例えば「役割→前提→指示→出力形式」の4ブロックに分けて指示を出すと、ChatGPTの回答精度が体感で2倍ほど変わります。
 

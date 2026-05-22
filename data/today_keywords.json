@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-20T13:30:05.088752+00:00",
+  "picked_at": "2026-05-22T09:28:11.652257+00:00",
   "count": 5,
   "items": [
     {
-      "category": "AI画像生成",
-      "keyword": "openai dall-e 使い方"
-    },
-    {
       "category": "海外AIトレンド",
-      "keyword": "openai 無料 おすすめ"
+      "keyword": "ai スタートアップ ランキング"
     },
     {
-      "category": "AIツール比較",
-      "keyword": "ai 画像生成 無料 登録不要"
-    },
-    {
-      "category": "Claude活用",
-      "keyword": "claude mcpサーバー"
+      "category": "個人開発",
+      "keyword": "個人開発 アイデア ない"
     },
     {
       "category": "AI副業",
-      "keyword": "ai フリーランス 仕事"
+      "keyword": "おすすめ ai アプリ 副業"
+    },
+    {
+      "category": "AIツール比較",
+      "keyword": "ai 画像生成 アプリ"
+    },
+    {
+      "category": "Claude活用",
+      "keyword": "claude 使い方 小説"
     }
   ]
 }

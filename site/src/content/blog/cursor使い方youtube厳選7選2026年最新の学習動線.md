@@ -19,6 +19,10 @@ image: "/auto-blog/ogp/cursor使い方youtube厳選7選2026年最新の学習動
 
 ## 結論：CursorはYouTubeで「操作画面」を見ながら覚えるのが最速
 
+<!-- INLINE_IMG -->
+![Cursor使い方YouTube厳選7選｜2026年最新の学習動線 - 結論：CursorはYouTubeで「操作画面」を見ながら覚えるのが最速](/auto-blog/inline-images/cursor-youtube-7-2026--0.jpg)
+
+
 結論から書くと、Cursorの習得はテキストよりYouTube動画のほうが圧倒的に効率的です。理由は3つあります。
 
 1つ目は、CursorのUIが頻繁に変わるからです。バージョン1.0以降、サイドバーの構成やショートカット、Composer/Agentの切り替え位置などが何度も刷新されています。スクリーンショット付きの記事は数ヶ月で古くなりますが、最新の動画なら現行UIで操作の流れを追えます。
@@ -39,6 +43,10 @@ image: "/auto-blog/ogp/cursor使い方youtube厳選7選2026年最新の学習動
 
 
 ## YouTubeで学ぶ前に押さえておきたい3つの前提
+
+<!-- INLINE_IMG -->
+![Cursor使い方YouTube厳選7選｜2026年最新の学習動線 - YouTubeで学ぶ前に押さえておきたい3つの前提](/auto-blog/inline-images/cursor-youtube-7-2026--1.jpg)
+
 
 動画を観始める前に、最低限の前提を揃えておくと吸収率が変わります。
 

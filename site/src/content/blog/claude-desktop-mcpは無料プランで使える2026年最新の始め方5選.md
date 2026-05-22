@@ -17,6 +17,10 @@ image: "/auto-blog/ogp/claude-desktop-mcpは無料プランで使える2026年�
 
 ## Claude Desktop MCPは無料プランで使える?結論
 
+<!-- INLINE_IMG -->
+![Claude Desktop MCPは無料プランで使える？2026年最新の始め方5選 - Claude Desktop MCPは無料プランで使える?結論](/auto-blog/inline-images/claude-desktop-mcp-2026-5--0.jpg)
+
+
 結論:**無料プランでもMCPは完全に動作します**。理由は、MCPがClaude Desktopアプリ側の機能として実装されており、APIではなく対話プランの一部として提供されているためです。
 
 Anthropicが2024年末に公開したMCPは、Claudeとローカル/外部のツールを接続するオープン規格。Claude Desktop(Mac/Windows版)を導入すれば、無料アカウントでも設定ファイル(`claude_desktop_config.json`)を編集するだけでMCPサーバーを接続できます。
@@ -45,6 +49,10 @@ Anthropicが2024年末に公開したMCPは、Claudeとローカル/外部のツ
 
 
 ## 無料プランでMCPを使う具体的な手順
+
+<!-- INLINE_IMG -->
+![Claude Desktop MCPは無料プランで使える？2026年最新の始め方5選 - 無料プランでMCPを使う具体的な手順](/auto-blog/inline-images/claude-desktop-mcp-2026-5--1.jpg)
+
 
 導入は5ステップで完了します。
 

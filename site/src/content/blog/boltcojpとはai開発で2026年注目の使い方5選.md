@@ -16,6 +16,10 @@ image: "/auto-blog/ogp/boltcojpとはai開発で2026年注目の使い方5選.pn
 
 ## bolt.co.jpの正体と「Bolt.new」との違い
 
+<!-- INLINE_IMG -->
+![bolt.co.jpとは？AI開発で2026年注目の使い方5選 - bolt.co.jpの正体と「Bolt.new」との違い](/auto-blog/inline-images/boltcojp-ai-2026-5--0.jpg)
+
+
 結論：bolt.co.jpという日本公式ドメインは、2026年5月時点では確認できません。日本語で検索したユーザーが探しているのは、ほぼ間違いなくStackBlitz社が運営する「Bolt.new」(bolt.new)です。
 
 Bolt.newはブラウザ上で動くAI開発環境で、自然言語で指示を出すだけでReactやNext.js、Astroなどのフルスタックアプリを生成してくれます。VS Codeをインストールする必要も、ローカルにNode.jsを入れる必要もありません。WebContainerという技術で、ブラウザの中に仮想のNode環境が立ち上がる仕組みです。
@@ -39,6 +43,10 @@ Bolt.newはブラウザ上で動くAI開発環境で、自然言語で指示を�
 
 
 ## 料金プランと無料枠でできること
+
+<!-- INLINE_IMG -->
+![bolt.co.jpとは？AI開発で2026年注目の使い方5選 - 料金プランと無料枠でできること](/auto-blog/inline-images/boltcojp-ai-2026-5--1.jpg)
+
 
 Boltは無料でも触れますが、本格利用には課金が前提です。プランは「トークン」で課金される従量寄りの設計で、AIが生成するコード量に応じて消費していきます。
 

@@ -15,6 +15,10 @@ image: "/auto-blog/ogp/claude-mcp-addの使い方完全ガイド2026年最新7�
 
 ## claude mcp addとは何か：3分でわかる基本構造
 
+<!-- INLINE_IMG -->
+![claude mcp addの使い方完全ガイド2026年最新7手順 - claude mcp addとは何か：3分でわかる基本構造](/auto-blog/inline-images/claude-mcp-add-2026-7--0.jpg)
+
+
 結論：`claude mcp add` は、Claude CodeにMCP(Model Context Protocol)サーバーを登録するためのコマンドです。理由は、Claude単体だとファイルシステムや外部API、データベースに直接アクセスできないため、MCPサーバー経由で「拡張機能」を追加する必要があるからです。
 
 基本構文は次のとおりです。
@@ -43,6 +47,10 @@ claude mcp add github npx -y @modelcontextprotocol/server-github
 
 
 ## scope引数の使い分け：local・user・projectの違い
+
+<!-- INLINE_IMG -->
+![claude mcp addの使い方完全ガイド2026年最新7手順 - scope引数の使い分け：local・user・projectの違い](/auto-blog/inline-images/claude-mcp-add-2026-7--1.jpg)
+
 
 `claude mcp add` には `-s` または `--scope` オプションがあり、3種類のスコープから選べます。これを理解しないと「家のPCでは動くのに会社のPCで動かない」という事故が起きます。
 

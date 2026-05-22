@@ -15,6 +15,10 @@ image: "/auto-blog/ogp/claude-code活用術7選副業の作業時間を3倍速�
 
 ## Claude Codeとは何か？従来のAIコーディングとの違い
 
+<!-- INLINE_IMG -->
+![Claude Code活用術7選｜副業の作業時間を3倍速に - Claude Codeとは何か？従来のAIコーディングとの違い](/auto-blog/inline-images/claude-code-7-3--0.jpg)
+
+
 結論：Claude Code は「対話型のAIアシスタント」ではなく「実際に手を動かすAIエンジニア」です。
 
 ChatGPT や Copilot がコードの**提案**を返すツールだとすれば、Claude Code はターミナルから直接プロジェクトを読み、編集し、実行までこなす存在です。Anthropic が2024年末に公開して以降、2026年現在では Claude Sonnet 4.6 と Opus 4.7 の両モデルに対応し、1Mトークンの長文コンテキストで巨大リポジトリの全体把握も可能になりました。
@@ -38,6 +42,10 @@ ChatGPT や Copilot がコードの**提案**を返すツールだとすれば�
 
 
 ## 副業で効くClaude Code活用術7選
+
+<!-- INLINE_IMG -->
+![Claude Code活用術7選｜副業の作業時間を3倍速に - 副業で効くClaude Code活用術7選](/auto-blog/inline-images/claude-code-7-3--1.jpg)
+
 
 副業利用者からヒアリングして特に効果が大きかった使い方を7つ挙げます。
 

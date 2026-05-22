@@ -17,6 +17,10 @@ image: "/auto-blog/ogp/claude-codevscode連携2026年最新7つの活用術.png"
 
 ## Claude CodeをVSCodeで使う3つの方法
 
+<!-- INLINE_IMG -->
+![Claude Code×VSCode連携｜2026年最新7つの活用術 - Claude CodeをVSCodeで使う3つの方法](/auto-blog/inline-images/claude-codevscode-2026-7--0.jpg)
+
+
 結論：方法は大きく3つあり、目的によって最適解が違います。
 
 - **公式VSCode拡張機能**：差分プレビュー、ファイル選択、チャットUIが揃う一番素直な選択肢
@@ -39,6 +43,10 @@ CLI派はCmd+Jで統合ターミナルを開き`claude`を起動。Plan ModeやA
 
 
 ## VSCode連携で爆速になる作業7選
+
+<!-- INLINE_IMG -->
+![Claude Code×VSCode連携｜2026年最新7つの活用術 - VSCode連携で爆速になる作業7選](/auto-blog/inline-images/claude-codevscode-2026-7--1.jpg)
+
 
 副業・実務で効果が大きい使い方を7つに絞ります。
 
