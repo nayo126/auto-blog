@@ -122,3 +122,29 @@ ChatGPT APIキーの確認はplatform.openai.comの「API keys」画面が起点
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### ChatGPT APIキーを忘れた場合は再発行できますか?
+
+はい、platform.openai.comの「API keys」画面から「Create new secret key」で再発行可能です。発行直後にしかキー全体は表示されないため、1Passwordなどに即保存してください。古いキーは「Revoke」で無効化できます。
+
+### ChatGPT APIキーの使用量はどこで確認できますか?
+
+platform.openai.comの左サイドバー「Usage」で日別・モデル別の使用量とコストが確認できます。「Limits」でmonthly budgetを月5ドルなど低めに設定しておくと、想定外の高額請求を防げます。
+
+### ChatGPT APIキーが漏洩したらどうすればいいですか?
+
+即座にplatform.openai.comの「API keys」画面で該当キーを「Revoke」して無効化してください。GitHubに誤公開した場合、5分以内にOpenAIが自動検知してキーを失効させる仕組みもあります。新キー発行後、環境変数を更新します。
+
+### ChatGPT PlusとAPIの料金は別ですか?
+
+完全に別請求です。ChatGPT Plusは月20ドル定額ですが、APIはgpt-4oで入力100万トークン2.50ドルなどの従量課金です。Plus契約者でもAPIを使うには別途クレジットカード登録とチャージが必要です。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "ChatGPT APIキーを忘れた場合は再発行できますか?", "acceptedAnswer": {"@type": "Answer", "text": "はい、platform.openai.comの「API keys」画面から「Create new secret key」で再発行可能です。発行直後にしかキー全体は表示されないため、1Passwordなどに即保存してください。古いキーは「Revoke」で無効化できます。"}}, {"@type": "Question", "name": "ChatGPT APIキーの使用量はどこで確認できますか?", "acceptedAnswer": {"@type": "Answer", "text": "platform.openai.comの左サイドバー「Usage」で日別・モデル別の使用量とコストが確認できます。「Limits」でmonthly budgetを月5ドルなど低めに設定しておくと、想定外の高額請求を防げます。"}}, {"@type": "Question", "name": "ChatGPT APIキーが漏洩したらどうすればいいですか?", "acceptedAnswer": {"@type": "Answer", "text": "即座にplatform.openai.comの「API keys」画面で該当キーを「Revoke」して無効化してください。GitHubに誤公開した場合、5分以内にOpenAIが自動検知してキーを失効させる仕組みもあります。新キー発行後、環境変数を更新します。"}}, {"@type": "Question", "name": "ChatGPT PlusとAPIの料金は別ですか?", "acceptedAnswer": {"@type": "Answer", "text": "完全に別請求です。ChatGPT Plusは月20ドル定額ですが、APIはgpt-4oで入力100万トークン2.50ドルなどの従量課金です。Plus契約者でもAPIを使うには別途クレジットカード登録とチャージが必要です。"}}]}
+</script>
+
+<!-- FAQ_END -->
