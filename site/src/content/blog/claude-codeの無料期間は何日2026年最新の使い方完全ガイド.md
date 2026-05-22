@@ -126,3 +126,29 @@ Claude Codeに明確な無料期間はないものの、Claude.aiの無料プラ
 - [Claudeがユーザーに「寝なさい」と命令する謎現象、Anthropicも原因不明](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude Codeの無料枠は1日何回まで使える？
+
+無料プランでは1日あたり約40〜50メッセージが目安で、約5時間ごとに上限がリセットされます。コード生成のような長文出力は消費が早く、実質1日20回程度で枯渇するケースが多いです。
+
+### Claude CodeとClaude.aiの無料版は何が違う？
+
+Claude.aiはブラウザ上のチャット用で無料利用可。Claude Codeはターミナルで動くCLIツールで、APIキーかProプラン以上($20/月)の契約が必要です。無料でCLI版を常用するのは現実的に不可能です。
+
+### Claude Codeを最安で使う方法は？
+
+Pro月額20ドル契約が最安ルートです。APIキー従量課金だと1日30分の使用でも月50ドル超になることが多く、Pro定額の方が3倍以上お得です。年払いなら月17ドル相当に下がります。
+
+### Claude Codeの代わりに無料で使える類似ツールは？
+
+Cursor無料版(月2,000回補完)、GitHub Copilot学生無料版、Gemini Code Assist個人無料枠の3つが代替候補です。ただし長文コード生成の精度はClaude Code Pro($20)が頭一つ抜けています。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude Codeの無料枠は1日何回まで使える？", "acceptedAnswer": {"@type": "Answer", "text": "無料プランでは1日あたり約40〜50メッセージが目安で、約5時間ごとに上限がリセットされます。コード生成のような長文出力は消費が早く、実質1日20回程度で枯渇するケースが多いです。"}}, {"@type": "Question", "name": "Claude CodeとClaude.aiの無料版は何が違う？", "acceptedAnswer": {"@type": "Answer", "text": "Claude.aiはブラウザ上のチャット用で無料利用可。Claude Codeはターミナルで動くCLIツールで、APIキーかProプラン以上($20/月)の契約が必要です。無料でCLI版を常用するのは現実的に不可能です。"}}, {"@type": "Question", "name": "Claude Codeを最安で使う方法は？", "acceptedAnswer": {"@type": "Answer", "text": "Pro月額20ドル契約が最安ルートです。APIキー従量課金だと1日30分の使用でも月50ドル超になることが多く、Pro定額の方が3倍以上お得です。年払いなら月17ドル相当に下がります。"}}, {"@type": "Question", "name": "Claude Codeの代わりに無料で使える類似ツールは？", "acceptedAnswer": {"@type": "Answer", "text": "Cursor無料版(月2,000回補完)、GitHub Copilot学生無料版、Gemini Code Assist個人無料枠の3つが代替候補です。ただし長文コード生成の精度はClaude Code Pro($20)が頭一つ抜けています。"}}]}
+</script>
+
+<!-- FAQ_END -->

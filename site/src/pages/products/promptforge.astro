@@ -1,0 +1,90 @@
+---
+import Base from "../../layouts/Base.astro";
+
+const baseUrl = import.meta.env.BASE_URL;
+// resolved at build-time from public env. If not set, points to the Ko-fi shop generic URL.
+const buyUrl = "https://ko-fi.com/promptforge";  // ← updated by monetization-id-watcher when MIDS.kofi.username set
+---
+<Base
+  title="AI Prompt Library 2026 — 254 Battle-Tested Prompts"
+  description="254 production-grade AI prompts for ChatGPT, Claude, and Cursor. Magazine-quality 105-page PDF + bonus cheat sheet. $27."
+>
+  <article class="product-page">
+    <header style="text-align:center; padding: 30px 0 20px;">
+      <span style="display:inline-block; padding:4px 12px; background:#ffd700; color:#0f1a2e; border-radius:20px; font-size:12px; font-weight:700; letter-spacing:1px;">DIGITAL PRODUCT</span>
+      <h1 style="font-size:42px; margin:20px 0 8px; line-height:1.15;">AI Prompt Library 2026</h1>
+      <p style="font-size:18px; color:#666; margin:0;">254 Battle-Tested Prompts for ChatGPT, Claude &amp; Cursor</p>
+    </header>
+
+    <div style="display:flex; gap:40px; flex-wrap:wrap; align-items:center; margin:30px 0;">
+      <div style="flex:1; min-width:280px;">
+        <img src={baseUrl + "products/promptforge_cover.png"} alt="AI Prompt Library 2026 cover" style="width:100%; max-width:380px; border-radius:8px; box-shadow:0 8px 32px rgba(0,0,0,0.18); display:block; margin:0 auto;" />
+      </div>
+      <div style="flex:1; min-width:280px;">
+        <div style="font-size:48px; font-weight:800; color:#0f1a2e;">$27<span style="font-size:18px; color:#888; font-weight:400; margin-left:8px;">USD</span></div>
+        <p style="color:#555; margin:12px 0 24px; line-height:1.6;">
+          A magazine-quality 105-page PDF + bonus 1-page cheat sheet.
+          Every prompt extracted from real production workflows.
+        </p>
+        <a href={buyUrl} target="_blank" rel="sponsored noopener" style="display:inline-block; background:#0f1a2e; color:#ffd700; padding:16px 36px; border-radius:8px; font-size:18px; font-weight:700; text-decoration:none;">
+          Get the Library →
+        </a>
+        <p style="font-size:12px; color:#888; margin-top:12px;">Instant download · Lifetime updates · Personal &amp; commercial use OK</p>
+      </div>
+    </div>
+
+    <hr style="margin:40px 0; border:none; border-top:1px solid #eee;" />
+
+    <h2 style="font-size:28px; margin:30px 0 12px;">What's inside</h2>
+    <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(220px, 1fr)); gap:16px; margin:20px 0;">
+      <div style="padding:20px; background:#f8fafe; border-radius:8px; border-left:4px solid #0066ff;">
+        <div style="font-size:30px; font-weight:800; color:#0066ff;">254</div>
+        <div style="font-size:13px; color:#555;">Production-grade prompts</div>
+      </div>
+      <div style="padding:20px; background:#f8fafe; border-radius:8px; border-left:4px solid #ff6b00;">
+        <div style="font-size:30px; font-weight:800; color:#ff6b00;">9</div>
+        <div style="font-size:13px; color:#555;">Specialized categories</div>
+      </div>
+      <div style="padding:20px; background:#f8fafe; border-radius:8px; border-left:4px solid #00b894;">
+        <div style="font-size:30px; font-weight:800; color:#00b894;">105</div>
+        <div style="font-size:13px; color:#555;">PDF pages (magazine-quality)</div>
+      </div>
+      <div style="padding:20px; background:#f8fafe; border-radius:8px; border-left:4px solid #6c5ce7;">
+        <div style="font-size:30px; font-weight:800; color:#6c5ce7;">27</div>
+        <div style="font-size:13px; color:#555;">Pro tips (3 per category)</div>
+      </div>
+    </div>
+
+    <h2 style="font-size:28px; margin:30px 0 12px;">The 9 categories</h2>
+    <ul style="list-style:none; padding:0; margin:20px 0;">
+      <li style="padding:12px 0; border-bottom:1px solid #eee;"><strong>Coding &amp; Development</strong> — Production prompts for Claude Code, Cursor, MCP servers.</li>
+      <li style="padding:12px 0; border-bottom:1px solid #eee;"><strong>Marketing &amp; Content</strong> — Sales copy, hooks, headlines.</li>
+      <li style="padding:12px 0; border-bottom:1px solid #eee;"><strong>Image Generation</strong> — Midjourney, Flux, DALL-E ready.</li>
+      <li style="padding:12px 0; border-bottom:1px solid #eee;"><strong>Video Production</strong> — Faceless YouTube, Kling, Runway, Sora.</li>
+      <li style="padding:12px 0; border-bottom:1px solid #eee;"><strong>Side Hustle &amp; Monetization</strong> — Pricing, positioning, lead gen.</li>
+      <li style="padding:12px 0; border-bottom:1px solid #eee;"><strong>Productivity &amp; Automation</strong> — Workflows, routines, second-brain.</li>
+      <li style="padding:12px 0; border-bottom:1px solid #eee;"><strong>Claude Specialized</strong> — Optimized for Sonnet 4.6 / Opus 4.7.</li>
+      <li style="padding:12px 0; border-bottom:1px solid #eee;"><strong>ChatGPT Specialized</strong> — Tuned for GPT-5/4o.</li>
+      <li style="padding:12px 0;"><strong>General Purpose</strong> — Cross-model fundamentals.</li>
+    </ul>
+
+    <h2 style="font-size:28px; margin:30px 0 12px;">What you also get (bonus)</h2>
+    <div style="padding:24px; background:linear-gradient(135deg, #0f1a2e 0%, #1a2a4e 100%); color:#fff; border-radius:8px; margin:20px 0;">
+      <div style="color:#ffd700; font-size:11px; letter-spacing:2px; font-weight:700;">FREE BONUS — INCLUDED</div>
+      <h3 style="font-size:22px; margin:8px 0;">The AI Prompt Cheat Sheet</h3>
+      <p style="margin:0; color:#cfd5e2;">10 universal patterns that make any prompt 2-3x better. One page. Stick it on your monitor.</p>
+    </div>
+
+    <h2 style="font-size:28px; margin:30px 0 12px;">Works with</h2>
+    <p style="color:#555;">ChatGPT 5+ · Claude Sonnet 4.6 / Opus 4.7 · Cursor · Codex · Gemini</p>
+
+    <hr style="margin:40px 0; border:none; border-top:1px solid #eee;" />
+
+    <div style="text-align:center; padding:40px 0;">
+      <a href={buyUrl} target="_blank" rel="sponsored noopener" style="display:inline-block; background:#0f1a2e; color:#ffd700; padding:18px 44px; border-radius:8px; font-size:20px; font-weight:700; text-decoration:none;">
+        Get the Library — $27
+      </a>
+      <p style="font-size:12px; color:#888; margin-top:14px;">Personal &amp; commercial use OK. Resale prohibited.</p>
+    </div>
+  </article>
+</Base>

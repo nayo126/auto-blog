@@ -159,3 +159,29 @@ Claude Codeの始め方は、Node.js準備→インストール→認証→初�
 - [ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-3-reddit.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude Codeは無料で使えますか？
+
+Claude Codeのツール自体は無料ですが、APIまたはClaudeサブスクリプションが必要です。Pro($20/月)で軽い利用、Max($100または$200/月)で本格運用が可能で、API従量課金は入力$15/出力$75/100万トークンが目安です。
+
+### Claude CodeとCursorはどちらがいいですか？
+
+ターミナル中心でリポジトリ全体を任せたいならClaude Code、エディタ内で対話的に書きたいならCursorが向きます。Claude Codeは複数ファイル横断編集とテスト実行の自律性が強く、CursorはVSCodeベースのUI操作が直感的です。
+
+### Claude Codeを使うのに必要なスペックは？
+
+Node.js 18以上が動けばOKで、メモリ8GB以上、macOS/Linux/WSL2環境を推奨します。本体はクラウド処理なのでローカルGPU不要で、MacBook Air M1クラスでも快適に動作します。
+
+### Claude Codeで月50万円稼ぐのは本当ですか？
+
+受託開発やSaaS個人開発で実例はありますが、平均ではありません。Claude Codeはあくまで生産性を3〜5倍にするツールで、案件獲得力と設計スキルが前提です。未経験から3ヶ月で月50万到達は現実的でない水準です。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude Codeは無料で使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "Claude Codeのツール自体は無料ですが、APIまたはClaudeサブスクリプションが必要です。Pro($20/月)で軽い利用、Max($100または$200/月)で本格運用が可能で、API従量課金は入力$15/出力$75/100万トークンが目安です。"}}, {"@type": "Question", "name": "Claude CodeとCursorはどちらがいいですか？", "acceptedAnswer": {"@type": "Answer", "text": "ターミナル中心でリポジトリ全体を任せたいならClaude Code、エディタ内で対話的に書きたいならCursorが向きます。Claude Codeは複数ファイル横断編集とテスト実行の自律性が強く、CursorはVSCodeベースのUI操作が直感的です。"}}, {"@type": "Question", "name": "Claude Codeを使うのに必要なスペックは？", "acceptedAnswer": {"@type": "Answer", "text": "Node.js 18以上が動けばOKで、メモリ8GB以上、macOS/Linux/WSL2環境を推奨します。本体はクラウド処理なのでローカルGPU不要で、MacBook Air M1クラスでも快適に動作します。"}}, {"@type": "Question", "name": "Claude Codeで月50万円稼ぐのは本当ですか？", "acceptedAnswer": {"@type": "Answer", "text": "受託開発やSaaS個人開発で実例はありますが、平均ではありません。Claude Codeはあくまで生産性を3〜5倍にするツールで、案件獲得力と設計スキルが前提です。未経験から3ヶ月で月50万到達は現実的でない水準です。"}}]}
+</script>
+
+<!-- FAQ_END -->

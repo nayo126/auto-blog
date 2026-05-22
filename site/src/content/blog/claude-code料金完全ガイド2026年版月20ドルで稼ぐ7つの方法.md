@@ -161,3 +161,29 @@ Claude Codeの料金は一見ややこしいですが、選び方はシンプル
 - [Claude Codeが1時間連続編集？AIコーディング長時間自律作業の実態と注意点](https://nayo126.github.io/ai-news-jp/posts/claude-code-1-ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude CodeのProプランとMaxプランの違いは何ですか？
+
+Proは月20ドルで個人開発や軽い副業向け、Maxは月100ドルまたは200ドルで使用量上限が5〜20倍に拡大します。月10時間以上コーディングするならMax 100ドル、本格的に副業で稼ぐならMax 200ドルが目安です。
+
+### Claude Codeの料金は元が取れますか？
+
+月20ドルのProなら、コーディング副業で1案件5000円の作業を1件こなせば元が取れます。実際にClaude Codeでスクリプト制作を受注すると1本1〜3万円が相場で、月2〜3件で月収5万円超えも可能です。
+
+### Claude CodeとChatGPT Plusはどちらがコスパが良いですか？
+
+コーディング特化ならClaude Codeが優位です。同じ月20ドルでもClaudeはターミナル直接操作・ファイル編集・複数ファイル横断が可能で、開発速度が約2倍。汎用チャットならChatGPT Plus、開発業務ならClaude Codeを選びます。
+
+### Claude Codeの無料プランで副業は可能ですか？
+
+無料プランは1日数回の制限があり副業には不向きです。クライアント案件をこなすには最低でもPro(月20ドル)が必須で、納期と品質を守るには使用量の余裕が必要です。無料で試してから有料移行する流れが現実的です。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude CodeのProプランとMaxプランの違いは何ですか？", "acceptedAnswer": {"@type": "Answer", "text": "Proは月20ドルで個人開発や軽い副業向け、Maxは月100ドルまたは200ドルで使用量上限が5〜20倍に拡大します。月10時間以上コーディングするならMax 100ドル、本格的に副業で稼ぐならMax 200ドルが目安です。"}}, {"@type": "Question", "name": "Claude Codeの料金は元が取れますか？", "acceptedAnswer": {"@type": "Answer", "text": "月20ドルのProなら、コーディング副業で1案件5000円の作業を1件こなせば元が取れます。実際にClaude Codeでスクリプト制作を受注すると1本1〜3万円が相場で、月2〜3件で月収5万円超えも可能です。"}}, {"@type": "Question", "name": "Claude CodeとChatGPT Plusはどちらがコスパが良いですか？", "acceptedAnswer": {"@type": "Answer", "text": "コーディング特化ならClaude Codeが優位です。同じ月20ドルでもClaudeはターミナル直接操作・ファイル編集・複数ファイル横断が可能で、開発速度が約2倍。汎用チャットならChatGPT Plus、開発業務ならClaude Codeを選びます。"}}, {"@type": "Question", "name": "Claude Codeの無料プランで副業は可能ですか？", "acceptedAnswer": {"@type": "Answer", "text": "無料プランは1日数回の制限があり副業には不向きです。クライアント案件をこなすには最低でもPro(月20ドル)が必須で、納期と品質を守るには使用量の余裕が必要です。無料で試してから有料移行する流れが現実的です。"}}]}
+</script>
+
+<!-- FAQ_END -->
