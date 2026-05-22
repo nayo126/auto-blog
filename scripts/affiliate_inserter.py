@@ -44,8 +44,26 @@ def load_ids() -> dict:
 
 
 IDS = load_ids()
-RAKUTEN_ID = (IDS.get("rakuten_affiliate") or {}).get("affiliate_id")
-RAKUTEN_OK = bool(RAKUTEN_ID) and RAKUTEN_ID != "TODO"
+
+
+def _resolve_rakuten_id(platform: str = "auto-blog") -> str:
+    """multi-account router. routingに従ってidを返す。未設定ならmain→旧affiliate_idへフォールバック。"""
+    r = (IDS.get("rakuten_affiliate") or {})
+    ids_map = r.get("ids") or {}
+    routing = r.get("routing") or {}
+    if platform in routing and routing[platform] in ids_map:
+        v = ids_map[routing[platform]]
+        if v and v != "TODO":
+            return v
+    v = ids_map.get("main")
+    if v and v != "TODO":
+        return v
+    v = r.get("affiliate_id")
+    return v if v and v != "TODO" else ""
+
+
+RAKUTEN_ID = _resolve_rakuten_id("auto-blog")
+RAKUTEN_OK = bool(RAKUTEN_ID)
 MOSHIMO_AID = (IDS.get("moshimo") or {}).get("a_id")
 MOSHIMO_OK = bool(MOSHIMO_AID) and MOSHIMO_AID != "TODO"
 NINJA_TAG = (IDS.get("ninja_admax") or {}).get("ad_tag_html")
