@@ -163,9 +163,9 @@ ChatGPT APIとGemini APIは、単純な料金比較ではGeminiが2〜3倍安い
 
 ## 関連する記事
 
+- [OpenAI API支払い方法5選｜2026年最新の登録手順](https://nayo126.github.io/auto-blog/blog/openai-api支払い方法5選2026年最新の登録手順/)
 - [ChatGPT APIキーを無料で使う5つの方法【2026年版】](https://nayo126.github.io/auto-blog/blog/chatgpt-apiキーを無料で使う5つの方法2026年版/)
 - [ChatGPT API無料クレジットの真実2026|0円活用術7選](https://nayo126.github.io/auto-blog/blog/chatgpt-api無料クレジットの真実20260円活用術7選/)
-- [Claude vs ChatGPT API比較2026年最新版](https://nayo126.github.io/auto-blog/blog/claude-vs-chatgpt-api比較2026年最新版/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP

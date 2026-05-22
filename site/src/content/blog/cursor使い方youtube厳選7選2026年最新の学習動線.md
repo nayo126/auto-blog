@@ -142,7 +142,7 @@ Cursorの使い方をYouTubeで学ぶときの要点を整理します。直近6
 
 ### 姉妹サイトの関連記事
 - [ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-3-reddit.html) — AI News JP
-- [Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速](https://nayo126.github.io/ai-news-jp/posts/sea-limited-openai-codex.html) — AI News JP
-- [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html) — AI News JP
+- [「プログラマーは消える」予言が外れた理由｜AIに育てられる開発者の現実](https://nayo126.github.io/ai-news-jp/posts/post-3bee2508.html) — AI News JP
+- [Coders in 2030 が話題｜Cursor・Codex・RunableでAIエージェント開発が標準化](https://nayo126.github.io/ai-news-jp/posts/coders-in-2030-cursor-codex-runable-ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->

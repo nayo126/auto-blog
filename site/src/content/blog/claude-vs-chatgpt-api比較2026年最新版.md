@@ -159,8 +159,8 @@ ClaudeとChatGPT APIの選択は「どちらが優れているか」ではなく
 ## 関連する記事
 
 - [AI副業で月5万は現実か？2026年最新の稼ぎ方5選](https://nayo126.github.io/auto-blog/blog/ai副業で月5万は現実か2026年最新の稼ぎ方5選/)
+- [副業におすすめのAIアプリ7選2026年最新ガイド](https://nayo126.github.io/auto-blog/blog/副業におすすめのaiアプリ7選2026年最新ガイド/)
 - [AI副業初心者が月3万稼ぐ最短5ステップ2026](https://nayo126.github.io/auto-blog/blog/ai副業初心者が月3万稼ぐ最短5ステップ2026/)
-- [AIフリーランスとは?2026年最新の始め方と月収50万への道](https://nayo126.github.io/auto-blog/blog/aiフリーランスとは2026年最新の始め方と月収50万への道/)
 
 ### 姉妹サイトの関連記事
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP

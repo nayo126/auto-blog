@@ -151,3 +151,18 @@ Claudeで小説を書く5つの工程を紹介しました。プロット設計�
 - [Claude AIで激変するLinkedInプロフィール作成術2026年最新版](https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html)
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html)
 - [今週のAIニュース10選 (2026/05/17付)](https://nayo126.github.io/ai-news-jp/posts/ai-weekly-roundup-20260517.html)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Claude MCP 自動化で月10時間減らす5設定](https://nayo126.github.io/auto-blog/blog/claude-mcp-自動化で月10時間減らす5設定/)
+- [Claudeの使い方完全ガイド2026年版｜5分で始める実践手順](https://nayo126.github.io/auto-blog/blog/claudeの使い方完全ガイド2026年版5分で始める実践手順/)
+- [Claude Agent SDK副業活用5選|2026年最新自動化](https://nayo126.github.io/auto-blog/blog/claude-agent-sdk副業活用5選2026年最新自動化/)
+
+### 姉妹サイトの関連記事
+- [Claude AIで激変するLinkedInプロフィール作成術2026年最新版](https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html) — AI News JP
+- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
+- [今週のAIニュース10選 (2026/05/17付)](https://nayo126.github.io/ai-news-jp/posts/ai-weekly-roundup-20260517.html) — AI News JP
+
+<!-- SEO_MESH_END -->

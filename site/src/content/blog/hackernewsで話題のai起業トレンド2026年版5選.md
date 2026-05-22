@@ -126,5 +126,6 @@ AIエージェント、開発者インフラ、Vertical AIの3軸を意識しな
 
 - [Discord AI コミュニティ 海外活用2026最新](https://nayo126.github.io/auto-blog/blog/discord-ai-コミュニティ-海外活用2026最新/)
 - [Reddit発AI副業トレンド5選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/reddit発ai副業トレンド5選2026年最新版/)
+- [AIスタートアップランキング2026年版TOP10最新](https://nayo126.github.io/auto-blog/blog/aiスタートアップランキング2026年版top10最新/)
 
 <!-- SEO_MESH_END -->

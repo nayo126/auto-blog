@@ -176,8 +176,8 @@ Claudeは、長文処理と日本語の自然さで現状トップクラスの�
 ## 関連する記事
 
 - [Claude MCP 自動化で月10時間減らす5設定](https://nayo126.github.io/auto-blog/blog/claude-mcp-自動化で月10時間減らす5設定/)
+- [Claudeで小説を書く方法5選｜プロ級執筆術2026](https://nayo126.github.io/auto-blog/blog/claudeで小説を書く方法5選プロ級執筆術2026/)
 - [ChatGPTで稼ぐ方法 初心者向け7ステップ完全版](https://nayo126.github.io/auto-blog/blog/chatgptで稼ぐ方法-初心者向け7ステップ完全版/)
-- [Claude Agent SDK副業活用5選|2026年最新自動化](https://nayo126.github.io/auto-blog/blog/claude-agent-sdk副業活用5選2026年最新自動化/)
 
 ### 姉妹サイトの関連記事
 - [Claude AIで激変するLinkedInプロフィール作成術2026年最新版](https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html) — AI News JP
