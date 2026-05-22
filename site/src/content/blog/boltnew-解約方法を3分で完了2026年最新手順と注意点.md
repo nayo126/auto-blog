@@ -150,6 +150,6 @@ StackBlitz社のポリシーでは月額・年額プランとも日割り返金�
 
 - [Leonardo AI解約方法を3分で完了する手順【2026年最新】](https://nayo126.github.io/auto-blog/blog/leonardo-ai解約方法を3分で完了する手順2026年最新/)
 - [Claude Code比較2026｜主要AI開発5ツールの実力差](https://nayo126.github.io/auto-blog/blog/claude-code比較2026主要ai開発5ツールの実力差/)
-- [Bolt.new徹底比較2026｜v0/Replit/Lovableとの違い7選](https://nayo126.github.io/auto-blog/blog/boltnew徹底比較2026v0replitlovableとの違い7選/)
+- [Antigravity vs Claude Code徹底比較2026|副業AIに最適なのは?](https://nayo126.github.io/auto-blog/blog/antigravity-vs-claude-code徹底比較2026副業aiに最適なのは/)
 
 <!-- SEO_MESH_END -->
