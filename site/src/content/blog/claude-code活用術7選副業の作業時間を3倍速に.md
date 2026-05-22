@@ -130,3 +130,29 @@ Claude Code は単なるAIコード生成ツールではなく、副業者の作
 - [Claude Codeが1時間連続編集？AIコーディング長時間自律作業の実態と注意点](https://nayo126.github.io/ai-news-jp/posts/claude-code-1-ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude Codeは無料で使えますか？
+
+Claude Codeは有料です。Claude Pro（月額20ドル）またはMax（月額100〜200ドル）の契約が必要で、APIキー利用なら従量課金も可能です。副業用途ならProプランで月数十時間の作業をカバーできます。
+
+### Claude CodeとCursorはどちらが副業向きですか？
+
+ターミナル中心の作業ならClaude Code、エディタUIで視覚的に編集したいならCursorが向きます。Claude Codeはファイル操作とGit連携が強く、自動化やバッチ処理を含む副業案件で3倍速になりやすいです。
+
+### プログラミング未経験でもClaude Codeで副業できますか？
+
+可能です。HTMLとGitの基礎を3日学べば、LP制作・ブログ自動投稿・スクレイピングなど月3〜5万円の案件をこなせます。指示は日本語でOKで、エラーも自動修正してくれます。
+
+### Claude CodeはWindowsでも動きますか？
+
+動きます。WSL2（Windows Subsystem for Linux）経由でUbuntuを入れ、npm install -g @anthropic-ai/claude-codeでインストール可能です。Mac/LinuxはターミナルでそのままOK、所要時間は約10分です。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude Codeは無料で使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "Claude Codeは有料です。Claude Pro（月額20ドル）またはMax（月額100〜200ドル）の契約が必要で、APIキー利用なら従量課金も可能です。副業用途ならProプランで月数十時間の作業をカバーできます。"}}, {"@type": "Question", "name": "Claude CodeとCursorはどちらが副業向きですか？", "acceptedAnswer": {"@type": "Answer", "text": "ターミナル中心の作業ならClaude Code、エディタUIで視覚的に編集したいならCursorが向きます。Claude Codeはファイル操作とGit連携が強く、自動化やバッチ処理を含む副業案件で3倍速になりやすいです。"}}, {"@type": "Question", "name": "プログラミング未経験でもClaude Codeで副業できますか？", "acceptedAnswer": {"@type": "Answer", "text": "可能です。HTMLとGitの基礎を3日学べば、LP制作・ブログ自動投稿・スクレイピングなど月3〜5万円の案件をこなせます。指示は日本語でOKで、エラーも自動修正してくれます。"}}, {"@type": "Question", "name": "Claude CodeはWindowsでも動きますか？", "acceptedAnswer": {"@type": "Answer", "text": "動きます。WSL2（Windows Subsystem for Linux）経由でUbuntuを入れ、npm install -g @anthropic-ai/claude-codeでインストール可能です。Mac/LinuxはターミナルでそのままOK、所要時間は約10分です。"}}]}
+</script>
+
+<!-- FAQ_END -->

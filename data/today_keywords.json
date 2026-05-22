@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-22T16:34:21.978710+00:00",
+  "picked_at": "2026-05-22T18:36:47.062012+00:00",
   "count": 5,
   "items": [
     {
-      "category": "AIツール比較",
-      "keyword": "ai 議事録 方法"
+      "category": "ChatGPT活用",
+      "keyword": "chatgpt 使い方 動画"
     },
     {
-      "category": "ChatGPT活用",
-      "keyword": "chatgpt 無料 版 の 使い方"
+      "category": "AIツール比較",
+      "keyword": "画像 から 動画 ai 比較"
+    },
+    {
+      "category": "プロンプトエンジニアリング",
+      "keyword": "プロンプト テンプレート"
     },
     {
       "category": "Claude活用",
-      "keyword": "devin claude code 比較"
+      "keyword": "antigravity claude code 比較"
     },
     {
-      "category": "AI副業",
-      "keyword": "AI 副業 翻訳 単価"
-    },
-    {
-      "category": "海外AIトレンド",
-      "keyword": "openai api 利用 方法"
+      "category": "AI画像生成",
+      "keyword": "leonardo ai 日本 語 無料"
     }
   ]
 }

@@ -102,3 +102,29 @@ Claude Codeは長文コンテキストと自律的なエージェント機能で
 - [Claude Codeが1時間連続編集？AIコーディング長時間自律作業の実態と注意点](https://nayo126.github.io/ai-news-jp/posts/claude-code-1-ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude CodeとCursorの違いは何ですか？
+
+Claude Codeはターミナル中心で1Mトークン対応のため数十ファイルの一括読解に強く、Cursorはエディタ統合UIが滑らかで補完体験が軽い点が違いです。長文コンテキスト重視ならClaude、IDE快適性重視ならCursorが向いています。
+
+### Claude Codeの月額料金はいくらですか？
+
+Claude Maxプランは月額21,400円で、Opus 4.7とSonnet 4.6を上限内で使えます。API従量課金より定額で済むため、毎日3時間以上使う副業エンジニアは2週間で元が取れる計算です。
+
+### GitHub CopilotとClaude Codeはどちらが副業向きですか？
+
+Copilotは月10ドルでコード補完特化、Claude Codeは月140ドル前後で大規模リファクタや設計まで任せられます。納品速度を上げたい副業エンジニアはClaude Code、補完だけで十分ならCopilotが正解です。
+
+### AI開発ツールは無料で試せますか？
+
+Cursorは2週間Pro無料、GitHub Copilotは学生・OSS開発者は無料、Claudeはweb版で月5回程度Opusを試せます。本契約前に最低3日間同じ課題を解かせて精度を比較するのが失敗しないコツです。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude CodeとCursorの違いは何ですか？", "acceptedAnswer": {"@type": "Answer", "text": "Claude Codeはターミナル中心で1Mトークン対応のため数十ファイルの一括読解に強く、Cursorはエディタ統合UIが滑らかで補完体験が軽い点が違いです。長文コンテキスト重視ならClaude、IDE快適性重視ならCursorが向いています。"}}, {"@type": "Question", "name": "Claude Codeの月額料金はいくらですか？", "acceptedAnswer": {"@type": "Answer", "text": "Claude Maxプランは月額21,400円で、Opus 4.7とSonnet 4.6を上限内で使えます。API従量課金より定額で済むため、毎日3時間以上使う副業エンジニアは2週間で元が取れる計算です。"}}, {"@type": "Question", "name": "GitHub CopilotとClaude Codeはどちらが副業向きですか？", "acceptedAnswer": {"@type": "Answer", "text": "Copilotは月10ドルでコード補完特化、Claude Codeは月140ドル前後で大規模リファクタや設計まで任せられます。納品速度を上げたい副業エンジニアはClaude Code、補完だけで十分ならCopilotが正解です。"}}, {"@type": "Question", "name": "AI開発ツールは無料で試せますか？", "acceptedAnswer": {"@type": "Answer", "text": "Cursorは2週間Pro無料、GitHub Copilotは学生・OSS開発者は無料、Claudeはweb版で月5回程度Opusを試せます。本契約前に最低3日間同じ課題を解かせて精度を比較するのが失敗しないコツです。"}}]}
+</script>
+
+<!-- FAQ_END -->
