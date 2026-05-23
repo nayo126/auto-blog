@@ -134,3 +134,29 @@ Claude Codeの無料制限は「5時間ごとのメッセージ枠×モデル制
 - [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude Code無料版は1日何時間使えますか？
+
+Claude Code無料版は5時間ごとにメッセージ枠がリセットされるため、理論上は1日に4〜5セッション利用可能です。ただし1セッションあたり約45メッセージが目安で、重いコード生成では20回程度で上限に達することもあります。
+
+### Claude CodeとClaude Proの違いは何ですか？
+
+無料版は5時間ごとに約45メッセージ、Pro（月額20ドル）は無料の約5倍の枠とSonnet優先利用が可能です。Max（月額100ドル/200ドル）はOpus利用枠が大幅に拡大し、長時間のコーディング作業でも上限に当たりにくくなります。
+
+### Claude Codeで「上限に達しました」と出たらどうすればいいですか？
+
+対処法は3つあります。①次のリセット時刻（5時間後）まで待つ、②モデルをOpusからSonnetやHaikuに切り替えてトークン消費を抑える、③並行してGemini CLIやCursorなど他ツールに作業を分散させる方法が現実的です。
+
+### Claude CodeはAPIキーがあれば無料で使えますか？
+
+APIキー経由なら従量課金で利用でき、サブスクの上限制限を回避できます。ただしSonnet 4.6は入力100万トークンあたり3ドル、出力15ドルかかるため、月10時間以上使うならMaxプラン（100ドル）の方が割安になります。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude Code無料版は1日何時間使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "Claude Code無料版は5時間ごとにメッセージ枠がリセットされるため、理論上は1日に4〜5セッション利用可能です。ただし1セッションあたり約45メッセージが目安で、重いコード生成では20回程度で上限に達することもあります。"}}, {"@type": "Question", "name": "Claude CodeとClaude Proの違いは何ですか？", "acceptedAnswer": {"@type": "Answer", "text": "無料版は5時間ごとに約45メッセージ、Pro（月額20ドル）は無料の約5倍の枠とSonnet優先利用が可能です。Max（月額100ドル/200ドル）はOpus利用枠が大幅に拡大し、長時間のコーディング作業でも上限に当たりにくくなります。"}}, {"@type": "Question", "name": "Claude Codeで「上限に達しました」と出たらどうすればいいですか？", "acceptedAnswer": {"@type": "Answer", "text": "対処法は3つあります。①次のリセット時刻（5時間後）まで待つ、②モデルをOpusからSonnetやHaikuに切り替えてトークン消費を抑える、③並行してGemini CLIやCursorなど他ツールに作業を分散させる方法が現実的です。"}}, {"@type": "Question", "name": "Claude CodeはAPIキーがあれば無料で使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "APIキー経由なら従量課金で利用でき、サブスクの上限制限を回避できます。ただしSonnet 4.6は入力100万トークンあたり3ドル、出力15ドルかかるため、月10時間以上使うならMaxプラン（100ドル）の方が割安になります。"}}]}
+</script>
+
+<!-- FAQ_END -->
