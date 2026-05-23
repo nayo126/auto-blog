@@ -151,3 +151,29 @@ Claude Computer Useは、ブラウザやSaaSをまたぐ作業を「画面ごと
 - [今週のAIニュース10選 (2026/05/17付)](https://nayo126.github.io/ai-news-jp/posts/ai-weekly-roundup-20260517.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude Computer Useは無料で使えますか？
+
+Claude Computer UseはAPI経由の従量課金制で、無料プランはありません。料金はClaude 3.5 Sonnet基準で入力$3/100万トークン、出力$15/100万トークンです。月10時間の自動化で約$20〜50が目安です。
+
+### Claude Computer UseとRPAツールの違いは何ですか？
+
+RPAは事前にクリック位置を録画する必要がありますが、Claude Computer Useは画面を見て自律判断します。UIが変わってもAIが対応するため、保守コストが従来比約7割削減できます。
+
+### Claude Computer Useを安全に使うコツは？
+
+本番アカウントではなくテスト用環境かVM内で実行し、決済・削除系の操作には人間承認を挟む設計が必須です。Anthropic公式もサンドボックス利用を推奨しており、誤操作リスクを9割減らせます。
+
+### 副業初心者でもClaude Computer Useは扱えますか？
+
+Python基礎とAPIキー取得ができれば導入可能です。公式リポジトリにDocker環境のサンプルが用意されており、初期セットアップは約30分で完了します。最初はリサーチ自動化から始めるのが現実的です。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude Computer Useは無料で使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "Claude Computer UseはAPI経由の従量課金制で、無料プランはありません。料金はClaude 3.5 Sonnet基準で入力$3/100万トークン、出力$15/100万トークンです。月10時間の自動化で約$20〜50が目安です。"}}, {"@type": "Question", "name": "Claude Computer UseとRPAツールの違いは何ですか？", "acceptedAnswer": {"@type": "Answer", "text": "RPAは事前にクリック位置を録画する必要がありますが、Claude Computer Useは画面を見て自律判断します。UIが変わってもAIが対応するため、保守コストが従来比約7割削減できます。"}}, {"@type": "Question", "name": "Claude Computer Useを安全に使うコツは？", "acceptedAnswer": {"@type": "Answer", "text": "本番アカウントではなくテスト用環境かVM内で実行し、決済・削除系の操作には人間承認を挟む設計が必須です。Anthropic公式もサンドボックス利用を推奨しており、誤操作リスクを9割減らせます。"}}, {"@type": "Question", "name": "副業初心者でもClaude Computer Useは扱えますか？", "acceptedAnswer": {"@type": "Answer", "text": "Python基礎とAPIキー取得ができれば導入可能です。公式リポジトリにDocker環境のサンプルが用意されており、初期セットアップは約30分で完了します。最初はリサーチ自動化から始めるのが現実的です。"}}]}
+</script>
+
+<!-- FAQ_END -->
