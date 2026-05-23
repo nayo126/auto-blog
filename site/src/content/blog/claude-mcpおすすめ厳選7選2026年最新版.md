@@ -17,6 +17,10 @@ image: "/auto-blog/ogp/claude-mcpおすすめ厳選7選2026年最新版.png"
 
 ## そもそもClaude MCPとは何か
 
+<!-- INLINE_IMG -->
+![Claude MCPおすすめ厳選7選｜2026年最新版 - そもそもClaude MCPとは何か](/auto-blog/inline-images/claude-mcp-7-2026--0.jpg)
+
+
 MCP(Model Context Protocol)は、Anthropicが2024年末に公開したオープン規格で、Claudeのような大規模言語モデルと外部ツールを安全につなぐ共通プロトコルです。従来は各AIが独自のプラグイン仕様を持っていましたが、MCPによって「一度作れば複数のAIで動く」という標準化が進みました。
 
 Claude Desktopアプリでは設定ファイル(`claude_desktop_config.json`)にMCPサーバーを記述するだけで、対話中にClaudeが自動的にツールを呼び出してくれます。たとえばGitHub MCPを入れておけば「先週マージしたPR一覧を出して」と話しかけるだけで、Claudeがリポジトリを参照して回答します。
@@ -33,6 +37,10 @@ Claude Desktopアプリでは設定ファイル(`claude_desktop_config.json`)に
 
 
 ## おすすめMCPサーバー厳選7つ
+
+<!-- INLINE_IMG -->
+![Claude MCPおすすめ厳選7選｜2026年最新版 - おすすめMCPサーバー厳選7つ](/auto-blog/inline-images/claude-mcp-7-2026--1.jpg)
+
 
 結論から書くと、AI副業や個人作業で本当に役立つMCPは次の7つです。順番に解説します。
 
@@ -134,3 +142,29 @@ Claude MCPは「全部入り」ではなく「必要最小限」が正解です�
 - [Claude AIで激変するLinkedInプロフィール作成術2026年最新版](https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html)
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html)
 - [今週のAIニュース10選 (2026/05/17付)](https://nayo126.github.io/ai-news-jp/posts/ai-weekly-roundup-20260517.html)
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude MCPの導入は無料でできますか？
+
+MCPサーバー自体はオープン規格で無料です。GitHubやNotionなど連携先のAPI利用も基本無料枠で始められます。ただしClaude Pro(月20ドル)やAPI従量課金は別途必要で、本格運用なら月20〜30ドルが目安です。
+
+### Claude MCPサーバーの設定はどこで行いますか？
+
+Claude Desktopアプリの設定ファイル(claude_desktop_config.json)にサーバー情報を記述します。Mac版なら~/Library/Application Support/Claude/に配置し、保存後アプリを再起動すれば連携が反映されます。
+
+### Claude MCPとChatGPTのプラグインは何が違いますか？
+
+MCPはAnthropicが公開したオープン規格で、一度作れば他のAIでも再利用できます。ChatGPTのプラグインはOpenAI独自仕様のため移植性が低く、MCPは外部ツール連携の汎用性とセキュリティ設計で優れています。
+
+### MCPサーバーは何個まで同時に使えますか？
+
+技術的な上限はなく、設定ファイルに記述すれば10個以上の同時接続も可能です。ただし数が増えると処理が重くなるため、副業用途では3〜5個に絞ると応答速度と管理のバランスが取れます。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude MCPの導入は無料でできますか？", "acceptedAnswer": {"@type": "Answer", "text": "MCPサーバー自体はオープン規格で無料です。GitHubやNotionなど連携先のAPI利用も基本無料枠で始められます。ただしClaude Pro(月20ドル)やAPI従量課金は別途必要で、本格運用なら月20〜30ドルが目安です。"}}, {"@type": "Question", "name": "Claude MCPサーバーの設定はどこで行いますか？", "acceptedAnswer": {"@type": "Answer", "text": "Claude Desktopアプリの設定ファイル(claude_desktop_config.json)にサーバー情報を記述します。Mac版なら~/Library/Application Support/Claude/に配置し、保存後アプリを再起動すれば連携が反映されます。"}}, {"@type": "Question", "name": "Claude MCPとChatGPTのプラグインは何が違いますか？", "acceptedAnswer": {"@type": "Answer", "text": "MCPはAnthropicが公開したオープン規格で、一度作れば他のAIでも再利用できます。ChatGPTのプラグインはOpenAI独自仕様のため移植性が低く、MCPは外部ツール連携の汎用性とセキュリティ設計で優れています。"}}, {"@type": "Question", "name": "MCPサーバーは何個まで同時に使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "技術的な上限はなく、設定ファイルに記述すれば10個以上の同時接続も可能です。ただし数が増えると処理が重くなるため、副業用途では3〜5個に絞ると応答速度と管理のバランスが取れます。"}}]}
+</script>
+
+<!-- FAQ_END -->

@@ -17,6 +17,10 @@ image: "/auto-blog/ogp/chatgpt日本語無料の使い方完全版2026最新7ス
 
 ## ChatGPT日本語無料版でできること2026年5月版
 
+<!-- INLINE_IMG -->
+![ChatGPT日本語無料の使い方完全版2026最新7ステップ - ChatGPT日本語無料版でできること2026年5月版](/auto-blog/inline-images/chatgpt-2026-7--0.jpg)
+
+
 2026年現在、ChatGPTの無料アカウントで利用できる主な機能は以下の通りです。
 
 - **GPT-5(標準モデル)へのアクセス**: 1日あたり一定回数まで使用可能、超過するとGPT-4o miniへ自動切替
@@ -41,6 +45,10 @@ image: "/auto-blog/ogp/chatgpt日本語無料の使い方完全版2026最新7ス
 
 
 ## ChatGPT日本語無料の登録手順を5分で完了
+
+<!-- INLINE_IMG -->
+![ChatGPT日本語無料の使い方完全版2026最新7ステップ - ChatGPT日本語無料の登録手順を5分で完了](/auto-blog/inline-images/chatgpt-2026-7--1.jpg)
+
 
 登録は驚くほどシンプルです。ブラウザ版とアプリ版の両方がありますが、初心者にはスマホアプリが圧倒的に楽です。
 

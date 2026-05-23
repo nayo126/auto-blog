@@ -17,6 +17,10 @@ image: "/auto-blog/ogp/copilot-vs-openai徹底比較20265項目で最適解.png"
 
 ## 結論:用途で使い分けるのが最適解
 
+<!-- INLINE_IMG -->
+![Copilot vs OpenAI徹底比較2026｜5項目で最適解 - 結論:用途で使い分けるのが最適解](/auto-blog/inline-images/copilot-vs-openai-20265--0.jpg)
+
+
 結論を先に出す。**コーディング特化ならCopilot、汎用業務ならOpenAI**。両方契約しても月40ドル(約6,200円)なので、本気で稼ぐつもりなら併用が最も合理的だ。
 
 GitHub Copilotは2021年にMicrosoftとGitHubが共同で公開したAIペアプログラマで、VS CodeやJetBrains上でリアルタイムにコード補完を出す。一方OpenAIはChatGPTやAPIを提供する企業で、文章生成・画像生成(DALL·E)・音声(Whisper)・推論(o系モデル)まで全領域をカバーする。
@@ -35,6 +39,10 @@ GitHub Copilotは2021年にMicrosoftとGitHubが共同で公開したAIペアプ
 
 
 ## 料金プランの違い:年間で2万円以上差が出る
+
+<!-- INLINE_IMG -->
+![Copilot vs OpenAI徹底比較2026｜5項目で最適解 - 料金プランの違い:年間で2万円以上差が出る](/auto-blog/inline-images/copilot-vs-openai-20265--1.jpg)
+
 
 料金体系は2026年5月時点で次のように整理できる。
 

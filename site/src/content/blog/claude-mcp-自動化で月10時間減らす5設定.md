@@ -105,3 +105,29 @@ Claude MCPの自動化は、難しい知識がなくても設定ファイル1つ
 - [今週のAIニュース10選 (2026/05/17付)](https://nayo126.github.io/ai-news-jp/posts/ai-weekly-roundup-20260517.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude MCPの設定はどこで行いますか？
+
+Claude Desktopアプリの設定画面から「Developer」→「Edit Config」でclaude_desktop_config.jsonを開き、mcpServersにサーバー名・コマンド・引数を記述します。保存後にアプリを再起動すると反映され、左下のコンセントマークで接続状況を確認できます。
+
+### Claude MCPは無料で使えますか？
+
+MCPプロトコル自体は無料で、Claude無料プランでも利用可能です。ただし大量のトークンを消費するため、月20ドルのProプラン以上を推奨します。GmailやNotionなど接続先サービスの料金は別途必要で、API利用枠を超えると追加課金が発生します。
+
+### Claude MCPとAPI連携の違いは何ですか？
+
+APIは1機能ごとにコードを書く必要があるのに対し、MCPは共通プロトコルで一度サーバーを立てれば複数ツールから再利用できます。例えばNotion MCPを設定すれば、Claude・Cursor・Zedなど対応クライアント全てから同じ操作が可能です。
+
+### Claude MCPで情報漏洩のリスクはありませんか？
+
+MCPサーバーはローカルPC上で動作し、APIキーは端末内に保存されます。ただし悪意あるMCPサーバーをインストールすると認証情報を抜かれる恐れがあるため、公式リポジトリ(modelcontextprotocol/servers)または信頼できる作者のサーバーのみ使用し、権限は最小限に絞ってください。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude MCPの設定はどこで行いますか？", "acceptedAnswer": {"@type": "Answer", "text": "Claude Desktopアプリの設定画面から「Developer」→「Edit Config」でclaude_desktop_config.jsonを開き、mcpServersにサーバー名・コマンド・引数を記述します。保存後にアプリを再起動すると反映され、左下のコンセントマークで接続状況を確認できます。"}}, {"@type": "Question", "name": "Claude MCPは無料で使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "MCPプロトコル自体は無料で、Claude無料プランでも利用可能です。ただし大量のトークンを消費するため、月20ドルのProプラン以上を推奨します。GmailやNotionなど接続先サービスの料金は別途必要で、API利用枠を超えると追加課金が発生します。"}}, {"@type": "Question", "name": "Claude MCPとAPI連携の違いは何ですか？", "acceptedAnswer": {"@type": "Answer", "text": "APIは1機能ごとにコードを書く必要があるのに対し、MCPは共通プロトコルで一度サーバーを立てれば複数ツールから再利用できます。例えばNotion MCPを設定すれば、Claude・Cursor・Zedなど対応クライアント全てから同じ操作が可能です。"}}, {"@type": "Question", "name": "Claude MCPで情報漏洩のリスクはありませんか？", "acceptedAnswer": {"@type": "Answer", "text": "MCPサーバーはローカルPC上で動作し、APIキーは端末内に保存されます。ただし悪意あるMCPサーバーをインストールすると認証情報を抜かれる恐れがあるため、公式リポジトリ(modelcontextprotocol/servers)または信頼できる作者のサーバーのみ使用し、権限は最小限に絞ってください。"}}]}
+</script>
+
+<!-- FAQ_END -->

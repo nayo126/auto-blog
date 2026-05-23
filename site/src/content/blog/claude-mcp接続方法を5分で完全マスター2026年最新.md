@@ -108,3 +108,29 @@ Claude MCPの接続は、設定ファイルにJSONを書き、Claudeを再起動
 - [Andrej KarpathyがAnthropicに移籍 OpenAI共同創業者の電撃移籍が示すAI業界の地殻変動](https://nayo126.github.io/ai-news-jp/posts/andrej-karpathy-anthropic-openai-ai.html)
 - [Claudeがユーザーに「寝なさい」と命令する謎現象、Anthropicも原因不明](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic.html)
 - [Claude AIで激変するLinkedInプロフィール作成術2026年最新版](https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html)
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude MCPの設定ファイルはどこにありますか？
+
+Macは~/Library/Application Support/Claude/claude_desktop_config.json、Windowsは%APPDATA%\Claude\claude_desktop_config.jsonにあります。なければ新規作成し、編集後はClaude Desktopを完全に再起動すると反映されます。
+
+### MCPサーバーが認識されずエラーになる原因は？
+
+多くはJSONの記述ミスです。末尾カンマ、ダブルクォート漏れ、commandのパス誤りが3大原因。npxが見つからない場合はNode.js 18以上を入れ、commandに絶対パスを指定すると解決します。
+
+### Claude MCPの利用に料金はかかりますか？
+
+MCPプロトコル自体は無料で、Claude Desktop無料プランでも使えます。filesystemやgithubなど公式サーバーも無償です。brave-searchなど一部はAPIキー取得が必要で、無料枠を超えると従量課金になります。
+
+### MCPとClaude APIのツール呼び出しは何が違いますか？
+
+MCPはローカルPCや外部サービスを共通規格で繋ぐ仕組みで、Claude Desktopアプリで動きます。APIのtool useはコードで個別実装が必要です。MCPは設定ファイルにJSONを追記するだけで再利用できる点が違います。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude MCPの設定ファイルはどこにありますか？", "acceptedAnswer": {"@type": "Answer", "text": "Macは~/Library/Application Support/Claude/claude_desktop_config.json、Windowsは%APPDATA%\\Claude\\claude_desktop_config.jsonにあります。なければ新規作成し、編集後はClaude Desktopを完全に再起動すると反映されます。"}}, {"@type": "Question", "name": "MCPサーバーが認識されずエラーになる原因は？", "acceptedAnswer": {"@type": "Answer", "text": "多くはJSONの記述ミスです。末尾カンマ、ダブルクォート漏れ、commandのパス誤りが3大原因。npxが見つからない場合はNode.js 18以上を入れ、commandに絶対パスを指定すると解決します。"}}, {"@type": "Question", "name": "Claude MCPの利用に料金はかかりますか？", "acceptedAnswer": {"@type": "Answer", "text": "MCPプロトコル自体は無料で、Claude Desktop無料プランでも使えます。filesystemやgithubなど公式サーバーも無償です。brave-searchなど一部はAPIキー取得が必要で、無料枠を超えると従量課金になります。"}}, {"@type": "Question", "name": "MCPとClaude APIのツール呼び出しは何が違いますか？", "acceptedAnswer": {"@type": "Answer", "text": "MCPはローカルPCや外部サービスを共通規格で繋ぐ仕組みで、Claude Desktopアプリで動きます。APIのtool useはコードで個別実装が必要です。MCPは設定ファイルにJSONを追記するだけで再利用できる点が違います。"}}]}
+</script>
+
+<!-- FAQ_END -->

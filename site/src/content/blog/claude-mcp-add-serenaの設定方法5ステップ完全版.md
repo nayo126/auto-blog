@@ -165,3 +165,29 @@ Serenaは必要な箇所だけを読み込ませる仕組みのため、10万行
 - [今週のAIニュース10選 (2026/05/17付)](https://nayo126.github.io/ai-news-jp/posts/ai-weekly-roundup-20260517.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Serenaは無料で使えますか？
+
+Serenaはオープンソースで完全無料です。GitHubのoraios/serenaリポジトリから入手でき、ライセンスはMIT。商用利用も可能で、追加料金や登録は一切不要です。
+
+### claude mcp add serenaコマンドでエラーが出るときの対処法は？
+
+多くは`uv`未インストールが原因です。`curl -LsSf https://astral.sh/uv/install.sh | sh`でuvを入れ、PATHを通してから再実行。Python3.11以上が必要で、`claude mcp list`で登録状況を確認できます。
+
+### SerenaとContext7やfilesystemとの違いは何ですか？
+
+filesystemはファイル単位の読み書き、Context7はライブラリ公式ドキュメント参照に特化。Serenaはコードを構文解析しシンボル単位で扱うため、関数名や型の意味検索に強く、10万行規模のリポジトリで効果が出ます。
+
+### SerenaはWindowsでも動きますか？
+
+Windows11とWSL2環境で動作確認済みです。ネイティブWindowsでもuv経由でインストール可能ですが、パス区切りの問題回避のためWSL2推奨。macOS、Linuxを含め3OS全てで利用できます。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Serenaは無料で使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "Serenaはオープンソースで完全無料です。GitHubのoraios/serenaリポジトリから入手でき、ライセンスはMIT。商用利用も可能で、追加料金や登録は一切不要です。"}}, {"@type": "Question", "name": "claude mcp add serenaコマンドでエラーが出るときの対処法は？", "acceptedAnswer": {"@type": "Answer", "text": "多くは`uv`未インストールが原因です。`curl -LsSf https://astral.sh/uv/install.sh | sh`でuvを入れ、PATHを通してから再実行。Python3.11以上が必要で、`claude mcp list`で登録状況を確認できます。"}}, {"@type": "Question", "name": "SerenaとContext7やfilesystemとの違いは何ですか？", "acceptedAnswer": {"@type": "Answer", "text": "filesystemはファイル単位の読み書き、Context7はライブラリ公式ドキュメント参照に特化。Serenaはコードを構文解析しシンボル単位で扱うため、関数名や型の意味検索に強く、10万行規模のリポジトリで効果が出ます。"}}, {"@type": "Question", "name": "SerenaはWindowsでも動きますか？", "acceptedAnswer": {"@type": "Answer", "text": "Windows11とWSL2環境で動作確認済みです。ネイティブWindowsでもuv経由でインストール可能ですが、パス区切りの問題回避のためWSL2推奨。macOS、Linuxを含め3OS全てで利用できます。"}}]}
+</script>
+
+<!-- FAQ_END -->

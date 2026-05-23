@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-23T02:30:00.354957+00:00",
+  "picked_at": "2026-05-23T08:30:00.539735+00:00",
   "count": 5,
   "items": [
     {
-      "category": "ChatGPT活用",
-      "keyword": "chatgpt 日本 語 無料 使い方"
-    },
-    {
-      "category": "AIツール比較",
-      "keyword": "ai 画像生成 プロンプト"
-    },
-    {
       "category": "Claude活用",
-      "keyword": "claude code 支払い 方法"
+      "keyword": "kiro claude code 比較"
     },
     {
       "category": "海外AIトレンド",
-      "keyword": "openai 比較"
+      "keyword": "openai agents sdk"
     },
     {
-      "category": "プロンプトエンジニアリング",
-      "keyword": "プロンプト 作り方 copilot"
+      "category": "AI副業",
+      "keyword": "ai副業 おすすめサイト"
+    },
+    {
+      "category": "AI画像生成",
+      "keyword": "dall e 3 使い方"
+    },
+    {
+      "category": "ChatGPT活用",
+      "keyword": "chatgpt api 無料 トライアル"
     }
   ]
 }

@@ -151,3 +151,29 @@ claude mcp add -s user github \
 - [今週のAIニュース10選 (2026/05/17付)](https://nayo126.github.io/ai-news-jp/posts/ai-weekly-roundup-20260517.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### claude mcp addのスコープはlocal・project・userのどれを選べばいい?
+
+個人の検証はlocal、チーム共有はproject(.mcp.jsonをGit管理)、全プロジェクト共通はuserを選びます。デフォルトはlocalで、--scope projectを付けるとリポジトリ直下に設定が書き出されます。
+
+### claude mcp addで登録したのにサーバーが起動しないときの対処法は?
+
+claude mcp listで登録確認後、claude mcp get <name>でコマンドパスを点検します。失敗の8割はnpxやuvxの絶対パス未指定か環境変数不足で、--env KEY=VALUEで認証情報を追加すれば解決します。
+
+### claude mcp addとclaude mcp add-jsonの違いは?
+
+addは引数を1個ずつ渡す簡易版、add-jsonはコマンド・args・envをJSONで一括指定する詳細版です。複雑な引数や3個以上の環境変数を持つサーバーはadd-jsonの方が事故が少なく推奨されます。
+
+### claude mcp addで追加したMCPサーバーを削除するには?
+
+claude mcp remove <name>で削除できます。スコープを間違えて登録した場合は--scopeを明示して削除し、設定ファイル(~/.claude.jsonまたは.mcp.json)を直接編集してもOKです。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "claude mcp addのスコープはlocal・project・userのどれを選べばいい?", "acceptedAnswer": {"@type": "Answer", "text": "個人の検証はlocal、チーム共有はproject(.mcp.jsonをGit管理)、全プロジェクト共通はuserを選びます。デフォルトはlocalで、--scope projectを付けるとリポジトリ直下に設定が書き出されます。"}}, {"@type": "Question", "name": "claude mcp addで登録したのにサーバーが起動しないときの対処法は?", "acceptedAnswer": {"@type": "Answer", "text": "claude mcp listで登録確認後、claude mcp get <name>でコマンドパスを点検します。失敗の8割はnpxやuvxの絶対パス未指定か環境変数不足で、--env KEY=VALUEで認証情報を追加すれば解決します。"}}, {"@type": "Question", "name": "claude mcp addとclaude mcp add-jsonの違いは?", "acceptedAnswer": {"@type": "Answer", "text": "addは引数を1個ずつ渡す簡易版、add-jsonはコマンド・args・envをJSONで一括指定する詳細版です。複雑な引数や3個以上の環境変数を持つサーバーはadd-jsonの方が事故が少なく推奨されます。"}}, {"@type": "Question", "name": "claude mcp addで追加したMCPサーバーを削除するには?", "acceptedAnswer": {"@type": "Answer", "text": "claude mcp remove <name>で削除できます。スコープを間違えて登録した場合は--scopeを明示して削除し、設定ファイル(~/.claude.jsonまたは.mcp.json)を直接編集してもOKです。"}}]}
+</script>
+
+<!-- FAQ_END -->

@@ -165,3 +165,29 @@ Claude DesktopのMCPは無料プランでも完全に動作し、filesystemやme
 - [claude mcp addの使い方完全ガイド2026年最新7手順](https://nayo126.github.io/auto-blog/blog/claude-mcp-addの使い方完全ガイド2026年最新7手順/)
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude DesktopのMCPは何ができるの？
+
+ローカルファイル操作、GitHub連携、データベース接続、Slack/Notion連携などが可能です。例えばファイルシステムMCPで「Desktopのファイル一覧を見せて」と指示すれば直接読み取れ、SQLite MCPでDBに自然言語クエリも実行できます。
+
+### Claude Desktop MCPの設定ファイルはどこにある？
+
+Macは「~/Library/Application Support/Claude/claude_desktop_config.json」、Windowsは「%APPDATA%\Claude\claude_desktop_config.json」です。JSON形式でmcpServersに各サーバーのコマンドと引数を記述し、Claude Desktopを再起動すれば反映されます。
+
+### MCPが動かない時の対処法は？
+
+まずNode.js 18以上とPython 3.10以上を確認し、JSONの構文エラーをチェック。Claude Desktop完全終了後の再起動、ログファイル(~/Library/Logs/Claude/)の確認、npxパスが通っているかを順に検証すれば9割は解決します。
+
+### Claude Desktopの無料プランと有料プランの違いは？
+
+無料は1日約20メッセージ・Sonnetモデル中心、Pro($20/月)は約5倍の利用枠とOpus 4利用可。MCP機能自体は両プラン共通で制限なしですが、長文処理や連続作業をするならProが快適です。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude DesktopのMCPは何ができるの？", "acceptedAnswer": {"@type": "Answer", "text": "ローカルファイル操作、GitHub連携、データベース接続、Slack/Notion連携などが可能です。例えばファイルシステムMCPで「Desktopのファイル一覧を見せて」と指示すれば直接読み取れ、SQLite MCPでDBに自然言語クエリも実行できます。"}}, {"@type": "Question", "name": "Claude Desktop MCPの設定ファイルはどこにある？", "acceptedAnswer": {"@type": "Answer", "text": "Macは「~/Library/Application Support/Claude/claude_desktop_config.json」、Windowsは「%APPDATA%\\Claude\\claude_desktop_config.json」です。JSON形式でmcpServersに各サーバーのコマンドと引数を記述し、Claude Desktopを再起動すれば反映されます。"}}, {"@type": "Question", "name": "MCPが動かない時の対処法は？", "acceptedAnswer": {"@type": "Answer", "text": "まずNode.js 18以上とPython 3.10以上を確認し、JSONの構文エラーをチェック。Claude Desktop完全終了後の再起動、ログファイル(~/Library/Logs/Claude/)の確認、npxパスが通っているかを順に検証すれば9割は解決します。"}}, {"@type": "Question", "name": "Claude Desktopの無料プランと有料プランの違いは？", "acceptedAnswer": {"@type": "Answer", "text": "無料は1日約20メッセージ・Sonnetモデル中心、Pro($20/月)は約5倍の利用枠とOpus 4利用可。MCP機能自体は両プラン共通で制限なしですが、長文処理や連続作業をするならProが快適です。"}}]}
+</script>
+
+<!-- FAQ_END -->
