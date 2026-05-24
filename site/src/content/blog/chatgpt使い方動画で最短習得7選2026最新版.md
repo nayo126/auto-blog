@@ -139,7 +139,7 @@ ChatGPTの使い方は、文章より動画で学んだほうが習得スピー�
 
 - [ChatGPTプロンプトとは？基本と5つの黄金ルール](https://nayo126.github.io/auto-blog/blog/chatgptプロンプトとは基本と5つの黄金ルール/)
 - [ChatGPTプロンプト書き方の基本7原則と実例集2026](https://nayo126.github.io/auto-blog/blog/chatgptプロンプト書き方の基本7原則と実例集2026/)
-- [プロンプト入力で副業を始める7つの型｜月5万への最短ルート](https://nayo126.github.io/auto-blog/blog/プロンプト入力で副業を始める7つの型月5万への最短ルート/)
+- [ChatGPTプロンプト副業の始め方7選【2026年】](https://nayo126.github.io/auto-blog/blog/chatgptプロンプト副業の始め方7選2026年/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP
