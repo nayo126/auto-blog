@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-24T07:47:52.255696+00:00",
+  "picked_at": "2026-05-24T10:03:36.675288+00:00",
   "count": 5,
   "items": [
     {
-      "category": "AIツール比較",
-      "keyword": "ai 議事録 おすすめ 無料"
-    },
-    {
-      "category": "Claude活用",
-      "keyword": "Claude 文章生成 ブログ"
-    },
-    {
       "category": "AI副業",
-      "keyword": "ai ブログ 漫画"
-    },
-    {
-      "category": "海外AIトレンド",
-      "keyword": "openai 上場"
+      "keyword": "ai 副業 おすすめ"
     },
     {
       "category": "ChatGPT活用",
-      "keyword": "chatgpt 稼ぐ 本"
+      "keyword": "chatgpt プロンプト 自己分析"
+    },
+    {
+      "category": "海外AIトレンド",
+      "keyword": "openai whisper"
+    },
+    {
+      "category": "AIツール比較",
+      "keyword": "ai 議事録 無料 google"
+    },
+    {
+      "category": "AI画像生成",
+      "keyword": "leonardo ai 商用利用"
     }
   ]
 }
