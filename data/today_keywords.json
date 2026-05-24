@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-24T13:30:01.017732+00:00",
+  "picked_at": "2026-05-24T19:55:34.137374+00:00",
   "count": 5,
   "items": [
     {
-      "category": "海外AIトレンド",
-      "keyword": "perplexity openai 比較"
-    },
-    {
-      "category": "個人開発",
-      "keyword": "bolt.new 料金"
+      "category": "ChatGPT活用",
+      "keyword": "chatgpt ブログ 稼ぐ"
     },
     {
       "category": "AIツール比較",
-      "keyword": "ai 議事録 アプリ"
+      "keyword": "ai 画像生成 イラスト"
+    },
+    {
+      "category": "海外AIトレンド",
+      "keyword": "openai 無料トライアル"
     },
     {
       "category": "Claude活用",
-      "keyword": "claude code で 副業"
+      "keyword": "claude 副業"
     },
     {
-      "category": "ChatGPT活用",
-      "keyword": "chatgpt 英会話 プロンプト 無料"
+      "category": "プロンプトエンジニアリング",
+      "keyword": "チャット gpt プロンプト 副業"
     }
   ]
 }
