@@ -202,9 +202,9 @@ Claude MCPの設定は、設定ファイルにJSONを追記してアプリを再
 
 ## 関連する記事
 
+- [Claude MCPおすすめ厳選7選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/claude-mcpおすすめ厳選7選2026年最新版/)
 - [Claude Desktop MCPは無料プランで使える？2026年最新の始め方5選](https://nayo126.github.io/auto-blog/blog/claude-desktop-mcpは無料プランで使える2026年最新の始め方5選/)
 - [claude mcp addの使い方完全ガイド2026年最新7手順](https://nayo126.github.io/auto-blog/blog/claude-mcp-addの使い方完全ガイド2026年最新7手順/)
-- [Claude MCP設定完全ガイド｜2026年版3ステップ導入術](https://nayo126.github.io/auto-blog/blog/claude-mcp設定完全ガイド2026年版3ステップ導入術/)
 
 ### 姉妹サイトの関連記事
 - [Claude AIで激変するLinkedInプロフィール作成術2026年最新版](https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html) — AI News JP

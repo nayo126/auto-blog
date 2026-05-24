@@ -17,6 +17,10 @@ image: "/auto-blog/ogp/chatgptプロンプトとは基本と5つの黄金ルー�
 
 ## ChatGPTプロンプトとは何か？基本の定義
 
+<!-- INLINE_IMG -->
+![ChatGPTプロンプトとは？基本と5つの黄金ルール - ChatGPTプロンプトとは何か？基本の定義](/auto-blog/inline-images/chatgpt-5--0.jpg)
+
+
 結論：プロンプトとは「ChatGPTに対して送る指示文・質問文」のことです。理由はシンプルで、AIは入力された言葉だけを手がかりに回答を生成するため、その入力(=プロンプト)の質がそのまま出力の質に直結するからです。
 
 プロンプトは英語で「Prompt」と書き、本来は「促す」「うながす」という意味を持ちます。ChatGPTにおいては、AIの思考を特定の方向へ促すための「呼び水」のような役割を果たします。
@@ -43,6 +47,10 @@ ChatGPT 5やGPT-4oといった最新モデルは推論能力が上がってい�
 
 
 ## プロンプトの質が結果を変える理由
+
+<!-- INLINE_IMG -->
+![ChatGPTプロンプトとは？基本と5つの黄金ルール - プロンプトの質が結果を変える理由](/auto-blog/inline-images/chatgpt-5--1.jpg)
+
 
 「同じChatGPTなのに、なぜ人によって出力の差が出るのか?」——その答えは、プロンプトの設計にあります。
 
@@ -177,3 +185,18 @@ ChatGPTの「カスタム指示」機能を使えば、よく使うプロンプ�
 </script>
 
 <!-- FAQ_END -->
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [ChatGPTプロンプト書き方の基本7原則と実例集2026](https://nayo126.github.io/auto-blog/blog/chatgptプロンプト書き方の基本7原則と実例集2026/)
+- [デジタル庁プロンプトテンプレート集2026年完全ガイド](https://nayo126.github.io/auto-blog/blog/デジタル庁プロンプトテンプレート集2026年完全ガイド/)
+- [プロンプト副業で月収10万円を狙う2026年の実践ロードマップ](https://nayo126.github.io/auto-blog/blog/プロンプト副業で月収10万円を狙う2026年の実践ロードマップ/)
+
+### 姉妹サイトの関連記事
+- [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP
+- [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html) — AI News JP
+- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
+
+<!-- SEO_MESH_END -->

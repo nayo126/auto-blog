@@ -158,11 +158,11 @@ OpenAIの無料枠は、2026年でも副業の入口として十分に機能す�
 
 - [OpenAI 無料 API 2026最新7つの始め方](https://nayo126.github.io/auto-blog/blog/openai-無料-api-2026最新7つの始め方/)
 - [OpenAI課金方法5選｜2026年最新の料金と支払い手順](https://nayo126.github.io/auto-blog/blog/openai課金方法5選2026年最新の料金と支払い手順/)
-- [AI副業で月5万は現実か？2026年最新の稼ぎ方5選](https://nayo126.github.io/auto-blog/blog/ai副業で月5万は現実か2026年最新の稼ぎ方5選/)
+- [OpenAI主要モデル比較2026｜副業に最適な5選](https://nayo126.github.io/auto-blog/blog/openai主要モデル比較2026副業に最適な5選/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html) — AI News JP
+- [ChatGPTのF評価で炎上、ユーザーの不満が示すAI評価機能の課題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-f-ai.html) — AI News JP
 - [AutoScout24がOpenAI CodexとChatGPTで開発効率化、AI駆動ワークフロー導入事例](https://nayo126.github.io/ai-news-jp/posts/autoscout24-openai-codex-chatgpt-ai.html) — AI News JP
-- [ChatGPTのReddit投稿「👀」がr/ChatGPTで話題に｜AIコミュニティの反応分析](https://nayo126.github.io/ai-news-jp/posts/chatgpt-reddit-r-chatgpt-ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->

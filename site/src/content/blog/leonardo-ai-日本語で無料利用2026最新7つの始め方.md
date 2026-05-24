@@ -139,7 +139,7 @@ Leonardo AIは無料登録で毎日150トークンが付与され、日本語環
 ## 関連する記事
 
 - [Leonardo AI 無料プランの範囲と限界2026年版](https://nayo126.github.io/auto-blog/blog/leonardo-ai-無料プランの範囲と限界2026年版/)
+- [Leonardo AI無料の制限を徹底解説｜2026年版の使い方7つ](https://nayo126.github.io/auto-blog/blog/leonardo-ai無料の制限を徹底解説2026年版の使い方7つ/)
 - [Midjourney vs Leonardo AI 2026徹底比較7項目](https://nayo126.github.io/auto-blog/blog/midjourney-vs-leonardo-ai-2026徹底比較7項目/)
-- [AI画像生成 無料 ブラウザ完全ガイド2026年版7選](https://nayo126.github.io/auto-blog/blog/ai画像生成-無料-ブラウザ完全ガイド2026年版7選/)
 
 <!-- SEO_MESH_END -->

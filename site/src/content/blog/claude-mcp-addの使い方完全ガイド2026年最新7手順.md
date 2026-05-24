@@ -142,8 +142,8 @@ claude mcp add -s user github \
 ## 関連する記事
 
 - [Claude MCP設定方法を15分で完了する2026最新手順](https://nayo126.github.io/auto-blog/blog/claude-mcp設定方法を15分で完了する2026最新手順/)
-- [Claude MCP設定完全ガイド｜2026年版3ステップ導入術](https://nayo126.github.io/auto-blog/blog/claude-mcp設定完全ガイド2026年版3ステップ導入術/)
-- [Claude AIで稼ぐ副業7選｜月10万円ロードマップ2026](https://nayo126.github.io/auto-blog/blog/claude-aiで稼ぐ副業7選月10万円ロードマップ2026/)
+- [Claude MCPおすすめ厳選7選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/claude-mcpおすすめ厳選7選2026年最新版/)
+- [Claude MCP接続方法を5分で完全マスター【2026年最新】](https://nayo126.github.io/auto-blog/blog/claude-mcp接続方法を5分で完全マスター2026年最新/)
 
 ### 姉妹サイトの関連記事
 - [Claude AIで激変するLinkedInプロフィール作成術2026年最新版](https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html) — AI News JP

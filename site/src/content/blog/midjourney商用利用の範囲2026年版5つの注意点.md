@@ -142,6 +142,7 @@ Midjourneyの商用利用は、有料プランの契約者であれば原則自�
 - [AI画像の著作権2026年版｜日本の最新ルール7選](https://nayo126.github.io/auto-blog/blog/ai画像の著作権2026年版日本の最新ルール7選/)
 
 ### 姉妹サイトの関連記事
+- [Anna's Archiveがllms.txtでAIに直接呼びかけ｜AI学習データ提供の新動き](https://nayo126.github.io/ai-news-jp/posts/anna-s-archive-llms-txt-ai-ai.html) — AI News JP
 - [ChatGPTの画像生成制限を回避する手法がRedditで拡散 第三者コンテンツの生成リスクと対策](https://nayo126.github.io/ai-news-jp/posts/chatgpt-reddit.html) — AI News JP
 
 <!-- SEO_MESH_END -->

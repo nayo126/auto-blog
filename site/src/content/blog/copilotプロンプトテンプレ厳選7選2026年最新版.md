@@ -141,8 +141,8 @@ NG表現を明示するのが最大のコツです。AIが好む定型句を禁�
 
 ## 関連する記事
 
+- [Copilotプロンプト作り方｜成果10倍の7ステップ2026](https://nayo126.github.io/auto-blog/blog/copilotプロンプト作り方成果10倍の7ステップ2026/)
 - [AI副業ラボ、はじめます](https://nayo126.github.io/auto-blog/blog/welcome/)
 - [プロンプトを売る方法2026｜PromptBaseで月3万稼ぐ5ステップ](https://nayo126.github.io/auto-blog/blog/プロンプトを売る方法2026promptbaseで月3万稼ぐ5ステップ/)
-- [Claude AIで稼ぐ副業7選｜月10万円ロードマップ2026](https://nayo126.github.io/auto-blog/blog/claude-aiで稼ぐ副業7選月10万円ロードマップ2026/)
 
 <!-- SEO_MESH_END -->

@@ -168,9 +168,9 @@ ChatGPT APIを使った個人開発は、低コスト・低リスクで始めら
 
 ## 関連する記事
 
+- [ChatGPT API連携の方法5ステップ｜初心者向け解説](https://nayo126.github.io/auto-blog/blog/chatgpt-api連携の方法5ステップ初心者向け解説/)
 - [ChatGPT APIとは？2026年最新の料金・使い方を5分で解説](https://nayo126.github.io/auto-blog/blog/chatgpt-apiとは2026年最新の料金使い方を5分で解説/)
 - [ChatGPT APIおすすめモデル6選｜2026年最新の選び方](https://nayo126.github.io/auto-blog/blog/chatgpt-apiおすすめモデル6選2026年最新の選び方/)
-- [Claude Code活用術7選｜副業の作業時間を3倍速に](https://nayo126.github.io/auto-blog/blog/claude-code活用術7選副業の作業時間を3倍速に/)
 
 <!-- SEO_MESH_END -->
 

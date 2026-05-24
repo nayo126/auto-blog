@@ -122,12 +122,13 @@ Claude Codeは、無料クレジット・Claude.ai・クラウド開発環境を
 ## 関連する記事
 
 - [Claude Code活用術7選｜副業の作業時間を3倍速に](https://nayo126.github.io/auto-blog/blog/claude-code活用術7選副業の作業時間を3倍速に/)
-- [Claude Code無料の制限まとめ｜2026年最新の上限と回避3手](https://nayo126.github.io/auto-blog/blog/claude-code無料の制限まとめ2026年最新の上限と回避3手/)
-- [ChatGPT API 個人開発で月5万円稼ぐ7つの実例](https://nayo126.github.io/auto-blog/blog/chatgpt-api-個人開発で月5万円稼ぐ7つの実例/)
+- [ChatGPT API連携の方法5ステップ｜初心者向け解説](https://nayo126.github.io/auto-blog/blog/chatgpt-api連携の方法5ステップ初心者向け解説/)
+- [ChatGPT日本語無料の使い方完全版2026最新7ステップ](https://nayo126.github.io/auto-blog/blog/chatgpt日本語無料の使い方完全版2026最新7ステップ/)
 
 ### 姉妹サイトの関連記事
 - [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html) — AI News JP
 - [Claude Codeが1時間連続編集？AIコーディング長時間自律作業の実態と注意点](https://nayo126.github.io/ai-news-jp/posts/claude-code-1-ai.html) — AI News JP
+- [Claude CodeとAntigravity、Cursorはどこまで進化したか｜2026年AI開発ツール最新評価](https://nayo126.github.io/ai-news-jp/posts/claude-code-antigravity-cursor-2026-ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->
 

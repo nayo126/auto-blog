@@ -124,9 +124,9 @@ Claude Codeの無料制限は「5時間ごとのメッセージ枠×モデル制
 
 ## 関連する記事
 
+- [Claude Code 起動方法を5分で解説｜初心者向け完全手順2026](https://nayo126.github.io/auto-blog/blog/claude-code-起動方法を5分で解説初心者向け完全手順2026/)
 - [Claude Code活用術7選｜副業の作業時間を3倍速に](https://nayo126.github.io/auto-blog/blog/claude-code活用術7選副業の作業時間を3倍速に/)
 - [Claude Desktop MCPは無料プランで使える？2026年最新の始め方5選](https://nayo126.github.io/auto-blog/blog/claude-desktop-mcpは無料プランで使える2026年最新の始め方5選/)
-- [claude mcp addの使い方完全ガイド2026年最新7手順](https://nayo126.github.io/auto-blog/blog/claude-mcp-addの使い方完全ガイド2026年最新7手順/)
 
 ### 姉妹サイトの関連記事
 - [Claude Codeが1時間連続編集？AIコーディング長時間自律作業の実態と注意点](https://nayo126.github.io/ai-news-jp/posts/claude-code-1-ai.html) — AI News JP
