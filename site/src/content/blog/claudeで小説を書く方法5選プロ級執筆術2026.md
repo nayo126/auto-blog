@@ -166,3 +166,29 @@ Claudeで小説を書く5つの工程を紹介しました。プロット設計�
 - [今週のAIニュース10選 (2026/05/17付)](https://nayo126.github.io/ai-news-jp/posts/ai-weekly-roundup-20260517.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claudeで書いた小説をKindle出版しても著作権は大丈夫ですか？
+
+AI生成文の著作権は法整備が進行中ですが、Amazon KDPは2023年からAI利用の申告を義務化しています。出版時に「AI生成」か「AI支援」かを選択し、最終的に人が加筆修正すれば実務上問題なく出版できます。
+
+### Claudeで小説を書くのは無料プランでもできますか？
+
+無料プランでも執筆可能ですが、1日の利用回数とコンテキストに制限があります。長編を継続的に書くなら月20ドルのProプラン推奨で、200Kトークン（約15万字）の文脈保持を活かせます。
+
+### Claudeで書いた文章はAI判定ツールでバレますか？
+
+GPTZeroなどの判定ツールで検出される可能性はあります。地の文を自分の言葉で書き換える、会話文に口癖を足す、構成を入れ替えるなど人の手を3割以上加えると検出率が大きく下がります。
+
+### ClaudeとChatGPTは小説執筆ならどっちがいい？
+
+日本語の自然さと長文の文脈保持はClaudeが優位で、地の文や心理描写が翻訳調になりにくいです。一方プロット出しのアイデア量やプラグイン連携はChatGPTが強く、構想はChatGPT、執筆はClaudeの併用も有効です。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claudeで書いた小説をKindle出版しても著作権は大丈夫ですか？", "acceptedAnswer": {"@type": "Answer", "text": "AI生成文の著作権は法整備が進行中ですが、Amazon KDPは2023年からAI利用の申告を義務化しています。出版時に「AI生成」か「AI支援」かを選択し、最終的に人が加筆修正すれば実務上問題なく出版できます。"}}, {"@type": "Question", "name": "Claudeで小説を書くのは無料プランでもできますか？", "acceptedAnswer": {"@type": "Answer", "text": "無料プランでも執筆可能ですが、1日の利用回数とコンテキストに制限があります。長編を継続的に書くなら月20ドルのProプラン推奨で、200Kトークン（約15万字）の文脈保持を活かせます。"}}, {"@type": "Question", "name": "Claudeで書いた文章はAI判定ツールでバレますか？", "acceptedAnswer": {"@type": "Answer", "text": "GPTZeroなどの判定ツールで検出される可能性はあります。地の文を自分の言葉で書き換える、会話文に口癖を足す、構成を入れ替えるなど人の手を3割以上加えると検出率が大きく下がります。"}}, {"@type": "Question", "name": "ClaudeとChatGPTは小説執筆ならどっちがいい？", "acceptedAnswer": {"@type": "Answer", "text": "日本語の自然さと長文の文脈保持はClaudeが優位で、地の文や心理描写が翻訳調になりにくいです。一方プロット出しのアイデア量やプラグイン連携はChatGPTが強く、構想はChatGPT、執筆はClaudeの併用も有効です。"}}]}
+</script>
+
+<!-- FAQ_END -->

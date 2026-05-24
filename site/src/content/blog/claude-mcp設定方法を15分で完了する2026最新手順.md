@@ -212,3 +212,29 @@ Claude MCPの設定は、設定ファイルにJSONを追記してアプリを再
 - [今週のAIニュース10選 (2026/05/17付)](https://nayo126.github.io/ai-news-jp/posts/ai-weekly-roundup-20260517.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude MCPの設定は無料でできますか？
+
+Claude Desktop本体は無料プランでもMCP設定が可能です。設定ファイルの編集とサーバー追加に費用はかかりません。ただしファイル操作やGitHub連携など、接続先サービスによっては別途APIキーやアカウント登録が必要になります。
+
+### MCPサーバーを追加したのにツールが表示されないのはなぜ？
+
+原因の多くはClaudeの再起動忘れと設定ファイルのJSON構文ミスです。閉じるボタンではなく完全終了して再起動し、claude_desktop_config.jsonのカンマや括弧の閉じ忘れを確認してください。Node.jsの未インストールも頻出原因です。
+
+### Claude DesktopとClaude Codeでは設定方法が違いますか？
+
+違います。Claude DesktopはGUIから設定ファイルを開いてJSONを編集しますが、Claude Codeは「claude mcp add」コマンドでターミナルから追加します。設定の保存先も別々で、片方の設定はもう片方に反映されません。
+
+### MCPの設定ファイルはどこにありますか？
+
+Mac版Claude Desktopは「~/Library/Application Support/Claude/claude_desktop_config.json」に保存されます。Windows版は「%APPDATA%\Claude\」配下です。アプリ内の設定画面からも「構成を編集」で直接開けます。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude MCPの設定は無料でできますか？", "acceptedAnswer": {"@type": "Answer", "text": "Claude Desktop本体は無料プランでもMCP設定が可能です。設定ファイルの編集とサーバー追加に費用はかかりません。ただしファイル操作やGitHub連携など、接続先サービスによっては別途APIキーやアカウント登録が必要になります。"}}, {"@type": "Question", "name": "MCPサーバーを追加したのにツールが表示されないのはなぜ？", "acceptedAnswer": {"@type": "Answer", "text": "原因の多くはClaudeの再起動忘れと設定ファイルのJSON構文ミスです。閉じるボタンではなく完全終了して再起動し、claude_desktop_config.jsonのカンマや括弧の閉じ忘れを確認してください。Node.jsの未インストールも頻出原因です。"}}, {"@type": "Question", "name": "Claude DesktopとClaude Codeでは設定方法が違いますか？", "acceptedAnswer": {"@type": "Answer", "text": "違います。Claude DesktopはGUIから設定ファイルを開いてJSONを編集しますが、Claude Codeは「claude mcp add」コマンドでターミナルから追加します。設定の保存先も別々で、片方の設定はもう片方に反映されません。"}}, {"@type": "Question", "name": "MCPの設定ファイルはどこにありますか？", "acceptedAnswer": {"@type": "Answer", "text": "Mac版Claude Desktopは「~/Library/Application Support/Claude/claude_desktop_config.json」に保存されます。Windows版は「%APPDATA%\\Claude\\」配下です。アプリ内の設定画面からも「構成を編集」で直接開けます。"}}]}
+</script>
+
+<!-- FAQ_END -->

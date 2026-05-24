@@ -125,3 +125,29 @@ ClaudeとOpenAIは「どちらが上」ではなく、得意領域が分かれ�
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude ProとChatGPT Plusの両方契約すると月いくら？
+
+Claude Pro 20ドルとChatGPT Plus 20ドルで合計月40ドル、日本円で約6,000円です。副業収入が月3万円を超えれば回収可能で、用途を分ける併用が2026年の標準構成になっています。
+
+### 副業の文章作成にはClaudeとChatGPTどっちがいい？
+
+長文の論理一貫性と正確さ重視ならClaude Opus 4.7が向いています。リサーチや画像生成も含めた汎用作業はChatGPTが強いため、リサーチをChatGPT、執筆をClaudeと工程で使い分けるのが効率的です。
+
+### ClaudeとChatGPTのAPIを切り替えて使うことはできる？
+
+n8nやDifyといったノーコードツールを使えば、両方のAPIを切り替えるフローを組めます。工程ごとに得意なモデルへ自動で振り分けられるため、作業の自動化と品質向上を同時に実現できます。
+
+### 画像生成が得意なのはClaudeとOpenAIどっち？
+
+画像・音声・検索を含む総合力ではOpenAIが優勢です。Claudeは画像生成に非対応のため、画像が必要な副業作業ではChatGPTやDALL-E系を使う必要があります。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude ProとChatGPT Plusの両方契約すると月いくら？", "acceptedAnswer": {"@type": "Answer", "text": "Claude Pro 20ドルとChatGPT Plus 20ドルで合計月40ドル、日本円で約6,000円です。副業収入が月3万円を超えれば回収可能で、用途を分ける併用が2026年の標準構成になっています。"}}, {"@type": "Question", "name": "副業の文章作成にはClaudeとChatGPTどっちがいい？", "acceptedAnswer": {"@type": "Answer", "text": "長文の論理一貫性と正確さ重視ならClaude Opus 4.7が向いています。リサーチや画像生成も含めた汎用作業はChatGPTが強いため、リサーチをChatGPT、執筆をClaudeと工程で使い分けるのが効率的です。"}}, {"@type": "Question", "name": "ClaudeとChatGPTのAPIを切り替えて使うことはできる？", "acceptedAnswer": {"@type": "Answer", "text": "n8nやDifyといったノーコードツールを使えば、両方のAPIを切り替えるフローを組めます。工程ごとに得意なモデルへ自動で振り分けられるため、作業の自動化と品質向上を同時に実現できます。"}}, {"@type": "Question", "name": "画像生成が得意なのはClaudeとOpenAIどっち？", "acceptedAnswer": {"@type": "Answer", "text": "画像・音声・検索を含む総合力ではOpenAIが優勢です。Claudeは画像生成に非対応のため、画像が必要な副業作業ではChatGPTやDALL-E系を使う必要があります。"}}]}
+</script>
+
+<!-- FAQ_END -->

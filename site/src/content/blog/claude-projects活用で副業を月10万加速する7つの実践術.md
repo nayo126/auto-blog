@@ -177,3 +177,29 @@ Claude Projectsは単なる便利機能ではなく、副業ワークを仕組�
 - [Claude AIで稼ぐ副業7選｜月10万円ロードマップ2026](https://nayo126.github.io/auto-blog/blog/claude-aiで稼ぐ副業7選月10万円ロードマップ2026/)
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude Projectsは無料プランでも使える?
+
+いいえ、ProjectsはPro(月20ドル)またはMaxプラン限定の機能です。無料プランでは通常チャットのみ利用でき、ナレッジのアップロードやカスタム指示の保存はできません。副業で本格活用するなら月20ドルのProが最低ラインです。
+
+### Claude ProjectsとChatGPTのGPTsはどちらが副業向き?
+
+案件資料を200Kトークンまで読み込ませて毎回の前提共有を省くならClaude Projectsが有利です。一方、外部公開して他人に使わせたいならGPTsが向きます。社内・個人作業の効率化目的ならProjectsを選ぶと時短効果が大きいです。
+
+### Claude Projectsに何件まで案件を登録できる?
+
+プロジェクト数の明確な上限は公開されていませんが、実用上は案件ごとに1プロジェクトを作る運用が標準です。1プロジェクトあたり最大200Kトークンの資料をアップでき、文庫本約2〜3冊分の参考データを保持できます。
+
+### Claude Projectsにアップした資料は学習に使われる?
+
+Anthropicは商用プランのユーザーデータをデフォルトでモデル学習に使いません。ただしクライアントの守秘契約がある案件では、機密文書のアップロード前に契約条項を必ず確認し、固有名詞をマスキングするなどの対策を取ってください。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude Projectsは無料プランでも使える?", "acceptedAnswer": {"@type": "Answer", "text": "いいえ、ProjectsはPro(月20ドル)またはMaxプラン限定の機能です。無料プランでは通常チャットのみ利用でき、ナレッジのアップロードやカスタム指示の保存はできません。副業で本格活用するなら月20ドルのProが最低ラインです。"}}, {"@type": "Question", "name": "Claude ProjectsとChatGPTのGPTsはどちらが副業向き?", "acceptedAnswer": {"@type": "Answer", "text": "案件資料を200Kトークンまで読み込ませて毎回の前提共有を省くならClaude Projectsが有利です。一方、外部公開して他人に使わせたいならGPTsが向きます。社内・個人作業の効率化目的ならProjectsを選ぶと時短効果が大きいです。"}}, {"@type": "Question", "name": "Claude Projectsに何件まで案件を登録できる?", "acceptedAnswer": {"@type": "Answer", "text": "プロジェクト数の明確な上限は公開されていませんが、実用上は案件ごとに1プロジェクトを作る運用が標準です。1プロジェクトあたり最大200Kトークンの資料をアップでき、文庫本約2〜3冊分の参考データを保持できます。"}}, {"@type": "Question", "name": "Claude Projectsにアップした資料は学習に使われる?", "acceptedAnswer": {"@type": "Answer", "text": "Anthropicは商用プランのユーザーデータをデフォルトでモデル学習に使いません。ただしクライアントの守秘契約がある案件では、機密文書のアップロード前に契約条項を必ず確認し、固有名詞をマスキングするなどの対策を取ってください。"}}]}
+</script>
+
+<!-- FAQ_END -->

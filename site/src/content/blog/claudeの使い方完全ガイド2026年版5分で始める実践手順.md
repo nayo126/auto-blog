@@ -185,3 +185,29 @@ Claudeは、長文処理と日本語の自然さで現状トップクラスの�
 - [OpenAI Codex for Work、業務オペレーションチーム向け活用事例を公開](https://nayo126.github.io/ai-news-jp/posts/openai-codex-for-work.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### ClaudeとChatGPTはどちらが優れていますか？
+
+用途で使い分けます。長文処理や日本語の自然さ、コーディングはClaudeが強く、最大200Kトークン（約15万字）を一度に処理できます。一方、画像生成や音声入力など機能の幅広さではChatGPTが優位です。
+
+### Claudeは無料で使えますか？
+
+無料プランがあり、登録すればすぐ使えます。ただし利用回数に制限があり、混雑時は機能が制限されます。本格的に使うなら月20ドル（約3,000円）のProプランで上位モデルや利用枠の拡大が可能です。
+
+### Claudeは日本語に対応していますか？
+
+完全対応しています。日本語の文章生成や要約は自然で、敬語やニュアンスの再現度が高い点が特徴です。質問も回答もすべて日本語で完結でき、英語へ切り替える必要はありません。
+
+### Claude Codeとは何ですか？
+
+ターミナル上で動くClaudeのコーディング支援ツールです。ファイルの読み書きやコマンド実行を自動で行い、複数ファイルにまたがる修正やバグ調査を任せられます。VS CodeやJetBrainsの拡張機能でも利用できます。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "ClaudeとChatGPTはどちらが優れていますか？", "acceptedAnswer": {"@type": "Answer", "text": "用途で使い分けます。長文処理や日本語の自然さ、コーディングはClaudeが強く、最大200Kトークン（約15万字）を一度に処理できます。一方、画像生成や音声入力など機能の幅広さではChatGPTが優位です。"}}, {"@type": "Question", "name": "Claudeは無料で使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "無料プランがあり、登録すればすぐ使えます。ただし利用回数に制限があり、混雑時は機能が制限されます。本格的に使うなら月20ドル（約3,000円）のProプランで上位モデルや利用枠の拡大が可能です。"}}, {"@type": "Question", "name": "Claudeは日本語に対応していますか？", "acceptedAnswer": {"@type": "Answer", "text": "完全対応しています。日本語の文章生成や要約は自然で、敬語やニュアンスの再現度が高い点が特徴です。質問も回答もすべて日本語で完結でき、英語へ切り替える必要はありません。"}}, {"@type": "Question", "name": "Claude Codeとは何ですか？", "acceptedAnswer": {"@type": "Answer", "text": "ターミナル上で動くClaudeのコーディング支援ツールです。ファイルの読み書きやコマンド実行を自動で行い、複数ファイルにまたがる修正やバグ調査を任せられます。VS CodeやJetBrainsの拡張機能でも利用できます。"}}]}
+</script>
+
+<!-- FAQ_END -->

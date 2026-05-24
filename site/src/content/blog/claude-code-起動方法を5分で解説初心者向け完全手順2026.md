@@ -115,3 +115,29 @@ Claude Codeの起動は `claude` の1コマンドで完結しますが、その�
 - [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html)
 - [Claude Codeが1時間連続編集？AIコーディング長時間自律作業の実態と注意点](https://nayo126.github.io/ai-news-jp/posts/claude-code-1-ai.html)
 - [Claude CodeとAntigravity、Cursorはどこまで進化したか｜2026年AI開発ツール最新評価](https://nayo126.github.io/ai-news-jp/posts/claude-code-antigravity-cursor-2026-ai.html)
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude Codeで「command not found: claude」と出るのはなぜ？
+
+インストールが未完了か、PATHが通っていないのが原因です。npm install -g @anthropic-ai/claude-code を再実行し、ターミナルを開き直してください。npmのグローバルパスがシェル設定に追加されていない場合も発生します。
+
+### Claude Codeの起動にNode.jsはどのバージョンが必要？
+
+Node.js 18以上が必須です。node -v で確認し、18未満なら公式サイトかnvmで20系などにアップデートしてください。バージョンが古いと起動時にエラーで止まります。
+
+### Claude Codeを終了するにはどうすればいい？
+
+対話モード中に /exit と入力するか、Ctrl+C を2回押すと終了します。1回だけだと現在の処理がキャンセルされるだけで、対話モードは継続します。
+
+### Claude Codeは無料で使える？課金は必要？
+
+Claude ProやMaxの月額プラン契約、またはAPIキーの従量課金が必要です。Maxプランは月額約3万円で、起動後に表示される指示に従ってログイン連携すれば使えます。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude Codeで「command not found: claude」と出るのはなぜ？", "acceptedAnswer": {"@type": "Answer", "text": "インストールが未完了か、PATHが通っていないのが原因です。npm install -g @anthropic-ai/claude-code を再実行し、ターミナルを開き直してください。npmのグローバルパスがシェル設定に追加されていない場合も発生します。"}}, {"@type": "Question", "name": "Claude Codeの起動にNode.jsはどのバージョンが必要？", "acceptedAnswer": {"@type": "Answer", "text": "Node.js 18以上が必須です。node -v で確認し、18未満なら公式サイトかnvmで20系などにアップデートしてください。バージョンが古いと起動時にエラーで止まります。"}}, {"@type": "Question", "name": "Claude Codeを終了するにはどうすればいい？", "acceptedAnswer": {"@type": "Answer", "text": "対話モード中に /exit と入力するか、Ctrl+C を2回押すと終了します。1回だけだと現在の処理がキャンセルされるだけで、対話モードは継続します。"}}, {"@type": "Question", "name": "Claude Codeは無料で使える？課金は必要？", "acceptedAnswer": {"@type": "Answer", "text": "Claude ProやMaxの月額プラン契約、またはAPIキーの従量課金が必要です。Maxプランは月額約3万円で、起動後に表示される指示に従ってログイン連携すれば使えます。"}}]}
+</script>
+
+<!-- FAQ_END -->

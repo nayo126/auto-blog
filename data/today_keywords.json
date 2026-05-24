@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-23T13:30:00.423088+00:00",
+  "picked_at": "2026-05-24T04:54:49.672846+00:00",
   "count": 5,
   "items": [
     {
-      "category": "Claude活用",
-      "keyword": "claude code 起動 方法"
-    },
-    {
-      "category": "ChatGPT活用",
-      "keyword": "chatgpt api 連携 方法"
-    },
-    {
-      "category": "海外AIトレンド",
-      "keyword": "gemini openai 比較"
-    },
-    {
-      "category": "AI副業",
-      "keyword": "ai フリーランス 案件"
+      "category": "個人開発",
+      "keyword": "ノーコード webサイト 副業"
     },
     {
       "category": "AIツール比較",
-      "keyword": "ai 動画生成"
+      "keyword": "画像生成 ai サービス 比較"
+    },
+    {
+      "category": "AI画像生成",
+      "keyword": "leonardo ai 無料 制限"
+    },
+    {
+      "category": "海外AIトレンド",
+      "keyword": "ai スタートアップ燈"
+    },
+    {
+      "category": "AI副業",
+      "keyword": "ai 副業 無料 セミナー 怪しい"
     }
   ]
 }

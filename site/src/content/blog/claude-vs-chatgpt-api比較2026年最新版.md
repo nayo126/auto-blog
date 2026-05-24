@@ -168,3 +168,29 @@ ClaudeとChatGPT APIの選択は「どちらが優れているか」ではなく
 - [Claude AIで激変するLinkedInプロフィール作成術2026年最新版](https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude APIとChatGPT APIはどっちが安い？
+
+入力はChatGPT 5が$2.5/100万トークンでClaudeの$3より安く、出力もChatGPT 5が$10でClaudeの$15より安いです。コストだけならChatGPTが有利で、出力量が多いツールほど差が開きます。
+
+### 長文を扱うツールにはどちらのAPIが向いている？
+
+Claude Sonnet 4.6が向いています。コンテキスト長が1MトークンでChatGPT 5の400Kの2.5倍あり、長い資料の要約や大量コードの処理を1回のリクエストで安定して処理できます。
+
+### 個人開発でAPIを使う場合、月額コストはどれくらい？
+
+用途次第ですが、1日100回・入出力各2000トークン程度の軽いツールなら月$2〜5に収まります。出力料金が高いClaudeで長文を多用すると月$10超に上がるため、出力トークン量の管理が重要です。
+
+### 画像生成も必要な場合はどちらを選ぶべき？
+
+ChatGPTを選びます。画像生成が内蔵されており、テキスト処理から画像出力まで1つのAPIで完結します。Claudeは画像入力には対応しますが画像生成は非対応で、別サービスの連携が必要です。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude APIとChatGPT APIはどっちが安い？", "acceptedAnswer": {"@type": "Answer", "text": "入力はChatGPT 5が$2.5/100万トークンでClaudeの$3より安く、出力もChatGPT 5が$10でClaudeの$15より安いです。コストだけならChatGPTが有利で、出力量が多いツールほど差が開きます。"}}, {"@type": "Question", "name": "長文を扱うツールにはどちらのAPIが向いている？", "acceptedAnswer": {"@type": "Answer", "text": "Claude Sonnet 4.6が向いています。コンテキスト長が1MトークンでChatGPT 5の400Kの2.5倍あり、長い資料の要約や大量コードの処理を1回のリクエストで安定して処理できます。"}}, {"@type": "Question", "name": "個人開発でAPIを使う場合、月額コストはどれくらい？", "acceptedAnswer": {"@type": "Answer", "text": "用途次第ですが、1日100回・入出力各2000トークン程度の軽いツールなら月$2〜5に収まります。出力料金が高いClaudeで長文を多用すると月$10超に上がるため、出力トークン量の管理が重要です。"}}, {"@type": "Question", "name": "画像生成も必要な場合はどちらを選ぶべき？", "acceptedAnswer": {"@type": "Answer", "text": "ChatGPTを選びます。画像生成が内蔵されており、テキスト処理から画像出力まで1つのAPIで完結します。Claudeは画像入力には対応しますが画像生成は非対応で、別サービスの連携が必要です。"}}]}
+</script>
+
+<!-- FAQ_END -->

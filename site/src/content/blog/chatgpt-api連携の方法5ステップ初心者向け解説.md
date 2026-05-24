@@ -143,3 +143,29 @@ ChatGPT API連携の方法は、①APIキーを取得し、②Pythonかノーコ
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html)
 - [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html)
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html)
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### ChatGPT APIの利用料金はいくらですか？
+
+入力・出力のトークン量に応じた従量課金です。gpt-4o-miniなら入力100万トークン約0.15ドル、出力約0.6ドルと安価で、初回は無料クレジットも付与され、月数百円から始められます。
+
+### ChatGPT APIとブラウザ版ChatGPTは何が違いますか？
+
+ブラウザ版は人が画面操作する月額20ドルのサービス、APIはプログラムから呼び出す従量課金の窓口です。APIなら自作アプリやスプレッドシートに組み込み、回答をデータとして自動処理できます。
+
+### APIキーが他人に漏れるとどうなりますか？
+
+第三者があなたの課金枠でAPIを使い放題になり、高額請求につながります。キーは環境変数で管理してコードに直書きせず、GitHubに公開しない、漏洩時はOpenAIの管理画面で即削除・再発行してください。
+
+### プログラミングなしでChatGPT APIを連携できますか？
+
+できます。ZapierやMake、Google Apps Scriptを使えばコードをほぼ書かずに連携可能です。例えばスプレッドシートの自作関数からAPIを呼び、セルに文章を自動生成させる使い方が定番です。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "ChatGPT APIの利用料金はいくらですか？", "acceptedAnswer": {"@type": "Answer", "text": "入力・出力のトークン量に応じた従量課金です。gpt-4o-miniなら入力100万トークン約0.15ドル、出力約0.6ドルと安価で、初回は無料クレジットも付与され、月数百円から始められます。"}}, {"@type": "Question", "name": "ChatGPT APIとブラウザ版ChatGPTは何が違いますか？", "acceptedAnswer": {"@type": "Answer", "text": "ブラウザ版は人が画面操作する月額20ドルのサービス、APIはプログラムから呼び出す従量課金の窓口です。APIなら自作アプリやスプレッドシートに組み込み、回答をデータとして自動処理できます。"}}, {"@type": "Question", "name": "APIキーが他人に漏れるとどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "第三者があなたの課金枠でAPIを使い放題になり、高額請求につながります。キーは環境変数で管理してコードに直書きせず、GitHubに公開しない、漏洩時はOpenAIの管理画面で即削除・再発行してください。"}}, {"@type": "Question", "name": "プログラミングなしでChatGPT APIを連携できますか？", "acceptedAnswer": {"@type": "Answer", "text": "できます。ZapierやMake、Google Apps Scriptを使えばコードをほぼ書かずに連携可能です。例えばスプレッドシートの自作関数からAPIを呼び、セルに文章を自動生成させる使い方が定番です。"}}]}
+</script>
+
+<!-- FAQ_END -->

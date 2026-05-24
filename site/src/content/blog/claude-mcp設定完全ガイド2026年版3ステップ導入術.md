@@ -144,3 +144,29 @@ Claude MCPの設定は、Desktop版ならJSONファイルを1つ編集、Claude 
 - [今週のAIニュース10選 (2026/05/17付)](https://nayo126.github.io/ai-news-jp/posts/ai-weekly-roundup-20260517.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude DesktopのMCP設定ファイル(claude_desktop_config.json)はどこにある?
+
+Macは~/Library/Application Support/Claude/claude_desktop_config.json、Windowsは%APPDATA%\Claude\claude_desktop_config.jsonに置かれます。アプリの設定→開発者→「構成を編集」から直接開くのが最短です。
+
+### MCPサーバーを設定したのにアイコンが表示されないのはなぜ?
+
+JSONの記述ミスとアプリの常駐が主因です。末尾カンマや括弧の閉じ忘れを確認し、タスクトレイやDockのClaudeを完全終了してから再起動します。npxコマンドのパスが通っているかも要チェックです。
+
+### Claude DesktopとClaude CodeでMCPの設定方法は違う?
+
+違います。DesktopはGUIでJSONファイルを編集しますが、Claude Codeはターミナルで「claude mcp add」コマンドを使い、プロジェクト単位の.mcp.jsonに記録できます。Codeはチーム共有がしやすいです。
+
+### 初心者がまず入れるべきMCPサーバーは?
+
+ファイルシステム、GitHub、ブラウザ操作(Playwright)の3つが定番です。ローカルファイル読み込みとコード管理を即体験でき、いずれも公式または準公式で、npx一行で追加できます。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude DesktopのMCP設定ファイル(claude_desktop_config.json)はどこにある?", "acceptedAnswer": {"@type": "Answer", "text": "Macは~/Library/Application Support/Claude/claude_desktop_config.json、Windowsは%APPDATA%\\Claude\\claude_desktop_config.jsonに置かれます。アプリの設定→開発者→「構成を編集」から直接開くのが最短です。"}}, {"@type": "Question", "name": "MCPサーバーを設定したのにアイコンが表示されないのはなぜ?", "acceptedAnswer": {"@type": "Answer", "text": "JSONの記述ミスとアプリの常駐が主因です。末尾カンマや括弧の閉じ忘れを確認し、タスクトレイやDockのClaudeを完全終了してから再起動します。npxコマンドのパスが通っているかも要チェックです。"}}, {"@type": "Question", "name": "Claude DesktopとClaude CodeでMCPの設定方法は違う?", "acceptedAnswer": {"@type": "Answer", "text": "違います。DesktopはGUIでJSONファイルを編集しますが、Claude Codeはターミナルで「claude mcp add」コマンドを使い、プロジェクト単位の.mcp.jsonに記録できます。Codeはチーム共有がしやすいです。"}}, {"@type": "Question", "name": "初心者がまず入れるべきMCPサーバーは?", "acceptedAnswer": {"@type": "Answer", "text": "ファイルシステム、GitHub、ブラウザ操作(Playwright)の3つが定番です。ローカルファイル読み込みとコード管理を即体験でき、いずれも公式または準公式で、npx一行で追加できます。"}}]}
+</script>
+
+<!-- FAQ_END -->

@@ -214,3 +214,29 @@ Claudeのプロンプトは「型」と「数値」と「対話」が三本柱�
 - [Claude AIで激変するLinkedInプロフィール作成術2026年最新版](https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### ClaudeとChatGPTのプロンプトは何が違うの？
+
+Claudeは指示の構造を重視する設計で、XMLタグ・ロール指定・出力フォーマットの定義に強く反応する。ChatGPTは曖昧な指示も空気を読んで補完するが、Claudeは構造化された指示を渡すほど精度が上がる。同じプロンプトの使い回しはNG。
+
+### ClaudeのプロンプトでXMLタグを使うと本当に精度が上がる？
+
+上がる。Anthropic公式が推奨しており、<指示><文脈><例>のようにタグで要素を区切るとClaudeが役割を正確に読み分ける。特に複数の条件や長文の参考資料を渡すリサーチ業務で、出力のズレが大きく減る。
+
+### Claude Sonnet 4.6とOpus 4.7はプロンプトの書き方を変えるべき？
+
+基本のコツは共通だが、Opus 4.7は複雑な思考の連鎖や長文処理に強く、Sonnet 4.6は高速・低コストで定型作業向き。コード生成や難しいリサーチはOpus、量産系のライティングはSonnetと使い分けると効率が上がる。
+
+### Claudeに思考の連鎖（chain of thought）をやらせるにはどう書く？
+
+「結論の前に、まず手順を段階的に考えてから答えて」と明示し、<thinking>タグで思考過程を出力させる。計算・分析・複数条件の判断で有効で、いきなり答えを求めるより正答率が体感で上がる。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "ClaudeとChatGPTのプロンプトは何が違うの？", "acceptedAnswer": {"@type": "Answer", "text": "Claudeは指示の構造を重視する設計で、XMLタグ・ロール指定・出力フォーマットの定義に強く反応する。ChatGPTは曖昧な指示も空気を読んで補完するが、Claudeは構造化された指示を渡すほど精度が上がる。同じプロンプトの使い回しはNG。"}}, {"@type": "Question", "name": "ClaudeのプロンプトでXMLタグを使うと本当に精度が上がる？", "acceptedAnswer": {"@type": "Answer", "text": "上がる。Anthropic公式が推奨しており、<指示><文脈><例>のようにタグで要素を区切るとClaudeが役割を正確に読み分ける。特に複数の条件や長文の参考資料を渡すリサーチ業務で、出力のズレが大きく減る。"}}, {"@type": "Question", "name": "Claude Sonnet 4.6とOpus 4.7はプロンプトの書き方を変えるべき？", "acceptedAnswer": {"@type": "Answer", "text": "基本のコツは共通だが、Opus 4.7は複雑な思考の連鎖や長文処理に強く、Sonnet 4.6は高速・低コストで定型作業向き。コード生成や難しいリサーチはOpus、量産系のライティングはSonnetと使い分けると効率が上がる。"}}, {"@type": "Question", "name": "Claudeに思考の連鎖（chain of thought）をやらせるにはどう書く？", "acceptedAnswer": {"@type": "Answer", "text": "「結論の前に、まず手順を段階的に考えてから答えて」と明示し、<thinking>タグで思考過程を出力させる。計算・分析・複数条件の判断で有効で、いきなり答えを求めるより正答率が体感で上がる。"}}]}
+</script>
+
+<!-- FAQ_END -->
