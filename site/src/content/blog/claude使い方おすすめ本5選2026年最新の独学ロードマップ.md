@@ -151,9 +151,9 @@ Claudeの使い方を本で学ぶときは、**入門書1冊＋プロンプト�
 - [Claude MCP設定方法を15分で完了する2026最新手順](https://nayo126.github.io/auto-blog/blog/claude-mcp設定方法を15分で完了する2026最新手順/)
 
 ### 姉妹サイトの関連記事
+- [Claude（Anthropic）が不調？r/ClaudeAIで朝のエラー・応答遅延が報告される](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic-r-claudeai.html) — AI News JP
 - [Claude AIで激変するLinkedInプロフィール作成術2026年最新版](https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html) — AI News JP
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
-- [今週のAIニュース10選 (2026/05/17付)](https://nayo126.github.io/ai-news-jp/posts/ai-weekly-roundup-20260517.html) — AI News JP
 
 <!-- SEO_MESH_END -->
 

@@ -136,8 +136,8 @@ bolt.newはブラウザ完結型でNode.js実行とデプロイまで一画面�
 ## 関連する記事
 
 - [bolt.new vs v0徹底比較2026年版｜個人開発で稼ぐ最適解](https://nayo126.github.io/auto-blog/blog/boltnew-vs-v0徹底比較2026年版個人開発で稼ぐ最適解/)
+- [bolt.new料金まとめ|無料枠と有料4プランを比較](https://nayo126.github.io/auto-blog/blog/boltnew料金まとめ無料枠と有料4プランを比較/)
 - [bolt.new 評判は本当？AI開発の実力を徹底検証2026](https://nayo126.github.io/auto-blog/blog/boltnew-評判は本当ai開発の実力を徹底検証2026/)
-- [Claude Artifacts個人開発の活用5選](https://nayo126.github.io/auto-blog/blog/claude-artifacts個人開発の活用5選/)
 
 ### 姉妹サイトの関連記事
 - [Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速](https://nayo126.github.io/ai-news-jp/posts/sea-limited-openai-codex.html) — AI News JP

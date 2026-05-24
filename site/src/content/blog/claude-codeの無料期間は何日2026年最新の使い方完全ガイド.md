@@ -125,9 +125,9 @@ Claude Codeに明確な無料期間はないものの、Claude.aiの無料プラ
 - [Claude Code 起動方法を5分で解説｜初心者向け完全手順2026](https://nayo126.github.io/auto-blog/blog/claude-code-起動方法を5分で解説初心者向け完全手順2026/)
 
 ### 姉妹サイトの関連記事
+- [Claude（Anthropic）が不調？r/ClaudeAIで朝のエラー・応答遅延が報告される](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic-r-claudeai.html) — AI News JP
 - [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html) — AI News JP
 - [Andrej KarpathyがAnthropicに移籍 OpenAI共同創業者の電撃移籍が示すAI業界の地殻変動](https://nayo126.github.io/ai-news-jp/posts/andrej-karpathy-anthropic-openai-ai.html) — AI News JP
-- [Claudeがユーザーに「寝なさい」と命令する謎現象、Anthropicも原因不明](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic.html) — AI News JP
 
 <!-- SEO_MESH_END -->
 

@@ -157,3 +157,29 @@ CopilotとOpenAIは競合ではなく補完関係にある。エンジニア寄�
 - [ChatGPTのF評価で炎上、ユーザーの不満が示すAI評価機能の課題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-f-ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### GitHub Copilotは無料で使える?
+
+GitHub Copilot Freeが2024年12月から提供され、月2,000回のコード補完と50回のチャットまで無料で使える。学生・教師・人気OSSのメンテナーは月10ドルのCopilot Proも無料になる。
+
+### ChatGPT PlusとOpenAI APIはどっちが安い?
+
+使う量で変わる。ChatGPT Plusは月20ドル定額で回数制限内なら使い放題。APIは従量課金で、軽い利用なら月数ドルで収まるが、大量に処理すると20ドルを超える。毎日チャットするならPlusが割安。
+
+### Copilotはどんなエディタで使える?
+
+VS Code、Visual Studio、JetBrains系(IntelliJ等)、Neovim、Xcodeに対応。主要言語のPython、JavaScript、TypeScript、Go、Ruby、C#などで精度が高い。VS Codeでの使い勝手が最も良い。
+
+### CopilotとChatGPTを両方契約すると月いくら?
+
+Copilot Pro(月10ドル)とChatGPT Plus(月20ドル)で合計月30ドル、約4,650円。Copilot Business(月19ドル)を選ぶと合計39ドル、約6,000円になる。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "GitHub Copilotは無料で使える?", "acceptedAnswer": {"@type": "Answer", "text": "GitHub Copilot Freeが2024年12月から提供され、月2,000回のコード補完と50回のチャットまで無料で使える。学生・教師・人気OSSのメンテナーは月10ドルのCopilot Proも無料になる。"}}, {"@type": "Question", "name": "ChatGPT PlusとOpenAI APIはどっちが安い?", "acceptedAnswer": {"@type": "Answer", "text": "使う量で変わる。ChatGPT Plusは月20ドル定額で回数制限内なら使い放題。APIは従量課金で、軽い利用なら月数ドルで収まるが、大量に処理すると20ドルを超える。毎日チャットするならPlusが割安。"}}, {"@type": "Question", "name": "Copilotはどんなエディタで使える?", "acceptedAnswer": {"@type": "Answer", "text": "VS Code、Visual Studio、JetBrains系(IntelliJ等)、Neovim、Xcodeに対応。主要言語のPython、JavaScript、TypeScript、Go、Ruby、C#などで精度が高い。VS Codeでの使い勝手が最も良い。"}}, {"@type": "Question", "name": "CopilotとChatGPTを両方契約すると月いくら?", "acceptedAnswer": {"@type": "Answer", "text": "Copilot Pro(月10ドル)とChatGPT Plus(月20ドル)で合計月30ドル、約4,650円。Copilot Business(月19ドル)を選ぶと合計39ドル、約6,000円になる。"}}]}
+</script>
+
+<!-- FAQ_END -->

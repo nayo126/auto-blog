@@ -131,9 +131,9 @@ Claude Agent SDKは、副業の生産性を大きく引き上げる強力なツ�
 - [Claude Computer Use 自動化で副業効率3倍|実践7事例](https://nayo126.github.io/auto-blog/blog/claude-computer-use-自動化で副業効率3倍実践7事例/)
 
 ### 姉妹サイトの関連記事
+- [Claude（Anthropic）が不調？r/ClaudeAIで朝のエラー・応答遅延が報告される](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic-r-claudeai.html) — AI News JP
 - [Claude AIで激変するLinkedInプロフィール作成術2026年最新版](https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html) — AI News JP
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
-- [今週のAIニュース10選 (2026/05/17付)](https://nayo126.github.io/ai-news-jp/posts/ai-weekly-roundup-20260517.html) — AI News JP
 
 <!-- SEO_MESH_END -->
 

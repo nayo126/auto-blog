@@ -158,7 +158,7 @@ OpenAIの無料枠は、2026年でも副業の入口として十分に機能す�
 
 - [OpenAI 無料 API 2026最新7つの始め方](https://nayo126.github.io/auto-blog/blog/openai-無料-api-2026最新7つの始め方/)
 - [OpenAI課金方法5選｜2026年最新の料金と支払い手順](https://nayo126.github.io/auto-blog/blog/openai課金方法5選2026年最新の料金と支払い手順/)
-- [OpenAI主要モデル比較2026｜副業に最適な5選](https://nayo126.github.io/auto-blog/blog/openai主要モデル比較2026副業に最適な5選/)
+- [Perplexity vs OpenAI徹底比較7項目|副業向きはどっち](https://nayo126.github.io/auto-blog/blog/perplexity-vs-openai徹底比較7項目副業向きはどっち/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html) — AI News JP

@@ -85,3 +85,17 @@ Leonardo AIはCanva傘下に入って以降、機能・料金・モデル構成�
 Leonardo AIの画像は、有料プランに加入すれば商用利用が可能です。ただし無料プランの公開仕様、著作権の創作性、個別モデルのライセンスという3つの落とし穴に注意が必要です。
 
 副業で安全に使うコツは、自社モデルを中心に有料プランで生成し、生成後にレタッチを加えて人間の創作性を持たせること。そして案件前には必ず最新規約を確認することです。ルールさえ理解すれば、AI画像生成は時短と収益化を両立できる強力な武器になります。まずは無料で試し、手応えを感じたら有料プランで本格的に踏み出してみてください。
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Midjourney商用利用の範囲2026年版｜5つの注意点](https://nayo126.github.io/auto-blog/blog/midjourney商用利用の範囲2026年版5つの注意点/)
+- [Leonardo AI使い方完全ガイド2026年版|月5万稼ぐ7ステップ](https://nayo126.github.io/auto-blog/blog/leonardo-ai使い方完全ガイド2026年版月5万稼ぐ7ステップ/)
+- [Midjourney vs Leonardo AI 2026徹底比較7項目](https://nayo126.github.io/auto-blog/blog/midjourney-vs-leonardo-ai-2026徹底比較7項目/)
+
+### 姉妹サイトの関連記事
+- [Anna's Archiveがllms.txtでAIに直接呼びかけ｜AI学習データ提供の新動き](https://nayo126.github.io/ai-news-jp/posts/anna-s-archive-llms-txt-ai-ai.html) — AI News JP
+- [ChatGPTの画像生成制限を回避する手法がRedditで拡散 第三者コンテンツの生成リスクと対策](https://nayo126.github.io/ai-news-jp/posts/chatgpt-reddit.html) — AI News JP
+
+<!-- SEO_MESH_END -->

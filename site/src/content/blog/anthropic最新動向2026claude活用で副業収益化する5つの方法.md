@@ -165,8 +165,8 @@ Anthropicは未上場企業のため個別株は購入不可です。間接投�
 - [Anthropic無料プランの全貌2026｜Claude無料で月3万円稼ぐ方法](https://nayo126.github.io/auto-blog/blog/anthropic無料プランの全貌2026claude無料で月3万円稼ぐ方法/)
 
 ### 姉妹サイトの関連記事
+- [Claude（Anthropic）が不調？r/ClaudeAIで朝のエラー・応答遅延が報告される](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic-r-claudeai.html) — AI News JP
 - [Andrej KarpathyがAnthropicに移籍 OpenAI共同創業者の電撃移籍が示すAI業界の地殻変動](https://nayo126.github.io/ai-news-jp/posts/andrej-karpathy-anthropic-openai-ai.html) — AI News JP
 - [Claudeがユーザーに「寝なさい」と命令する謎現象、Anthropicも原因不明](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic.html) — AI News JP
-- [Claude AIで激変するLinkedInプロフィール作成術2026年最新版](https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html) — AI News JP
 
 <!-- SEO_MESH_END -->

@@ -182,7 +182,7 @@ Claudeは、長文処理と日本語の自然さで現状トップクラスの�
 ### 姉妹サイトの関連記事
 - [Claude AIで激変するLinkedInプロフィール作成術2026年最新版](https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html) — AI News JP
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
-- [OpenAI Codex for Work、業務オペレーションチーム向け活用事例を公開](https://nayo126.github.io/ai-news-jp/posts/openai-codex-for-work.html) — AI News JP
+- [Claude（Anthropic）が不調？r/ClaudeAIで朝のエラー・応答遅延が報告される](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic-r-claudeai.html) — AI News JP
 
 <!-- SEO_MESH_END -->
 

@@ -82,3 +82,18 @@ whisper audio.mp3 --model small --language Japanese
 OpenAI Whisperは、無料で動く高精度な音声認識AIです。99言語対応で、自分のPCでもAPIでも使え、文字起こし代行から字幕制作まで副業の幅を一気に広げてくれます。
 
 大切なのは、完璧を目指して情報収集ばかりするより、手元の短い音声を1本流してみること。出力の精度を体感すれば、自分に合った収益化の道筋が見えてきます。今日の5分が、来月の数万円につながります。
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [ChatGPT APIとは？2026年最新の料金・使い方を5分で解説](https://nayo126.github.io/auto-blog/blog/chatgpt-apiとは2026年最新の料金使い方を5分で解説/)
+- [OpenAI 無料 API 2026最新7つの始め方](https://nayo126.github.io/auto-blog/blog/openai-無料-api-2026最新7つの始め方/)
+- [OpenAI無料枠2026最新ガイド｜7つの活用法と上限突破術](https://nayo126.github.io/auto-blog/blog/openai無料枠2026最新ガイド7つの活用法と上限突破術/)
+
+### 姉妹サイトの関連記事
+- [Elon Musk敗訴：OpenAI・Sam Altmanへの訴訟で判決、AI業界への影響を解説](https://nayo126.github.io/ai-news-jp/posts/elon-musk-openai-sam-altman-ai.html) — AI News JP
+- [OpenAIがContent Credentials/SynthID対応、AI生成コンテンツの来歴検証ツールを公開](https://nayo126.github.io/ai-news-jp/posts/openai-content-credentials-synthid-ai.html) — AI News JP
+- [OpenAI Codexをデータサイエンスチームが活用する5つのワークフロー](https://nayo126.github.io/ai-news-jp/posts/openai-codex-5.html) — AI News JP
+
+<!-- SEO_MESH_END -->

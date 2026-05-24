@@ -17,6 +17,10 @@ image: "/auto-blog/ogp/claude-code-起動方法を5分で解説初心者向け�
 
 ## 結論：起動コマンドは「claude」の1語だけ
 
+<!-- INLINE_IMG -->
+![Claude Code 起動方法を5分で解説｜初心者向け完全手順2026 - 結論：起動コマンドは「claude」の1語だけ](/auto-blog/inline-images/claude-code-5-2026-0.jpg)
+
+
 結論から言うと、Claude Codeの起動方法は、ターミナルで `claude` と打ってEnterを押すだけです。理由は、Claude CodeがCLI（コマンドラインインターフェース）ツールとして設計されており、グローバルコマンドとして登録されるためです。
 
 ```bash
@@ -45,6 +49,10 @@ npm install -g @anthropic-ai/claude-code
 
 
 ## 起動前にやっておく3つの準備
+
+<!-- INLINE_IMG -->
+![Claude Code 起動方法を5分で解説｜初心者向け完全手順2026 - 起動前にやっておく3つの準備](/auto-blog/inline-images/claude-code-5-2026-1.jpg)
+
 
 スムーズに起動するために、事前に済ませておきたい準備が3つあります。順番に確認していきましょう。
 

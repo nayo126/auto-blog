@@ -146,3 +146,29 @@ NG表現を明示するのが最大のコツです。AIが好む定型句を禁�
 - [プロンプトを売る方法2026｜PromptBaseで月3万稼ぐ5ステップ](https://nayo126.github.io/auto-blog/blog/プロンプトを売る方法2026promptbaseで月3万稼ぐ5ステップ/)
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### GitHub CopilotとMicrosoft 365 Copilotはプロンプトの書き方が違いますか？
+
+違います。GitHub CopilotはVS Codeの開いているファイルやカーソル位置を読むため、関数名やコメントで意図を示すのが有効です。Microsoft 365 CopilotはWordやExcelの既存内容を前提にするので、対象範囲を明示した短い指示が効きます。
+
+### Copilotで思った通りのコードが出ないときの対処法は？
+
+まず関連ファイルを開きタブに残し、対象コードの直前にコメントで仕様を書きます。型定義や関数シグネチャを先に書くと精度が上がります。それでもズレる場合はCopilot Chatに「/explain」「/fix」を使い対話で絞り込みます。
+
+### Copilotは無料で使えますか？料金はいくらですか？
+
+GitHub Copilotは個人向けが月10ドル、年額100ドルです。学生や有名OSSメンテナーは無料。Microsoft 365 Copilotは1ユーザー月30ドル（年契約）で、365の対象ライセンスが別途必要です。
+
+### CopilotとChatGPTはどちらを使うべきですか？
+
+コード補完やエディタ内作業はCopilot、ゼロからの設計や長文生成はChatGPTやClaudeが向きます。実務では既存コードの続きをCopilot、仕様検討やレビューをChatGPTと役割分担するのが効率的です。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "GitHub CopilotとMicrosoft 365 Copilotはプロンプトの書き方が違いますか？", "acceptedAnswer": {"@type": "Answer", "text": "違います。GitHub CopilotはVS Codeの開いているファイルやカーソル位置を読むため、関数名やコメントで意図を示すのが有効です。Microsoft 365 CopilotはWordやExcelの既存内容を前提にするので、対象範囲を明示した短い指示が効きます。"}}, {"@type": "Question", "name": "Copilotで思った通りのコードが出ないときの対処法は？", "acceptedAnswer": {"@type": "Answer", "text": "まず関連ファイルを開きタブに残し、対象コードの直前にコメントで仕様を書きます。型定義や関数シグネチャを先に書くと精度が上がります。それでもズレる場合はCopilot Chatに「/explain」「/fix」を使い対話で絞り込みます。"}}, {"@type": "Question", "name": "Copilotは無料で使えますか？料金はいくらですか？", "acceptedAnswer": {"@type": "Answer", "text": "GitHub Copilotは個人向けが月10ドル、年額100ドルです。学生や有名OSSメンテナーは無料。Microsoft 365 Copilotは1ユーザー月30ドル（年契約）で、365の対象ライセンスが別途必要です。"}}, {"@type": "Question", "name": "CopilotとChatGPTはどちらを使うべきですか？", "acceptedAnswer": {"@type": "Answer", "text": "コード補完やエディタ内作業はCopilot、ゼロからの設計や長文生成はChatGPTやClaudeが向きます。実務では既存コードの続きをCopilot、仕様検討やレビューをChatGPTと役割分担するのが効率的です。"}}]}
+</script>
+
+<!-- FAQ_END -->
