@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-25T07:47:46.881531+00:00",
+  "picked_at": "2026-05-25T08:30:00.270133+00:00",
   "count": 5,
   "items": [
     {
-      "category": "プロンプトエンジニアリング",
-      "keyword": "プロンプト 作り方"
+      "category": "ChatGPT活用",
+      "keyword": "chatgpt 稼ぐ"
+    },
+    {
+      "category": "AI画像生成",
+      "keyword": "leonardo ai 安全性"
+    },
+    {
+      "category": "AIツール比較",
+      "keyword": "ai 議事録 ボイスレコーダー"
     },
     {
       "category": "海外AIトレンド",
-      "keyword": "openai アプリ おすすめ"
+      "keyword": "Product Hunt AI ツール ランキング"
     },
     {
-      "category": "AI副業",
-      "keyword": "アイ ハーブ おすすめ ブログ"
-    },
-    {
-      "category": "ChatGPT活用",
-      "keyword": "chatgpt 使い方"
-    },
-    {
-      "category": "個人開発",
-      "keyword": "cursor 使い方 日本語"
+      "category": "Claude活用",
+      "keyword": "claude mcp サーバー おすすめ"
     }
   ]
 }
