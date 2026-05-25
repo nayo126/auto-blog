@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-25T08:30:00.270133+00:00",
+  "picked_at": "2026-05-25T13:30:00.387783+00:00",
   "count": 5,
   "items": [
     {
+      "category": "AI副業",
+      "keyword": "ai 在宅ワーク"
+    },
+    {
       "category": "ChatGPT活用",
-      "keyword": "chatgpt 稼ぐ"
-    },
-    {
-      "category": "AI画像生成",
-      "keyword": "leonardo ai 安全性"
-    },
-    {
-      "category": "AIツール比較",
-      "keyword": "ai 議事録 ボイスレコーダー"
+      "keyword": "chatgpt 使い方 初心者"
     },
     {
       "category": "海外AIトレンド",
-      "keyword": "Product Hunt AI ツール ランキング"
+      "keyword": "openai 無料枠 api"
     },
     {
-      "category": "Claude活用",
-      "keyword": "claude mcp サーバー おすすめ"
+      "category": "プロンプトエンジニアリング",
+      "keyword": "プロンプト 副業"
+    },
+    {
+      "category": "AIツール比較",
+      "keyword": "ai 画像生成 おすすめ 無料"
     }
   ]
 }
