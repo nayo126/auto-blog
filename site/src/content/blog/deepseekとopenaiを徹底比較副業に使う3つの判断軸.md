@@ -17,6 +17,10 @@ image: "/auto-blog/ogp/deepseekとopenaiを徹底比較副業に使う3つの判
 
 ## DeepSeekとOpenAIは何が違うのか
 
+<!-- INLINE_IMG -->
+![DeepSeekとOpenAIを徹底比較｜副業に使う3つの判断軸 - DeepSeekとOpenAIは何が違うのか](/auto-blog/inline-images/deepseek-openai-3--0.jpg)
+
+
 まず前提を押さえます。OpenAIはChatGPTを運営する米国企業で、GPT-5系のモデルを中心に幅広いユーザーが利用しています。一方のDeepSeekは中国発のAI企業で、2025年初頭に「同等性能を圧倒的な低コストで提供する」と話題になり、世界的に注目を集めました。
 
 両者の最大の違いは**コスト構造**です。DeepSeekはオープンウェイト（モデルの重みを公開）路線を取り、API利用料を低く抑えています。OpenAIは大規模な研究開発と運用基盤を背景に、機能の豊富さとサポート体制で勝負しているという構図です。
@@ -29,6 +33,10 @@ image: "/auto-blog/ogp/deepseekとopenaiを徹底比較副業に使う3つの判
 つまり「どちらが優れているか」ではなく、**何にお金と手間をかけたいか**で答えが変わるのです。
 
 ## 料金とコストパフォーマンスで比較する
+
+<!-- INLINE_IMG -->
+![DeepSeekとOpenAIを徹底比較｜副業に使う3つの判断軸 - 料金とコストパフォーマンスで比較する](/auto-blog/inline-images/deepseek-openai-3--1.jpg)
+
 
 副業で最も気になるのが料金です。
 

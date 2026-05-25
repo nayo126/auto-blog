@@ -15,6 +15,10 @@ image: "/auto-blog/ogp/openaiおすすめ活用法7選2026年最新の稼げる�
 
 ## OpenAIのおすすめ製品ラインナップを整理する
 
+<!-- INLINE_IMG -->
+![OpenAIおすすめ活用法7選｜2026年最新の稼げる使い方 - OpenAIのおすすめ製品ラインナップを整理する](/auto-blog/inline-images/openai-7-2026--0.jpg)
+
+
 まず全体像です。2026年現在、OpenAIの主力は大きく4つに分かれています。
 
 - **ChatGPT（GPT-5系）**：文章生成・要約・コーディングの万能型。副業の主戦力
@@ -36,6 +40,10 @@ image: "/auto-blog/ogp/openaiおすすめ活用法7選2026年最新の稼げる�
 
 
 ## 副業で結果が出るChatGPTのおすすめモデル選び
+
+<!-- INLINE_IMG -->
+![OpenAIおすすめ活用法7選｜2026年最新の稼げる使い方 - 副業で結果が出るChatGPTのおすすめモデル選び](/auto-blog/inline-images/openai-7-2026--1.jpg)
+
 
 ChatGPT Plusに入ると、複数のモデルを切り替えられます。ここで選択を間違えると、速度や精度で損をします。
 

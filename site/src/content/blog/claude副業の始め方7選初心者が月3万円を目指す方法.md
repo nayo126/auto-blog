@@ -17,6 +17,10 @@ image: "/auto-blog/ogp/claude副業の始め方7選初心者が月3万円を目�
 
 ## なぜ今、副業にChatGPTよりClaudeを選ぶ人が増えているのか
 
+<!-- INLINE_IMG -->
+![Claude副業の始め方7選｜初心者が月3万円を目指す方法 - なぜ今、副業にChatGPTよりClaudeを選ぶ人が増えているのか](/auto-blog/inline-images/claude-7-3--0.jpg)
+
+
 副業ツールとしてのClaudeの強みは、大きく2つあります。
 
 1つ目は、長い文章をまとめて処理できる点です。Claude Sonnet 4.6やOpus 4.7は一度に数万字規模のテキストを読み込めるため、議事録の要約、論文やマニュアルの整理、長いインタビューの文字起こし整形などに向いています。これはそのまま「要約代行」「リサーチ代行」という案件に直結します。
@@ -35,6 +39,10 @@ image: "/auto-blog/ogp/claude副業の始め方7選初心者が月3万円を目�
 
 
 ## Claudeで稼げる副業7選｜初心者向けの具体例
+
+<!-- INLINE_IMG -->
+![Claude副業の始め方7選｜初心者が月3万円を目指す方法 - Claudeで稼げる副業7選｜初心者向けの具体例](/auto-blog/inline-images/claude-7-3--1.jpg)
+
 
 実際にClaudeが活きる副業を、難易度の低い順に挙げます。
 

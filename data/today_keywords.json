@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-25T02:30:02.402379+00:00",
+  "picked_at": "2026-05-25T07:47:46.881531+00:00",
   "count": 5,
   "items": [
     {
+      "category": "プロンプトエンジニアリング",
+      "keyword": "プロンプト 作り方"
+    },
+    {
       "category": "海外AIトレンド",
-      "keyword": "deepseek openai 比較"
+      "keyword": "openai アプリ おすすめ"
+    },
+    {
+      "category": "AI副業",
+      "keyword": "アイ ハーブ おすすめ ブログ"
     },
     {
       "category": "ChatGPT活用",
-      "keyword": "chatgpt api 料金"
+      "keyword": "chatgpt 使い方"
     },
     {
-      "category": "AI画像生成",
-      "keyword": "dall e mini 使い方"
-    },
-    {
-      "category": "AIツール比較",
-      "keyword": "zoom 議事録 ai おすすめ"
-    },
-    {
-      "category": "プロンプトエンジニアリング",
-      "keyword": "Few-shot 実例 効果"
+      "category": "個人開発",
+      "keyword": "cursor 使い方 日本語"
     }
   ]
 }
