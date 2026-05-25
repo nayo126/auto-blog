@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-24T20:30:04.263685+00:00",
+  "picked_at": "2026-05-25T00:12:19.620786+00:00",
   "count": 5,
   "items": [
     {
-      "category": "ChatGPT活用",
-      "keyword": "chatgpt api 確認 方法"
+      "category": "AI副業",
+      "keyword": "AI 副業 高校生 始め方"
     },
     {
       "category": "Claude活用",
-      "keyword": "claude ai 無料 使い方"
-    },
-    {
-      "category": "AIツール比較",
-      "keyword": "生成 ai ツール 比較 表"
+      "keyword": "claude code アップデート 方法"
     },
     {
       "category": "個人開発",
-      "keyword": "cursor 使い方 非エンジニア"
+      "keyword": "studio ノーコード 副業"
     },
     {
-      "category": "AI画像生成",
-      "keyword": "ImageFX 商用 副業"
+      "category": "ChatGPT活用",
+      "keyword": "chatgpt プロンプトジェネレーター"
+    },
+    {
+      "category": "海外AIトレンド",
+      "keyword": "openai おすすめ"
     }
   ]
 }

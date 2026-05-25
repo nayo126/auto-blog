@@ -110,3 +110,29 @@ Claude AIは、メールアドレスひとつで無料で始められ、副業�
 - [Claude（Anthropic）が不調？r/ClaudeAIで朝のエラー・応答遅延が報告される](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic-r-claudeai.html)
 - [Claude AIで激変するLinkedInプロフィール作成術2026年最新版](https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html)
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html)
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claudeの無料プランは1日に何回まで使える？
+
+Claudeの無料プランは利用回数が時間帯で区切られ、混雑状況により変動しますが、目安として数時間ごとに数十メッセージまでです。上限に達すると数時間後にリセットされ、再び使えるようになります。
+
+### ClaudeとChatGPTはどっちが文章作成に向いている？
+
+長文の読解と自然な日本語の生成はClaudeのSonnet系が得意で、ブログ下書きやメール文面で「AIっぽさ」が出にくいです。アプリ連携や画像生成も使いたいならChatGPTが有利で、文章特化ならClaudeを選ぶと効率的です。
+
+### Claudeは日本語に対応している？
+
+Claudeは日本語に完全対応し、登録時の入力も日本語の指示もそのまま使えます。敬語やビジネス文書の精度も高く、英語に翻訳せず日本語で質問するだけで自然な回答が返ってきます。
+
+### Claudeの無料版と有料版（Pro）の違いは？
+
+無料版は標準のSonnet系が使え利用回数に上限があります。月額20ドルのProは利用回数が約5倍に増え、混雑時も優先利用でき、最上位のOpusも使えます。作業量が増えてからProを検討すれば十分です。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claudeの無料プランは1日に何回まで使える？", "acceptedAnswer": {"@type": "Answer", "text": "Claudeの無料プランは利用回数が時間帯で区切られ、混雑状況により変動しますが、目安として数時間ごとに数十メッセージまでです。上限に達すると数時間後にリセットされ、再び使えるようになります。"}}, {"@type": "Question", "name": "ClaudeとChatGPTはどっちが文章作成に向いている？", "acceptedAnswer": {"@type": "Answer", "text": "長文の読解と自然な日本語の生成はClaudeのSonnet系が得意で、ブログ下書きやメール文面で「AIっぽさ」が出にくいです。アプリ連携や画像生成も使いたいならChatGPTが有利で、文章特化ならClaudeを選ぶと効率的です。"}}, {"@type": "Question", "name": "Claudeは日本語に対応している？", "acceptedAnswer": {"@type": "Answer", "text": "Claudeは日本語に完全対応し、登録時の入力も日本語の指示もそのまま使えます。敬語やビジネス文書の精度も高く、英語に翻訳せず日本語で質問するだけで自然な回答が返ってきます。"}}, {"@type": "Question", "name": "Claudeの無料版と有料版（Pro）の違いは？", "acceptedAnswer": {"@type": "Answer", "text": "無料版は標準のSonnet系が使え利用回数に上限があります。月額20ドルのProは利用回数が約5倍に増え、混雑時も優先利用でき、最上位のOpusも使えます。作業量が増えてからProを検討すれば十分です。"}}]}
+</script>
+
+<!-- FAQ_END -->

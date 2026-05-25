@@ -127,3 +127,29 @@ ChatGPT APIの確認は、次の流れで進めれば確実です。
 - [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html)
 - [ChatGPTのF評価で炎上、ユーザーの不満が示すAI評価機能の課題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-f-ai.html)
 - [AutoScout24がOpenAI CodexとChatGPTで開発効率化、AI駆動ワークフロー導入事例](https://nayo126.github.io/ai-news-jp/posts/autoscout24-openai-codex-chatgpt-ai.html)
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### ChatGPT APIのAPIキーはどこで確認できますか？
+
+platform.openai.comにログインし、右上のメニューから「API keys」を開くと確認できます。キーは作成時のみ全文表示され、後からは下4桁しか見えないため、発行時に必ずコピーして保管してください。
+
+### ChatGPT APIの残高がゼロかどうか確認する方法は？
+
+platform.openai.comの「Billing」→「Credit balance」で残額をドル表示で確認できます。残高が$0だとリクエストが429エラーで弾かれるため、利用前に必ずチェックしてください。
+
+### ChatGPT APIの料金は無料で使えますか？
+
+新規登録時の無料クレジットは現在ほぼ廃止され、基本は前払いチャージ制です。最低$5からクレジットを購入して使う形で、GPT-4o miniなら100万トークンあたり約$0.15と安価です。
+
+### APIキーが漏れたときはどうすればいいですか？
+
+platform.openai.comの「API keys」で該当キーの削除（Revoke）を即実行し、新しいキーを再発行してください。削除した瞬間に旧キーは無効化されるため、不正利用による課金を最小限に抑えられます。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "ChatGPT APIのAPIキーはどこで確認できますか？", "acceptedAnswer": {"@type": "Answer", "text": "platform.openai.comにログインし、右上のメニューから「API keys」を開くと確認できます。キーは作成時のみ全文表示され、後からは下4桁しか見えないため、発行時に必ずコピーして保管してください。"}}, {"@type": "Question", "name": "ChatGPT APIの残高がゼロかどうか確認する方法は？", "acceptedAnswer": {"@type": "Answer", "text": "platform.openai.comの「Billing」→「Credit balance」で残額をドル表示で確認できます。残高が$0だとリクエストが429エラーで弾かれるため、利用前に必ずチェックしてください。"}}, {"@type": "Question", "name": "ChatGPT APIの料金は無料で使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "新規登録時の無料クレジットは現在ほぼ廃止され、基本は前払いチャージ制です。最低$5からクレジットを購入して使う形で、GPT-4o miniなら100万トークンあたり約$0.15と安価です。"}}, {"@type": "Question", "name": "APIキーが漏れたときはどうすればいいですか？", "acceptedAnswer": {"@type": "Answer", "text": "platform.openai.comの「API keys」で該当キーの削除（Revoke）を即実行し、新しいキーを再発行してください。削除した瞬間に旧キーは無効化されるため、不正利用による課金を最小限に抑えられます。"}}]}
+</script>
+
+<!-- FAQ_END -->
