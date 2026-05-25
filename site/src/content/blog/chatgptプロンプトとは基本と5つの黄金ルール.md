@@ -191,8 +191,8 @@ ChatGPTの「カスタム指示」機能を使えば、よく使うプロンプ�
 ## 関連する記事
 
 - [ChatGPTプロンプト書き方の基本7原則と実例集2026](https://nayo126.github.io/auto-blog/blog/chatgptプロンプト書き方の基本7原則と実例集2026/)
+- [ChatGPTプロンプトジェネレーター7選｜2026最新活用術](https://nayo126.github.io/auto-blog/blog/chatgptプロンプトジェネレーター7選2026最新活用術/)
 - [デジタル庁プロンプトテンプレート集2026年完全ガイド](https://nayo126.github.io/auto-blog/blog/デジタル庁プロンプトテンプレート集2026年完全ガイド/)
-- [プロンプト副業で月収10万円を狙う2026年の実践ロードマップ](https://nayo126.github.io/auto-blog/blog/プロンプト副業で月収10万円を狙う2026年の実践ロードマップ/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP

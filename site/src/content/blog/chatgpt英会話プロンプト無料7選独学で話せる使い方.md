@@ -144,9 +144,9 @@ ChatGPTを使えば、無料でも英会話の独学は十分にスタートで�
 
 ## 関連する記事
 
+- [ChatGPTプロンプトジェネレーター7選｜2026最新活用術](https://nayo126.github.io/auto-blog/blog/chatgptプロンプトジェネレーター7選2026最新活用術/)
 - [ChatGPTプロンプトとは？基本と5つの黄金ルール](https://nayo126.github.io/auto-blog/blog/chatgptプロンプトとは基本と5つの黄金ルール/)
 - [ChatGPTプロンプト書き方の基本7原則と実例集2026](https://nayo126.github.io/auto-blog/blog/chatgptプロンプト書き方の基本7原則と実例集2026/)
-- [ChatGPTプロンプトで改行する方法5選｜Shift+Enterの使い方](https://nayo126.github.io/auto-blog/blog/chatgptプロンプトで改行する方法5選shiftenterの使い方/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP

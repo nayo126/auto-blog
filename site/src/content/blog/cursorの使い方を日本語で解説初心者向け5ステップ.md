@@ -109,3 +109,18 @@ Cursorは、日本語化の設定とRulesの登録さえ済ませれば、初心
 - [ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-3-reddit.html)
 - [「プログラマーは消える」予言が外れた理由｜AIに育てられる開発者の現実](https://nayo126.github.io/ai-news-jp/posts/post-3bee2508.html)
 - [Coders in 2030 が話題｜Cursor・Codex・RunableでAIエージェント開発が標準化](https://nayo126.github.io/ai-news-jp/posts/coders-in-2030-cursor-codex-runable-ai.html)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Cursorの使い方｜非エンジニア向け5ステップ](https://nayo126.github.io/auto-blog/blog/cursorの使い方非エンジニアでも作れる5ステップ/)
+- [Cursor使い方YouTube厳選7選｜2026年最新の学習動線](https://nayo126.github.io/auto-blog/blog/cursor使い方youtube厳選7選2026年最新の学習動線/)
+- [Cursor使い方完全ガイド｜VSCodeから乗り換えで開発効率3倍](https://nayo126.github.io/auto-blog/blog/cursor使い方完全ガイドvscodeから乗り換えで開発効率3倍/)
+
+### 姉妹サイトの関連記事
+- [ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-3-reddit.html) — AI News JP
+- [「プログラマーは消える」予言が外れた理由｜AIに育てられる開発者の現実](https://nayo126.github.io/ai-news-jp/posts/post-3bee2508.html) — AI News JP
+- [Coders in 2030 が話題｜Cursor・Codex・RunableでAIエージェント開発が標準化](https://nayo126.github.io/ai-news-jp/posts/coders-in-2030-cursor-codex-runable-ai.html) — AI News JP
+
+<!-- SEO_MESH_END -->

@@ -167,8 +167,8 @@ ChatGPTが抽出した強み3つを、それぞれ具体的なエピソードと
 ## 関連する記事
 
 - [ChatGPTプロンプト副業の始め方7選【2026年】](https://nayo126.github.io/auto-blog/blog/chatgptプロンプト副業の始め方7選2026年/)
+- [ChatGPTプロンプトジェネレーター7選｜2026最新活用術](https://nayo126.github.io/auto-blog/blog/chatgptプロンプトジェネレーター7選2026最新活用術/)
 - [ChatGPT英会話プロンプト無料7選｜独学で話せる使い方](https://nayo126.github.io/auto-blog/blog/chatgpt英会話プロンプト無料7選独学で話せる使い方/)
-- [ChatGPT×Excel自動化副業｜2026年最新7つの稼ぎ方](https://nayo126.github.io/auto-blog/blog/chatgptexcel自動化副業2026年最新7つの稼ぎ方/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP

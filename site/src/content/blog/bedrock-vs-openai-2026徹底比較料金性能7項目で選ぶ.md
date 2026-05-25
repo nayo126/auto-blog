@@ -101,8 +101,8 @@ BedrockとOpenAIは競合というより役割分担の関係に近く、「速�
 ## 関連する記事
 
 - [Copilot vs OpenAI徹底比較2026｜5項目で最適解](https://nayo126.github.io/auto-blog/blog/copilot-vs-openai徹底比較20265項目で最適解/)
+- [DeepSeekとOpenAIを徹底比較｜副業に使う3つの判断軸](https://nayo126.github.io/auto-blog/blog/deepseekとopenaiを徹底比較副業に使う3つの判断軸/)
 - [Gemini vs OpenAI比較2026｜稼げるAIはどっち](https://nayo126.github.io/auto-blog/blog/gemini-vs-openai比較2026稼げるaiはどっち/)
-- [Claude vs OpenAI徹底比較2026｜副業で稼ぐなら7つの違い](https://nayo126.github.io/auto-blog/blog/claude-vs-openai徹底比較2026副業で稼ぐなら7つの違い/)
 
 ### 姉妹サイトの関連記事
 - [Elon Musk敗訴：OpenAI・Sam Altmanへの訴訟で判決、AI業界への影響を解説](https://nayo126.github.io/ai-news-jp/posts/elon-musk-openai-sam-altman-ai.html) — AI News JP

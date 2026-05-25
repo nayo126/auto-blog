@@ -152,9 +152,9 @@ Bolt.newはブラウザ完結型でWebアプリ生成に特化、Cursorはロー
 
 ## 関連する記事
 
+- [Cursorの使い方｜非エンジニア向け5ステップ](https://nayo126.github.io/auto-blog/blog/cursorの使い方非エンジニアでも作れる5ステップ/)
 - [Claude Codeおすすめプラグイン7選 2026年版](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめプラグイン7選-2026年版/)
 - [bolt.new vs v0徹底比較2026年版｜個人開発で稼ぐ最適解](https://nayo126.github.io/auto-blog/blog/boltnew-vs-v0徹底比較2026年版個人開発で稼ぐ最適解/)
-- [bolt.new料金まとめ|無料枠と有料4プランを比較](https://nayo126.github.io/auto-blog/blog/boltnew料金まとめ無料枠と有料4プランを比較/)
 
 ### 姉妹サイトの関連記事
 - [Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速](https://nayo126.github.io/ai-news-jp/posts/sea-limited-openai-codex.html) — AI News JP

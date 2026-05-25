@@ -102,9 +102,9 @@ ChatGPTのプロンプト力は、断片情報を追うより1冊の本で体系
 
 ## 関連する記事
 
+- [ChatGPTプロンプトジェネレーター7選｜2026最新活用術](https://nayo126.github.io/auto-blog/blog/chatgptプロンプトジェネレーター7選2026最新活用術/)
 - [ChatGPTプロンプトとは？基本と5つの黄金ルール](https://nayo126.github.io/auto-blog/blog/chatgptプロンプトとは基本と5つの黄金ルール/)
 - [ChatGPTプロンプト書き方の基本7原則と実例集2026](https://nayo126.github.io/auto-blog/blog/chatgptプロンプト書き方の基本7原則と実例集2026/)
-- [ChatGPTプロンプト副業の始め方7選【2026年】](https://nayo126.github.io/auto-blog/blog/chatgptプロンプト副業の始め方7選2026年/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP

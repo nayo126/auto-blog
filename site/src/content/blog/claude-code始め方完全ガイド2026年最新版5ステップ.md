@@ -155,7 +155,7 @@ Claude Codeの始め方は、Node.js準備→インストール→認証→初�
 
 - [Claude Codeおすすめプラグイン7選 2026年版](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめプラグイン7選-2026年版/)
 - [Claude Code×VSCode連携｜2026年最新7つの活用術](https://nayo126.github.io/auto-blog/blog/claude-codevscode連携2026年最新7つの活用術/)
-- [Claude Code比較2026｜主要AI開発5ツールの実力差](https://nayo126.github.io/auto-blog/blog/claude-code比較2026主要ai開発5ツールの実力差/)
+- [Claude Codeのアップデート方法5選｜最新版に保つ手順を解説](https://nayo126.github.io/auto-blog/blog/claude-codeのアップデート方法5選最新版に保つ手順を解説/)
 
 ### 姉妹サイトの関連記事
 - [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html) — AI News JP

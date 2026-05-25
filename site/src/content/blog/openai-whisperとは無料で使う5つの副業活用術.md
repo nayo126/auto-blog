@@ -88,8 +88,8 @@ OpenAI Whisperは、無料で動く高精度な音声認識AIです。99言語�
 ## 関連する記事
 
 - [ChatGPT APIとは？2026年最新の料金・使い方を5分で解説](https://nayo126.github.io/auto-blog/blog/chatgpt-apiとは2026年最新の料金使い方を5分で解説/)
-- [OpenAI 無料 API 2026最新7つの始め方](https://nayo126.github.io/auto-blog/blog/openai-無料-api-2026最新7つの始め方/)
-- [OpenAI無料枠2026最新ガイド｜7つの活用法と上限突破術](https://nayo126.github.io/auto-blog/blog/openai無料枠2026最新ガイド7つの活用法と上限突破術/)
+- [OpenAIおすすめ活用法7選｜2026年最新の稼げる使い方](https://nayo126.github.io/auto-blog/blog/openaiおすすめ活用法7選2026年最新の稼げる使い方/)
+- [DeepSeekとOpenAIを徹底比較｜副業に使う3つの判断軸](https://nayo126.github.io/auto-blog/blog/deepseekとopenaiを徹底比較副業に使う3つの判断軸/)
 
 ### 姉妹サイトの関連記事
 - [Elon Musk敗訴：OpenAI・Sam Altmanへの訴訟で判決、AI業界への影響を解説](https://nayo126.github.io/ai-news-jp/posts/elon-musk-openai-sam-altman-ai.html) — AI News JP

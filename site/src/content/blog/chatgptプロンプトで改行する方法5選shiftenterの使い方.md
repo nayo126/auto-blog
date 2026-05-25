@@ -180,9 +180,9 @@ API利用時は文字列内に\n(バックスラッシュn)を入れれば改行
 
 ## 関連する記事
 
+- [ChatGPTプロンプトジェネレーター7選｜2026最新活用術](https://nayo126.github.io/auto-blog/blog/chatgptプロンプトジェネレーター7選2026最新活用術/)
 - [ChatGPT英会話プロンプト無料7選｜独学で話せる使い方](https://nayo126.github.io/auto-blog/blog/chatgpt英会話プロンプト無料7選独学で話せる使い方/)
 - [ChatGPTプロンプトとは？基本と5つの黄金ルール](https://nayo126.github.io/auto-blog/blog/chatgptプロンプトとは基本と5つの黄金ルール/)
-- [ChatGPTプロンプト書き方の基本7原則と実例集2026](https://nayo126.github.io/auto-blog/blog/chatgptプロンプト書き方の基本7原則と実例集2026/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP

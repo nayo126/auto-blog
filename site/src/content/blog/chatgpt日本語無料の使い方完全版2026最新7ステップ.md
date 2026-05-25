@@ -229,8 +229,8 @@ GPT-5モデルは約5時間ごとに10〜20回までの制限があり、上限�
 ## 関連する記事
 
 - [ChatGPTアプリ無料の使い方｜2026年最新7ステップ](https://nayo126.github.io/auto-blog/blog/chatgptアプリ無料の使い方2026年最新7ステップ/)
+- [ChatGPTの使い方｜初心者が5分で始める完全ガイド2026](https://nayo126.github.io/auto-blog/blog/chatgptの使い方初心者が5分で始める完全ガイド2026/)
 - [ChatGPT APIキーを無料で使う5つの方法【2026年版】](https://nayo126.github.io/auto-blog/blog/chatgpt-apiキーを無料で使う5つの方法2026年版/)
-- [AI副業で月5万は現実か？2026年最新の稼ぎ方5選](https://nayo126.github.io/auto-blog/blog/ai副業で月5万は現実か2026年最新の稼ぎ方5選/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP

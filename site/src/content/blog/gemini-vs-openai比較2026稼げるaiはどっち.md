@@ -111,9 +111,9 @@ GeminiとOpenAIは、もはや優劣ではなく適性で選ぶ時代になっ�
 
 ## 関連する記事
 
+- [DeepSeekとOpenAIを徹底比較｜副業に使う3つの判断軸](https://nayo126.github.io/auto-blog/blog/deepseekとopenaiを徹底比較副業に使う3つの判断軸/)
 - [Copilot vs OpenAI徹底比較2026｜5項目で最適解](https://nayo126.github.io/auto-blog/blog/copilot-vs-openai徹底比較20265項目で最適解/)
 - [ChatGPT APIとは？2026年最新の料金・使い方を5分で解説](https://nayo126.github.io/auto-blog/blog/chatgpt-apiとは2026年最新の料金使い方を5分で解説/)
-- [OpenAI 無料 API 2026最新7つの始め方](https://nayo126.github.io/auto-blog/blog/openai-無料-api-2026最新7つの始め方/)
 
 ### 姉妹サイトの関連記事
 - [Elon Musk敗訴：OpenAI・Sam Altmanへの訴訟で判決、AI業界への影響を解説](https://nayo126.github.io/ai-news-jp/posts/elon-musk-openai-sam-altman-ai.html) — AI News JP

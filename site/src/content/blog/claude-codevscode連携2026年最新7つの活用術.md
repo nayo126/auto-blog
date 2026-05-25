@@ -114,8 +114,8 @@ Claude CodeとVSCodeの連携は、もはや「便利」を超えて副業や実
 ## 関連する記事
 
 - [Claude Codeおすすめプラグイン7選 2026年版](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめプラグイン7選-2026年版/)
+- [Claude Codeのアップデート方法5選｜最新版に保つ手順を解説](https://nayo126.github.io/auto-blog/blog/claude-codeのアップデート方法5選最新版に保つ手順を解説/)
 - [Claude Code始め方完全ガイド｜2026年最新版5ステップ](https://nayo126.github.io/auto-blog/blog/claude-code始め方完全ガイド2026年最新版5ステップ/)
-- [Claude Code比較2026｜主要AI開発5ツールの実力差](https://nayo126.github.io/auto-blog/blog/claude-code比較2026主要ai開発5ツールの実力差/)
 
 ### 姉妹サイトの関連記事
 - [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html) — AI News JP
