@@ -85,3 +85,18 @@ Claude MCPサーバーは、AIを「賢い相談相手」から「自分で動�
 - [Claude（Anthropic）が不調？r/ClaudeAIで朝のエラー・応答遅延が報告される](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic-r-claudeai.html)
 - [Claude AIで激変するLinkedInプロフィール作成術2026年最新版](https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html)
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Claude MCP設定方法を15分で完了する2026最新手順](https://nayo126.github.io/auto-blog/blog/claude-mcp設定方法を15分で完了する2026最新手順/)
+- [Claude MCPおすすめ厳選7選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/claude-mcpおすすめ厳選7選2026年最新版/)
+- [claude mcp addの使い方完全ガイド2026年最新7手順](https://nayo126.github.io/auto-blog/blog/claude-mcp-addの使い方完全ガイド2026年最新7手順/)
+
+### 姉妹サイトの関連記事
+- [Claude（Anthropic）が不調？r/ClaudeAIで朝のエラー・応答遅延が報告される](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic-r-claudeai.html) — AI News JP
+- [Claude AIで激変するLinkedInプロフィール作成術2026年最新版](https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html) — AI News JP
+- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
+
+<!-- SEO_MESH_END -->

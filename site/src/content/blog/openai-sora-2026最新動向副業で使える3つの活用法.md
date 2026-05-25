@@ -130,7 +130,7 @@ ECサイトや個人ブログのアイキャッチ動画として使うパター
 
 - [Anthropic最新動向2026｜Claude活用で副業収益化する5つの方法](https://nayo126.github.io/auto-blog/blog/anthropic最新動向2026claude活用で副業収益化する5つの方法/)
 - [Anthropic Mythosとは何か？2026年最新AI動向7選](https://nayo126.github.io/auto-blog/blog/anthropic-mythosとは何か2026年最新ai動向7選/)
-- [AI動画生成ツール比較2026|稼げる厳選5選と選び方](https://nayo126.github.io/auto-blog/blog/ai動画生成ツール比較2026稼げる厳選5選と選び方/)
+- [Product Hunt AIツールランキングTOP活用術2026](https://nayo126.github.io/auto-blog/blog/product-hunt-aiツールランキングtop活用術2026/)
 
 ### 姉妹サイトの関連記事
 - [AI生成動画のリアルさが話題に｜r/singularityで議論される2026年最新クオリティ](https://nayo126.github.io/ai-news-jp/posts/ai-r-singularity-2026.html) — AI News JP

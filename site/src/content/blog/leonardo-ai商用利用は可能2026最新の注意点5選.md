@@ -90,9 +90,9 @@ Leonardo AIの画像は、有料プランに加入すれば商用利用が可能
 
 ## 関連する記事
 
+- [Leonardo AIは安全?著作権と商用利用の5つの注意点](https://nayo126.github.io/auto-blog/blog/leonardo-aiは安全著作権と商用利用の5つの注意点/)
 - [Midjourney商用利用の範囲2026年版｜5つの注意点](https://nayo126.github.io/auto-blog/blog/midjourney商用利用の範囲2026年版5つの注意点/)
 - [Leonardo AI使い方完全ガイド2026年版|月5万稼ぐ7ステップ](https://nayo126.github.io/auto-blog/blog/leonardo-ai使い方完全ガイド2026年版月5万稼ぐ7ステップ/)
-- [Midjourney vs Leonardo AI 2026徹底比較7項目](https://nayo126.github.io/auto-blog/blog/midjourney-vs-leonardo-ai-2026徹底比較7項目/)
 
 ### 姉妹サイトの関連記事
 - [Anna's Archiveがllms.txtでAIに直接呼びかけ｜AI学習データ提供の新動き](https://nayo126.github.io/ai-news-jp/posts/anna-s-archive-llms-txt-ai-ai.html) — AI News JP

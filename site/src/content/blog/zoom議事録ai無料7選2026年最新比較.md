@@ -92,7 +92,7 @@ Zoom議事録AIは2026年、無料でも十分戦える水準に到達しまし�
 ## 関連する記事
 
 - [AI議事録 無料ツール比較7選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/ai議事録-無料ツール比較7選2026年最新版/)
+- [AI議事録ボイスレコーダー徹底比較7選【2026年版】](https://nayo126.github.io/auto-blog/blog/ai議事録ボイスレコーダー徹底比較7選2026年版/)
 - [AI議事録ツール比較2026|無料6選の精度と料金](https://nayo126.github.io/auto-blog/blog/ai議事録ツール比較2026無料6選の精度と料金/)
-- [AI議事録アプリおすすめ7選｜無料・精度・料金を徹底比較](https://nayo126.github.io/auto-blog/blog/ai議事録アプリおすすめ7選無料精度料金を徹底比較/)
 
 <!-- SEO_MESH_END -->

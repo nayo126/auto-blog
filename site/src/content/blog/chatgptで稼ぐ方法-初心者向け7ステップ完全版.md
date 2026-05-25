@@ -102,9 +102,9 @@ ChatGPTで稼ぐ方法は、特別な才能がなくても再現できる地に�
 
 ## 関連する記事
 
+- [ChatGPT使い方｜初心者7ステップ2026最新](https://nayo126.github.io/auto-blog/blog/chatgpt使い方初心者7ステップ2026年最新/)
 - [AI副業初心者が月3万稼ぐ最短5ステップ2026](https://nayo126.github.io/auto-blog/blog/ai副業初心者が月3万稼ぐ最短5ステップ2026/)
 - [ChatGPT×Excel自動化副業｜2026年最新7つの稼ぎ方](https://nayo126.github.io/auto-blog/blog/chatgptexcel自動化副業2026年最新7つの稼ぎ方/)
-- [AIブログを無料で始める7つの方法【2026年最新】](https://nayo126.github.io/auto-blog/blog/aiブログを無料で始める7つの方法2026年最新/)
 
 ### 姉妹サイトの関連記事
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP

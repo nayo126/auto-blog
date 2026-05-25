@@ -137,9 +137,9 @@ Midjourneyの商用利用は、有料プランの契約者であれば原則自�
 
 ## 関連する記事
 
+- [Leonardo AIは安全?著作権と商用利用の5つの注意点](https://nayo126.github.io/auto-blog/blog/leonardo-aiは安全著作権と商用利用の5つの注意点/)
 - [Leonardo AI 商用利用の注意点5選｜2026年版](https://nayo126.github.io/auto-blog/blog/leonardo-ai商用利用は可能2026最新の注意点5選/)
 - [AI画像生成ツール比較2026｜商用利用OK5選](https://nayo126.github.io/auto-blog/blog/ai画像生成ツール比較2026商用利用ok5選/)
-- [Midjourney vs Leonardo AI 2026徹底比較7項目](https://nayo126.github.io/auto-blog/blog/midjourney-vs-leonardo-ai-2026徹底比較7項目/)
 
 ### 姉妹サイトの関連記事
 - [Anna's Archiveがllms.txtでAIに直接呼びかけ｜AI学習データ提供の新動き](https://nayo126.github.io/ai-news-jp/posts/anna-s-archive-llms-txt-ai-ai.html) — AI News JP

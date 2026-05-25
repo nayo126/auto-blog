@@ -111,6 +111,7 @@ Pika Labs 1.5は月$8から始められ、短尺AI動画の量産と副業化に
 - [Claude Codeおすすめプラグイン7選 2026年版](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめプラグイン7選-2026年版/)
 
 ### 姉妹サイトの関連記事
+- [4D Gaussian Splattingとは？通常動画から自由視点3Dを再構成する技術を解説](https://nayo126.github.io/ai-news-jp/posts/4d-gaussian-splatting-3d.html) — AI News JP
 - [AI生成動画のリアルさが話題に｜r/singularityで議論される2026年最新クオリティ](https://nayo126.github.io/ai-news-jp/posts/ai-r-singularity-2026.html) — AI News JP
 
 <!-- SEO_MESH_END -->

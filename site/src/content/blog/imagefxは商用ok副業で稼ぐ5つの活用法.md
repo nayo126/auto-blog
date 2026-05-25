@@ -15,6 +15,10 @@ image: "/auto-blog/ogp/imagefxは商用ok副業で稼ぐ5つの活用法.png"
 
 ## ImageFXとは?Googleが提供する無料AI画像生成ツール
 
+<!-- INLINE_IMG -->
+![ImageFXは商用OK?副業で稼ぐ5つの活用法 - ImageFXとは?Googleが提供する無料AI画像生成ツール](/auto-blog/inline-images/imagefx-ok-5--0.jpg)
+
+
 ImageFXは、Googleが「Google Labs」で公開しているAI画像生成ツールです。`labs.google` にアクセスし、Googleアカウントでログインするだけで、追加料金なしで使えます。
 
 中身は最新の画像生成モデル「Imagen」シリーズで、2026年時点ではImagen 4世代の高精細な描画が特徴です。Midjourneyのような月額課金（年間プランで月10ドル前後）が不要な点は、副業を始めたばかりで初期コストを抑えたい人に大きなメリットです。
@@ -31,6 +35,10 @@ ImageFXは、Googleが「Google Labs」で公開しているAI画像生成ツー
 
 
 ## ImageFXは商用利用できる?規約の確認ポイント
+
+<!-- INLINE_IMG -->
+![ImageFXは商用OK?副業で稼ぐ5つの活用法 - ImageFXは商用利用できる?規約の確認ポイント](/auto-blog/inline-images/imagefx-ok-5--1.jpg)
+
 
 ここが一番気になるところでしょう。結論：2026年5月時点では、ImageFXの生成画像を商用目的で利用することは認められています。理由は、Googleの生成AIに関する利用規約上、ユーザーが生成したコンテンツの利用に商用・非商用の区別を設けていないためです。
 
