@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-25T13:30:00.387783+00:00",
+  "picked_at": "2026-05-25T20:19:18.072754+00:00",
   "count": 5,
   "items": [
     {
-      "category": "AI副業",
-      "keyword": "ai 在宅ワーク"
+      "category": "AIツール比較",
+      "keyword": "開発 ai ツール 比較 座談 会"
     },
     {
-      "category": "ChatGPT活用",
-      "keyword": "chatgpt 使い方 初心者"
+      "category": "個人開発",
+      "keyword": "cursor 使い方 料金"
+    },
+    {
+      "category": "Claude活用",
+      "keyword": "claude 使い方 コツ"
+    },
+    {
+      "category": "AI副業",
+      "keyword": "ai ブログ 作成 おすすめ"
     },
     {
       "category": "海外AIトレンド",
-      "keyword": "openai 無料枠 api"
-    },
-    {
-      "category": "プロンプトエンジニアリング",
-      "keyword": "プロンプト 副業"
-    },
-    {
-      "category": "AIツール比較",
-      "keyword": "ai 画像生成 おすすめ 無料"
+      "keyword": "anthropic 上場いつ"
     }
   ]
 }

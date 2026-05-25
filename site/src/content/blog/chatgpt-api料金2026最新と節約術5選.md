@@ -127,3 +127,29 @@ ChatGPT APIの料金は、トークン従量課金という仕組みさえ理解
 - [OpenAI Codexをデータサイエンスチームが活用する5つのワークフロー](https://nayo126.github.io/ai-news-jp/posts/openai-codex-5.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### ChatGPT APIとChatGPT Plusはどっちが安い?
+
+Plusは月20ドル定額で使い放題、APIは使った分だけの従量課金です。チャットを毎日使うならPlus、月数百〜数千リクエストの自動ツール用途ならAPIの方が安く、月数百円で収まる場合もあります。
+
+### ChatGPT APIの料金はクレジットカードなしで使える?
+
+OpenAI APIは事前に最低5ドルのクレジットチャージが必要で、支払いにはクレジットカードまたはデビットカードの登録が必須です。プリペイド式のため、チャージ残高がゼロになると自動で停止し使いすぎを防げます。
+
+### 日本語はトークンを多く消費するって本当?
+
+本当です。英語は1単語で1〜2トークンですが、日本語は1文字あたり1〜2トークン消費します。同じ内容でも英語より2〜3倍トークンを使うため、日本語で使う場合は料金が割高になる点に注意が必要です。
+
+### ChatGPT APIで月の上限金額を設定できる?
+
+できます。OpenAIの管理画面のLimits設定で月間の上限額(Hard limit)と警告ライン(Soft limit)を指定でき、例えば上限を10ドルに設定すれば、それを超えるとAPIが自動停止して請求が膨らむのを防げます。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "ChatGPT APIとChatGPT Plusはどっちが安い?", "acceptedAnswer": {"@type": "Answer", "text": "Plusは月20ドル定額で使い放題、APIは使った分だけの従量課金です。チャットを毎日使うならPlus、月数百〜数千リクエストの自動ツール用途ならAPIの方が安く、月数百円で収まる場合もあります。"}}, {"@type": "Question", "name": "ChatGPT APIの料金はクレジットカードなしで使える?", "acceptedAnswer": {"@type": "Answer", "text": "OpenAI APIは事前に最低5ドルのクレジットチャージが必要で、支払いにはクレジットカードまたはデビットカードの登録が必須です。プリペイド式のため、チャージ残高がゼロになると自動で停止し使いすぎを防げます。"}}, {"@type": "Question", "name": "日本語はトークンを多く消費するって本当?", "acceptedAnswer": {"@type": "Answer", "text": "本当です。英語は1単語で1〜2トークンですが、日本語は1文字あたり1〜2トークン消費します。同じ内容でも英語より2〜3倍トークンを使うため、日本語で使う場合は料金が割高になる点に注意が必要です。"}}, {"@type": "Question", "name": "ChatGPT APIで月の上限金額を設定できる?", "acceptedAnswer": {"@type": "Answer", "text": "できます。OpenAIの管理画面のLimits設定で月間の上限額(Hard limit)と警告ライン(Soft limit)を指定でき、例えば上限を10ドルに設定すれば、それを超えるとAPIが自動停止して請求が膨らむのを防げます。"}}]}
+</script>
+
+<!-- FAQ_END -->
