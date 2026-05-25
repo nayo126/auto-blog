@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-25T20:19:18.072754+00:00",
+  "picked_at": "2026-05-25T20:30:03.408384+00:00",
   "count": 5,
   "items": [
     {
+      "category": "Claude活用",
+      "keyword": "claude code mcp サーバー おすすめ"
+    },
+    {
+      "category": "ChatGPT活用",
+      "keyword": "chatgpt イラスト プロンプト おすすめ"
+    },
+    {
       "category": "AIツール比較",
-      "keyword": "開発 ai ツール 比較 座談 会"
+      "keyword": "ai 画像生成"
     },
     {
       "category": "個人開発",
-      "keyword": "cursor 使い方 料金"
-    },
-    {
-      "category": "Claude活用",
-      "keyword": "claude 使い方 コツ"
-    },
-    {
-      "category": "AI副業",
-      "keyword": "ai ブログ 作成 おすすめ"
+      "keyword": "ノーコード 副業 案件"
     },
     {
       "category": "海外AIトレンド",
-      "keyword": "anthropic 上場いつ"
+      "keyword": "anthropic ipo 購入 方法"
     }
   ]
 }
