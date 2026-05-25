@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-25T00:12:19.620786+00:00",
+  "picked_at": "2026-05-25T02:30:02.402379+00:00",
   "count": 5,
   "items": [
     {
-      "category": "AI副業",
-      "keyword": "AI 副業 高校生 始め方"
-    },
-    {
-      "category": "Claude活用",
-      "keyword": "claude code アップデート 方法"
-    },
-    {
-      "category": "個人開発",
-      "keyword": "studio ノーコード 副業"
+      "category": "海外AIトレンド",
+      "keyword": "deepseek openai 比較"
     },
     {
       "category": "ChatGPT活用",
-      "keyword": "chatgpt プロンプトジェネレーター"
+      "keyword": "chatgpt api 料金"
     },
     {
-      "category": "海外AIトレンド",
-      "keyword": "openai おすすめ"
+      "category": "AI画像生成",
+      "keyword": "dall e mini 使い方"
+    },
+    {
+      "category": "AIツール比較",
+      "keyword": "zoom 議事録 ai おすすめ"
+    },
+    {
+      "category": "プロンプトエンジニアリング",
+      "keyword": "Few-shot 実例 効果"
     }
   ]
 }
