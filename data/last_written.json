@@ -1,11 +1,9 @@
 {
-  "written_at": "2026-05-26T07:55:27.787274+00:00",
-  "count": 5,
+  "written_at": "2026-05-26T08:36:29.823781+00:00",
+  "count": 3,
   "files": [
-    "site/src/content/blog/dall-eの使い方を5分で習得初心者向け完全ガイド2026.md",
-    "site/src/content/blog/ai動画の作り方を3ステップで解説2026年の方法5選.md",
-    "site/src/content/blog/ai副業は初心者におすすめ稼げる5選と始め方.md",
-    "site/src/content/blog/claude-mcp追加方法を3手順で解説初心者向け.md",
-    "site/src/content/blog/chatgptで稼ぐ方法7選初心者の始め方を解説.md"
+    "site/src/content/blog/claude-code-おすすめ本の選び方5つの基準2026年版.md",
+    "site/src/content/blog/生成ai副業おすすめ7選と初心者の始め方2026.md",
+    "site/src/content/blog/動画編集ai比較2026副業向け7選と選び方.md"
   ]
 }

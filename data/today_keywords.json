@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-26T07:49:47.387348+00:00",
+  "picked_at": "2026-05-26T08:30:02.729180+00:00",
   "count": 5,
   "items": [
     {
-      "category": "AI画像生成",
-      "keyword": "dall-e 使い方"
-    },
-    {
-      "category": "AIツール比較",
-      "keyword": "ai 動画 方法"
+      "category": "Claude活用",
+      "keyword": "claude code おすすめ本"
     },
     {
       "category": "AI副業",
-      "keyword": "ai 副業 初心者 おすすめ"
+      "keyword": "生成 ai 副業 おすすめ"
     },
     {
-      "category": "Claude活用",
-      "keyword": "claude mcp 追加 方法"
+      "category": "海外AIトレンド",
+      "keyword": "grok openai 比較"
     },
     {
       "category": "ChatGPT活用",
-      "keyword": "chatgpt 稼ぐ 方法"
+      "keyword": "chatgpt プロンプト 方法"
+    },
+    {
+      "category": "AIツール比較",
+      "keyword": "動画 編集 ai 比較"
     }
   ]
 }

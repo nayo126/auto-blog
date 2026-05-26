@@ -132,3 +132,29 @@ Cursorは、日本語化の設定とRulesの登録さえ済ませれば、初心
 - [Coders in 2030 が話題｜Cursor・Codex・RunableでAIエージェント開発が標準化](https://nayo126.github.io/ai-news-jp/posts/coders-in-2030-cursor-codex-runable-ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Cursorは無料で使えますか？
+
+Cursorは無料のHobbyプランがあり、月50回のプレミアムリクエストと2週間のPro試用が含まれます。本格利用ならPro版が月額20ドルで、高速リクエスト無制限とより多くのAIモデルが使えます。
+
+### Cursorを日本語化するにはどうすればいいですか？
+
+拡張機能から「Japanese Language Pack for Visual Studio Code」をインストールし、Ctrl+Shift+Pで「Configure Display Language」を選んで日本語を指定、再起動すればメニューが日本語化されます。AIへの指示は設定不要で日本語がそのまま通ります。
+
+### CursorとVS Codeは併用できますか？
+
+併用できます。CursorはVS Codeをフォークした別アプリなので同時にインストールでき、拡張機能や設定ファイル、キーバインドをそのまま引き継げます。普段の編集はVS Code、AI支援が欲しい時だけCursorと使い分ける人も多いです。
+
+### Cursorで日本語のコメントが文字化けします。どうすればいいですか？
+
+ファイルのエンコードがUTF-8以外だと文字化けします。画面右下のエンコード表示をクリックし「Reopen with Encoding」からUTF-8を選び直すと解消します。保存時の既定は設定の「files.encoding」をutf8に指定しておきます。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Cursorは無料で使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "Cursorは無料のHobbyプランがあり、月50回のプレミアムリクエストと2週間のPro試用が含まれます。本格利用ならPro版が月額20ドルで、高速リクエスト無制限とより多くのAIモデルが使えます。"}}, {"@type": "Question", "name": "Cursorを日本語化するにはどうすればいいですか？", "acceptedAnswer": {"@type": "Answer", "text": "拡張機能から「Japanese Language Pack for Visual Studio Code」をインストールし、Ctrl+Shift+Pで「Configure Display Language」を選んで日本語を指定、再起動すればメニューが日本語化されます。AIへの指示は設定不要で日本語がそのまま通ります。"}}, {"@type": "Question", "name": "CursorとVS Codeは併用できますか？", "acceptedAnswer": {"@type": "Answer", "text": "併用できます。CursorはVS Codeをフォークした別アプリなので同時にインストールでき、拡張機能や設定ファイル、キーバインドをそのまま引き継げます。普段の編集はVS Code、AI支援が欲しい時だけCursorと使い分ける人も多いです。"}}, {"@type": "Question", "name": "Cursorで日本語のコメントが文字化けします。どうすればいいですか？", "acceptedAnswer": {"@type": "Answer", "text": "ファイルのエンコードがUTF-8以外だと文字化けします。画面右下のエンコード表示をクリックし「Reopen with Encoding」からUTF-8を選び直すと解消します。保存時の既定は設定の「files.encoding」をutf8に指定しておきます。"}}]}
+</script>
+
+<!-- FAQ_END -->
