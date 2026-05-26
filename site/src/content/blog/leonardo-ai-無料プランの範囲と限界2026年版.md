@@ -117,6 +117,6 @@ Leonardo AIの無料プランは「1日150トークン・商用利用は基本NG
 
 - [Leonardo AI 日本語で無料利用｜2026最新7つの始め方](https://nayo126.github.io/auto-blog/blog/leonardo-ai-日本語で無料利用2026最新7つの始め方/)
 - [Leonardo AI無料の制限を徹底解説｜2026年版の使い方7つ](https://nayo126.github.io/auto-blog/blog/leonardo-ai無料の制限を徹底解説2026年版の使い方7つ/)
-- [Midjourney vs Leonardo AI 2026徹底比較7項目](https://nayo126.github.io/auto-blog/blog/midjourney-vs-leonardo-ai-2026徹底比較7項目/)
+- [Leonardo AI 無料プランの実力は?毎日150トークンで何ができるか徹底解説](https://nayo126.github.io/auto-blog/blog/leonardo-ai-無料プランの実力は毎日150トークンで何ができるか徹底解説/)
 
 <!-- SEO_MESH_END -->

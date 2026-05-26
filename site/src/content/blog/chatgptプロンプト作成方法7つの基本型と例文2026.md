@@ -99,3 +99,18 @@ ChatGPTのプロンプト作成は、特別なセンスではなく「役割・�
 </script>
 
 <!-- FAQ_END -->
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [ChatGPTプロンプトとは？基本と5つの黄金ルール](https://nayo126.github.io/auto-blog/blog/chatgptプロンプトとは基本と5つの黄金ルール/)
+- [ChatGPTプロンプト書き方の基本7原則と実例集2026](https://nayo126.github.io/auto-blog/blog/chatgptプロンプト書き方の基本7原則と実例集2026/)
+- [ChatGPTプロンプトジェネレーター7選｜2026最新活用術](https://nayo126.github.io/auto-blog/blog/chatgptプロンプトジェネレーター7選2026最新活用術/)
+
+### 姉妹サイトの関連記事
+- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
+- [ChatGPTの回答精度を上げる質問テンプレ｜Reddit話題の活用法を解説](https://nayo126.github.io/ai-news-jp/posts/chatgpt-reddit.html) — AI News JP
+- [ChatGPTの回答精度が話題に、Reddit r/ChatGPTで「正確すぎる」と共感の声が拡散](https://nayo126.github.io/ai-news-jp/posts/chatgpt-reddit-r-chatgpt.html) — AI News JP
+
+<!-- SEO_MESH_END -->

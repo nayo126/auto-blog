@@ -146,3 +146,29 @@ Cursorの使い方をYouTubeで学ぶときの要点を整理します。直近6
 - [Coders in 2030 が話題｜Cursor・Codex・RunableでAIエージェント開発が標準化](https://nayo126.github.io/ai-news-jp/posts/coders-in-2030-cursor-codex-runable-ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Cursorは無料で使えますか？
+
+Cursorには無料のHobbyプランがあり、月50回までの低速プレミアムリクエストと2週間のPro試用が使えます。本格利用ならPro（月20ドル）で高速モデルやComposerが無制限に近く使え、業務効率が大きく上がります。
+
+### CursorとVS Codeの違いは何ですか？
+
+CursorはVS Codeをベースに作られたエディタで、拡張機能や設定をそのまま引き継げます。違いはAIの統合度で、Composerによる複数ファイル一括編集やAgent機能、コードベース全体の理解が標準搭載されている点です。
+
+### Cursorの学習にどれくらい時間がかかりますか？
+
+基本操作（Tab補完、Cmd+K編集、Cmd+Lチャット）は動画3〜4本、合計2時間ほどで習得できます。ComposerやAgent、MCP連携まで含めると1週間ほど触れば実務で使えるレベルに到達します。
+
+### 初心者がCursorの動画を観る順番は？
+
+まず基本UIとTab補完を解説した入門動画、次にCmd+Kとチャット活用、続いてComposerでの複数ファイル編集、最後にAgentやMCP連携の応用動画の順がおすすめです。機能を1つずつ実際に試しながら進めると定着します。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Cursorは無料で使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "Cursorには無料のHobbyプランがあり、月50回までの低速プレミアムリクエストと2週間のPro試用が使えます。本格利用ならPro（月20ドル）で高速モデルやComposerが無制限に近く使え、業務効率が大きく上がります。"}}, {"@type": "Question", "name": "CursorとVS Codeの違いは何ですか？", "acceptedAnswer": {"@type": "Answer", "text": "CursorはVS Codeをベースに作られたエディタで、拡張機能や設定をそのまま引き継げます。違いはAIの統合度で、Composerによる複数ファイル一括編集やAgent機能、コードベース全体の理解が標準搭載されている点です。"}}, {"@type": "Question", "name": "Cursorの学習にどれくらい時間がかかりますか？", "acceptedAnswer": {"@type": "Answer", "text": "基本操作（Tab補完、Cmd+K編集、Cmd+Lチャット）は動画3〜4本、合計2時間ほどで習得できます。ComposerやAgent、MCP連携まで含めると1週間ほど触れば実務で使えるレベルに到達します。"}}, {"@type": "Question", "name": "初心者がCursorの動画を観る順番は？", "acceptedAnswer": {"@type": "Answer", "text": "まず基本UIとTab補完を解説した入門動画、次にCmd+Kとチャット活用、続いてComposerでの複数ファイル編集、最後にAgentやMCP連携の応用動画の順がおすすめです。機能を1つずつ実際に試しながら進めると定着します。"}}]}
+</script>
+
+<!-- FAQ_END -->

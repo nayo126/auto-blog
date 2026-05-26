@@ -135,3 +135,29 @@ Cursorは、無料のHobbyプランで使い心地を試し、本格運用する
 - [ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-3-reddit.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Cursorの無料プランでどこまで使える?
+
+無料のHobbyプランは月2000回のコード補完と、低速のプレミアムリクエストが月50回まで。お試しには十分ですが、毎日コードを書くと数日で上限に達し、AI機能が制限されます。
+
+### CursorとGitHub Copilotはどっちがいい?
+
+Copilotは月10ドルで補完中心。Cursorは月20ドルですが、GPT-4やClaudeを切り替えられ、プロジェクト全体を読んで修正できます。大きな改修が多い人はCursorが有利です。
+
+### Cursorは日本語で使える?
+
+チャットやCmd+Kに日本語でプロンプトを送れ、日本語コメントや変数名も生成できます。エディタUIは英語ですが、VS Code用の日本語化拡張をそのまま入れれば日本語表示も可能です。
+
+### Cursor Proの解約方法は?
+
+設定画面のBillingからStripeの管理ページを開き、Cancelを押すだけです。次回更新日までは引き続きPro機能を使え、日割りでの返金はありません。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Cursorの無料プランでどこまで使える?", "acceptedAnswer": {"@type": "Answer", "text": "無料のHobbyプランは月2000回のコード補完と、低速のプレミアムリクエストが月50回まで。お試しには十分ですが、毎日コードを書くと数日で上限に達し、AI機能が制限されます。"}}, {"@type": "Question", "name": "CursorとGitHub Copilotはどっちがいい?", "acceptedAnswer": {"@type": "Answer", "text": "Copilotは月10ドルで補完中心。Cursorは月20ドルですが、GPT-4やClaudeを切り替えられ、プロジェクト全体を読んで修正できます。大きな改修が多い人はCursorが有利です。"}}, {"@type": "Question", "name": "Cursorは日本語で使える?", "acceptedAnswer": {"@type": "Answer", "text": "チャットやCmd+Kに日本語でプロンプトを送れ、日本語コメントや変数名も生成できます。エディタUIは英語ですが、VS Code用の日本語化拡張をそのまま入れれば日本語表示も可能です。"}}, {"@type": "Question", "name": "Cursor Proの解約方法は?", "acceptedAnswer": {"@type": "Answer", "text": "設定画面のBillingからStripeの管理ページを開き、Cancelを押すだけです。次回更新日までは引き続きPro機能を使え、日割りでの返金はありません。"}}]}
+</script>
+
+<!-- FAQ_END -->

@@ -105,3 +105,29 @@ Cursorは非エンジニアでも、日本語の指示だけで実用的なも�
 - [Coders in 2030 が話題｜Cursor・Codex・RunableでAIエージェント開発が標準化](https://nayo126.github.io/ai-news-jp/posts/coders-in-2030-cursor-codex-runable-ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Cursorは無料で使えますか？
+
+Cursorは無料プランがあり、基本機能と月50回程度のAI補完が使えます。本格的に使うなら月20ドルのProプランで、Claude Sonnet 4.6やGPT-5を回数制限を気にせず利用できます。
+
+### Cursorは日本語で指示できますか？
+
+できます。「ログイン画面を作って」「このボタンの色を青に変えて」など日本語の指示でコードが生成・修正されます。英語のメニュー表記は使わず、チャット欄に日本語で頼むだけで動きます。
+
+### CursorとChatGPTの違いは何ですか？
+
+ChatGPTはコードを文章で返すだけですが、Cursorはエディタ上で直接ファイルを書き換え、複数ファイルをまたいだ修正も自動で行います。作ったコードをすぐ動かせる点が大きな違いです。
+
+### Cursorでスマホアプリは作れますか？
+
+作れます。React NativeやFlutterのコードをCursorに生成させれば、iOS・Android向けアプリの開発が可能です。ただし公開にはApple Developer登録(年99ドル)など別途手続きが必要です。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Cursorは無料で使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "Cursorは無料プランがあり、基本機能と月50回程度のAI補完が使えます。本格的に使うなら月20ドルのProプランで、Claude Sonnet 4.6やGPT-5を回数制限を気にせず利用できます。"}}, {"@type": "Question", "name": "Cursorは日本語で指示できますか？", "acceptedAnswer": {"@type": "Answer", "text": "できます。「ログイン画面を作って」「このボタンの色を青に変えて」など日本語の指示でコードが生成・修正されます。英語のメニュー表記は使わず、チャット欄に日本語で頼むだけで動きます。"}}, {"@type": "Question", "name": "CursorとChatGPTの違いは何ですか？", "acceptedAnswer": {"@type": "Answer", "text": "ChatGPTはコードを文章で返すだけですが、Cursorはエディタ上で直接ファイルを書き換え、複数ファイルをまたいだ修正も自動で行います。作ったコードをすぐ動かせる点が大きな違いです。"}}, {"@type": "Question", "name": "Cursorでスマホアプリは作れますか？", "acceptedAnswer": {"@type": "Answer", "text": "作れます。React NativeやFlutterのコードをCursorに生成させれば、iOS・Android向けアプリの開発が可能です。ただし公開にはApple Developer登録(年99ドル)など別途手続きが必要です。"}}]}
+</script>
+
+<!-- FAQ_END -->

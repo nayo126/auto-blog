@@ -126,8 +126,8 @@ OpenAIも非上場のため、個人が直接株を買うことはできませ�
 ## 関連する記事
 
 - [Anthropic上場いつ?2026年IPO最新情報と評価額](https://nayo126.github.io/auto-blog/blog/anthropic上場いつ2026年ipo最新情報/)
+- [Anthropic株価チャートは?2026年の評価額を解説](https://nayo126.github.io/auto-blog/blog/anthropic株価チャートは2026年の評価額を解説/)
 - [Anthropic最新動向2026｜Claude活用で副業収益化する5つの方法](https://nayo126.github.io/auto-blog/blog/anthropic最新動向2026claude活用で副業収益化する5つの方法/)
-- [Anthropic Academyとは？無料で学べるClaude講座5選2026](https://nayo126.github.io/auto-blog/blog/anthropic-academyとは無料で学べるclaude講座5選2026/)
 
 ### 姉妹サイトの関連記事
 - [Claude（Anthropic）が不調？r/ClaudeAIで朝のエラー・応答遅延が報告される](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic-r-claudeai.html) — AI News JP

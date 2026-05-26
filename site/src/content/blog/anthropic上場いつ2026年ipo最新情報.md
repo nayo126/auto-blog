@@ -105,8 +105,8 @@ Anthropicの上場時期は2026年5月時点で未確定だが、「早ければ
 ## 関連する記事
 
 - [Anthropic IPO株の買い方｜2026年の購入方法3選](https://nayo126.github.io/auto-blog/blog/anthropic-ipo株の買い方2026年の購入方法3選/)
+- [Anthropic株価チャートは?2026年の評価額を解説](https://nayo126.github.io/auto-blog/blog/anthropic株価チャートは2026年の評価額を解説/)
 - [Anthropic最新動向2026｜Claude活用で副業収益化する5つの方法](https://nayo126.github.io/auto-blog/blog/anthropic最新動向2026claude活用で副業収益化する5つの方法/)
-- [Anthropic Academyとは？無料で学べるClaude講座5選2026](https://nayo126.github.io/auto-blog/blog/anthropic-academyとは無料で学べるclaude講座5選2026/)
 
 ### 姉妹サイトの関連記事
 - [Claude（Anthropic）が不調？r/ClaudeAIで朝のエラー・応答遅延が報告される](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic-r-claudeai.html) — AI News JP

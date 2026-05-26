@@ -129,9 +129,9 @@ Claude CodeはClaude Proの月20ドルプランから利用でき、より多く
 
 ## 関連する記事
 
+- [Claude CodeとGemini徹底比較2026｜副業で使うべきはどっち](https://nayo126.github.io/auto-blog/blog/claude-codeとgemini徹底比較2026副業で使うべきはどっち/)
 - [Claude Code 起動方法を5分で解説｜初心者向け完全手順2026](https://nayo126.github.io/auto-blog/blog/claude-code-起動方法を5分で解説初心者向け完全手順2026/)
 - [Claude Code無料の制限まとめ｜2026年最新の上限と回避3手](https://nayo126.github.io/auto-blog/blog/claude-code無料の制限まとめ2026年最新の上限と回避3手/)
-- [Claude Code活用術7選｜副業の作業時間を3倍速に](https://nayo126.github.io/auto-blog/blog/claude-code活用術7選副業の作業時間を3倍速に/)
 
 ### 姉妹サイトの関連記事
 - [Claude CodeとAntigravity、Cursorはどこまで進化したか｜2026年AI開発ツール最新評価](https://nayo126.github.io/ai-news-jp/posts/claude-code-antigravity-cursor-2026-ai.html) — AI News JP

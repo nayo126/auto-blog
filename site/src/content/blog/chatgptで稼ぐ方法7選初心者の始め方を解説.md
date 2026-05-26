@@ -145,8 +145,8 @@ noteやTipsで1部500〜1,500円で販売でき、特定業務（営業メール
 ## 関連する記事
 
 - [ChatGPTで稼ぐ方法 初心者向け7ステップ完全版](https://nayo126.github.io/auto-blog/blog/chatgptで稼ぐ方法-初心者向け7ステップ完全版/)
+- [生成AI副業おすすめ7選と初心者の始め方2026](https://nayo126.github.io/auto-blog/blog/生成ai副業おすすめ7選と初心者の始め方2026/)
 - [DALL-Eの使い方を5分で習得｜初心者向け完全ガイド2026](https://nayo126.github.io/auto-blog/blog/dall-eの使い方を5分で習得初心者向け完全ガイド2026/)
-- [AI副業初心者が月3万稼ぐ最短5ステップ2026](https://nayo126.github.io/auto-blog/blog/ai副業初心者が月3万稼ぐ最短5ステップ2026/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP

@@ -128,3 +128,13 @@ console.anthropic.comのAPI Keys画面から該当キーを即削除（revoke）
 </script>
 
 <!-- FAQ_END -->
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Anthropic API利用方法5ステップ完全ガイド2026年版](https://nayo126.github.io/auto-blog/blog/anthropic-api利用方法5ステップ完全ガイド2026年版/)
+- [AI副業ラボ、はじめます](https://nayo126.github.io/auto-blog/blog/welcome/)
+- [プロンプトを売る方法2026｜PromptBaseで月3万稼ぐ5ステップ](https://nayo126.github.io/auto-blog/blog/プロンプトを売る方法2026promptbaseで月3万稼ぐ5ステップ/)
+
+<!-- SEO_MESH_END -->

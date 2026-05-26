@@ -135,9 +135,9 @@ KiroとClaude Codeは、どちらもClaudeを土台にしながら思想が異�
 
 ## 関連する記事
 
+- [Claude Code おすすめ本の選び方5つの基準【2026年版】](https://nayo126.github.io/auto-blog/blog/claude-code-おすすめ本の選び方5つの基準2026年版/)
 - [Claude Code比較2026｜主要AI開発5ツールの実力差](https://nayo126.github.io/auto-blog/blog/claude-code比較2026主要ai開発5ツールの実力差/)
-- [Claude Codeおすすめプラグイン7選 2026年版](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめプラグイン7選-2026年版/)
-- [Cursorの料金と使い方｜月20ドルの元を取る方法](https://nayo126.github.io/auto-blog/blog/cursorの料金と使い方月20ドルの元を取る方法/)
+- [Claude CodeとGemini徹底比較2026｜副業で使うべきはどっち](https://nayo126.github.io/auto-blog/blog/claude-codeとgemini徹底比較2026副業で使うべきはどっち/)
 
 ### 姉妹サイトの関連記事
 - [Claude Codeが1時間連続編集？AIコーディング長時間自律作業の実態と注意点](https://nayo126.github.io/ai-news-jp/posts/claude-code-1-ai.html) — AI News JP

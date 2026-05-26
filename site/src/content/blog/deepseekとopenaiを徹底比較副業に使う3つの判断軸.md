@@ -118,8 +118,8 @@ DeepSeekとOpenAIの比較は、優劣ではなく**目的との相性**で考�
 ## 関連する記事
 
 - [Gemini vs OpenAI比較2026｜稼げるAIはどっち](https://nayo126.github.io/auto-blog/blog/gemini-vs-openai比較2026稼げるaiはどっち/)
+- [Claude CodeとGemini徹底比較2026｜副業で使うべきはどっち](https://nayo126.github.io/auto-blog/blog/claude-codeとgemini徹底比較2026副業で使うべきはどっち/)
 - [Copilot vs OpenAI徹底比較2026｜5項目で最適解](https://nayo126.github.io/auto-blog/blog/copilot-vs-openai徹底比較20265項目で最適解/)
-- [ChatGPT APIとは？2026年最新の料金・使い方を5分で解説](https://nayo126.github.io/auto-blog/blog/chatgpt-apiとは2026年最新の料金使い方を5分で解説/)
 
 ### 姉妹サイトの関連記事
 - [Elon Musk敗訴：OpenAI・Sam Altmanへの訴訟で判決、AI業界への影響を解説](https://nayo126.github.io/ai-news-jp/posts/elon-musk-openai-sam-altman-ai.html) — AI News JP

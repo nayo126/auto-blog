@@ -17,6 +17,10 @@ image: "/auto-blog/ogp/claude-codeとgemini徹底比較2026副業で使うべき
 
 ## 結論：コーディングはClaude Code、情報収集はGeminiが基本
 
+<!-- INLINE_IMG -->
+![Claude CodeとGemini徹底比較2026｜副業で使うべきはどっち - 結論：コーディングはClaude Code、情報収集はGeminiが基本](/auto-blog/inline-images/claude-code-gemini-2026--0.jpg)
+
+
 最初に結論を出します。**開発・自動化スクリプトを書くならClaude Code、リサーチや画像・動画を絡めた作業ならGemini**。これが2026年時点での基本方針です。
 
 理由はシンプルで、設計思想がまったく違うからです。Claude Codeはターミナル上で動く「コーディング特化のAIエージェント」。ファイルを直接読み書きし、コマンドを実行し、Gitを操作するところまで一気通貫でこなします。一方のGeminiは、Google検索・YouTube・Gmail・Driveと連携する「生活と業務に溶け込む汎用AI」です。
@@ -35,6 +39,10 @@ image: "/auto-blog/ogp/claude-codeとgemini徹底比較2026副業で使うべき
 
 
 ## Claude Codeの強み：コードを「書いて動かす」までやる
+
+<!-- INLINE_IMG -->
+![Claude CodeとGemini徹底比較2026｜副業で使うべきはどっち - Claude Codeの強み：コードを「書いて動かす」までやる](/auto-blog/inline-images/claude-code-gemini-2026--1.jpg)
+
 
 Claude Codeの最大の特徴は、提案だけで終わらない点です。Claude Opus 4.7やSonnet 4.6を頭脳に使い、コードの生成から実行・修正・テストまでをエージェントとして自走します。
 
@@ -137,3 +145,18 @@ Claude CodeとGeminiは、どちらが上という関係ではありません。
 </script>
 
 <!-- FAQ_END -->
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Gemini vs OpenAI比較2026｜稼げるAIはどっち](https://nayo126.github.io/auto-blog/blog/gemini-vs-openai比較2026稼げるaiはどっち/)
+- [DeepSeekとOpenAIを徹底比較｜副業に使う3つの判断軸](https://nayo126.github.io/auto-blog/blog/deepseekとopenaiを徹底比較副業に使う3つの判断軸/)
+- [Claude Code 起動方法を5分で解説｜初心者向け完全手順2026](https://nayo126.github.io/auto-blog/blog/claude-code-起動方法を5分で解説初心者向け完全手順2026/)
+
+### 姉妹サイトの関連記事
+- [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP
+- [Redditで「Google has officially gone insane」が拡散、Gemini性能への驚きが話題に](https://nayo126.github.io/ai-news-jp/posts/reddit-google-has-officially-gone-insane-gemini.html) — AI News JP
+- [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html) — AI News JP
+
+<!-- SEO_MESH_END -->

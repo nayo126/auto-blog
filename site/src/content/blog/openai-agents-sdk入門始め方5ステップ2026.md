@@ -122,9 +122,9 @@ OpenAI Agents SDKは、Agent・Handoff・Guardrail・Tracingの4機能に絞っ�
 
 ## 関連する記事
 
+- [ChatGPT API keyの取得方法と副業活用5ステップ](https://nayo126.github.io/auto-blog/blog/chatgpt-api-keyの取得方法と副業活用5ステップ/)
 - [Copilot vs OpenAI徹底比較2026｜5項目で最適解](https://nayo126.github.io/auto-blog/blog/copilot-vs-openai徹底比較20265項目で最適解/)
 - [Claude Codeおすすめプラグイン7選 2026年版](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめプラグイン7選-2026年版/)
-- [Midjourney vs Leonardo AI 2026徹底比較7項目](https://nayo126.github.io/auto-blog/blog/midjourney-vs-leonardo-ai-2026徹底比較7項目/)
 
 ### 姉妹サイトの関連記事
 - [OpenAI、Windows版Codexにセキュアサンドボックス実装 安全なコーディングエージェント実現へ](https://nayo126.github.io/ai-news-jp/posts/openai-windows-codex.html) — AI News JP

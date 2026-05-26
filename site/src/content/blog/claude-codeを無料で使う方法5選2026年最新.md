@@ -100,3 +100,44 @@ Claude Codeを完全無料で使い倒すのは難しいが、「無料クレジ
 - [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html)
 - [Claude Codeが1時間連続編集？AIコーディング長時間自律作業の実態と注意点](https://nayo126.github.io/ai-news-jp/posts/claude-code-1-ai.html)
 - [Claude CodeとAntigravity、Cursorはどこまで進化したか｜2026年AI開発ツール最新評価](https://nayo126.github.io/ai-news-jp/posts/claude-code-antigravity-cursor-2026-ai.html)
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude Codeは無料プランだけで使えますか？
+
+完全無料プランはありません。最低でもClaude Pro（月20ドル）かAPIの従量課金が必要です。ただしAPIは使わなければ請求ゼロなので、初期費用なしで試すことは可能です。
+
+### Claude CodeとCursorの無料枠はどちらがお得ですか？
+
+Cursorは月2,000回の補完など無料枠が明確ですが、Claude Codeに恒常的な無料枠はありません。無料で試すならCursor、ターミナル統合と長時間作業ならClaude Code Proが向きます。
+
+### Claude CodeのAPI課金は月いくらかかりますか？
+
+使用量次第ですが、軽い検証なら月数ドル以内に収まります。Opus 4.7は入力100万トークン約15ドル、出力75ドルが目安で、大規模なコード生成を続けると月20ドルのProを上回る場合があります。
+
+### Claude Codeの無料利用にクレジットカードは必要ですか？
+
+API経由の場合、APIキー発行時に支払い情報の登録が必須です。カード登録なしでは始められないため、完全にカード不要で使う方法は2026年時点で存在しません。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude Codeは無料プランだけで使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "完全無料プランはありません。最低でもClaude Pro（月20ドル）かAPIの従量課金が必要です。ただしAPIは使わなければ請求ゼロなので、初期費用なしで試すことは可能です。"}}, {"@type": "Question", "name": "Claude CodeとCursorの無料枠はどちらがお得ですか？", "acceptedAnswer": {"@type": "Answer", "text": "Cursorは月2,000回の補完など無料枠が明確ですが、Claude Codeに恒常的な無料枠はありません。無料で試すならCursor、ターミナル統合と長時間作業ならClaude Code Proが向きます。"}}, {"@type": "Question", "name": "Claude CodeのAPI課金は月いくらかかりますか？", "acceptedAnswer": {"@type": "Answer", "text": "使用量次第ですが、軽い検証なら月数ドル以内に収まります。Opus 4.7は入力100万トークン約15ドル、出力75ドルが目安で、大規模なコード生成を続けると月20ドルのProを上回る場合があります。"}}, {"@type": "Question", "name": "Claude Codeの無料利用にクレジットカードは必要ですか？", "acceptedAnswer": {"@type": "Answer", "text": "API経由の場合、APIキー発行時に支払い情報の登録が必須です。カード登録なしでは始められないため、完全にカード不要で使う方法は2026年時点で存在しません。"}}]}
+</script>
+
+<!-- FAQ_END -->
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Claude Code 無料で使う3つの方法【2026年最新】](https://nayo126.github.io/auto-blog/blog/claude-code-無料で使う3つの方法2026年最新/)
+- [Claude Code活用術7選｜副業の作業時間を3倍速に](https://nayo126.github.io/auto-blog/blog/claude-code活用術7選副業の作業時間を3倍速に/)
+- [Claude Codeで副業｜稼ぐ5つの方法と始め方](https://nayo126.github.io/auto-blog/blog/claude-codeで副業稼ぐ5つの方法と始め方/)
+
+### 姉妹サイトの関連記事
+- [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html) — AI News JP
+- [Claude Codeが1時間連続編集？AIコーディング長時間自律作業の実態と注意点](https://nayo126.github.io/ai-news-jp/posts/claude-code-1-ai.html) — AI News JP
+- [Claude CodeとAntigravity、Cursorはどこまで進化したか｜2026年AI開発ツール最新評価](https://nayo126.github.io/ai-news-jp/posts/claude-code-antigravity-cursor-2026-ai.html) — AI News JP
+
+<!-- SEO_MESH_END -->

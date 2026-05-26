@@ -95,7 +95,7 @@ Claude Codeは長文コンテキストと自律的なエージェント機能で
 
 - [Claude Codeおすすめプラグイン7選 2026年版](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめプラグイン7選-2026年版/)
 - [ノーコードAIツール比較2026｜副業に効く7選](https://nayo126.github.io/auto-blog/blog/ノーコードaiツール比較2026副業に効く7選/)
-- [Claude Code×VSCode連携｜2026年最新7つの活用術](https://nayo126.github.io/auto-blog/blog/claude-codevscode連携2026年最新7つの活用術/)
+- [Claude Code おすすめ本の選び方5つの基準【2026年版】](https://nayo126.github.io/auto-blog/blog/claude-code-おすすめ本の選び方5つの基準2026年版/)
 
 ### 姉妹サイトの関連記事
 - [Claude CodeとAntigravity、Cursorはどこまで進化したか｜2026年AI開発ツール最新評価](https://nayo126.github.io/ai-news-jp/posts/claude-code-antigravity-cursor-2026-ai.html) — AI News JP
