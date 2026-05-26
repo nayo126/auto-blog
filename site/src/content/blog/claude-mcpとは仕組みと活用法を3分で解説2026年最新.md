@@ -117,3 +117,29 @@ MCPとは、Claudeを外部データやツールにつなぐ共通規格です�
 - [Claude（Anthropic）が不調？r/ClaudeAIで朝のエラー・応答遅延が報告される](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic-r-claudeai.html)
 - [Claude AIで激変するLinkedInプロフィール作成術2026年最新版](https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html)
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html)
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude MCPは無料で使えますか？
+
+MCP規格自体はオープンソースで無償です。Claude Desktop（無料プランあり）で設定でき、接続先のファイルやGitHubも基本無料で使えます。ただしAPI経由で大量利用する場合はトークン課金が発生します。
+
+### Claude MCPの設定はどうやるの？
+
+Claude Desktopの設定ファイル「claude_desktop_config.json」にサーバー情報を記述します。GitHubやGoogle Driveなど公式提供のMCPサーバーをnpxコマンドで指定し、アプリを再起動すれば数分で接続完了します。
+
+### MCPとAPI連携の違いは何ですか？
+
+従来のAPI連携はサービスごとに個別実装が必要でした。MCPは1つの共通規格でファイル・GitHub・DB等をまとめて接続でき、開発コストを大幅に削減できます。USB-Cのように差し替えるだけで使える点が違いです。
+
+### MCPはChatGPTでも使えますか？
+
+MCPはAnthropicが2024年11月に公開した規格ですが、オープンソースのため他AIも対応可能です。2025年にはOpenAIもMCP対応を表明し、ChatGPTやその他クライアントでも順次利用が広がっています。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude MCPは無料で使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "MCP規格自体はオープンソースで無償です。Claude Desktop（無料プランあり）で設定でき、接続先のファイルやGitHubも基本無料で使えます。ただしAPI経由で大量利用する場合はトークン課金が発生します。"}}, {"@type": "Question", "name": "Claude MCPの設定はどうやるの？", "acceptedAnswer": {"@type": "Answer", "text": "Claude Desktopの設定ファイル「claude_desktop_config.json」にサーバー情報を記述します。GitHubやGoogle Driveなど公式提供のMCPサーバーをnpxコマンドで指定し、アプリを再起動すれば数分で接続完了します。"}}, {"@type": "Question", "name": "MCPとAPI連携の違いは何ですか？", "acceptedAnswer": {"@type": "Answer", "text": "従来のAPI連携はサービスごとに個別実装が必要でした。MCPは1つの共通規格でファイル・GitHub・DB等をまとめて接続でき、開発コストを大幅に削減できます。USB-Cのように差し替えるだけで使える点が違いです。"}}, {"@type": "Question", "name": "MCPはChatGPTでも使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "MCPはAnthropicが2024年11月に公開した規格ですが、オープンソースのため他AIも対応可能です。2025年にはOpenAIもMCP対応を表明し、ChatGPTやその他クライアントでも順次利用が広がっています。"}}]}
+</script>
+
+<!-- FAQ_END -->

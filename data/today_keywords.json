@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-26T02:30:02.650212+00:00",
+  "picked_at": "2026-05-26T07:49:47.387348+00:00",
   "count": 5,
   "items": [
     {
-      "category": "AI副業",
-      "keyword": "ai ブログ作成"
-    },
-    {
-      "category": "ChatGPT活用",
-      "keyword": "chatgpt カスタム プロンプト おすすめ"
-    },
-    {
-      "category": "Claude活用",
-      "keyword": "claude mcpとは"
+      "category": "AI画像生成",
+      "keyword": "dall-e 使い方"
     },
     {
       "category": "AIツール比較",
-      "keyword": "ai 議事録作成"
+      "keyword": "ai 動画 方法"
     },
     {
-      "category": "海外AIトレンド",
-      "keyword": "openai apiキー 確認 方法"
+      "category": "AI副業",
+      "keyword": "ai 副業 初心者 おすすめ"
+    },
+    {
+      "category": "Claude活用",
+      "keyword": "claude mcp 追加 方法"
+    },
+    {
+      "category": "ChatGPT活用",
+      "keyword": "chatgpt 稼ぐ 方法"
     }
   ]
 }

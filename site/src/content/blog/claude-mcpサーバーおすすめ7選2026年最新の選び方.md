@@ -100,3 +100,29 @@ Claude MCPサーバーは、AIを「賢い相談相手」から「自分で動�
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude MCPサーバーの設定方法は？
+
+Claude Desktopの設定ファイル「claude_desktop_config.json」にサーバー情報を記述し、アプリを再起動するだけで使える。多くはNode.jsかPythonの環境が必要で、ファイル操作用なら3〜5行の追記で完了する。
+
+### MCPサーバーは無料で使えますか？
+
+Anthropic公式やコミュニティ製のMCPサーバーはほぼ無料で利用できる。ファイル操作・GitHub・検索など主要な7種類は無償。ただしBrave検索APIなど一部は外部サービスのAPIキー取得が必要で、無料枠を超えると課金が発生する。
+
+### MCPはChatGPTでも使えますか？
+
+MCPはAnthropicが2024年11月に公開したオープン規格で、2025年以降ChatGPTやCursorなど他ツールも対応を進めている。仕組みは共通だが、現状で最も安定して動くのはClaude Desktopアプリ環境だ。
+
+### MCPサーバーのセキュリティは大丈夫？
+
+MCPはローカル環境で動くため外部送信は限定的だが、ファイルアクセス権限を渡す点に注意が必要。信頼できる公式・GitHub公開元のサーバーのみ使い、アクセス範囲を特定フォルダに限定する設定で安全性を高められる。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude MCPサーバーの設定方法は？", "acceptedAnswer": {"@type": "Answer", "text": "Claude Desktopの設定ファイル「claude_desktop_config.json」にサーバー情報を記述し、アプリを再起動するだけで使える。多くはNode.jsかPythonの環境が必要で、ファイル操作用なら3〜5行の追記で完了する。"}}, {"@type": "Question", "name": "MCPサーバーは無料で使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "Anthropic公式やコミュニティ製のMCPサーバーはほぼ無料で利用できる。ファイル操作・GitHub・検索など主要な7種類は無償。ただしBrave検索APIなど一部は外部サービスのAPIキー取得が必要で、無料枠を超えると課金が発生する。"}}, {"@type": "Question", "name": "MCPはChatGPTでも使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "MCPはAnthropicが2024年11月に公開したオープン規格で、2025年以降ChatGPTやCursorなど他ツールも対応を進めている。仕組みは共通だが、現状で最も安定して動くのはClaude Desktopアプリ環境だ。"}}, {"@type": "Question", "name": "MCPサーバーのセキュリティは大丈夫？", "acceptedAnswer": {"@type": "Answer", "text": "MCPはローカル環境で動くため外部送信は限定的だが、ファイルアクセス権限を渡す点に注意が必要。信頼できる公式・GitHub公開元のサーバーのみ使い、アクセス範囲を特定フォルダに限定する設定で安全性を高められる。"}}]}
+</script>
+
+<!-- FAQ_END -->

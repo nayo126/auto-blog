@@ -99,3 +99,29 @@ Claude Codeのアップデートは、`claude --version`で確認し、`npm upda
 - [ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-3-reddit.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude Codeのアップデートはどのくらいの頻度でやるべき?
+
+週1回の確認で十分です。Claude Codeは数日〜1週間ごとに更新されるため、月曜の作業開始時などに`claude --version`で確認し、古ければ更新する習慣がおすすめです。新モデル公開時は即アップデートしましょう。
+
+### npmとネイティブインストーラーのどちらでインストールしたか確認する方法は?
+
+Claude Code内で`/doctor`を実行すると、インストール方法と認証状況が表示されます。npm経由なら`npm`、ネイティブなら`native`と確認でき、これに応じて正しい更新コマンドを選べます。
+
+### アップデートしてもバージョンが古いまま変わらないのはなぜ?
+
+古い起動中のセッションが残っているのが主因です。一度ターミナルとClaude Codeを完全に終了し、再起動してから`claude --version`を再確認してください。npmのキャッシュが原因なら`npm cache clean --force`が有効です。
+
+### Claude Codeを最新にすると以前の設定や認証は消える?
+
+消えません。設定や認証情報は`~/.claude`配下に保存され、アップデートはプログラム本体のみを更新します。再ログインも不要で、更新後すぐに従来通り使えます。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude Codeのアップデートはどのくらいの頻度でやるべき?", "acceptedAnswer": {"@type": "Answer", "text": "週1回の確認で十分です。Claude Codeは数日〜1週間ごとに更新されるため、月曜の作業開始時などに`claude --version`で確認し、古ければ更新する習慣がおすすめです。新モデル公開時は即アップデートしましょう。"}}, {"@type": "Question", "name": "npmとネイティブインストーラーのどちらでインストールしたか確認する方法は?", "acceptedAnswer": {"@type": "Answer", "text": "Claude Code内で`/doctor`を実行すると、インストール方法と認証状況が表示されます。npm経由なら`npm`、ネイティブなら`native`と確認でき、これに応じて正しい更新コマンドを選べます。"}}, {"@type": "Question", "name": "アップデートしてもバージョンが古いまま変わらないのはなぜ?", "acceptedAnswer": {"@type": "Answer", "text": "古い起動中のセッションが残っているのが主因です。一度ターミナルとClaude Codeを完全に終了し、再起動してから`claude --version`を再確認してください。npmのキャッシュが原因なら`npm cache clean --force`が有効です。"}}, {"@type": "Question", "name": "Claude Codeを最新にすると以前の設定や認証は消える?", "acceptedAnswer": {"@type": "Answer", "text": "消えません。設定や認証情報は`~/.claude`配下に保存され、アップデートはプログラム本体のみを更新します。再ログインも不要で、更新後すぐに従来通り使えます。"}}]}
+</script>
+
+<!-- FAQ_END -->

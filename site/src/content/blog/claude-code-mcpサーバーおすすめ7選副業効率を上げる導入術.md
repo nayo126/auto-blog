@@ -115,3 +115,29 @@ MCPサーバーは、Claude Codeを「コードを書く道具」から「作業
 - [OpenAI Codex for Work、業務オペレーションチーム向け活用事例を公開](https://nayo126.github.io/ai-news-jp/posts/openai-codex-for-work.html)
 - [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html)
 - [OpenAI Codexが財務チーム向け活用ガイド公開｜MBRや予実差異分析を自動化](https://nayo126.github.io/ai-news-jp/posts/openai-codex-mbr.html)
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude CodeにMCPサーバーを追加する方法は？
+
+ターミナルで「claude mcp add サーバー名 -- コマンド」を実行するか、プロジェクト直下の.mcp.jsonに設定を記述します。例えばGitHub MCPなら数行のJSONを書くだけで、再起動後にClaude Codeから直接呼び出せます。
+
+### MCPサーバーは無料で使えますか？
+
+サーバー本体の多くはオープンソースで無料です。GitHub・Filesystem・Playwrightなどは0円で導入できます。ただしBrave SearchやNotionなど外部APIを使うものは、各サービスのAPIキー発行や従量課金が別途必要です。
+
+### MCPサーバーを入れすぎると重くなりますか？
+
+サーバー1つにつき複数のツール定義が読み込まれ、トークン消費とコンテキストを圧迫します。常用する2〜4個に絞り、使わないものは「claude mcp remove」で外すと、応答速度と精度を保てます。
+
+### MCPサーバー導入にセキュリティのリスクはありますか？
+
+未検証のサーバーはファイルやAPIキーへ広範にアクセスするため危険です。公式リポジトリや提供元が明確なものだけを使い、Filesystem系はアクセス許可ディレクトリを指定し、APIキーは環境変数で管理してください。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude CodeにMCPサーバーを追加する方法は？", "acceptedAnswer": {"@type": "Answer", "text": "ターミナルで「claude mcp add サーバー名 -- コマンド」を実行するか、プロジェクト直下の.mcp.jsonに設定を記述します。例えばGitHub MCPなら数行のJSONを書くだけで、再起動後にClaude Codeから直接呼び出せます。"}}, {"@type": "Question", "name": "MCPサーバーは無料で使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "サーバー本体の多くはオープンソースで無料です。GitHub・Filesystem・Playwrightなどは0円で導入できます。ただしBrave SearchやNotionなど外部APIを使うものは、各サービスのAPIキー発行や従量課金が別途必要です。"}}, {"@type": "Question", "name": "MCPサーバーを入れすぎると重くなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "サーバー1つにつき複数のツール定義が読み込まれ、トークン消費とコンテキストを圧迫します。常用する2〜4個に絞り、使わないものは「claude mcp remove」で外すと、応答速度と精度を保てます。"}}, {"@type": "Question", "name": "MCPサーバー導入にセキュリティのリスクはありますか？", "acceptedAnswer": {"@type": "Answer", "text": "未検証のサーバーはファイルやAPIキーへ広範にアクセスするため危険です。公式リポジトリや提供元が明確なものだけを使い、Filesystem系はアクセス許可ディレクトリを指定し、APIキーは環境変数で管理してください。"}}]}
+</script>
+
+<!-- FAQ_END -->

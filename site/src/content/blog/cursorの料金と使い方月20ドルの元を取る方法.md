@@ -17,6 +17,10 @@ image: "/auto-blog/ogp/cursorの料金と使い方月20ドルの元を取る方�
 
 ## Cursorとは?VS Codeベースの「AI内蔵エディタ」
 
+<!-- INLINE_IMG -->
+![Cursorの料金と使い方｜月20ドルの元を取る方法 - Cursorとは?VS Codeベースの「AI内蔵エディタ」](/auto-blog/inline-images/cursor-20--0.jpg)
+
+
 Cursorは、Microsoftの「VS Code」をベースに開発された、AI機能を最初から組み込んだコードエディタです。見た目も操作感もVS Codeとほぼ同じなので、すでにVS Codeを使っている人なら設定ファイルや拡張機能をそのまま引き継いで移行できます。
 
 最大の特徴は、AIがエディタの「外付け」ではなく「内側」にいることです。ChatGPTのブラウザ画面とエディタを行き来してコードをコピペする、という作業がいりません。
@@ -31,6 +35,10 @@ Cursorは、Microsoftの「VS Code」をベースに開発された、AI機能�
 裏側で動くAIモデルはClaude Sonnet系やGPT系など複数から選べ、用途に応じて切り替えられます。
 
 ## Cursorの料金プランを徹底比較
+
+<!-- INLINE_IMG -->
+![Cursorの料金と使い方｜月20ドルの元を取る方法 - Cursorの料金プランを徹底比較](/auto-blog/inline-images/cursor-20--1.jpg)
+
 
 Cursorの料金は大きく3段階です。金額は改定されることがあるため、契約前に必ず[公式サイト](https://cursor.com/pricing)で最新の数字を確認してください。ここでは2026年時点の代表的な構成を紹介します。
 
