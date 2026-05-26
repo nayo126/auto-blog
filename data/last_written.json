@@ -1,9 +1,11 @@
 {
-  "written_at": "2026-05-26T08:36:29.823781+00:00",
-  "count": 3,
+  "written_at": "2026-05-26T09:22:55.261285+00:00",
+  "count": 5,
   "files": [
-    "site/src/content/blog/claude-code-おすすめ本の選び方5つの基準2026年版.md",
-    "site/src/content/blog/生成ai副業おすすめ7選と初心者の始め方2026.md",
-    "site/src/content/blog/動画編集ai比較2026副業向け7選と選び方.md"
+    "site/src/content/blog/chatgpt-api-keyの取得方法と副業活用5ステップ.md",
+    "site/src/content/blog/claude-codeを無料で使う方法5選2026年最新.md",
+    "site/src/content/blog/anthropic-api取得方法を5分で完了する手順2026年版.md",
+    "site/src/content/blog/leonardo-ai-無料プランの実力は毎日150トークンで何ができるか徹底解説.md",
+    "site/src/content/blog/ai副業おすすめスクール7選2026年の選び方と失敗回避策.md"
   ]
 }

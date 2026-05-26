@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-26T08:30:02.729180+00:00",
+  "picked_at": "2026-05-26T09:17:53.671014+00:00",
   "count": 5,
   "items": [
     {
-      "category": "Claude活用",
-      "keyword": "claude code おすすめ本"
+      "category": "ChatGPT活用",
+      "keyword": "chatgpt api key"
     },
     {
-      "category": "AI副業",
-      "keyword": "生成 ai 副業 おすすめ"
+      "category": "Claude活用",
+      "keyword": "claude code 無料で使う方法"
     },
     {
       "category": "海外AIトレンド",
-      "keyword": "grok openai 比較"
+      "keyword": "anthropic api 取得方法"
     },
     {
-      "category": "ChatGPT活用",
-      "keyword": "chatgpt プロンプト 方法"
+      "category": "AI画像生成",
+      "keyword": "leonardo ai 無料"
     },
     {
-      "category": "AIツール比較",
-      "keyword": "動画 編集 ai 比較"
+      "category": "AI副業",
+      "keyword": "ai 副業 おすすめ スクール"
     }
   ]
 }
