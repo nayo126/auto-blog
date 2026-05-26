@@ -105,3 +105,29 @@ ChatGPT副業の口コミは、稼げた声も稼げなかった声もどちら�
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html)
 - [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html)
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html)
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### ChatGPT副業は初心者でも稼げますか?
+
+Webライティングやデータ入力など既存の副業にChatGPTを組み合わせれば、初心者でも3〜6ヶ月で月3万円が現実的です。ChatGPT単体で稼ぐより、クラウドワークス等の案件を効率化する使い方が最短ルートです。
+
+### ChatGPT副業で月10万円稼ぐには何ヶ月かかりますか?
+
+Webライティングの場合、文字単価1円の案件を月10万字こなせば月10万円です。執筆速度を上げるのに3〜6ヶ月、継続案件の獲得を含めると半年〜1年が目安になります。
+
+### ChatGPT副業は無料プランでもできますか?
+
+無料プランでも開始できますが、GPT-5搭載の有料版(月20ドル)は処理速度と文章精度が高く、作業効率が約2倍変わります。月3万円を超えたら有料版への投資で回収できます。
+
+### ChatGPTで書いた文章をそのまま納品しても大丈夫ですか?
+
+そのまま納品は危険です。AI特有の冗長表現や事実誤り(ハルシネーション)が混ざるため、必ず人間が事実確認と推敲を行います。下書きをChatGPTに任せ、修正に集中する使い方が安全です。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "ChatGPT副業は初心者でも稼げますか?", "acceptedAnswer": {"@type": "Answer", "text": "Webライティングやデータ入力など既存の副業にChatGPTを組み合わせれば、初心者でも3〜6ヶ月で月3万円が現実的です。ChatGPT単体で稼ぐより、クラウドワークス等の案件を効率化する使い方が最短ルートです。"}}, {"@type": "Question", "name": "ChatGPT副業で月10万円稼ぐには何ヶ月かかりますか?", "acceptedAnswer": {"@type": "Answer", "text": "Webライティングの場合、文字単価1円の案件を月10万字こなせば月10万円です。執筆速度を上げるのに3〜6ヶ月、継続案件の獲得を含めると半年〜1年が目安になります。"}}, {"@type": "Question", "name": "ChatGPT副業は無料プランでもできますか?", "acceptedAnswer": {"@type": "Answer", "text": "無料プランでも開始できますが、GPT-5搭載の有料版(月20ドル)は処理速度と文章精度が高く、作業効率が約2倍変わります。月3万円を超えたら有料版への投資で回収できます。"}}, {"@type": "Question", "name": "ChatGPTで書いた文章をそのまま納品しても大丈夫ですか?", "acceptedAnswer": {"@type": "Answer", "text": "そのまま納品は危険です。AI特有の冗長表現や事実誤り(ハルシネーション)が混ざるため、必ず人間が事実確認と推敲を行います。下書きをChatGPTに任せ、修正に集中する使い方が安全です。"}}]}
+</script>
+
+<!-- FAQ_END -->

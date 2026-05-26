@@ -23,7 +23,14 @@ ChatGPTで「カスタムプロンプト」と呼ばれるものには、大き�
 
 おすすめの使い分けはシンプルで、**「人格・文体・前提」はカスタム指示に、「作業手順」はテンプレートに**置く。この二層構造にすると、どんなタスクでも安定した出力が返ってくる。
 
-<!-- AFFILIATE_SLOT:ChatGPT 副業 講座 -->
+
+<aside class="affiliate-card">
+<div class="label">ChatGPT 副業 講座 に関連する書籍・ツール</div>
+<p>「ChatGPT 副業 講座」について実践的に学ぶための参考リソースを集めました。</p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FChatGPT%2520%25E5%2589%25AF%25E6%25A5%25AD%2520%25E8%25AC%259B%25E5%25BA%25A7%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「ChatGPT 副業 講座」関連を見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=ChatGPT%20%E5%89%AF%E6%A5%AD%20%E8%AC%9B%E5%BA%A7" target="_blank" rel="sponsored noopener">▶ Amazonで「ChatGPT 副業 講座」関連を見る</a></p>
+</aside>
+
 
 ## 副業で効くおすすめカスタムプロンプト7選
 
@@ -65,7 +72,14 @@ ChatGPTで「カスタムプロンプト」と呼ばれるものには、大き�
 
 この3つを設定するだけで、同じプロンプトでも返ってくる質が一段上がる。所要時間はわずか5分だ。
 
-<!-- AFFILIATE_SLOT:Notion テンプレート -->
+
+<aside class="affiliate-card">
+<div class="label">Notion テンプレート に関連する書籍・ツール</div>
+<p>「Notion テンプレート」について実践的に学ぶための参考リソースを集めました。</p>
+<p><a href="https://hb.afl.rakuten.co.jp/hgc/53e5cb42.c97243c2.53e5cb43.ebbba8e6/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNotion%2520%25E3%2583%2586%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2588%2F&link_type=text&ut=eyJwYWdlIjoiYWZmaWxpYXRlIn0%3D" target="_blank" rel="sponsored noopener">▶ 楽天市場で「Notion テンプレート」関連を見る</a></p>
+<p><a href="https://www.amazon.co.jp/s?k=Notion%20%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88" target="_blank" rel="sponsored noopener">▶ Amazonで「Notion テンプレート」関連を見る</a></p>
+</aside>
+
 
 ## 失敗しないための注意点と続けるコツ
 
@@ -82,3 +96,42 @@ ChatGPTで「カスタムプロンプト」と呼ばれるものには、大き�
 ## まとめ
 
 ChatGPTのカスタムプロンプトは、「人格・文体はカスタム指示」「作業手順はテンプレート」の二層で管理するのが最も効率的だ。今回紹介した7つのプロンプトと設定3ステップは、どれも今日から5分で始められる。まずはカスタム指示を整え、効いたプロンプトを1つずつ保存していこう。その小さな積み重ねが、副業の作業時間を確実に削っていく。
+
+## 関連記事
+
+- [ChatGPTプロンプトジェネレーター7選｜2026最新活用術](/auto-blog/blog/chatgptプロンプトジェネレーター7選2026最新活用術/)
+- [ChatGPTプロンプトとは？基本と5つの黄金ルール](/auto-blog/blog/chatgptプロンプトとは基本と5つの黄金ルール/)
+- [ChatGPTイラストプロンプトおすすめ20選｜2026年最新](/auto-blog/blog/chatgptイラストプロンプトおすすめ20選2026年最新/)
+
+<!-- CROSS_LINKS -->
+## 他サイトの最新AI記事
+
+- [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html)
+- [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html)
+- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html)
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### ChatGPTのカスタム指示はどこから設定できますか?
+
+画面右上のアカウント名→「カスタム指示(Custom Instructions)」から設定します。「あなたについて」「どう応答してほしいか」の2欄に入力すると全チャットに自動反映され、無料プランでも利用できます。
+
+### カスタム指示とプロンプトテンプレートはどう違いますか?
+
+カスタム指示は設定画面に一度書けば全チャットへ自動反映される常時設定です。テンプレートはメールや記事構成など用途別の完成指示文をNotion等に保存し、必要な時に貼り付けて使う点が違います。
+
+### カスタムプロンプトの文字数はどれくらいが適切ですか?
+
+カスタム指示は1欄あたり1500字が上限です。300〜500字程度に絞り、職業・回答形式(結論→理由→具体例など)・専門用語の注釈有無といった必須情報だけ書くと精度が安定します。
+
+### ChatGPTの回答が毎回ブレるのを防ぐコツはありますか?
+
+出力形式を数値で指定するのが有効です。「見出しは3つ」「箇条書き5項目」「500字以内」のように条件を固定し、トーンも「ですます調」と明記すると、打ち直しの回数が減ります。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "ChatGPTのカスタム指示はどこから設定できますか?", "acceptedAnswer": {"@type": "Answer", "text": "画面右上のアカウント名→「カスタム指示(Custom Instructions)」から設定します。「あなたについて」「どう応答してほしいか」の2欄に入力すると全チャットに自動反映され、無料プランでも利用できます。"}}, {"@type": "Question", "name": "カスタム指示とプロンプトテンプレートはどう違いますか?", "acceptedAnswer": {"@type": "Answer", "text": "カスタム指示は設定画面に一度書けば全チャットへ自動反映される常時設定です。テンプレートはメールや記事構成など用途別の完成指示文をNotion等に保存し、必要な時に貼り付けて使う点が違います。"}}, {"@type": "Question", "name": "カスタムプロンプトの文字数はどれくらいが適切ですか?", "acceptedAnswer": {"@type": "Answer", "text": "カスタム指示は1欄あたり1500字が上限です。300〜500字程度に絞り、職業・回答形式(結論→理由→具体例など)・専門用語の注釈有無といった必須情報だけ書くと精度が安定します。"}}, {"@type": "Question", "name": "ChatGPTの回答が毎回ブレるのを防ぐコツはありますか?", "acceptedAnswer": {"@type": "Answer", "text": "出力形式を数値で指定するのが有効です。「見出しは3つ」「箇条書き5項目」「500字以内」のように条件を固定し、トーンも「ですます調」と明記すると、打ち直しの回数が減ります。"}}]}
+</script>
+
+<!-- FAQ_END -->
