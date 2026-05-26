@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-26T09:17:53.671014+00:00",
+  "picked_at": "2026-05-26T13:30:00.739041+00:00",
   "count": 5,
   "items": [
     {
+      "category": "海外AIトレンド",
+      "keyword": "anthropic 株価 チャート"
+    },
+    {
       "category": "ChatGPT活用",
-      "keyword": "chatgpt api key"
+      "keyword": "chatgpt 文章 比較 プロンプト"
+    },
+    {
+      "category": "プロンプトエンジニアリング",
+      "keyword": "プロンプト テンプレート集"
+    },
+    {
+      "category": "AIツール比較",
+      "keyword": "画像生成 ai 無料 比較"
     },
     {
       "category": "Claude活用",
-      "keyword": "claude code 無料で使う方法"
-    },
-    {
-      "category": "海外AIトレンド",
-      "keyword": "anthropic api 取得方法"
-    },
-    {
-      "category": "AI画像生成",
-      "keyword": "leonardo ai 無料"
-    },
-    {
-      "category": "AI副業",
-      "keyword": "ai 副業 おすすめ スクール"
+      "keyword": "claude code 比較 gemini"
     }
   ]
 }

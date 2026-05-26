@@ -129,3 +129,29 @@ ChatGPT API keyは、`platform.openai.com` でアカウント作成・支払い�
 - [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html)
 - [ChatGPTのF評価で炎上、ユーザーの不満が示すAI評価機能の課題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-f-ai.html)
 - [AutoScout24がOpenAI CodexとChatGPTで開発効率化、AI駆動ワークフロー導入事例](https://nayo126.github.io/ai-news-jp/posts/autoscout24-openai-codex-chatgpt-ai.html)
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### ChatGPT APIキーの料金はいくらから使える？
+
+GPT-4o miniなら入力100万トークンあたり約0.15ドル、出力で0.6ドルと格安です。1回数百字のやり取りを1日数十回程度なら月数十〜数百円に収まります。事前に上限額（例：月5ドル）を設定すれば使いすぎも防げます。
+
+### OpenAI APIキーが漏洩したらどうなる？対処法は？
+
+第三者に不正利用され高額請求が発生する恐れがあります。発覚したらOpenAIの管理画面で該当キーを即「Revoke（無効化）」し、新しいキーを再発行してください。GitHubへの誤公開を防ぐため、キーは.envファイルに保存し.gitignoreで除外します。
+
+### ChatGPT APIとブラウザ版、副業ならどっちを使うべき？
+
+繰り返し作業の自動化や自作ツール販売にはAPIが向きます。例えば100記事のタイトルを一括生成するならAPIで数十円、ブラウザ版だと手作業で数時間かかります。単発の調べ物や文章作成だけならブラウザ版で十分です。
+
+### プログラミング知識がなくてもAPIキーは使える？
+
+使えます。GoogleスプレッドシートのGASに数行貼り付ける方法や、Make・Zapierなどのノーコードツールにキーを登録するだけで連携できます。コードを1から書かずに、文章生成や翻訳の自動化を組めます。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "ChatGPT APIキーの料金はいくらから使える？", "acceptedAnswer": {"@type": "Answer", "text": "GPT-4o miniなら入力100万トークンあたり約0.15ドル、出力で0.6ドルと格安です。1回数百字のやり取りを1日数十回程度なら月数十〜数百円に収まります。事前に上限額（例：月5ドル）を設定すれば使いすぎも防げます。"}}, {"@type": "Question", "name": "OpenAI APIキーが漏洩したらどうなる？対処法は？", "acceptedAnswer": {"@type": "Answer", "text": "第三者に不正利用され高額請求が発生する恐れがあります。発覚したらOpenAIの管理画面で該当キーを即「Revoke（無効化）」し、新しいキーを再発行してください。GitHubへの誤公開を防ぐため、キーは.envファイルに保存し.gitignoreで除外します。"}}, {"@type": "Question", "name": "ChatGPT APIとブラウザ版、副業ならどっちを使うべき？", "acceptedAnswer": {"@type": "Answer", "text": "繰り返し作業の自動化や自作ツール販売にはAPIが向きます。例えば100記事のタイトルを一括生成するならAPIで数十円、ブラウザ版だと手作業で数時間かかります。単発の調べ物や文章作成だけならブラウザ版で十分です。"}}, {"@type": "Question", "name": "プログラミング知識がなくてもAPIキーは使える？", "acceptedAnswer": {"@type": "Answer", "text": "使えます。GoogleスプレッドシートのGASに数行貼り付ける方法や、Make・Zapierなどのノーコードツールにキーを登録するだけで連携できます。コードを1から書かずに、文章生成や翻訳の自動化を組めます。"}}]}
+</script>
+
+<!-- FAQ_END -->
