@@ -106,9 +106,9 @@ Pika Labs 1.5は月$8から始められ、短尺AI動画の量産と副業化に
 
 ## 関連する記事
 
+- [Sora 2の使い方を副業で活かす完全ガイド7ステップ](https://nayo126.github.io/auto-blog/blog/sora-2の使い方を副業で活かす完全ガイド7ステップ/)
 - [AI動画生成は無料でどこまで可能？2026年の最新7選](https://nayo126.github.io/auto-blog/blog/ai動画生成は無料でどこまで可能2026年の最新7選/)
 - [AI動画生成ツール比較2026|稼げる厳選5選と選び方](https://nayo126.github.io/auto-blog/blog/ai動画生成ツール比較2026稼げる厳選5選と選び方/)
-- [Claude Codeおすすめプラグイン7選 2026年版](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめプラグイン7選-2026年版/)
 
 ### 姉妹サイトの関連記事
 - [4D Gaussian Splattingとは？通常動画から自由視点3Dを再構成する技術を解説](https://nayo126.github.io/ai-news-jp/posts/4d-gaussian-splatting-3d.html) — AI News JP

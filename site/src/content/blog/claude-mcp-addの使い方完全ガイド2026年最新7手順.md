@@ -143,7 +143,7 @@ claude mcp add -s user github \
 
 - [Claude MCP設定方法を15分で完了する2026最新手順](https://nayo126.github.io/auto-blog/blog/claude-mcp設定方法を15分で完了する2026最新手順/)
 - [Claude MCPおすすめ厳選7選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/claude-mcpおすすめ厳選7選2026年最新版/)
-- [Claude MCP接続方法を5分で完全マスター【2026年最新】](https://nayo126.github.io/auto-blog/blog/claude-mcp接続方法を5分で完全マスター2026年最新/)
+- [Claude MCP追加方法を3手順で解説｜初心者向け](https://nayo126.github.io/auto-blog/blog/claude-mcp追加方法を3手順で解説初心者向け/)
 
 ### 姉妹サイトの関連記事
 - [Claude（Anthropic）が不調？r/ClaudeAIで朝のエラー・応答遅延が報告される](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic-r-claudeai.html) — AI News JP

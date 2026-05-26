@@ -120,3 +120,18 @@ Cursorは、無料のHobbyプランで使い心地を試し、本格運用する
 - [r/ClaudeAIで話題「定額の従業員 vs 変動課金」AIコーディング料金論](https://nayo126.github.io/ai-news-jp/posts/r-claudeai-vs-ai.html)
 - [Virgin AtlanticがOpenAI Codexでアプリ刷新、P1欠陥ゼロを達成](https://nayo126.github.io/ai-news-jp/posts/virgin-atlantic-openai-codex-p1.html)
 - [ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-3-reddit.html)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Cursorの使い方｜非エンジニア向け5ステップ](https://nayo126.github.io/auto-blog/blog/cursorの使い方非エンジニアでも作れる5ステップ/)
+- [Cursorの使い方を日本語で解説｜初心者向け5ステップ](https://nayo126.github.io/auto-blog/blog/cursorの使い方を日本語で解説初心者向け5ステップ/)
+- [Cursor使い方YouTube厳選7選｜2026年最新の学習動線](https://nayo126.github.io/auto-blog/blog/cursor使い方youtube厳選7選2026年最新の学習動線/)
+
+### 姉妹サイトの関連記事
+- [r/ClaudeAIで話題「定額の従業員 vs 変動課金」AIコーディング料金論](https://nayo126.github.io/ai-news-jp/posts/r-claudeai-vs-ai.html) — AI News JP
+- [Virgin AtlanticがOpenAI Codexでアプリ刷新、P1欠陥ゼロを達成](https://nayo126.github.io/ai-news-jp/posts/virgin-atlantic-openai-codex-p1.html) — AI News JP
+- [ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-3-reddit.html) — AI News JP
+
+<!-- SEO_MESH_END -->

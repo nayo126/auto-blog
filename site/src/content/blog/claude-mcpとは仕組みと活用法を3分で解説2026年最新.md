@@ -143,3 +143,18 @@ MCPはAnthropicが2024年11月に公開した規格ですが、オープンソ�
 </script>
 
 <!-- FAQ_END -->
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Claude MCP設定方法を15分で完了する2026最新手順](https://nayo126.github.io/auto-blog/blog/claude-mcp設定方法を15分で完了する2026最新手順/)
+- [Claude MCPおすすめ厳選7選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/claude-mcpおすすめ厳選7選2026年最新版/)
+- [Claude MCP追加方法を3手順で解説｜初心者向け](https://nayo126.github.io/auto-blog/blog/claude-mcp追加方法を3手順で解説初心者向け/)
+
+### 姉妹サイトの関連記事
+- [Claude（Anthropic）が不調？r/ClaudeAIで朝のエラー・応答遅延が報告される](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic-r-claudeai.html) — AI News JP
+- [Claude AIで激変するLinkedInプロフィール作成術2026年最新版](https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html) — AI News JP
+- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
+
+<!-- SEO_MESH_END -->

@@ -177,8 +177,8 @@ Otter.aiとFireflies.aiが英語会議に強く、話者識別やリアルタイ
 ## 関連する記事
 
 - [AI議事録ツール比較2026|無料6選の精度と料金](https://nayo126.github.io/auto-blog/blog/ai議事録ツール比較2026無料6選の精度と料金/)
+- [AI議事録 無料アプリ おすすめ7選【2026年最新】](https://nayo126.github.io/auto-blog/blog/ai議事録-無料アプリ-おすすめ7選2026年最新/)
 - [AI議事録 無料ツール比較7選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/ai議事録-無料ツール比較7選2026年最新版/)
-- [議事録AI文字起こしおすすめ7選｜2026年最新比較](https://nayo126.github.io/auto-blog/blog/議事録ai文字起こしおすすめ7選2026年最新比較/)
 
 ### 姉妹サイトの関連記事
 - [OpenAI Codex for Work、業務オペレーションチーム向け活用事例を公開](https://nayo126.github.io/ai-news-jp/posts/openai-codex-for-work.html) — AI News JP

@@ -142,7 +142,7 @@ bolt.newの料金は、無料プラスPro($20)・Pro 50・Pro 100・Pro 200($200
 
 - [bolt.new vs v0徹底比較2026年版｜個人開発で稼ぐ最適解](https://nayo126.github.io/auto-blog/blog/boltnew-vs-v0徹底比較2026年版個人開発で稼ぐ最適解/)
 - [bolt.new 評判は本当？AI開発の実力を徹底検証2026](https://nayo126.github.io/auto-blog/blog/boltnew-評判は本当ai開発の実力を徹底検証2026/)
-- [bolt.new ログイン方法5ステップ完全ガイド](https://nayo126.github.io/auto-blog/blog/boltnew-ログイン方法5ステップ完全ガイド/)
+- [bolt.newのロゴ設定3つの方法｜個人開発で差をつける](https://nayo126.github.io/auto-blog/blog/boltnewのロゴ設定3つの方法個人開発で差をつける/)
 
 ### 姉妹サイトの関連記事
 - [Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速](https://nayo126.github.io/ai-news-jp/posts/sea-limited-openai-codex.html) — AI News JP

@@ -145,7 +145,7 @@ bolt.newとv0は競合のように見えて、実は得意領域が異なる補�
 
 - [bolt.new料金まとめ|無料枠と有料4プランを比較](https://nayo126.github.io/auto-blog/blog/boltnew料金まとめ無料枠と有料4プランを比較/)
 - [bolt.new 評判は本当？AI開発の実力を徹底検証2026](https://nayo126.github.io/auto-blog/blog/boltnew-評判は本当ai開発の実力を徹底検証2026/)
-- [bolt.new ログイン方法5ステップ完全ガイド](https://nayo126.github.io/auto-blog/blog/boltnew-ログイン方法5ステップ完全ガイド/)
+- [bolt.newのロゴ設定3つの方法｜個人開発で差をつける](https://nayo126.github.io/auto-blog/blog/boltnewのロゴ設定3つの方法個人開発で差をつける/)
 
 ### 姉妹サイトの関連記事
 - [Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速](https://nayo126.github.io/ai-news-jp/posts/sea-limited-openai-codex.html) — AI News JP

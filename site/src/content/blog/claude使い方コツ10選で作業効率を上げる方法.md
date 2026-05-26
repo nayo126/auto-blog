@@ -89,3 +89,18 @@ Claudeにはいくつかのモデルがあり、用途で使い分けると効�
 ## まとめ
 
 Claudeの使い方のコツは、突き詰めると「最初の指示をどれだけ丁寧に設計するか」に尽きます。役割と前提を与え、出力形式を指定し、Projectsで設定を使い回す。そしてタスクに合ったモデルを選び、段階的に対話を重ねる——この流れを習慣にするだけで、AI副業の作業スピードは体感で大きく変わります。まずは今日の作業から、役割設定の一文を足すところから始めてみてください。
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Claude使い方おすすめ本5選｜2026年最新の独学ロードマップ](https://nayo126.github.io/auto-blog/blog/claude使い方おすすめ本5選2026年最新の独学ロードマップ/)
+- [プロンプトの作り方｜5要素と型で誰でも上達する基本](https://nayo126.github.io/auto-blog/blog/プロンプトの作り方5要素と型で誰でも上達する基本/)
+- [プロンプト入力で副業を始める7つの型｜月5万への最短ルート](https://nayo126.github.io/auto-blog/blog/プロンプト入力で副業を始める7つの型月5万への最短ルート/)
+
+### 姉妹サイトの関連記事
+- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
+- [Claude's first day at Dunder Mifflin？AIキャラ動画がr/ClaudeAIで話題](https://nayo126.github.io/ai-news-jp/posts/claude-s-first-day-at-dunder-mifflin-ai-r-claudeai.html) — AI News JP
+- [Claude（Anthropic）が不調？r/ClaudeAIで朝のエラー・応答遅延が報告される](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic-r-claudeai.html) — AI News JP
+
+<!-- SEO_MESH_END -->

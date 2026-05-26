@@ -127,7 +127,7 @@ bolt.newの評判は「初心者〜中級者のプロトタイプ用途では神
 
 - [bolt.new vs v0徹底比較2026年版｜個人開発で稼ぐ最適解](https://nayo126.github.io/auto-blog/blog/boltnew-vs-v0徹底比較2026年版個人開発で稼ぐ最適解/)
 - [bolt.new料金まとめ|無料枠と有料4プランを比較](https://nayo126.github.io/auto-blog/blog/boltnew料金まとめ無料枠と有料4プランを比較/)
-- [bolt.new ログイン方法5ステップ完全ガイド](https://nayo126.github.io/auto-blog/blog/boltnew-ログイン方法5ステップ完全ガイド/)
+- [bolt.newのロゴ設定3つの方法｜個人開発で差をつける](https://nayo126.github.io/auto-blog/blog/boltnewのロゴ設定3つの方法個人開発で差をつける/)
 
 ### 姉妹サイトの関連記事
 - [Sea LimitedがOpenAI Codexを全社導入、アジア発のエージェント型開発を加速](https://nayo126.github.io/ai-news-jp/posts/sea-limited-openai-codex.html) — AI News JP

@@ -114,9 +114,9 @@ ChatGPT APIキーの確認はplatform.openai.comの「API keys」画面が起点
 
 ## 関連する記事
 
+- [OpenAI APIキーの確認方法5手順｜表示されない時の対処も解説](https://nayo126.github.io/auto-blog/blog/openai-apiキーの確認方法5手順表示されない時の対処も解説/)
 - [Copilot vs OpenAI徹底比較2026｜5項目で最適解](https://nayo126.github.io/auto-blog/blog/copilot-vs-openai徹底比較20265項目で最適解/)
 - [AI英会話を無料で始める7つの方法【2026年最新】](https://nayo126.github.io/auto-blog/blog/ai英会話を無料で始める7つの方法2026年最新/)
-- [AI副業で月5万は現実か？2026年最新の稼ぎ方5選](https://nayo126.github.io/auto-blog/blog/ai副業で月5万は現実か2026年最新の稼ぎ方5選/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP

@@ -141,3 +141,18 @@ MCPサーバーは、Claude Codeを「コードを書く道具」から「作業
 </script>
 
 <!-- FAQ_END -->
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Claude MCP追加方法を3手順で解説｜初心者向け](https://nayo126.github.io/auto-blog/blog/claude-mcp追加方法を3手順で解説初心者向け/)
+- [claude mcp addの使い方完全ガイド2026年最新7手順](https://nayo126.github.io/auto-blog/blog/claude-mcp-addの使い方完全ガイド2026年最新7手順/)
+- [Claude MCPサーバーおすすめ7選｜2026年最新の選び方](https://nayo126.github.io/auto-blog/blog/claude-mcpサーバーおすすめ7選2026年最新の選び方/)
+
+### 姉妹サイトの関連記事
+- [OpenAI Codex for Work、業務オペレーションチーム向け活用事例を公開](https://nayo126.github.io/ai-news-jp/posts/openai-codex-for-work.html) — AI News JP
+- [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html) — AI News JP
+- [OpenAI Codexが財務チーム向け活用ガイド公開｜MBRや予実差異分析を自動化](https://nayo126.github.io/ai-news-jp/posts/openai-codex-mbr.html) — AI News JP
+
+<!-- SEO_MESH_END -->

@@ -122,6 +122,6 @@ image: "/auto-blog/ogp/ノーコードでwebサイト副業未経験から月5�
 
 - [STUDIOノーコード副業で月5万を狙う始め方5ステップ](https://nayo126.github.io/auto-blog/blog/studioノーコード副業で月5万を狙う始め方5ステップ/)
 - [ノーコードAIツール比較2026｜副業に効く7選](https://nayo126.github.io/auto-blog/blog/ノーコードaiツール比較2026副業に効く7選/)
-- [bolt.new 使い方｜3分で副業アプリを作る2026年最新版](https://nayo126.github.io/auto-blog/blog/boltnew-使い方3分で副業アプリを作る2026年最新版/)
+- [ノーコード副業の案件獲得5ステップ｜単価相場も解説](https://nayo126.github.io/auto-blog/blog/ノーコード副業の案件獲得5ステップ単価相場も解説/)
 
 <!-- SEO_MESH_END -->

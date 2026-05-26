@@ -112,7 +112,7 @@ OpenAI製品は数が多くても、副業で使う優先順位は明確です�
 
 - [Reddit発AI副業トレンド5選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/reddit発ai副業トレンド5選2026年最新版/)
 - [OpenAI 無料 API 2026最新7つの始め方](https://nayo126.github.io/auto-blog/blog/openai-無料-api-2026最新7つの始め方/)
-- [OpenAI無料枠2026最新ガイド｜7つの活用法と上限突破術](https://nayo126.github.io/auto-blog/blog/openai無料枠2026最新ガイド7つの活用法と上限突破術/)
+- [OpenAI APIキーの確認方法5手順｜表示されない時の対処も解説](https://nayo126.github.io/auto-blog/blog/openai-apiキーの確認方法5手順表示されない時の対処も解説/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html) — AI News JP

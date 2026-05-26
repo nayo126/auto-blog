@@ -102,6 +102,6 @@ STUDIOによるノーコード副業は、プログラミング未経験でも�
 
 - [ノーコードでWebサイト副業｜未経験から月5万を狙う始め方](https://nayo126.github.io/auto-blog/blog/ノーコードでwebサイト副業未経験から月5万を狙う始め方/)
 - [ノーコードAIツール比較2026｜副業に効く7選](https://nayo126.github.io/auto-blog/blog/ノーコードaiツール比較2026副業に効く7選/)
-- [bolt.new 使い方｜3分で副業アプリを作る2026年最新版](https://nayo126.github.io/auto-blog/blog/boltnew-使い方3分で副業アプリを作る2026年最新版/)
+- [ノーコード副業の案件獲得5ステップ｜単価相場も解説](https://nayo126.github.io/auto-blog/blog/ノーコード副業の案件獲得5ステップ単価相場も解説/)
 
 <!-- SEO_MESH_END -->
