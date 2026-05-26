@@ -147,3 +147,29 @@ Cursorは「VSCodeにAIが深く統合された姿」と捉えるのが一番し
 - [Coders in 2030 が話題｜Cursor・Codex・RunableでAIエージェント開発が標準化](https://nayo126.github.io/ai-news-jp/posts/coders-in-2030-cursor-codex-runable-ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Cursorは無料で使えますか？有料プランとの違いは？
+
+無料のHobbyプランでも基本機能とAI補完が使えますが、月数十回程度の制限があります。月額20ドルのProプランなら高速リクエストが月500回使え、Claude Sonnet 4.6やGPT-5.4を制限なく活用できます。本格的な開発ならProが現実的です。
+
+### Cursorに乗り換えたらVSCodeの拡張機能や設定は使えなくなりますか？
+
+ほぼそのまま引き継げます。CursorはVSCodeのフォークなので、初回起動時に既存のVSCode設定・拡張機能・キーバインド・テーマを自動インポートできます。GitHub CopilotなどMarketplace限定の一部拡張を除き、ほとんどの拡張がそのまま動作します。
+
+### CursorとGitHub Copilotはどちらが優れていますか？
+
+コード補完だけならCopilotで十分ですが、Cursorはチャットでコードベース全体を参照したり、複数ファイルを一括編集するComposer機能が強力です。月額はどちらも約20ドルで、AIにコードを書かせる比重が高いほどCursorが有利になります。
+
+### Cursorで日本語のチャットや指示は使えますか？
+
+問題なく使えます。チャットやComposerに日本語で「この関数にエラー処理を追加して」などと指示でき、AIが日本語のコメントや説明も返します。Claude Sonnet 4.6は日本語の精度が高く、英語に翻訳する手間は不要です。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Cursorは無料で使えますか？有料プランとの違いは？", "acceptedAnswer": {"@type": "Answer", "text": "無料のHobbyプランでも基本機能とAI補完が使えますが、月数十回程度の制限があります。月額20ドルのProプランなら高速リクエストが月500回使え、Claude Sonnet 4.6やGPT-5.4を制限なく活用できます。本格的な開発ならProが現実的です。"}}, {"@type": "Question", "name": "Cursorに乗り換えたらVSCodeの拡張機能や設定は使えなくなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "ほぼそのまま引き継げます。CursorはVSCodeのフォークなので、初回起動時に既存のVSCode設定・拡張機能・キーバインド・テーマを自動インポートできます。GitHub CopilotなどMarketplace限定の一部拡張を除き、ほとんどの拡張がそのまま動作します。"}}, {"@type": "Question", "name": "CursorとGitHub Copilotはどちらが優れていますか？", "acceptedAnswer": {"@type": "Answer", "text": "コード補完だけならCopilotで十分ですが、Cursorはチャットでコードベース全体を参照したり、複数ファイルを一括編集するComposer機能が強力です。月額はどちらも約20ドルで、AIにコードを書かせる比重が高いほどCursorが有利になります。"}}, {"@type": "Question", "name": "Cursorで日本語のチャットや指示は使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "問題なく使えます。チャットやComposerに日本語で「この関数にエラー処理を追加して」などと指示でき、AIが日本語のコメントや説明も返します。Claude Sonnet 4.6は日本語の精度が高く、英語に翻訳する手間は不要です。"}}]}
+</script>
+
+<!-- FAQ_END -->
