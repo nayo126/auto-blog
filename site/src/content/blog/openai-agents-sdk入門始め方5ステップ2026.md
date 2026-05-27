@@ -132,3 +132,29 @@ OpenAI Agents SDKは、Agent・Handoff・Guardrail・Tracingの4機能に絞っ�
 - [OpenAI、Codex on WindowsでAIエージェント用サンドボックスを構築](https://nayo126.github.io/ai-news-jp/posts/openai-codex-on-windows-ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### OpenAI Agents SDKは無料で使えますか？
+
+SDK自体はMITライセンスのオープンソースで無料です。ただし内部で呼び出すOpenAI APIは従量課金で、GPT-4o miniなら100万トークンあたり入力約0.15ドルと安価に試せます。
+
+### OpenAI Agents SDKとLangChainの違いは？
+
+Agents SDKは抽象化が少なく、覚える主要概念はAgent・Handoff・Guardrail・Runnerの数個だけです。一方LangChainは多機能ですがクラスが膨大で、最小構成のエージェント自作なら学習コストはSDKが数分の1です。
+
+### OpenAI Agents SDKを動かすのに必要な環境は？
+
+Python 3.9以上とOpenAI APIキーが必須です。pip install openai-agentsでインストールでき、環境変数OPENAI_API_KEYを設定すれば10行程度のコードで最初のエージェントが動きます。
+
+### Swarmから移行する必要はありますか？
+
+あります。Swarmは2024年末の実験プロジェクトで本番非推奨のため、後継のAgents SDKへ移行が推奨されます。基本概念は引き継がれており、エージェント定義やHandoffの書き換えは数十分で済みます。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "OpenAI Agents SDKは無料で使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "SDK自体はMITライセンスのオープンソースで無料です。ただし内部で呼び出すOpenAI APIは従量課金で、GPT-4o miniなら100万トークンあたり入力約0.15ドルと安価に試せます。"}}, {"@type": "Question", "name": "OpenAI Agents SDKとLangChainの違いは？", "acceptedAnswer": {"@type": "Answer", "text": "Agents SDKは抽象化が少なく、覚える主要概念はAgent・Handoff・Guardrail・Runnerの数個だけです。一方LangChainは多機能ですがクラスが膨大で、最小構成のエージェント自作なら学習コストはSDKが数分の1です。"}}, {"@type": "Question", "name": "OpenAI Agents SDKを動かすのに必要な環境は？", "acceptedAnswer": {"@type": "Answer", "text": "Python 3.9以上とOpenAI APIキーが必須です。pip install openai-agentsでインストールでき、環境変数OPENAI_API_KEYを設定すれば10行程度のコードで最初のエージェントが動きます。"}}, {"@type": "Question", "name": "Swarmから移行する必要はありますか？", "acceptedAnswer": {"@type": "Answer", "text": "あります。Swarmは2024年末の実験プロジェクトで本番非推奨のため、後継のAgents SDKへ移行が推奨されます。基本概念は引き継がれており、エージェント定義やHandoffの書き換えは数十分で済みます。"}}]}
+</script>
+
+<!-- FAQ_END -->

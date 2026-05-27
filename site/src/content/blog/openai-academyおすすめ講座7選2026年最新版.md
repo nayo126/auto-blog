@@ -136,3 +136,29 @@ OpenAI Academyは無料・公式・体系的という三拍子そろった学習
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### OpenAI Academyは本当に無料で使えますか？
+
+全講座を無料で受講できます。academy.openai.comでOpenAIアカウントを作成すれば、登録費・受講料・修了費は一切かかりません。ChatGPT Plusなどの有料プランへの加入も不要で、メールアドレスだけで今すぐ始められます。
+
+### OpenAI Academyは日本語に対応していますか？
+
+教材の多くは英語ですが、ブラウザの翻訳機能やChatGPT自体を使えば日本語で学習できます。動画は字幕設定で自動翻訳が可能なため、英語が苦手でも実用上の支障はほとんどありません。
+
+### プログラミング初心者でもOpenAI Academyについていけますか？
+
+ついていけます。ChatGPTの基本操作やプロンプト入門など、コード不要の講座が用意されています。まず初心者向け講座から始め、慣れてからAPIや開発系の講座へ進む順序がおすすめです。
+
+### OpenAI Academyの修了証は仕事で使えますか？
+
+一部講座では修了証が発行されますが、国家資格のような公的効力はありません。ただしOpenAI公式の学習履歴として、職務経歴書やSNSプロフィールでAIスキルの裏付けに活用する人が増えています。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "OpenAI Academyは本当に無料で使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "全講座を無料で受講できます。academy.openai.comでOpenAIアカウントを作成すれば、登録費・受講料・修了費は一切かかりません。ChatGPT Plusなどの有料プランへの加入も不要で、メールアドレスだけで今すぐ始められます。"}}, {"@type": "Question", "name": "OpenAI Academyは日本語に対応していますか？", "acceptedAnswer": {"@type": "Answer", "text": "教材の多くは英語ですが、ブラウザの翻訳機能やChatGPT自体を使えば日本語で学習できます。動画は字幕設定で自動翻訳が可能なため、英語が苦手でも実用上の支障はほとんどありません。"}}, {"@type": "Question", "name": "プログラミング初心者でもOpenAI Academyについていけますか？", "acceptedAnswer": {"@type": "Answer", "text": "ついていけます。ChatGPTの基本操作やプロンプト入門など、コード不要の講座が用意されています。まず初心者向け講座から始め、慣れてからAPIや開発系の講座へ進む順序がおすすめです。"}}, {"@type": "Question", "name": "OpenAI Academyの修了証は仕事で使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "一部講座では修了証が発行されますが、国家資格のような公的効力はありません。ただしOpenAI公式の学習履歴として、職務経歴書やSNSプロフィールでAIスキルの裏付けに活用する人が増えています。"}}]}
+</script>
+
+<!-- FAQ_END -->

@@ -153,3 +153,29 @@ OpenAI APIキーの確認方法を整理すると、ポイントは「全文は�
 - [AutoScout24がOpenAI CodexとChatGPTで開発効率化、AI駆動ワークフロー導入事例](https://nayo126.github.io/ai-news-jp/posts/autoscout24-openai-codex-chatgpt-ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### OpenAIのAPIキーを紛失したら再発行できますか?
+
+全文の再表示は不可能なので、紛失時はplatform.openai.comのAPI keysページで新しいキーを作成する。旧キーは「Revoke」で削除し、コードやツール側の設定を新キーに差し替える。所要時間は1〜2分。
+
+### OpenAI APIキーは無料で使えますか?
+
+キーの作成自体は無料だが、API利用は従量課金。GPT-4o miniなら入力100万トークンあたり約0.15ドルと安価。事前にBillingでクレジットを購入しないと401エラーで動かない。
+
+### OpenAI APIキーが漏洩したらどうすればいいですか?
+
+即座にAPI keysページで該当キーを「Revoke」して無効化する。GitHubに誤って公開した場合はOpenAIが自動検知して無効化することもある。新キー作成後はUsageで不正利用がないか確認する。
+
+### ChatGPT PlusとAPIキーは別物ですか?
+
+別物で課金も独立している。月20ドルのPlusはWeb版のChatGPTのみ対象で、APIの利用料は含まれない。外部ツールやコードと連携するにはAPIキーと別途のクレジット購入が必要。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "OpenAIのAPIキーを紛失したら再発行できますか?", "acceptedAnswer": {"@type": "Answer", "text": "全文の再表示は不可能なので、紛失時はplatform.openai.comのAPI keysページで新しいキーを作成する。旧キーは「Revoke」で削除し、コードやツール側の設定を新キーに差し替える。所要時間は1〜2分。"}}, {"@type": "Question", "name": "OpenAI APIキーは無料で使えますか?", "acceptedAnswer": {"@type": "Answer", "text": "キーの作成自体は無料だが、API利用は従量課金。GPT-4o miniなら入力100万トークンあたり約0.15ドルと安価。事前にBillingでクレジットを購入しないと401エラーで動かない。"}}, {"@type": "Question", "name": "OpenAI APIキーが漏洩したらどうすればいいですか?", "acceptedAnswer": {"@type": "Answer", "text": "即座にAPI keysページで該当キーを「Revoke」して無効化する。GitHubに誤って公開した場合はOpenAIが自動検知して無効化することもある。新キー作成後はUsageで不正利用がないか確認する。"}}, {"@type": "Question", "name": "ChatGPT PlusとAPIキーは別物ですか?", "acceptedAnswer": {"@type": "Answer", "text": "別物で課金も独立している。月20ドルのPlusはWeb版のChatGPTのみ対象で、APIの利用料は含まれない。外部ツールやコードと連携するにはAPIキーと別途のクレジット購入が必要。"}}]}
+</script>
+
+<!-- FAQ_END -->
