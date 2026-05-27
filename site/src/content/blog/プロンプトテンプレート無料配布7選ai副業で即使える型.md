@@ -17,6 +17,10 @@ image: "/auto-blog/ogp/プロンプトテンプレート無料配布7選ai副業
 
 ## そもそもプロンプトテンプレートとは何か
 
+<!-- INLINE_IMG -->
+![プロンプトテンプレート無料配布7選｜AI副業で即使える型 - そもそもプロンプトテンプレートとは何か](/auto-blog/inline-images/-7-ai--0.jpg)
+
+
 プロンプトテンプレートとは、AIへの指示を「穴埋め式」にした下書きのことです。毎回ゼロから文章を考えるのではなく、`【役割】【目的】【条件】【出力形式】` といった枠をあらかじめ用意しておき、案件ごとに中身だけ差し替えます。
 
 なぜ型が効くのか。理由は、ChatGPT 5やClaude Sonnet 4.6のような最新モデルでも、与えられた情報量が少ないと一般論しか返せないからです。「ブログ記事を書いて」では平凡な文章しか出ませんが、「20代女性向け・読了3分・結論先出し・見出し3本」と条件を足すだけで精度は跳ね上がります。
@@ -24,6 +28,10 @@ image: "/auto-blog/ogp/プロンプトテンプレート無料配布7選ai副業
 テンプレートはこの「条件出し」を毎回自動化する仕組みです。実際、海外のRedditでも「プロンプトを構造化しただけで出力品質が体感2倍になった」という報告が定番ネタとして共有されています。型は再現性を生む、これが本質です。
 
 ## プロンプトテンプレートを無料で入手する3つの方法
+
+<!-- INLINE_IMG -->
+![プロンプトテンプレート無料配布7選｜AI副業で即使える型 - プロンプトテンプレートを無料で入手する3つの方法](/auto-blog/inline-images/-7-ai--1.jpg)
+
 
 有料の有名なテンプレ集も存在しますが、まずは無料の選択肢で十分です。主な入手先は次の3つです。
 
@@ -115,3 +123,18 @@ image: "/auto-blog/ogp/プロンプトテンプレート無料配布7選ai副業
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html)
 - [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html)
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [ChatGPT日本語無料の使い方完全版2026最新7ステップ](https://nayo126.github.io/auto-blog/blog/chatgpt日本語無料の使い方完全版2026最新7ステップ/)
+- [ChatGPT APIキーを無料で使う5つの方法【2026年版】](https://nayo126.github.io/auto-blog/blog/chatgpt-apiキーを無料で使う5つの方法2026年版/)
+- [プロンプトテンプレート集7選｜AI副業で使える型と書き方2026](https://nayo126.github.io/auto-blog/blog/プロンプトテンプレート集7選ai副業で使える型と書き方2026/)
+
+### 姉妹サイトの関連記事
+- [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP
+- [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html) — AI News JP
+- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
+
+<!-- SEO_MESH_END -->

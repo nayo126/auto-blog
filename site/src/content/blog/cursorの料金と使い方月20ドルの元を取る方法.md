@@ -131,8 +131,8 @@ Cursorは、無料のHobbyプランで使い心地を試し、本格運用する
 
 ### 姉妹サイトの関連記事
 - [r/ClaudeAIで話題「定額の従業員 vs 変動課金」AIコーディング料金論](https://nayo126.github.io/ai-news-jp/posts/r-claudeai-vs-ai.html) — AI News JP
+- [Virgin AtlanticがOpenAI Codexでアプリを高速開発、P1不具合ゼロを達成](https://nayo126.github.io/ai-news-jp/posts/virgin-atlantic-openai-codex-p1.html) — AI News JP
 - [Virgin AtlanticがOpenAI Codexでアプリ刷新、P1欠陥ゼロを達成](https://nayo126.github.io/ai-news-jp/posts/virgin-atlantic-openai-codex-p1.html) — AI News JP
-- [ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-3-reddit.html) — AI News JP
 
 <!-- SEO_MESH_END -->
 

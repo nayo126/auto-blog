@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-27T00:36:18.871895+00:00",
+  "picked_at": "2026-05-27T07:45:34.063223+00:00",
   "count": 5,
   "items": [
     {
+      "category": "Claude活用",
+      "keyword": "claude プロンプト 書き方"
+    },
+    {
       "category": "AIツール比較",
-      "keyword": "ai 画像生成リアル"
-    },
-    {
-      "category": "海外AIトレンド",
-      "keyword": "openai anthropic 比較"
-    },
-    {
-      "category": "AI副業",
-      "keyword": "ai 副業とは"
-    },
-    {
-      "category": "AI画像生成",
-      "keyword": "leonardo ai おすすめ"
+      "keyword": "アイ ムービー 動画 保存 方法"
     },
     {
       "category": "ChatGPT活用",
-      "keyword": "chatgpt プロンプト 無料"
+      "keyword": "chatgpt apiキー 取得方法"
+    },
+    {
+      "category": "個人開発",
+      "keyword": "個人開発 アイデア出し"
+    },
+    {
+      "category": "海外AIトレンド",
+      "keyword": "ai スタートアップ 日本"
     }
   ]
 }

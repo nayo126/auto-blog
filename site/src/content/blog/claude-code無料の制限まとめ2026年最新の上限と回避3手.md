@@ -130,8 +130,8 @@ Claude Codeの無料制限は「5時間ごとのメッセージ枠×モデル制
 
 ### 姉妹サイトの関連記事
 - [Claude Codeが1時間連続編集？AIコーディング長時間自律作業の実態と注意点](https://nayo126.github.io/ai-news-jp/posts/claude-code-1-ai.html) — AI News JP
+- [Virgin AtlanticがOpenAI Codexでアプリを高速開発、P1不具合ゼロを達成](https://nayo126.github.io/ai-news-jp/posts/virgin-atlantic-openai-codex-p1.html) — AI News JP
 - [AutoScout24がOpenAI CodexとChatGPTで開発効率化、AI駆動ワークフロー導入事例](https://nayo126.github.io/ai-news-jp/posts/autoscout24-openai-codex-chatgpt-ai.html) — AI News JP
-- [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->
 

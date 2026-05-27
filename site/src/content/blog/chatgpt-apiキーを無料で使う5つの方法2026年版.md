@@ -124,8 +124,8 @@ APIキーが漏れると第三者に従量課金分を悪用され、数時間�
 ## 関連する記事
 
 - [ChatGPT日本語無料の使い方完全版2026最新7ステップ](https://nayo126.github.io/auto-blog/blog/chatgpt日本語無料の使い方完全版2026最新7ステップ/)
+- [プロンプトテンプレート無料配布7選｜AI副業で即使える型](https://nayo126.github.io/auto-blog/blog/プロンプトテンプレート無料配布7選ai副業で即使える型/)
 - [ChatGPT API無料トライアル活用術7選2026](https://nayo126.github.io/auto-blog/blog/chatgpt-api無料トライアル活用術7選2026年版/)
-- [ChatGPT API無料クレジットの真実2026|0円活用術7選](https://nayo126.github.io/auto-blog/blog/chatgpt-api無料クレジットの真実20260円活用術7選/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP
