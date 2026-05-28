@@ -15,6 +15,10 @@ image: "/auto-blog/ogp/claude-mcp追加方法を3手順で解説初心者向け.
 
 ## 結論：Claude MCPの追加方法は2系統だけ
 
+<!-- INLINE_IMG -->
+![Claude MCP追加方法を3手順で解説｜初心者向け - 結論：Claude MCPの追加方法は2系統だけ](/auto-blog/inline-images/claude-mcp-3--0.jpg)
+
+
 最初に全体像をつかんでおくと迷わない。MCP（Model Context Protocol）はAnthropicが2024年末に公開した規格で、Claudeを外部のファイル・データベース・APIとつなぐ「共通プラグイン」のような仕組みだ。追加の入り口は次の2つに集約される。
 
 - **Claude Desktopアプリ**：`claude_desktop_config.json` という設定ファイルにサーバー情報を書き込む方式
@@ -32,6 +36,10 @@ GUI中心で使うならDesktop、ターミナルで開発するならClaude Cod
 
 
 ## MCPを追加すると何ができるのか
+
+<!-- INLINE_IMG -->
+![Claude MCP追加方法を3手順で解説｜初心者向け - MCPを追加すると何ができるのか](/auto-blog/inline-images/claude-mcp-3--1.jpg)
+
 
 手順の前に、追加する価値を30秒で確認しておきたい。MCPを入れると、Claudeが「会話だけのAI」から「自分の環境を操作できるAI」に変わる。
 
