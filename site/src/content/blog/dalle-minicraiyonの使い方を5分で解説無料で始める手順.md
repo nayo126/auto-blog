@@ -120,3 +120,29 @@ DALL·E mini の使い方は、現在の「Craiyon」にアクセスして英語
 - [Leonardo AI 日本語で無料利用｜2026最新7つの始め方](https://nayo126.github.io/auto-blog/blog/leonardo-ai-日本語で無料利用2026最新7つの始め方/)
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Craiyonは日本語のプロンプトに対応していますか？
+
+Craiyonは日本語入力でも動きますが、精度が大きく落ちます。「a cat wearing a hat」のように英語で書くと意図通りの画像が出やすいです。日本語で打つ場合はDeepLなどで英訳してから入力するのが確実です。
+
+### CraiyonとDALL·E 3の違いは何ですか？
+
+Craiyonは登録不要・無料でブラウザ完結する一方、画質と精度はDALL·E 3に劣ります。DALL·E 3はChatGPT Plus（月20ドル）が必要ですが、文字の再現や複雑な構図に強いです。手軽さ重視ならCraiyon、品質重視ならDALL·E 3です。
+
+### Craiyonで作った画像を商用利用できますか？
+
+無料プランの画像にはCraiyonのウォーターマークが入り、商用利用には有料プラン（月5ドル前後のSupporter以上）が必要です。副業で使う場合は有料プランに登録し、利用規約で商用可否を確認してから使ってください。
+
+### Craiyonで画像生成にかかる時間はどれくらいですか？
+
+無料プランは1回の生成に約1〜2分かかり、9枚の画像が同時に出力されます。有料プランでは待ち時間が短縮され広告も非表示になります。混雑時は無料版だとさらに時間がかかる場合があります。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Craiyonは日本語のプロンプトに対応していますか？", "acceptedAnswer": {"@type": "Answer", "text": "Craiyonは日本語入力でも動きますが、精度が大きく落ちます。「a cat wearing a hat」のように英語で書くと意図通りの画像が出やすいです。日本語で打つ場合はDeepLなどで英訳してから入力するのが確実です。"}}, {"@type": "Question", "name": "CraiyonとDALL·E 3の違いは何ですか？", "acceptedAnswer": {"@type": "Answer", "text": "Craiyonは登録不要・無料でブラウザ完結する一方、画質と精度はDALL·E 3に劣ります。DALL·E 3はChatGPT Plus（月20ドル）が必要ですが、文字の再現や複雑な構図に強いです。手軽さ重視ならCraiyon、品質重視ならDALL·E 3です。"}}, {"@type": "Question", "name": "Craiyonで作った画像を商用利用できますか？", "acceptedAnswer": {"@type": "Answer", "text": "無料プランの画像にはCraiyonのウォーターマークが入り、商用利用には有料プラン（月5ドル前後のSupporter以上）が必要です。副業で使う場合は有料プランに登録し、利用規約で商用可否を確認してから使ってください。"}}, {"@type": "Question", "name": "Craiyonで画像生成にかかる時間はどれくらいですか？", "acceptedAnswer": {"@type": "Answer", "text": "無料プランは1回の生成に約1〜2分かかり、9枚の画像が同時に出力されます。有料プランでは待ち時間が短縮され広告も非表示になります。混雑時は無料版だとさらに時間がかかる場合があります。"}}]}
+</script>
+
+<!-- FAQ_END -->

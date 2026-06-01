@@ -171,3 +171,29 @@ Claude Codeの成果は、ツールの性能よりプロンプトの設計で決
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Claude CodeとChatGPTのコード生成はどっちが優秀？
+
+Claude Codeはターミナル上でファイル全体を読み書きし、複数ファイルの修正やテスト実行まで一括対応できる点が強みです。単発のコード片を聞くならChatGPTでも十分ですが、既存プロジェクトの改修や副業の実務ではClaude Codeが効率的です。
+
+### Claude Codeの料金はいくらかかりますか？
+
+Claude Proは月20ドル（約3,000円）、上位のMaxプランは月100ドルまたは200ドルです。本格的に副業で使うならMaxプランが快適ですが、まず試すならProプランで十分始められます。
+
+### プログラミング未経験でもClaude Codeで副業できますか？
+
+可能です。HTMLやWordPressのカスタマイズなど簡単な案件なら、プロンプトで指示しエラーを貼り付けて直す流れで対応できます。まず月1〜3万円規模のコーディング案件から始め、3ヶ月ほどで基礎を固めるのが現実的です。
+
+### Claude Codeが思った通りのコードを出さないのはなぜ？
+
+指示が曖昧なことが主な原因です。言語・フレームワーク・バージョン（例：Next.js 15）を明記し、「役割→文脈→タスク→制約→出力形式」の順で書くと精度が上がります。1回で完璧を求めず、2〜3回の修正指示で仕上げるのがコツです。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Claude CodeとChatGPTのコード生成はどっちが優秀？", "acceptedAnswer": {"@type": "Answer", "text": "Claude Codeはターミナル上でファイル全体を読み書きし、複数ファイルの修正やテスト実行まで一括対応できる点が強みです。単発のコード片を聞くならChatGPTでも十分ですが、既存プロジェクトの改修や副業の実務ではClaude Codeが効率的です。"}}, {"@type": "Question", "name": "Claude Codeの料金はいくらかかりますか？", "acceptedAnswer": {"@type": "Answer", "text": "Claude Proは月20ドル（約3,000円）、上位のMaxプランは月100ドルまたは200ドルです。本格的に副業で使うならMaxプランが快適ですが、まず試すならProプランで十分始められます。"}}, {"@type": "Question", "name": "プログラミング未経験でもClaude Codeで副業できますか？", "acceptedAnswer": {"@type": "Answer", "text": "可能です。HTMLやWordPressのカスタマイズなど簡単な案件なら、プロンプトで指示しエラーを貼り付けて直す流れで対応できます。まず月1〜3万円規模のコーディング案件から始め、3ヶ月ほどで基礎を固めるのが現実的です。"}}, {"@type": "Question", "name": "Claude Codeが思った通りのコードを出さないのはなぜ？", "acceptedAnswer": {"@type": "Answer", "text": "指示が曖昧なことが主な原因です。言語・フレームワーク・バージョン（例：Next.js 15）を明記し、「役割→文脈→タスク→制約→出力形式」の順で書くと精度が上がります。1回で完璧を求めず、2〜3回の修正指示で仕上げるのがコツです。"}}]}
+</script>
+
+<!-- FAQ_END -->
