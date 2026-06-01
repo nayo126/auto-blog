@@ -113,7 +113,7 @@ ImageFXは無料で使えるうえ、2026年時点では商用利用も認めら
 ## 関連する記事
 
 - [Midjourney vs Leonardo AI 2026徹底比較7項目](https://nayo126.github.io/auto-blog/blog/midjourney-vs-leonardo-ai-2026徹底比較7項目/)
+- [AI画像生成の無料アプリおすすめ7選【2026年最新比較】](https://nayo126.github.io/auto-blog/blog/ai画像生成の無料アプリおすすめ7選2026年最新比較/)
 - [DALL-Eの使い方を5分で習得｜初心者向け完全ガイド2026](https://nayo126.github.io/auto-blog/blog/dall-eの使い方を5分で習得初心者向け完全ガイド2026/)
-- [Leonardo AI 無料プランの範囲と限界2026年版](https://nayo126.github.io/auto-blog/blog/leonardo-ai-無料プランの範囲と限界2026年版/)
 
 <!-- SEO_MESH_END -->

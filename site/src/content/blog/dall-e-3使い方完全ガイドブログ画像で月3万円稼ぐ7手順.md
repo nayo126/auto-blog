@@ -147,6 +147,32 @@ DALL-E 3はブログのアイキャッチ内製化、画像作成代行、プロ
 
 - [DALL-E 3 APIの使い方｜2026年最新料金と副業活用5選](https://nayo126.github.io/auto-blog/blog/dall-e-3-apiの使い方2026年最新料金と副業活用5選/)
 - [Midjourney vs Leonardo AI 2026徹底比較7項目](https://nayo126.github.io/auto-blog/blog/midjourney-vs-leonardo-ai-2026徹底比較7項目/)
-- [DALL-Eの使い方を5分で習得｜初心者向け完全ガイド2026](https://nayo126.github.io/auto-blog/blog/dall-eの使い方を5分で習得初心者向け完全ガイド2026/)
+- [AI画像生成の無料アプリおすすめ7選【2026年最新比較】](https://nayo126.github.io/auto-blog/blog/ai画像生成の無料アプリおすすめ7選2026年最新比較/)
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### DALL-E 3は無料で使えますか？
+
+完全無料では使えません。ChatGPT Plus(月額20ドル)への加入が必要で、その中にDALL-E 3が含まれます。画像生成専用の追加課金は不要なので、月20ドルでブログ画像を量産できます。
+
+### DALL-E 3で生成した画像は商用利用できますか？
+
+可能です。OpenAIの規約上、生成画像の権利は利用者に帰属し、ブログのアイキャッチや代行販売にも使えます。ただし他者の商標やキャラクターを模倣したプロンプトは避ける必要があります。
+
+### DALL-E 3とMidjourneyはどちらがブログ向きですか？
+
+日本語プロンプトをそのまま理解し、ChatGPT上で対話的に修正できるDALL-E 3がブログ初心者向きです。Midjourneyは月10ドルからで芸術性は高いものの、Discord操作と英語プロンプトの習熟が必要です。
+
+### ブログ画像で月3万円稼ぐにはどのくらい必要ですか？
+
+アイキャッチ作成代行を1枚1,500〜3,000円で受注する場合、月10〜20件で達成できます。1枚あたりの生成は数分なので、ココナラ等で受注導線を作れば現実的な水準です。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "DALL-E 3は無料で使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "完全無料では使えません。ChatGPT Plus(月額20ドル)への加入が必要で、その中にDALL-E 3が含まれます。画像生成専用の追加課金は不要なので、月20ドルでブログ画像を量産できます。"}}, {"@type": "Question", "name": "DALL-E 3で生成した画像は商用利用できますか？", "acceptedAnswer": {"@type": "Answer", "text": "可能です。OpenAIの規約上、生成画像の権利は利用者に帰属し、ブログのアイキャッチや代行販売にも使えます。ただし他者の商標やキャラクターを模倣したプロンプトは避ける必要があります。"}}, {"@type": "Question", "name": "DALL-E 3とMidjourneyはどちらがブログ向きですか？", "acceptedAnswer": {"@type": "Answer", "text": "日本語プロンプトをそのまま理解し、ChatGPT上で対話的に修正できるDALL-E 3がブログ初心者向きです。Midjourneyは月10ドルからで芸術性は高いものの、Discord操作と英語プロンプトの習熟が必要です。"}}, {"@type": "Question", "name": "ブログ画像で月3万円稼ぐにはどのくらい必要ですか？", "acceptedAnswer": {"@type": "Answer", "text": "アイキャッチ作成代行を1枚1,500〜3,000円で受注する場合、月10〜20件で達成できます。1枚あたりの生成は数分なので、ココナラ等で受注導線を作れば現実的な水準です。"}}]}
+</script>
+
+<!-- FAQ_END -->

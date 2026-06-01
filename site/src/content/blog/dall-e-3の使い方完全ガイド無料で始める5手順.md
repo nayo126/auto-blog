@@ -129,3 +129,29 @@ DALL-E 3の使い方は、突き詰めれば「ChatGPTに日本語で頼む」�
 - [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### DALL-E 3で作った画像は商用利用できますか?
+
+OpenAIの利用規約では、DALL-E 3で生成した画像の所有権はユーザーに帰属し、販売や広告など商用利用が可能です。ブログのアイキャッチやnote記事の挿絵、グッズ販売にも使えます。ただし著名人の顔や既存ブランドのロゴ生成は規約違反になります。
+
+### DALL-E 3は無料で何枚まで作れますか?
+
+無料版ChatGPTでは1日あたり数枚程度に制限され、上限に達すると翌日まで待つ必要があります。枚数を増やすなら月20ドルのChatGPT Plusで、3時間ごとに約数十枚まで生成できます。本格的に使うなら有料版が現実的です。
+
+### DALL-E 3とMidjourneyはどちらがおすすめですか?
+
+初心者にはDALL-E 3が向いています。ChatGPTに日本語で話しかけるだけで生成でき、Discord操作や英語プロンプトが不要だからです。一方Midjourneyは写実性やアート性で勝るため、商業デザインの質を追求する人向けです。
+
+### DALL-E 3で思い通りの画像が出ないときのコツは?
+
+「猫」だけでなく「夕暮れの窓辺で丸くなる茶トラ猫、水彩画風」のように被写体・状況・画風の3要素を入れると精度が上がります。出力後も「もっと明るく」「縦長に」と会話で修正でき、修正指示を重ねるほど理想に近づきます。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "DALL-E 3で作った画像は商用利用できますか?", "acceptedAnswer": {"@type": "Answer", "text": "OpenAIの利用規約では、DALL-E 3で生成した画像の所有権はユーザーに帰属し、販売や広告など商用利用が可能です。ブログのアイキャッチやnote記事の挿絵、グッズ販売にも使えます。ただし著名人の顔や既存ブランドのロゴ生成は規約違反になります。"}}, {"@type": "Question", "name": "DALL-E 3は無料で何枚まで作れますか?", "acceptedAnswer": {"@type": "Answer", "text": "無料版ChatGPTでは1日あたり数枚程度に制限され、上限に達すると翌日まで待つ必要があります。枚数を増やすなら月20ドルのChatGPT Plusで、3時間ごとに約数十枚まで生成できます。本格的に使うなら有料版が現実的です。"}}, {"@type": "Question", "name": "DALL-E 3とMidjourneyはどちらがおすすめですか?", "acceptedAnswer": {"@type": "Answer", "text": "初心者にはDALL-E 3が向いています。ChatGPTに日本語で話しかけるだけで生成でき、Discord操作や英語プロンプトが不要だからです。一方Midjourneyは写実性やアート性で勝るため、商業デザインの質を追求する人向けです。"}}, {"@type": "Question", "name": "DALL-E 3で思い通りの画像が出ないときのコツは?", "acceptedAnswer": {"@type": "Answer", "text": "「猫」だけでなく「夕暮れの窓辺で丸くなる茶トラ猫、水彩画風」のように被写体・状況・画風の3要素を入れると精度が上がります。出力後も「もっと明るく」「縦長に」と会話で修正でき、修正指示を重ねるほど理想に近づきます。"}}]}
+</script>
+
+<!-- FAQ_END -->

@@ -149,8 +149,8 @@ Claude AIは、ChatGPTより派手さはないものの、長文処理と自然�
 ## 関連する記事
 
 - [Claudeプロンプトの書き方7つのコツ｜返答3倍精度UP](https://nayo126.github.io/auto-blog/blog/claudeプロンプトの書き方7つのコツ返答3倍精度up/)
+- [Claudeで副業を始める完全ガイド2026年最新7選](https://nayo126.github.io/auto-blog/blog/claudeで副業を始める完全ガイド2026年最新7選/)
 - [AI在宅副業で月5万円｜2026年最新の始め方7選](https://nayo126.github.io/auto-blog/blog/ai在宅副業で月5万円2026年最新の始め方7選/)
-- [プロンプトエンジニア副業で月10万円稼ぐ5つの始め方](https://nayo126.github.io/auto-blog/blog/プロンプトエンジニア副業で月10万円稼ぐ5つの始め方/)
 
 ### 姉妹サイトの関連記事
 - [Claude（Anthropic）が不調？r/ClaudeAIで朝のエラー・応答遅延が報告される](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic-r-claudeai.html) — AI News JP

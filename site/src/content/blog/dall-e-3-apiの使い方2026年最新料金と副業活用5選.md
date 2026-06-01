@@ -133,6 +133,32 @@ DALL-E 3 APIは、月額固定から従量課金へ切り替えることで副�
 
 - [DALL-E 3使い方完全ガイド｜ブログ画像で月3万円稼ぐ7手順](https://nayo126.github.io/auto-blog/blog/dall-e-3使い方完全ガイドブログ画像で月3万円稼ぐ7手順/)
 - [Midjourney vs Leonardo AI 2026徹底比較7項目](https://nayo126.github.io/auto-blog/blog/midjourney-vs-leonardo-ai-2026徹底比較7項目/)
-- [DALL-Eの使い方を5分で習得｜初心者向け完全ガイド2026](https://nayo126.github.io/auto-blog/blog/dall-eの使い方を5分で習得初心者向け完全ガイド2026/)
+- [AI画像生成の無料アプリおすすめ7選【2026年最新比較】](https://nayo126.github.io/auto-blog/blog/ai画像生成の無料アプリおすすめ7選2026年最新比較/)
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### DALL-E 3 APIとChatGPT Plusのどっちが安い？
+
+月の生成枚数で決まります。standard品質1024×1024は1枚約0.04ドル(約6円)なので、月300枚以下ならAPIが割安です。ChatGPT Plusは月20ドル固定のため、毎日10枚以上量産する人はサブスク、たまに使う人はAPIが向きます。
+
+### DALL-E 3 APIで生成した画像は商用利用できる？
+
+OpenAIの利用規約上、API生成画像の権利は利用者に帰属し、ブログのアイキャッチや販売物にも使えます。ただし著名人や既存ブランドロゴの模倣はNG。クライアント納品時は「AI生成」と明示し、各プラットフォームの規約も確認してください。
+
+### DALL-E 3 APIのキー取得から実装まで何が必要？
+
+OpenAIアカウント登録後、platform.openai.comの「API keys」でキーを発行し、クレジットカードで前払いチャージします。あとはPythonのopenaiライブラリをpip installし、images.generateを数十行書くだけ。最短30分で1枚目を生成できます。
+
+### DALL-E 3 APIで生成できる画像サイズは？
+
+1024×1024(正方形)、1792×1024(横長)、1024×1792(縦長)の3種類です。standard品質は約0.04ドル、HD品質と横長・縦長は約0.08ドル。ブログアイキャッチは横長、SNSアイコンは正方形と用途で使い分けます。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "DALL-E 3 APIとChatGPT Plusのどっちが安い？", "acceptedAnswer": {"@type": "Answer", "text": "月の生成枚数で決まります。standard品質1024×1024は1枚約0.04ドル(約6円)なので、月300枚以下ならAPIが割安です。ChatGPT Plusは月20ドル固定のため、毎日10枚以上量産する人はサブスク、たまに使う人はAPIが向きます。"}}, {"@type": "Question", "name": "DALL-E 3 APIで生成した画像は商用利用できる？", "acceptedAnswer": {"@type": "Answer", "text": "OpenAIの利用規約上、API生成画像の権利は利用者に帰属し、ブログのアイキャッチや販売物にも使えます。ただし著名人や既存ブランドロゴの模倣はNG。クライアント納品時は「AI生成」と明示し、各プラットフォームの規約も確認してください。"}}, {"@type": "Question", "name": "DALL-E 3 APIのキー取得から実装まで何が必要？", "acceptedAnswer": {"@type": "Answer", "text": "OpenAIアカウント登録後、platform.openai.comの「API keys」でキーを発行し、クレジットカードで前払いチャージします。あとはPythonのopenaiライブラリをpip installし、images.generateを数十行書くだけ。最短30分で1枚目を生成できます。"}}, {"@type": "Question", "name": "DALL-E 3 APIで生成できる画像サイズは？", "acceptedAnswer": {"@type": "Answer", "text": "1024×1024(正方形)、1792×1024(横長)、1024×1792(縦長)の3種類です。standard品質は約0.04ドル、HD品質と横長・縦長は約0.08ドル。ブログアイキャッチは横長、SNSアイコンは正方形と用途で使い分けます。"}}]}
+</script>
+
+<!-- FAQ_END -->
