@@ -14,8 +14,8 @@ image: "/auto-blog/ogp/welcome.png"
 
 ## 関連する記事
 
+- [Claude Codeおすすめプロンプト10選｜副業効率3倍の実例集](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめプロンプト10選副業効率3倍の実例集/)
 - [プロンプトを売る方法2026｜PromptBaseで月3万稼ぐ5ステップ](https://nayo126.github.io/auto-blog/blog/プロンプトを売る方法2026promptbaseで月3万稼ぐ5ステップ/)
 - [Claude CodeとGemini徹底比較2026｜副業で使うべきはどっち](https://nayo126.github.io/auto-blog/blog/claude-codeとgemini徹底比較2026副業で使うべきはどっち/)
-- [Claude AIで稼ぐ副業7選｜月10万円ロードマップ2026](https://nayo126.github.io/auto-blog/blog/claude-aiで稼ぐ副業7選月10万円ロードマップ2026/)
 
 <!-- SEO_MESH_END -->

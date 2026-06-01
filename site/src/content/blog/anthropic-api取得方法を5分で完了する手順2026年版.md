@@ -135,6 +135,6 @@ console.anthropic.comのAPI Keys画面から該当キーを即削除（revoke）
 
 - [Anthropic API利用方法5ステップ完全ガイド2026年版](https://nayo126.github.io/auto-blog/blog/anthropic-api利用方法5ステップ完全ガイド2026年版/)
 - [AI副業ラボ、はじめます](https://nayo126.github.io/auto-blog/blog/welcome/)
-- [プロンプトを売る方法2026｜PromptBaseで月3万稼ぐ5ステップ](https://nayo126.github.io/auto-blog/blog/プロンプトを売る方法2026promptbaseで月3万稼ぐ5ステップ/)
+- [Claude Codeおすすめプロンプト10選｜副業効率3倍の実例集](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめプロンプト10選副業効率3倍の実例集/)
 
 <!-- SEO_MESH_END -->

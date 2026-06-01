@@ -154,9 +154,9 @@ Claude ProやMaxの月額プラン契約、またはAPIキーの従量課金が�
 
 ## 関連する記事
 
+- [Claude Codeおすすめプロンプト10選｜副業効率3倍の実例集](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめプロンプト10選副業効率3倍の実例集/)
 - [Claude CodeとGemini徹底比較2026｜副業で使うべきはどっち](https://nayo126.github.io/auto-blog/blog/claude-codeとgemini徹底比較2026副業で使うべきはどっち/)
 - [Claude Code 無料トライアルは可能？2026年最新の始め方](https://nayo126.github.io/auto-blog/blog/claude-code-free-trial/)
-- [Claude Codeおすすめターミナル7選｜2026年最新比較](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめターミナル7選2026年最新比較/)
 
 ### 姉妹サイトの関連記事
 - [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html) — AI News JP

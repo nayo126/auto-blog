@@ -156,3 +156,18 @@ Claude Codeの成果は、ツールの性能よりプロンプトの設計で決
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html)
 - [Claude's first day at Dunder Mifflin？AIキャラ動画がr/ClaudeAIで話題](https://nayo126.github.io/ai-news-jp/posts/claude-s-first-day-at-dunder-mifflin-ai-r-claudeai.html)
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Claude CodeとGemini徹底比較2026｜副業で使うべきはどっち](https://nayo126.github.io/auto-blog/blog/claude-codeとgemini徹底比較2026副業で使うべきはどっち/)
+- [ChatGPTプロンプトジェネレーター7選｜2026最新活用術](https://nayo126.github.io/auto-blog/blog/chatgptプロンプトジェネレーター7選2026最新活用術/)
+- [ChatGPTプロンプト集｜コピペで使える15例と作り方](https://nayo126.github.io/auto-blog/blog/chatgptプロンプト集コピペで使える15例と作り方/)
+
+### 姉妹サイトの関連記事
+- [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP
+- [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html) — AI News JP
+- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
+
+<!-- SEO_MESH_END -->

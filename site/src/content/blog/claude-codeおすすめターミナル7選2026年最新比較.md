@@ -94,8 +94,8 @@ Claude Codeの体験はターミナル選びで大きく変わる。AI連携を�
 ## 関連する記事
 
 - [Claude Code 起動方法を5分で解説｜初心者向け完全手順2026](https://nayo126.github.io/auto-blog/blog/claude-code-起動方法を5分で解説初心者向け完全手順2026/)
+- [Claude Codeおすすめプロンプト10選｜副業効率3倍の実例集](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめプロンプト10選副業効率3倍の実例集/)
 - [Claude CodeとGemini徹底比較2026｜副業で使うべきはどっち](https://nayo126.github.io/auto-blog/blog/claude-codeとgemini徹底比較2026副業で使うべきはどっち/)
-- [Claude Codeおすすめプラグイン7選 2026年版](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめプラグイン7選-2026年版/)
 
 ### 姉妹サイトの関連記事
 - [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html) — AI News JP

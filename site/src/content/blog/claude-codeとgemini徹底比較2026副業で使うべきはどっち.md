@@ -151,8 +151,8 @@ Claude CodeとGeminiは、どちらが上という関係ではありません。
 ## 関連する記事
 
 - [Gemini vs OpenAI比較2026｜稼げるAIはどっち](https://nayo126.github.io/auto-blog/blog/gemini-vs-openai比較2026稼げるaiはどっち/)
+- [Claude Codeおすすめプロンプト10選｜副業効率3倍の実例集](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめプロンプト10選副業効率3倍の実例集/)
 - [Claude Code 無料トライアルは可能？2026年最新の始め方](https://nayo126.github.io/auto-blog/blog/claude-code-free-trial/)
-- [DeepSeekとOpenAIを徹底比較｜副業に使う3つの判断軸](https://nayo126.github.io/auto-blog/blog/deepseekとopenaiを徹底比較副業に使う3つの判断軸/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP

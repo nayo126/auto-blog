@@ -120,9 +120,9 @@ Claude Codeに明確な無料期間はないものの、Claude.aiの無料プラ
 
 ## 関連する記事
 
+- [Claude Codeおすすめプロンプト10選｜副業効率3倍の実例集](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめプロンプト10選副業効率3倍の実例集/)
 - [Claude CodeとGemini徹底比較2026｜副業で使うべきはどっち](https://nayo126.github.io/auto-blog/blog/claude-codeとgemini徹底比較2026副業で使うべきはどっち/)
 - [Anthropic最新動向2026｜Claude活用で副業収益化する5つの方法](https://nayo126.github.io/auto-blog/blog/anthropic最新動向2026claude活用で副業収益化する5つの方法/)
-- [Anthropic Mythosとは何か？2026年最新AI動向7選](https://nayo126.github.io/auto-blog/blog/anthropic-mythosとは何か2026年最新ai動向7選/)
 
 ### 姉妹サイトの関連記事
 - [Claude（Anthropic）が不調？r/ClaudeAIで朝のエラー・応答遅延が報告される](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic-r-claudeai.html) — AI News JP
