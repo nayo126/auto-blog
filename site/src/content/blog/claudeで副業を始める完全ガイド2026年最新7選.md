@@ -129,3 +129,29 @@ Claudeで副業を始めるなら、今がベストタイミング。ChatGPT副�
 - [Claude（Anthropic）が不調？r/ClaudeAIで朝のエラー・応答遅延が報告される](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic-r-claudeai.html)
 - [Claude AIで激変するLinkedInプロフィール作成術2026年最新版](https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html)
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html)
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### ClaudeとChatGPTはどっちが副業向き?
+
+長文ライティングや論理構築はClaudeが優位で、SEO記事や電子書籍向き。一方、画像生成やプラグイン連携はChatGPTが強い。文章単価で稼ぐならClaude、汎用作業ならChatGPTと使い分けるのが効率的。
+
+### Claudeの副業は無料プランでも稼げる?
+
+無料プランは1日の利用回数に制限があり、長文記事を量産するには不十分。月20ドルのClaude Proなら使用量が約5倍になり、SEO記事を1日5本ペースで作れる。本格的に月3万円以上を狙うならPro契約が現実的。
+
+### ClaudeでSEO記事を書くと月いくら稼げる?
+
+文字単価0.5〜1円のクラウドソーシング案件なら、3000字記事を月20本納品で約3〜6万円。構成と推敲をClaudeに任せれば1記事1〜2時間で仕上がり、初心者でも3ヶ月目から月3万円が射程に入る。
+
+### AIで書いた記事はGoogleにペナルティを受ける?
+
+Googleは2023年以降、AI生成自体を問題視せず「品質と独自性」を評価基準にしている。一次情報や実体験を加え、事実確認を済ませれば上位表示は可能。AIの下書きをそのまま投稿せず必ず人の手で編集することが必須。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "ClaudeとChatGPTはどっちが副業向き?", "acceptedAnswer": {"@type": "Answer", "text": "長文ライティングや論理構築はClaudeが優位で、SEO記事や電子書籍向き。一方、画像生成やプラグイン連携はChatGPTが強い。文章単価で稼ぐならClaude、汎用作業ならChatGPTと使い分けるのが効率的。"}}, {"@type": "Question", "name": "Claudeの副業は無料プランでも稼げる?", "acceptedAnswer": {"@type": "Answer", "text": "無料プランは1日の利用回数に制限があり、長文記事を量産するには不十分。月20ドルのClaude Proなら使用量が約5倍になり、SEO記事を1日5本ペースで作れる。本格的に月3万円以上を狙うならPro契約が現実的。"}}, {"@type": "Question", "name": "ClaudeでSEO記事を書くと月いくら稼げる?", "acceptedAnswer": {"@type": "Answer", "text": "文字単価0.5〜1円のクラウドソーシング案件なら、3000字記事を月20本納品で約3〜6万円。構成と推敲をClaudeに任せれば1記事1〜2時間で仕上がり、初心者でも3ヶ月目から月3万円が射程に入る。"}}, {"@type": "Question", "name": "AIで書いた記事はGoogleにペナルティを受ける?", "acceptedAnswer": {"@type": "Answer", "text": "Googleは2023年以降、AI生成自体を問題視せず「品質と独自性」を評価基準にしている。一次情報や実体験を加え、事実確認を済ませれば上位表示は可能。AIの下書きをそのまま投稿せず必ず人の手で編集することが必須。"}}]}
+</script>
+
+<!-- FAQ_END -->

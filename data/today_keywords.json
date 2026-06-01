@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-05-28T17:45:16.344712+00:00",
+  "picked_at": "2026-06-01T13:30:00.213202+00:00",
   "count": 5,
   "items": [
     {
-      "category": "AIツール比較",
-      "keyword": "ai 画像生成 規制なし"
+      "category": "ChatGPT活用",
+      "keyword": "chatgpt プロンプト 比較"
     },
     {
       "category": "Claude活用",
-      "keyword": "claudeで副業"
+      "keyword": "claude code 無料トライアル"
     },
     {
-      "category": "ChatGPT活用",
-      "keyword": "chatgpt 使い方 画像生成"
-    },
-    {
-      "category": "AI副業",
-      "keyword": "ブログ 記事 ai おすすめ"
+      "category": "AIツール比較",
+      "keyword": "ai 画像生成 無料 アプリ おすすめ"
     },
     {
       "category": "海外AIトレンド",
-      "keyword": "ai スタートアップ"
+      "keyword": "openai codex"
+    },
+    {
+      "category": "AI画像生成",
+      "keyword": "leonardo ai 無料 トークン"
     }
   ]
 }
