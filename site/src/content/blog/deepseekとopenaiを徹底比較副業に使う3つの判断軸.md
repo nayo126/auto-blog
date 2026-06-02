@@ -127,3 +127,29 @@ DeepSeekとOpenAIの比較は、優劣ではなく**目的との相性**で考�
 - [OpenAI Codexをデータサイエンスチームが活用する5つのワークフロー](https://nayo126.github.io/ai-news-jp/posts/openai-codex-5.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### DeepSeekは日本語の文章作成に使えますか?
+
+使えますが、OpenAIのGPT-5系に比べると敬語や自然な言い回しでやや精度が落ちます。ブログ下書きやコード生成には十分ですが、納品物の最終仕上げはOpenAIで整える二段構えが安全です。
+
+### DeepSeekとChatGPTの料金はどのくらい差がありますか?
+
+API利用ではDeepSeekがOpenAIの数分の1程度に収まる場面が多く、特に大量のトークンを処理する作業ほど差が開きます。月数万トークン規模ならChatGPT Plus月20ドルの定額が割安になる場合もあります。
+
+### DeepSeekは中国製ですがデータの安全性は大丈夫ですか?
+
+公式サービスはサーバーが中国にあるため、機密情報や個人情報の入力は避けるべきです。安全性を重視するならオープンウェイトを自分の環境で動かすか、機密案件はOpenAIを使い分けてください。
+
+### 副業初心者はDeepSeekとOpenAIどちらから始めるべきですか?
+
+まずOpenAIの無料版かPlusで操作と品質基準に慣れ、月の利用料が3000円を超え始めたらDeepSeekへ一部移行する流れが効率的です。最初からコスト最適化を狙うより品質の基準を作る方が先決です。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "DeepSeekは日本語の文章作成に使えますか?", "acceptedAnswer": {"@type": "Answer", "text": "使えますが、OpenAIのGPT-5系に比べると敬語や自然な言い回しでやや精度が落ちます。ブログ下書きやコード生成には十分ですが、納品物の最終仕上げはOpenAIで整える二段構えが安全です。"}}, {"@type": "Question", "name": "DeepSeekとChatGPTの料金はどのくらい差がありますか?", "acceptedAnswer": {"@type": "Answer", "text": "API利用ではDeepSeekがOpenAIの数分の1程度に収まる場面が多く、特に大量のトークンを処理する作業ほど差が開きます。月数万トークン規模ならChatGPT Plus月20ドルの定額が割安になる場合もあります。"}}, {"@type": "Question", "name": "DeepSeekは中国製ですがデータの安全性は大丈夫ですか?", "acceptedAnswer": {"@type": "Answer", "text": "公式サービスはサーバーが中国にあるため、機密情報や個人情報の入力は避けるべきです。安全性を重視するならオープンウェイトを自分の環境で動かすか、機密案件はOpenAIを使い分けてください。"}}, {"@type": "Question", "name": "副業初心者はDeepSeekとOpenAIどちらから始めるべきですか?", "acceptedAnswer": {"@type": "Answer", "text": "まずOpenAIの無料版かPlusで操作と品質基準に慣れ、月の利用料が3000円を超え始めたらDeepSeekへ一部移行する流れが効率的です。最初からコスト最適化を狙うより品質の基準を作る方が先決です。"}}]}
+</script>
+
+<!-- FAQ_END -->
