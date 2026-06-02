@@ -140,3 +140,29 @@ Flux AIは、写実性・文字再現・コストの3点で副業向きの画像
 - [ChatGPT Image 2.0とSeedance 2.0で短編映像を制作する手順](https://nayo126.github.io/ai-news-jp/posts/chatgpt-image-2-0-seedance-2-0.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Flux AIは無料で使えますか?
+
+Flux.1には無料のSchnell版があり、ローカル環境やHugging Faceで0円で試せます。商用品質を狙うならFlux.1 Proの有料API(1枚あたり約5〜7円)が必要で、月数千円程度から本格運用できます。
+
+### FluxとMidjourneyはどちらが副業に向いていますか?
+
+文字入り画像や写実的なストック素材ならFluxが有利です。Midjourneyは月額10ドルからで芸術性が高く、Fluxは従量課金で文字再現精度が高いため、バナー・サムネ制作で稼ぐならFluxが向いています。
+
+### AI生成画像をストックサイトで販売しても規約違反になりませんか?
+
+Adobe StockやShutterstockはAI生成画像を専用カテゴリで受け付けています。投稿時にAI生成である旨の申告が必須で、実在人物・ブランドロゴを含む画像はNGです。申告を怠るとアカウント停止のリスクがあります。
+
+### Flux AIで生成した画像の著作権や商用利用は問題ないですか?
+
+Flux.1 Pro/Devの商用利用はライセンス上認められています。ただしDev版は非商用ライセンスの範囲に注意が必要で、商用ならProのAPI出力を使うのが安全です。生成プロンプトに他者の著作物名を含めない運用が必須です。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Flux AIは無料で使えますか?", "acceptedAnswer": {"@type": "Answer", "text": "Flux.1には無料のSchnell版があり、ローカル環境やHugging Faceで0円で試せます。商用品質を狙うならFlux.1 Proの有料API(1枚あたり約5〜7円)が必要で、月数千円程度から本格運用できます。"}}, {"@type": "Question", "name": "FluxとMidjourneyはどちらが副業に向いていますか?", "acceptedAnswer": {"@type": "Answer", "text": "文字入り画像や写実的なストック素材ならFluxが有利です。Midjourneyは月額10ドルからで芸術性が高く、Fluxは従量課金で文字再現精度が高いため、バナー・サムネ制作で稼ぐならFluxが向いています。"}}, {"@type": "Question", "name": "AI生成画像をストックサイトで販売しても規約違反になりませんか?", "acceptedAnswer": {"@type": "Answer", "text": "Adobe StockやShutterstockはAI生成画像を専用カテゴリで受け付けています。投稿時にAI生成である旨の申告が必須で、実在人物・ブランドロゴを含む画像はNGです。申告を怠るとアカウント停止のリスクがあります。"}}, {"@type": "Question", "name": "Flux AIで生成した画像の著作権や商用利用は問題ないですか?", "acceptedAnswer": {"@type": "Answer", "text": "Flux.1 Pro/Devの商用利用はライセンス上認められています。ただしDev版は非商用ライセンスの範囲に注意が必要で、商用ならProのAPI出力を使うのが安全です。生成プロンプトに他者の著作物名を含めない運用が必須です。"}}]}
+</script>
+
+<!-- FAQ_END -->

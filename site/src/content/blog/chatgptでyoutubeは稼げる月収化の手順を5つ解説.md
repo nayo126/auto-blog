@@ -17,6 +17,10 @@ image: "/auto-blog/ogp/chatgptでyoutubeは稼げる月収化の手順を5つ解
 
 ## 結論:ChatGPTは「稼ぐ仕組み」ではなく制作エンジン
 
+<!-- INLINE_IMG -->
+![ChatGPTでYouTubeは稼げる?月収化の手順を5つ解説 - 結論:ChatGPTは「稼ぐ仕組み」ではなく制作エンジン](/auto-blog/inline-images/chatgpt-youtube-5--0.jpg)
+
+
 結論から言う。ChatGPTでYouTubeを稼ぐ最短ルートは、AIを「ネタ出し・台本・構成」の量産エンジンとして使い、投稿頻度を一気に上げることだ。理由はシンプルで、YouTubeの収益化条件である「登録者1,000人＋総再生4,000時間（または Shorts 1,000万回/90日）」を突破するには、投稿本数がほぼ全てを決めるからだ。
 
 個人が手作業で台本を書くと、1本に3〜5時間かかる。これがChatGPT 5を使えば、リサーチから構成案、ナレーション原稿までを30分前後に圧縮できる。1日1本ペースが現実的になる、というのが最大の価値だ。
@@ -33,6 +37,10 @@ image: "/auto-blog/ogp/chatgptでyoutubeは稼げる月収化の手順を5つ解
 
 
 ## ステップ1:稼げるジャンルをChatGPTで選定する
+
+<!-- INLINE_IMG -->
+![ChatGPTでYouTubeは稼げる?月収化の手順を5つ解説 - ステップ1:稼げるジャンルをChatGPTで選定する](/auto-blog/inline-images/chatgpt-youtube-5--1.jpg)
+
 
 最初の関門はジャンル選びだ。ここで失敗すると、どれだけ投稿しても再生が伸びない。
 

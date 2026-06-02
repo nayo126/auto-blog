@@ -142,3 +142,29 @@ DeepLやGoogle翻訳の公式Discord連携ボットを個人で導入すれば�
 - [ChatGPTのReddit投稿「👀」がr/ChatGPTで話題に｜AIコミュニティの反応分析](https://nayo126.github.io/ai-news-jp/posts/chatgpt-reddit-r-chatgpt-ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Discordで英語が読めなくても海外AIコミュニティに参加できますか？
+
+参加できます。Discord標準の翻訳Botや、メッセージを右クリックして翻訳できる拡張機能を使えば日本語で読めます。DeepLやChrome翻訳と併用すれば、英語の投稿でも8〜9割の内容を把握できます。
+
+### Midjourneyの公式Discordサーバーへの入り方は？
+
+Midjourney公式サイトのトップにある「Join the Beta」からDiscord招待リンクに飛べます。Discordアカウント作成後、サーバー内の#newbiesチャンネルでコマンドを打てば即利用開始できます。月額10ドルのプラン加入が必要です。
+
+### 海外Discordの情報は本当に日本のニュースより速いですか？
+
+速いです。MidjourneyやPerplexityなど主要AIは公式Discordで新機能を先行公開しており、日本メディアの記事化より48〜72時間早く実例が共有されます。βテスト段階の機能は数週間早く触れる場合もあります。
+
+### AI系Discordコミュニティの情報を副業に活かす方法は？
+
+新機能の生サンプルが出た48〜72時間以内に日本語で解説noteやXスレッドを作ると先行者利益を取れます。海外で話題のプロンプトや使い方を翻訳・要約して発信するだけでも需要があります。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Discordで英語が読めなくても海外AIコミュニティに参加できますか？", "acceptedAnswer": {"@type": "Answer", "text": "参加できます。Discord標準の翻訳Botや、メッセージを右クリックして翻訳できる拡張機能を使えば日本語で読めます。DeepLやChrome翻訳と併用すれば、英語の投稿でも8〜9割の内容を把握できます。"}}, {"@type": "Question", "name": "Midjourneyの公式Discordサーバーへの入り方は？", "acceptedAnswer": {"@type": "Answer", "text": "Midjourney公式サイトのトップにある「Join the Beta」からDiscord招待リンクに飛べます。Discordアカウント作成後、サーバー内の#newbiesチャンネルでコマンドを打てば即利用開始できます。月額10ドルのプラン加入が必要です。"}}, {"@type": "Question", "name": "海外Discordの情報は本当に日本のニュースより速いですか？", "acceptedAnswer": {"@type": "Answer", "text": "速いです。MidjourneyやPerplexityなど主要AIは公式Discordで新機能を先行公開しており、日本メディアの記事化より48〜72時間早く実例が共有されます。βテスト段階の機能は数週間早く触れる場合もあります。"}}, {"@type": "Question", "name": "AI系Discordコミュニティの情報を副業に活かす方法は？", "acceptedAnswer": {"@type": "Answer", "text": "新機能の生サンプルが出た48〜72時間以内に日本語で解説noteやXスレッドを作ると先行者利益を取れます。海外で話題のプロンプトや使い方を翻訳・要約して発信するだけでも需要があります。"}}]}
+</script>
+
+<!-- FAQ_END -->
