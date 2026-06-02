@@ -205,8 +205,8 @@ Claudeのプロンプトは「型」と「数値」と「対話」が三本柱�
 ## 関連する記事
 
 - [Claude AIで稼ぐ副業7選｜月10万円ロードマップ2026](https://nayo126.github.io/auto-blog/blog/claude-aiで稼ぐ副業7選月10万円ロードマップ2026/)
+- [Claudeプロンプト術7選｜精度を2倍にするベストプラクティス](https://nayo126.github.io/auto-blog/blog/claudeプロンプト術7選精度を2倍にするベストプラクティス/)
 - [プロンプトの作り方｜5要素と型で誰でも上達する基本](https://nayo126.github.io/auto-blog/blog/プロンプトの作り方5要素と型で誰でも上達する基本/)
-- [プロンプト入力で副業を始める7つの型｜月5万への最短ルート](https://nayo126.github.io/auto-blog/blog/プロンプト入力で副業を始める7つの型月5万への最短ルート/)
 
 ### 姉妹サイトの関連記事
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP

@@ -94,3 +94,16 @@ Leonardo AIは「素材を量産できる」性質から、副業の効率化と
 Leonardo AIとは、毎日150トークンを無料で使えて、ゲーム素材づくりの血を引く「実務向けAI画像生成ツール」です。Phoenixモデルやリアルタイム生成、Canvas編集といった機能がそろい、Canva傘下になってからも進化を続けています。
 
 副業に使うなら、無料プランで操作に慣れてから有料へ移るのが無駄のない順番です。商用利用は規約を必ず確認し、既存キャラや実在人物の再現は避ける。この2点さえ守れば、ブログやSNSの素材コストを大きく下げられます。まずは今日、無料アカウントを作って1枚生成するところから始めてみてください。
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Leonardo AI使い方完全ガイド2026年版|月5万稼ぐ7ステップ](https://nayo126.github.io/auto-blog/blog/leonardo-ai使い方完全ガイド2026年版月5万稼ぐ7ステップ/)
+- [Midjourney vs Leonardo AI 2026徹底比較7項目](https://nayo126.github.io/auto-blog/blog/midjourney-vs-leonardo-ai-2026徹底比較7項目/)
+- [Leonardo AI 無料プランの範囲と限界2026年版](https://nayo126.github.io/auto-blog/blog/leonardo-ai-無料プランの範囲と限界2026年版/)
+
+### 姉妹サイトの関連記事
+- [ChatGPT Image 2.0とSeedance 2.0で短編映像を制作する手順](https://nayo126.github.io/ai-news-jp/posts/chatgpt-image-2-0-seedance-2-0.html) — AI News JP
+
+<!-- SEO_MESH_END -->

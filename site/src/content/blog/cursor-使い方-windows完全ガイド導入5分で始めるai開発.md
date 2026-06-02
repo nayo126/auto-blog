@@ -121,3 +121,18 @@ WindowsでのCursorは、VS Codeからの移行が驚くほど簡単で、`Tab`�
 - [OpenAI、Windows版Codexにセキュアサンドボックス実装 安全なコーディングエージェント実現へ](https://nayo126.github.io/ai-news-jp/posts/openai-windows-codex.html)
 - [OpenAI Codex on Windows対応、安全なサンドボックス設計を公開](https://nayo126.github.io/ai-news-jp/posts/openai-codex-on-windows.html)
 - [OpenAI、Codex on WindowsでAIエージェント用サンドボックスを構築](https://nayo126.github.io/ai-news-jp/posts/openai-codex-on-windows-ai.html)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Cursorの使い方を日本語で解説｜初心者向け5ステップ](https://nayo126.github.io/auto-blog/blog/cursorの使い方を日本語で解説初心者向け5ステップ/)
+- [Cursorの使い方｜非エンジニア向け5ステップ](https://nayo126.github.io/auto-blog/blog/cursorの使い方非エンジニアでも作れる5ステップ/)
+- [Cursorの料金と使い方｜月20ドルの元を取る方法](https://nayo126.github.io/auto-blog/blog/cursorの料金と使い方月20ドルの元を取る方法/)
+
+### 姉妹サイトの関連記事
+- [OpenAI、Windows版Codexにセキュアサンドボックス実装 安全なコーディングエージェント実現へ](https://nayo126.github.io/ai-news-jp/posts/openai-windows-codex.html) — AI News JP
+- [OpenAI Codex on Windows対応、安全なサンドボックス設計を公開](https://nayo126.github.io/ai-news-jp/posts/openai-codex-on-windows.html) — AI News JP
+- [OpenAI、Codex on WindowsでAIエージェント用サンドボックスを構築](https://nayo126.github.io/ai-news-jp/posts/openai-codex-on-windows-ai.html) — AI News JP
+
+<!-- SEO_MESH_END -->

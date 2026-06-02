@@ -105,9 +105,9 @@ BedrockとOpenAIは競合というより役割分担の関係に近く、「速�
 - [Gemini vs OpenAI比較2026｜稼げるAIはどっち](https://nayo126.github.io/auto-blog/blog/gemini-vs-openai比較2026稼げるaiはどっち/)
 
 ### 姉妹サイトの関連記事
+- [OpenAIのフロンティアモデルとCodexがAWSで一般提供開始｜企業導入の新ルート](https://nayo126.github.io/ai-news-jp/posts/openai-codex-aws.html) — AI News JP
 - [Elon Musk敗訴：OpenAI・Sam Altmanへの訴訟で判決、AI業界への影響を解説](https://nayo126.github.io/ai-news-jp/posts/elon-musk-openai-sam-altman-ai.html) — AI News JP
 - [OpenAIがContent Credentials/SynthID対応、AI生成コンテンツの来歴検証ツールを公開](https://nayo126.github.io/ai-news-jp/posts/openai-content-credentials-synthid-ai.html) — AI News JP
-- [OpenAI Codexをデータサイエンスチームが活用する5つのワークフロー](https://nayo126.github.io/ai-news-jp/posts/openai-codex-5.html) — AI News JP
 
 <!-- SEO_MESH_END -->
 

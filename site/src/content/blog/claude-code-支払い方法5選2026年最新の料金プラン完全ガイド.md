@@ -136,7 +136,7 @@ ProからMaxへのアップグレードは即時反映、ダウングレード�
 
 - [Claude Codeおすすめプロンプト10選｜副業効率3倍の実例集](https://nayo126.github.io/auto-blog/blog/claude-codeおすすめプロンプト10選副業効率3倍の実例集/)
 - [Claude CodeとGemini徹底比較2026｜副業で使うべきはどっち](https://nayo126.github.io/auto-blog/blog/claude-codeとgemini徹底比較2026副業で使うべきはどっち/)
-- [Claude Code 無料トライアルは可能？2026年最新の始め方](https://nayo126.github.io/auto-blog/blog/claude-code-free-trial/)
+- [Anthropic（Claude）の支払い方法を完全整理|7つの選択肢](https://nayo126.github.io/auto-blog/blog/anthropicclaudeの支払い方法を完全整理7つの選択肢/)
 
 ### 姉妹サイトの関連記事
 - [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html) — AI News JP

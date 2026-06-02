@@ -122,9 +122,9 @@ Cursorは、日本語化の設定とRulesの登録さえ済ませれば、初心
 
 ## 関連する記事
 
+- [Cursor 使い方 Windows完全ガイド｜導入5分で始めるAI開発](https://nayo126.github.io/auto-blog/blog/cursor-使い方-windows完全ガイド導入5分で始めるai開発/)
 - [Cursorの使い方｜非エンジニア向け5ステップ](https://nayo126.github.io/auto-blog/blog/cursorの使い方非エンジニアでも作れる5ステップ/)
 - [Cursorの料金と使い方｜月20ドルの元を取る方法](https://nayo126.github.io/auto-blog/blog/cursorの料金と使い方月20ドルの元を取る方法/)
-- [Cursor使い方YouTube厳選7選｜2026年最新の学習動線](https://nayo126.github.io/auto-blog/blog/cursor使い方youtube厳選7選2026年最新の学習動線/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPTにコードを貼ったら欠陥3つ即指摘されるReddit投稿が話題](https://nayo126.github.io/ai-news-jp/posts/chatgpt-3-reddit.html) — AI News JP

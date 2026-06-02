@@ -129,7 +129,7 @@ ChatGPTやClaudeの基本操作、プロンプト作成、画像生成、ブロ�
 ## 関連する記事
 
 - [AI副業詐欺の見抜き方7選｜2026年版・安全に稼ぐ方法](https://nayo126.github.io/auto-blog/blog/ai副業詐欺の見抜き方7選2026年版安全に稼ぐ方法/)
+- [ChatGPTの使い方が無料セミナーで学べる時代に｜独学3ステップ](https://nayo126.github.io/auto-blog/blog/chatgptの使い方が無料セミナーで学べる時代に独学3ステップ/)
 - [AI副業のBrain商材は買うべき？2026年最新の選び方5つ](https://nayo126.github.io/auto-blog/blog/ai副業のbrain商材は買うべき2026年最新の選び方5つ/)
-- [AI副業ラボ、はじめます](https://nayo126.github.io/auto-blog/blog/welcome/)
 
 <!-- SEO_MESH_END -->

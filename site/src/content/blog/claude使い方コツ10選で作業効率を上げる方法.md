@@ -95,8 +95,8 @@ Claudeの使い方のコツは、突き詰めると「最初の指示をどれ�
 ## 関連する記事
 
 - [Claude使い方おすすめ本5選｜2026年最新の独学ロードマップ](https://nayo126.github.io/auto-blog/blog/claude使い方おすすめ本5選2026年最新の独学ロードマップ/)
+- [Claudeプロンプト術7選｜精度を2倍にするベストプラクティス](https://nayo126.github.io/auto-blog/blog/claudeプロンプト術7選精度を2倍にするベストプラクティス/)
 - [プロンプトの作り方｜5要素と型で誰でも上達する基本](https://nayo126.github.io/auto-blog/blog/プロンプトの作り方5要素と型で誰でも上達する基本/)
-- [プロンプト入力で副業を始める7つの型｜月5万への最短ルート](https://nayo126.github.io/auto-blog/blog/プロンプト入力で副業を始める7つの型月5万への最短ルート/)
 
 ### 姉妹サイトの関連記事
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
