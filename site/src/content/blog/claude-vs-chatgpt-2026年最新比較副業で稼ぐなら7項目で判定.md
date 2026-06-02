@@ -105,3 +105,44 @@ ClaudeとChatGPTは、2026年のいま「ライバル」というより「役割
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html)
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html)
 - [今週のAIニュース10選 (2026/05/17付)](https://nayo126.github.io/ai-news-jp/posts/ai-weekly-roundup-20260517.html)
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### ClaudeとChatGPTを無料で使い分けることはできますか？
+
+両方とも無料プランがあり併用できます。Claude無料版で長文記事のたたき台を作り、ChatGPT無料版でWeb検索や画像生成を補う形がおすすめです。月20ドルの課金は、作業の8割が片方に偏ってから検討すれば十分です。
+
+### 副業のブログ記事を書くならどっちが向いていますか？
+
+日本語の自然さと長文構成力でClaudeが有利です。3000字以上の記事や指示の細かいニュアンス再現はClaude Opus 4.8が得意で、ChatGPTは見出し構成案やリサーチ補助として併用すると効率が上がります。
+
+### ClaudeとChatGPTの月額料金はそれぞれいくらですか？
+
+どちらも有料の標準プランが月20ドル前後です。ClaudeはPro、ChatGPTはPlusが該当します。両方契約すると月約40ドルになるため、初期はどちらか1つに絞り、メイン作業が固まってから追加するのが現実的です。
+
+### 画像生成や音声機能を使いたい場合はどちらを選ぶべきですか？
+
+ChatGPTを選んでください。Web検索、画像生成、音声会話、データ分析を1つでまかなえる総合型です。Claudeは文章特化で画像生成機能を持たないため、マルチメディア作業が多いならChatGPTが適しています。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "ClaudeとChatGPTを無料で使い分けることはできますか？", "acceptedAnswer": {"@type": "Answer", "text": "両方とも無料プランがあり併用できます。Claude無料版で長文記事のたたき台を作り、ChatGPT無料版でWeb検索や画像生成を補う形がおすすめです。月20ドルの課金は、作業の8割が片方に偏ってから検討すれば十分です。"}}, {"@type": "Question", "name": "副業のブログ記事を書くならどっちが向いていますか？", "acceptedAnswer": {"@type": "Answer", "text": "日本語の自然さと長文構成力でClaudeが有利です。3000字以上の記事や指示の細かいニュアンス再現はClaude Opus 4.8が得意で、ChatGPTは見出し構成案やリサーチ補助として併用すると効率が上がります。"}}, {"@type": "Question", "name": "ClaudeとChatGPTの月額料金はそれぞれいくらですか？", "acceptedAnswer": {"@type": "Answer", "text": "どちらも有料の標準プランが月20ドル前後です。ClaudeはPro、ChatGPTはPlusが該当します。両方契約すると月約40ドルになるため、初期はどちらか1つに絞り、メイン作業が固まってから追加するのが現実的です。"}}, {"@type": "Question", "name": "画像生成や音声機能を使いたい場合はどちらを選ぶべきですか？", "acceptedAnswer": {"@type": "Answer", "text": "ChatGPTを選んでください。Web検索、画像生成、音声会話、データ分析を1つでまかなえる総合型です。Claudeは文章特化で画像生成機能を持たないため、マルチメディア作業が多いならChatGPTが適しています。"}}]}
+</script>
+
+<!-- FAQ_END -->
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [AI副業で月5万は現実か？2026年最新の稼ぎ方5選](https://nayo126.github.io/auto-blog/blog/ai副業で月5万は現実か2026年最新の稼ぎ方5選/)
+- [副業におすすめのAIアプリ7選2026年最新ガイド](https://nayo126.github.io/auto-blog/blog/副業におすすめのaiアプリ7選2026年最新ガイド/)
+- [AI副業初心者が月3万稼ぐ最短5ステップ2026](https://nayo126.github.io/auto-blog/blog/ai副業初心者が月3万稼ぐ最短5ステップ2026/)
+
+### 姉妹サイトの関連記事
+- [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP
+- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
+- [今週のAIニュース10選 (2026/05/17付)](https://nayo126.github.io/ai-news-jp/posts/ai-weekly-roundup-20260517.html) — AI News JP
+
+<!-- SEO_MESH_END -->

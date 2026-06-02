@@ -126,8 +126,8 @@ ChatGPTの基本操作は無料で、しかも短時間で習得できます。�
 ## 関連する記事
 
 - [AI副業初心者が月3万稼ぐ最短5ステップ2026](https://nayo126.github.io/auto-blog/blog/ai副業初心者が月3万稼ぐ最短5ステップ2026/)
+- [AI副業の無料セミナーは使える?選び方7つの基準2026](https://nayo126.github.io/auto-blog/blog/ai-fukugyou-muryou-seminar/)
 - [ChatGPTでどうやって稼ぐ?2026年最新の7つの方法](https://nayo126.github.io/auto-blog/blog/chatgptでどうやって稼ぐ2026年最新の7つの方法/)
-- [AI副業は初心者におすすめ?稼げる5選と始め方](https://nayo126.github.io/auto-blog/blog/ai副業は初心者におすすめ稼げる5選と始め方/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP

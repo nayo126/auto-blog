@@ -132,7 +132,7 @@ ChatGPT Plus(月20ドル)ではDALL-E 3で3時間あたり約40枚まで生成�
 
 - [OpenAIとAnthropic徹底比較2026|副業で稼ぐ7つの違い](https://nayo126.github.io/auto-blog/blog/openaiとanthropic徹底比較2026副業で稼ぐ7つの違い/)
 - [Claude vs OpenAI徹底比較2026｜副業で稼ぐなら7つの違い](https://nayo126.github.io/auto-blog/blog/claude-vs-openai徹底比較2026副業で稼ぐなら7つの違い/)
-- [Copilot vs OpenAI徹底比較2026｜5項目で最適解](https://nayo126.github.io/auto-blog/blog/copilot-vs-openai徹底比較20265項目で最適解/)
+- [Claude vs ChatGPT 2026年最新比較｜副業で稼ぐなら7項目で判定](https://nayo126.github.io/auto-blog/blog/claude-vs-chatgpt-2026年最新比較副業で稼ぐなら7項目で判定/)
 
 ### 姉妹サイトの関連記事
 - [Claude（Anthropic）が不調？r/ClaudeAIで朝のエラー・応答遅延が報告される](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic-r-claudeai.html) — AI News JP

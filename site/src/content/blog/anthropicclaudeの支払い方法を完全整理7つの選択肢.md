@@ -19,6 +19,10 @@ AnthropicはアメリカのAI企業で、対話AI「Claude」を提供してい�
 
 ## Anthropicで使える支払い方法は基本「クレジットカード」
 
+<!-- INLINE_IMG -->
+![Anthropic（Claude）の支払い方法を完全整理|7つの選択肢 - Anthropicで使える支払い方法は基本「クレジットカード」](/auto-blog/inline-images/anthropicclaude-7--0.jpg)
+
+
 結論：Anthropicの支払いは、Visa・Mastercard・American Expressといった主要クレジットカードに対応しています。理由は、決済基盤に大手のStripeを採用しているためで、日本で一般的に流通しているカードであればほぼそのまま使えます。
 
 具体的には、次のような手段が中心になります。
@@ -41,6 +45,10 @@ AnthropicはアメリカのAI企業で、対話AI「Claude」を提供してい�
 
 
 ## 個人向け「Claude Pro / Max」プランの料金と決済
+
+<!-- INLINE_IMG -->
+![Anthropic（Claude）の支払い方法を完全整理|7つの選択肢 - 個人向け「Claude Pro / Max」プランの料金と決済](/auto-blog/inline-images/anthropicclaude-7--1.jpg)
+
 
 Claudeの個人向け有料プランは、毎月自動課金されるサブスクリプション型です。代表的なのは月額20ドル前後のProプランと、より高い利用上限を求めるユーザー向けのMaxプランです。Maxには利用枠の異なる複数のティアが用意されています。
 

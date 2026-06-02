@@ -154,6 +154,6 @@ GPT-5は推論力と長文処理が強化され複雑なコード生成や分析
 
 - [ChatGPT API連携の方法5ステップ｜初心者向け解説](https://nayo126.github.io/auto-blog/blog/chatgpt-api連携の方法5ステップ初心者向け解説/)
 - [ChatGPT APIとは？2026年最新の料金・使い方を5分で解説](https://nayo126.github.io/auto-blog/blog/chatgpt-apiとは2026年最新の料金使い方を5分で解説/)
-- [ChatGPT API料金｜2026最新と節約術5選](https://nayo126.github.io/auto-blog/blog/chatgpt-api料金2026最新と節約術5選/)
+- [OpenAI API取得方法を5ステップで解説【2026年最新】](https://nayo126.github.io/auto-blog/blog/openai-api取得方法を5ステップで解説2026年最新/)
 
 <!-- SEO_MESH_END -->

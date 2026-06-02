@@ -159,8 +159,8 @@ Pythonの基本構文がわかれば10行程度で動かせます。難しい場
 ## 関連する記事
 
 - [ChatGPT API料金｜2026最新と節約術5選](https://nayo126.github.io/auto-blog/blog/chatgpt-api料金2026最新と節約術5選/)
+- [ChatGPT API無料プランの真実｜2026年最新の始め方](https://nayo126.github.io/auto-blog/blog/chatgpt-api無料プランの真実2026年最新の始め方/)
 - [ChatGPT API無料モデル2026年最新7選比較](https://nayo126.github.io/auto-blog/blog/chatgpt-api無料モデル2026年最新7選比較/)
-- [ChatGPT APIキー取得5ステップと安全管理術2026](https://nayo126.github.io/auto-blog/blog/chatgpt-apiキー取得5ステップと安全管理術2026/)
 
 ### 姉妹サイトの関連記事
 - [Elon Musk敗訴：OpenAI・Sam Altmanへの訴訟で判決、AI業界への影響を解説](https://nayo126.github.io/ai-news-jp/posts/elon-musk-openai-sam-altman-ai.html) — AI News JP

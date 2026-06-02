@@ -113,3 +113,44 @@ ChatGPTのプロンプトジェネレーターは、無料でも十分に実用�
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html)
 - [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html)
 - [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html)
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### ChatGPTのプロンプトジェネレーターは無料でどこまで使える？
+
+PromptPerfectやAIPRMなど主要ツールは無料プランで1日10〜20回程度の生成が可能です。役割設定や出力形式の自動付与は無料枠で十分試せます。回数無制限や日本語特化機能は月1,000〜2,000円の有料版が必要です。
+
+### プロンプトジェネレーターとプロンプト集の違いは何？
+
+ジェネレーターは自分の雑な依頼を整った指示文に自動変換するツールで、毎回違う内容に対応できます。プロンプト集は完成済みの例文集で、コピペ前提です。応用力を身につけるならジェネレーター、即使うなら集が向いています。
+
+### 良いプロンプトに必要な要素は具体的に何個？
+
+主に4要素です。役割設定（プロのコピーライター等）、前提条件（ターゲット・文字数・トーン）、出力形式（箇条書き・表・JSON）、制約（専門用語禁止・3案出す等）。この4つを入れるだけで回答精度が大きく上がります。
+
+### プロンプトジェネレーターは日本語でも使える？
+
+AIPRMやChatGPT純正のカスタム機能は日本語入力・日本語出力に対応しています。海外製ツールは英語UIが多いですが、入力文を日本語にすれば日本語のプロンプトが生成されます。日本語精度を重視するなら国産ツールが安定します。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "ChatGPTのプロンプトジェネレーターは無料でどこまで使える？", "acceptedAnswer": {"@type": "Answer", "text": "PromptPerfectやAIPRMなど主要ツールは無料プランで1日10〜20回程度の生成が可能です。役割設定や出力形式の自動付与は無料枠で十分試せます。回数無制限や日本語特化機能は月1,000〜2,000円の有料版が必要です。"}}, {"@type": "Question", "name": "プロンプトジェネレーターとプロンプト集の違いは何？", "acceptedAnswer": {"@type": "Answer", "text": "ジェネレーターは自分の雑な依頼を整った指示文に自動変換するツールで、毎回違う内容に対応できます。プロンプト集は完成済みの例文集で、コピペ前提です。応用力を身につけるならジェネレーター、即使うなら集が向いています。"}}, {"@type": "Question", "name": "良いプロンプトに必要な要素は具体的に何個？", "acceptedAnswer": {"@type": "Answer", "text": "主に4要素です。役割設定（プロのコピーライター等）、前提条件（ターゲット・文字数・トーン）、出力形式（箇条書き・表・JSON）、制約（専門用語禁止・3案出す等）。この4つを入れるだけで回答精度が大きく上がります。"}}, {"@type": "Question", "name": "プロンプトジェネレーターは日本語でも使える？", "acceptedAnswer": {"@type": "Answer", "text": "AIPRMやChatGPT純正のカスタム機能は日本語入力・日本語出力に対応しています。海外製ツールは英語UIが多いですが、入力文を日本語にすれば日本語のプロンプトが生成されます。日本語精度を重視するなら国産ツールが安定します。"}}]}
+</script>
+
+<!-- FAQ_END -->
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [ChatGPTプロンプトジェネレーター7選｜2026最新活用術](https://nayo126.github.io/auto-blog/blog/chatgptプロンプトジェネレーター7選2026最新活用術/)
+- [ChatGPTプロンプト集｜コピペで使える15例と作り方](https://nayo126.github.io/auto-blog/blog/chatgptプロンプト集コピペで使える15例と作り方/)
+- [ChatGPTプロンプトとは？基本と5つの黄金ルール](https://nayo126.github.io/auto-blog/blog/chatgptプロンプトとは基本と5つの黄金ルール/)
+
+### 姉妹サイトの関連記事
+- [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP
+- [ChatGPTで話題『Love at first prompt』Reddit投稿が示すAIとの関係性の変化](https://nayo126.github.io/ai-news-jp/posts/chatgpt-love-at-first-prompt-reddit-ai.html) — AI News JP
+- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
+
+<!-- SEO_MESH_END -->
