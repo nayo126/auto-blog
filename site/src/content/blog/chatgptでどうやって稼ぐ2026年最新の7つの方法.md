@@ -148,7 +148,7 @@ OpenAIの利用規約上、生成物の商用利用は許可されています�
 
 - [AI副業初心者が月3万稼ぐ最短5ステップ2026](https://nayo126.github.io/auto-blog/blog/ai副業初心者が月3万稼ぐ最短5ステップ2026/)
 - [ChatGPTの使い方が無料セミナーで学べる時代に｜独学3ステップ](https://nayo126.github.io/auto-blog/blog/chatgptの使い方が無料セミナーで学べる時代に独学3ステップ/)
-- [AI副業は初心者におすすめ?稼げる5選と始め方](https://nayo126.github.io/auto-blog/blog/ai副業は初心者におすすめ稼げる5選と始め方/)
+- [AI副業おすすめ7選【初心者向け】2026年最新の始め方](https://nayo126.github.io/auto-blog/blog/ai副業おすすめ7選初心者向け2026年最新の始め方/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP
