@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-06-02T07:47:47.109891+00:00",
+  "picked_at": "2026-06-02T08:30:02.555249+00:00",
   "count": 5,
   "items": [
     {
-      "category": "AIツール比較",
-      "keyword": "ai 動画 おすすめ 有料"
-    },
-    {
-      "category": "Claude活用",
-      "keyword": "claude プロンプト ベストプラクティス"
+      "category": "海外AIトレンド",
+      "keyword": "anthropic claude chatgpt 比較"
     },
     {
       "category": "ChatGPT活用",
-      "keyword": "chatgpt 使い方 例"
+      "keyword": "chatgpt api 無料プラン"
     },
     {
-      "category": "個人開発",
-      "keyword": "cursor 使い方 windows"
+      "category": "AIツール比較",
+      "keyword": "ai 画像生成 プロンプト コツ"
     },
     {
-      "category": "海外AIトレンド",
-      "keyword": "anthropic 支払い方法"
+      "category": "AI副業",
+      "keyword": "ai 副業 無料 セミナー"
+    },
+    {
+      "category": "Claude活用",
+      "keyword": "Claude Max 月額 元取れる"
     }
   ]
 }
