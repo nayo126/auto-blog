@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-06-03T07:47:49.039673+00:00",
+  "picked_at": "2026-06-03T08:30:05.346154+00:00",
   "count": 5,
   "items": [
     {
+      "category": "Claude活用",
+      "keyword": "claude 使い方 公式"
+    },
+    {
       "category": "AIツール比較",
-      "keyword": "音声 議事録 ai おすすめ"
+      "keyword": "議事録 ai 文字起こし 比較"
     },
     {
       "category": "ChatGPT活用",
-      "keyword": "chatgpt おすすめ プロンプト 占い"
-    },
-    {
-      "category": "個人開発",
-      "keyword": "bolt.new セキュリティ"
+      "keyword": "chatgpt 副業おすすめ"
     },
     {
       "category": "海外AIトレンド",
-      "keyword": "Indie Hackers AI MRR"
+      "keyword": "openai おすすめ 無料"
     },
     {
-      "category": "AI画像生成",
-      "keyword": "leonardo aiとは"
+      "category": "個人開発",
+      "keyword": "cursor 使い方 初心者"
     }
   ]
 }

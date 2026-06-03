@@ -116,3 +116,29 @@ bolt.newは個人開発のスピードを劇的に上げる強力なツールで
 - [Claude CodeとAntigravity、Cursorはどこまで進化したか｜2026年AI開発ツール最新評価](https://nayo126.github.io/ai-news-jp/posts/claude-code-antigravity-cursor-2026-ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### bolt.newで作ったアプリでAPIキーは漏れますか？
+
+フロントエンドのコードに直接APIキーを書くと、ブラウザの開発者ツールから誰でも閲覧できて漏れます。OpenAIキーなどは必ず環境変数とサーバー側の処理に分離し、.envファイルをGit公開しないことが必須です。
+
+### bolt.newのAPI課金が急に高くなるのを防ぐには？
+
+APIキーに利用上限（OpenAIなら月$10など）を設定し、レート制限を入れます。キーをフロントに露出させると第三者に無断使用され課金が暴騰するため、必ずサーバー経由で呼び出してください。
+
+### bolt.newで作ったアプリのデータベースは安全ですか？
+
+Supabaseなどを使う場合、RLS（行レベルセキュリティ）が未設定だと全ユーザーのデータが誰でも読み書きできます。AIは自動でRLSを設定しないことが多いため、公開前に各テーブルのポリシーを手動で確認してください。
+
+### bolt.newのコードを理解せずに公開しても大丈夫？
+
+認証の抜け穴やバリデーション不足が残るため危険です。最低限、ログイン処理・入力値チェック・APIキーの管理場所の3点は自分でコードを読んで確認し、本番公開前にテスト環境で動作検証してください。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "bolt.newで作ったアプリでAPIキーは漏れますか？", "acceptedAnswer": {"@type": "Answer", "text": "フロントエンドのコードに直接APIキーを書くと、ブラウザの開発者ツールから誰でも閲覧できて漏れます。OpenAIキーなどは必ず環境変数とサーバー側の処理に分離し、.envファイルをGit公開しないことが必須です。"}}, {"@type": "Question", "name": "bolt.newのAPI課金が急に高くなるのを防ぐには？", "acceptedAnswer": {"@type": "Answer", "text": "APIキーに利用上限（OpenAIなら月$10など）を設定し、レート制限を入れます。キーをフロントに露出させると第三者に無断使用され課金が暴騰するため、必ずサーバー経由で呼び出してください。"}}, {"@type": "Question", "name": "bolt.newで作ったアプリのデータベースは安全ですか？", "acceptedAnswer": {"@type": "Answer", "text": "Supabaseなどを使う場合、RLS（行レベルセキュリティ）が未設定だと全ユーザーのデータが誰でも読み書きできます。AIは自動でRLSを設定しないことが多いため、公開前に各テーブルのポリシーを手動で確認してください。"}}, {"@type": "Question", "name": "bolt.newのコードを理解せずに公開しても大丈夫？", "acceptedAnswer": {"@type": "Answer", "text": "認証の抜け穴やバリデーション不足が残るため危険です。最低限、ログイン処理・入力値チェック・APIキーの管理場所の3点は自分でコードを読んで確認し、本番公開前にテスト環境で動作検証してください。"}}]}
+</script>
+
+<!-- FAQ_END -->
