@@ -17,6 +17,10 @@ image: "/auto-blog/ogp/chatgptプロンプト設定の方法精度が3倍変わ�
 
 ## 結論:プロンプト設定は「役割・条件・出力形式」の3点固定で決まる
 
+<!-- INLINE_IMG -->
+![ChatGPTプロンプト設定の方法|精度が3倍変わる7つの型 - 結論:プロンプト設定は「役割・条件・出力形式」の3点固定で決まる](/auto-blog/inline-images/chatgpt-3-7--0.jpg)
+
+
 結論から言うと、ChatGPTのプロンプト設定で最も効くのは次の3つを毎回指定することだ。
 
 - **役割（誰として答えるか）**:「あなたはプロの編集者です」
@@ -37,6 +41,10 @@ image: "/auto-blog/ogp/chatgptプロンプト設定の方法精度が3倍変わ�
 
 
 ## カスタム指示（Custom Instructions）で毎回の設定を省略する
+
+<!-- INLINE_IMG -->
+![ChatGPTプロンプト設定の方法|精度が3倍変わる7つの型 - カスタム指示（Custom Instructions）で毎回の設定を省略する](/auto-blog/inline-images/chatgpt-3-7--1.jpg)
+
 
 ChatGPTには、毎回入力しなくても前提を記憶させられる**カスタム指示**という機能がある。設定画面の「Personalization（パーソナライズ）」→「Custom Instructions」から開ける。
 

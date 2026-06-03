@@ -136,3 +136,29 @@ WindowsでのCursorは、VS Codeからの移行が驚くほど簡単で、`Tab`�
 - [OpenAI、Codex on WindowsでAIエージェント用サンドボックスを構築](https://nayo126.github.io/ai-news-jp/posts/openai-codex-on-windows-ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### CursorとVS Codeの違いは何ですか？
+
+CursorはVS Codeをベースに作られたAIコードエディタで、操作性や拡張機能はほぼ共通です。違いはTabキーのAI補完、Ctrl+Kのコード生成、Ctrl+LのAIチャットが標準搭載されている点で、AI機能を後付けせずそのまま使えます。
+
+### Cursorは無料で使えますか？
+
+無料のHobbyプランがあり、月2000回のTab補完と低速のAIリクエストが使えます。本格利用ならProプラン月額20ドルで、高速リクエストが月500回使え、GPTやClaudeなど上位モデルも選択できます。
+
+### Cursorを日本語化するにはどうすればいいですか？
+
+VS Codeと同じ手順で、拡張機能から「Japanese Language Pack for Visual Studio Code」をインストールし、再起動すればメニューが日本語になります。AIへの指示も日本語のプロンプトでそのまま通ります。
+
+### Cursorのインストールでセキュリティ警告が出たときの対処法は？
+
+Windowsの「WindowsによってPCが保護されました」が出た場合は、画面の「詳細情報」をクリックし「実行」を押せば進めます。公式サイトcursor.comから入手したCursorSetup.exeなら問題なくインストールできます。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "CursorとVS Codeの違いは何ですか？", "acceptedAnswer": {"@type": "Answer", "text": "CursorはVS Codeをベースに作られたAIコードエディタで、操作性や拡張機能はほぼ共通です。違いはTabキーのAI補完、Ctrl+Kのコード生成、Ctrl+LのAIチャットが標準搭載されている点で、AI機能を後付けせずそのまま使えます。"}}, {"@type": "Question", "name": "Cursorは無料で使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "無料のHobbyプランがあり、月2000回のTab補完と低速のAIリクエストが使えます。本格利用ならProプラン月額20ドルで、高速リクエストが月500回使え、GPTやClaudeなど上位モデルも選択できます。"}}, {"@type": "Question", "name": "Cursorを日本語化するにはどうすればいいですか？", "acceptedAnswer": {"@type": "Answer", "text": "VS Codeと同じ手順で、拡張機能から「Japanese Language Pack for Visual Studio Code」をインストールし、再起動すればメニューが日本語になります。AIへの指示も日本語のプロンプトでそのまま通ります。"}}, {"@type": "Question", "name": "Cursorのインストールでセキュリティ警告が出たときの対処法は？", "acceptedAnswer": {"@type": "Answer", "text": "Windowsの「WindowsによってPCが保護されました」が出た場合は、画面の「詳細情報」をクリックし「実行」を押せば進めます。公式サイトcursor.comから入手したCursorSetup.exeなら問題なくインストールできます。"}}]}
+</script>
+
+<!-- FAQ_END -->

@@ -129,3 +129,29 @@ AIエージェント、開発者インフラ、Vertical AIの3軸を意識しな
 - [OpenAIおすすめ活用法7選｜2026年最新の稼げる使い方](https://nayo126.github.io/auto-blog/blog/openaiおすすめ活用法7選2026年最新の稼げる使い方/)
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### HackerNewsは日本語で読めますか？
+
+HackerNews本体は英語のみですが、Chromeの自動翻訳機能やDeepLで全文翻訳できます。コメント欄の専門用語はChatGPTに貼り付けて要約させると、技術背景がない人でも5分で議論の流れを把握できます。
+
+### Show HNとは何ですか？
+
+自作プロダクトを世界に公開するHackerNews内のカテゴリです。毎日数十件のAIサービスがローンチ直後に投稿され、創業者が直接フィードバックを受けます。日本未参入のアイデアを探す一次情報源として最適です。
+
+### 海外のAI起業ネタを日本でパクるのは違法ですか？
+
+ビジネスモデルやアイデア自体に著作権はなく、後追い参入は合法です。ただしロゴ・ソースコード・商標の流用は侵害になります。仕組みだけ参考にし、UIや名称は独自に作れば問題ありません。
+
+### 英語ができなくてもAI起業の海外トレンドは追えますか？
+
+追えます。HackerNewsを翻訳ツールで読み、Claudeやexa.aiで海外記事を日本語要約すれば情報収集は完結します。実際の開発もノーコードツールやAIコーディングで英語力に依存せず進められます。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "HackerNewsは日本語で読めますか？", "acceptedAnswer": {"@type": "Answer", "text": "HackerNews本体は英語のみですが、Chromeの自動翻訳機能やDeepLで全文翻訳できます。コメント欄の専門用語はChatGPTに貼り付けて要約させると、技術背景がない人でも5分で議論の流れを把握できます。"}}, {"@type": "Question", "name": "Show HNとは何ですか？", "acceptedAnswer": {"@type": "Answer", "text": "自作プロダクトを世界に公開するHackerNews内のカテゴリです。毎日数十件のAIサービスがローンチ直後に投稿され、創業者が直接フィードバックを受けます。日本未参入のアイデアを探す一次情報源として最適です。"}}, {"@type": "Question", "name": "海外のAI起業ネタを日本でパクるのは違法ですか？", "acceptedAnswer": {"@type": "Answer", "text": "ビジネスモデルやアイデア自体に著作権はなく、後追い参入は合法です。ただしロゴ・ソースコード・商標の流用は侵害になります。仕組みだけ参考にし、UIや名称は独自に作れば問題ありません。"}}, {"@type": "Question", "name": "英語ができなくてもAI起業の海外トレンドは追えますか？", "acceptedAnswer": {"@type": "Answer", "text": "追えます。HackerNewsを翻訳ツールで読み、Claudeやexa.aiで海外記事を日本語要約すれば情報収集は完結します。実際の開発もノーコードツールやAIコーディングで英語力に依存せず進められます。"}}]}
+</script>
+
+<!-- FAQ_END -->

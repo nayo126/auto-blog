@@ -101,3 +101,29 @@ GrokとOpenAIのChatGPTは、優劣ではなく性格の違いで選ぶのが正
 - [AutoScout24がOpenAI CodexとChatGPTで開発効率化、AI駆動ワークフロー導入事例](https://nayo126.github.io/ai-news-jp/posts/autoscout24-openai-codex-chatgpt-ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->
+
+<!-- FAQ_START -->
+
+## よくある質問
+
+### Grokは無料で使えますか？
+
+Xの無料アカウントでGrokを1日数回まで利用できます。回数無制限やGrok最新モデルを使うにはX Premium+（月額約3,000円）またはSuperGrok（月額約4,400円）への加入が必要です。
+
+### GrokとChatGPTは画像生成ができますか？
+
+両方できます。ChatGPTはGPT-4oやDALL-E系で文字入り画像やイラストに強く、GrokはAuroraエンジンで実写的な画像生成が得意です。商用利用の規約は各サービスで事前確認してください。
+
+### 副業でブログ記事を書くならどっちが向いていますか？
+
+長文記事の構成や推敲はChatGPTが有利です。文章生成の安定性とカスタムGPTで作業を型化できます。Grokは記事内に入れる最新トレンドやXの反応リサーチに使い、2つを併用すると効率が上がります。
+
+### GrokとChatGPTの最新情報の精度はどちらが高いですか？
+
+X上の話題やリアルタイムのトレンドはGrokが圧倒的に強く、投稿データを直接参照します。一方ニュースや一般的なWeb情報の網羅性はChatGPTの検索機能も同等で、用途で使い分けるのが効率的です。
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Grokは無料で使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "Xの無料アカウントでGrokを1日数回まで利用できます。回数無制限やGrok最新モデルを使うにはX Premium+（月額約3,000円）またはSuperGrok（月額約4,400円）への加入が必要です。"}}, {"@type": "Question", "name": "GrokとChatGPTは画像生成ができますか？", "acceptedAnswer": {"@type": "Answer", "text": "両方できます。ChatGPTはGPT-4oやDALL-E系で文字入り画像やイラストに強く、GrokはAuroraエンジンで実写的な画像生成が得意です。商用利用の規約は各サービスで事前確認してください。"}}, {"@type": "Question", "name": "副業でブログ記事を書くならどっちが向いていますか？", "acceptedAnswer": {"@type": "Answer", "text": "長文記事の構成や推敲はChatGPTが有利です。文章生成の安定性とカスタムGPTで作業を型化できます。Grokは記事内に入れる最新トレンドやXの反応リサーチに使い、2つを併用すると効率が上がります。"}}, {"@type": "Question", "name": "GrokとChatGPTの最新情報の精度はどちらが高いですか？", "acceptedAnswer": {"@type": "Answer", "text": "X上の話題やリアルタイムのトレンドはGrokが圧倒的に強く、投稿データを直接参照します。一方ニュースや一般的なWeb情報の網羅性はChatGPTの検索機能も同等で、用途で使い分けるのが効率的です。"}}]}
+</script>
+
+<!-- FAQ_END -->

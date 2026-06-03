@@ -17,6 +17,10 @@ image: "/auto-blog/ogp/openai-api-keyの取得から副業活用まで完全ガ�
 
 ## OpenAI API Keyとは何か、なぜ副業に必要なのか
 
+<!-- INLINE_IMG -->
+![OpenAI API Keyの取得から副業活用まで完全ガイド2026 - OpenAI API Keyとは何か、なぜ副業に必要なのか](/auto-blog/inline-images/openai-api-key-2026-0.jpg)
+
+
 結論から言うと、OpenAI API Keyは「自分が作ったプログラムやツールからAIを呼び出すための認証パスワード」です。これがあると、ブラウザのChatGPT画面を経由せず、AIの能力を自分のアプリやスプレッドシートに直接組み込めます。
 
 ChatGPTの通常画面とAPIの違いを整理すると分かりやすいです。
@@ -38,6 +42,10 @@ ChatGPTの通常画面とAPIの違いを整理すると分かりやすいです�
 
 
 ## OpenAI API Keyの取得手順（2026年版）
+
+<!-- INLINE_IMG -->
+![OpenAI API Keyの取得から副業活用まで完全ガイド2026 - OpenAI API Keyの取得手順（2026年版）](/auto-blog/inline-images/openai-api-key-2026-1.jpg)
+
 
 APIキーの取得自体は10分ほどで完了します。手順は次の通りです。
 

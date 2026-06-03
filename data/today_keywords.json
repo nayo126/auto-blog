@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-06-03T02:30:01.526006+00:00",
+  "picked_at": "2026-06-03T07:47:49.039673+00:00",
   "count": 5,
   "items": [
     {
-      "category": "ChatGPT活用",
-      "keyword": "chatgpt plus api 比較"
-    },
-    {
-      "category": "Claude活用",
-      "keyword": "claude 副業 note"
-    },
-    {
       "category": "AIツール比較",
-      "keyword": "ai 画像生成 方法"
+      "keyword": "音声 議事録 ai おすすめ"
     },
     {
-      "category": "AI副業",
-      "keyword": "ai 副業 スクール 比較"
+      "category": "ChatGPT活用",
+      "keyword": "chatgpt おすすめ プロンプト 占い"
+    },
+    {
+      "category": "個人開発",
+      "keyword": "bolt.new セキュリティ"
     },
     {
       "category": "海外AIトレンド",
-      "keyword": "openai platform"
+      "keyword": "Indie Hackers AI MRR"
+    },
+    {
+      "category": "AI画像生成",
+      "keyword": "leonardo aiとは"
     }
   ]
 }
