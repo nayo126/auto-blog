@@ -184,8 +184,8 @@ Leonardo AIは、無料プランの寛大さ・モデルの豊富さ・Canva統�
 ## 関連する記事
 
 - [Leonardo AIとは？副業で稼ぐ5つの活用術と料金](https://nayo126.github.io/auto-blog/blog/leonardo-aiとは副業で稼ぐ5つの活用術と料金/)
+- [Leonardo AIとは？料金や使い方を5分で解説【2026年版】](https://nayo126.github.io/auto-blog/blog/leonardo-aiとは料金や使い方を5分で解説2026年版/)
 - [Leonardo AI 料金完全ガイド｜2026年最新の4プラン徹底比較](https://nayo126.github.io/auto-blog/blog/leonardo-ai-料金完全ガイド2026年最新の4プラン徹底比較/)
-- [Leonardo AIとは｜無料で使えるAI画像生成7つの特徴](https://nayo126.github.io/auto-blog/blog/leonardo-aiとは無料で使えるai画像生成の始め方7つの特徴/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPT Image 2.0とSeedance 2.0で短編映像を制作する手順](https://nayo126.github.io/ai-news-jp/posts/chatgpt-image-2-0-seedance-2-0.html) — AI News JP

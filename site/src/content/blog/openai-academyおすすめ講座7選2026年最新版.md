@@ -128,7 +128,7 @@ OpenAI Academyは無料・公式・体系的という三拍子そろった学習
 
 - [ChatGPT使い方の本おすすめ7選｜2026年最新版](https://nayo126.github.io/auto-blog/blog/chatgpt使い方の本おすすめ7選2026年最新版/)
 - [Copilot vs OpenAI徹底比較2026｜5項目で最適解](https://nayo126.github.io/auto-blog/blog/copilot-vs-openai徹底比較20265項目で最適解/)
-- [AI英会話を無料で始める7つの方法【2026年最新】](https://nayo126.github.io/auto-blog/blog/ai英会話を無料で始める7つの方法2026年最新/)
+- [AI副業スクール比較2026｜失敗しない選び方5つの基準](https://nayo126.github.io/auto-blog/blog/ai副業スクール比較2026失敗しない選び方5つの基準/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP

@@ -156,8 +156,8 @@ Claude Code(月額20ドル〜)やCursor(月額20ドル)はローカル環境で�
 ## 関連する記事
 
 - [Bolt.new 解約方法を3分で完了！2026年最新手順と注意点](https://nayo126.github.io/auto-blog/blog/boltnew-解約方法を3分で完了2026年最新手順と注意点/)
+- [bolt.newのセキュリティは大丈夫？危険な落とし穴5つと対策](https://nayo126.github.io/auto-blog/blog/boltnewのセキュリティは大丈夫危険な落とし穴5つと対策/)
 - [bolt.new とは？個人開発が10倍速くなる神ツールを徹底解説【2026年版】](https://nayo126.github.io/auto-blog/blog/boltnew-とは個人開発が10倍速くなる神ツールを徹底解説2026年版/)
-- [bolt.new vs v0徹底比較2026年版｜個人開発で稼ぐ最適解](https://nayo126.github.io/auto-blog/blog/boltnew-vs-v0徹底比較2026年版個人開発で稼ぐ最適解/)
 
 ### 姉妹サイトの関連記事
 - [Claude CodeとAntigravity、Cursorはどこまで進化したか｜2026年AI開発ツール最新評価](https://nayo126.github.io/ai-news-jp/posts/claude-code-antigravity-cursor-2026-ai.html) — AI News JP

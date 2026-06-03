@@ -108,9 +108,9 @@ OpenAI APIは、登録クレジット・データ共有のデイリー枠・低�
 
 ## 関連する記事
 
+- [OpenAI Platformとは？2026年最新の使い方と副業活用5選](https://nayo126.github.io/auto-blog/blog/openai-platformとは2026年最新の使い方と副業活用5選/)
 - [ChatGPT APIとは？2026年最新の料金・使い方を5分で解説](https://nayo126.github.io/auto-blog/blog/chatgpt-apiとは2026年最新の料金使い方を5分で解説/)
 - [OpenAIおすすめ活用法7選｜2026年最新の稼げる使い方](https://nayo126.github.io/auto-blog/blog/openaiおすすめ活用法7選2026年最新の稼げる使い方/)
-- [DeepSeekとOpenAIを徹底比較｜副業に使う3つの判断軸](https://nayo126.github.io/auto-blog/blog/deepseekとopenaiを徹底比較副業に使う3つの判断軸/)
 
 ### 姉妹サイトの関連記事
 - [Elon Musk敗訴：OpenAI・Sam Altmanへの訴訟で判決、AI業界への影響を解説](https://nayo126.github.io/ai-news-jp/posts/elon-musk-openai-sam-altman-ai.html) — AI News JP

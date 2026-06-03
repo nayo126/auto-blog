@@ -121,9 +121,9 @@ Claude Code は単なるAIコード生成ツールではなく、副業者の作
 
 ## 関連する記事
 
+- [Claude Codeで副業を自動化する5つの方法【2026年最新】](https://nayo126.github.io/auto-blog/blog/claude-codeで副業を自動化する5つの方法2026年最新/)
 - [Claude Codeを無料で使う方法5選【2026年最新】](https://nayo126.github.io/auto-blog/blog/claude-codeを無料で使う方法5選2026年最新/)
 - [Claude Code 無料で使う3つの方法【2026年最新】](https://nayo126.github.io/auto-blog/blog/claude-code-無料で使う3つの方法2026年最新/)
-- [Claude Codeで副業｜稼ぐ5つの方法と始め方](https://nayo126.github.io/auto-blog/blog/claude-codeで副業稼ぐ5つの方法と始め方/)
 
 ### 姉妹サイトの関連記事
 - [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html) — AI News JP

@@ -99,9 +99,9 @@ Leonardo AIとは、毎日150トークンを無料で使えて、ゲーム素材
 
 ## 関連する記事
 
+- [Leonardo AIとは？料金や使い方を5分で解説【2026年版】](https://nayo126.github.io/auto-blog/blog/leonardo-aiとは料金や使い方を5分で解説2026年版/)
 - [Leonardo AI使い方完全ガイド2026年版|月5万稼ぐ7ステップ](https://nayo126.github.io/auto-blog/blog/leonardo-ai使い方完全ガイド2026年版月5万稼ぐ7ステップ/)
 - [Midjourney vs Leonardo AI 2026徹底比較7項目](https://nayo126.github.io/auto-blog/blog/midjourney-vs-leonardo-ai-2026徹底比較7項目/)
-- [Leonardo AI 無料プランの範囲と限界2026年版](https://nayo126.github.io/auto-blog/blog/leonardo-ai-無料プランの範囲と限界2026年版/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPT Image 2.0とSeedance 2.0で短編映像を制作する手順](https://nayo126.github.io/ai-news-jp/posts/chatgpt-image-2-0-seedance-2-0.html) — AI News JP

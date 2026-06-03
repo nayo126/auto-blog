@@ -117,6 +117,6 @@ Leonardo AIの解約は、操作自体は3分で完了します。ただし契�
 
 - [Leonardo AI使い方完全ガイド2026年版|月5万稼ぐ7ステップ](https://nayo126.github.io/auto-blog/blog/leonardo-ai使い方完全ガイド2026年版月5万稼ぐ7ステップ/)
 - [Midjourney vs Leonardo AI 2026徹底比較7項目](https://nayo126.github.io/auto-blog/blog/midjourney-vs-leonardo-ai-2026徹底比較7項目/)
-- [Leonardo AI 無料プランの範囲と限界2026年版](https://nayo126.github.io/auto-blog/blog/leonardo-ai-無料プランの範囲と限界2026年版/)
+- [Leonardo AIとは？料金や使い方を5分で解説【2026年版】](https://nayo126.github.io/auto-blog/blog/leonardo-aiとは料金や使い方を5分で解説2026年版/)
 
 <!-- SEO_MESH_END -->

@@ -155,9 +155,9 @@ noteの利用規約ではAI生成コンテンツの販売は禁止されてい�
 
 ## 関連する記事
 
+- [Claude×noteで副業！月5万を狙う記事量産術7選](https://nayo126.github.io/auto-blog/blog/claudenoteで副業月5万を狙う記事量産術7選/)
 - [AIライティングツール比較2026｜厳選5社を徹底評価](https://nayo126.github.io/auto-blog/blog/aiライティングツール比較2026厳選5社を徹底評価/)
 - [DALL-Eの使い方を5分で習得｜初心者向け完全ガイド2026](https://nayo126.github.io/auto-blog/blog/dall-eの使い方を5分で習得初心者向け完全ガイド2026/)
-- [ChatGPT×Excel自動化副業｜2026年最新7つの稼ぎ方](https://nayo126.github.io/auto-blog/blog/chatgptexcel自動化副業2026年最新7つの稼ぎ方/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP

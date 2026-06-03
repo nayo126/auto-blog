@@ -136,8 +136,8 @@ Claude Codeを使えば、プログラミング未経験からでも副業とし
 ## 関連する記事
 
 - [Claude Code活用術7選｜副業の作業時間を3倍速に](https://nayo126.github.io/auto-blog/blog/claude-code活用術7選副業の作業時間を3倍速に/)
+- [Claude Codeで副業を自動化する5つの方法【2026年最新】](https://nayo126.github.io/auto-blog/blog/claude-codeで副業を自動化する5つの方法2026年最新/)
 - [Claude Codeを無料で使う方法5選【2026年最新】](https://nayo126.github.io/auto-blog/blog/claude-codeを無料で使う方法5選2026年最新/)
-- [Claude Code 無料で使う3つの方法【2026年最新】](https://nayo126.github.io/auto-blog/blog/claude-code-無料で使う3つの方法2026年最新/)
 
 ### 姉妹サイトの関連記事
 - [Claude Code利用者がGit pushで救われた話 - バージョン管理がAI開発で必須な理由](https://nayo126.github.io/ai-news-jp/posts/claude-code-git-push---ai.html) — AI News JP

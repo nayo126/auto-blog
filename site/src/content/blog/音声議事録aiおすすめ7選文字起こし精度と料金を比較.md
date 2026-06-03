@@ -111,3 +111,18 @@ YouTubeやVoicyの音声をテキスト化すれば、ブログ記事やSNS投�
 - [OpenAI Codex for Work、業務オペレーションチーム向け活用事例を公開](https://nayo126.github.io/ai-news-jp/posts/openai-codex-for-work.html)
 - [OpenAI Codexが財務チーム向け活用ガイド公開｜MBRや予実差異分析を自動化](https://nayo126.github.io/ai-news-jp/posts/openai-codex-mbr.html)
 - [OpenAI Codex新プラグイン・サイト機能で全職種のAI活用が加速](https://nayo126.github.io/ai-news-jp/posts/openai-codex-ai.html)
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [AI議事録作成ツール7選2026｜料金と精度比較](https://nayo126.github.io/auto-blog/blog/ai議事録作成ツール7選2026料金と精度を比較/)
+- [ChatGPTプロンプトジェネレーター7選｜2026最新活用術](https://nayo126.github.io/auto-blog/blog/chatgptプロンプトジェネレーター7選2026最新活用術/)
+- [AI議事録ツール比較2026|無料6選の精度と料金](https://nayo126.github.io/auto-blog/blog/ai議事録ツール比較2026無料6選の精度と料金/)
+
+### 姉妹サイトの関連記事
+- [OpenAI Codex for Work、業務オペレーションチーム向け活用事例を公開](https://nayo126.github.io/ai-news-jp/posts/openai-codex-for-work.html) — AI News JP
+- [OpenAI Codexが財務チーム向け活用ガイド公開｜MBRや予実差異分析を自動化](https://nayo126.github.io/ai-news-jp/posts/openai-codex-mbr.html) — AI News JP
+- [OpenAI Codex新プラグイン・サイト機能で全職種のAI活用が加速](https://nayo126.github.io/ai-news-jp/posts/openai-codex-ai.html) — AI News JP
+
+<!-- SEO_MESH_END -->

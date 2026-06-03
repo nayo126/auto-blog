@@ -143,8 +143,8 @@ MidjourneyとLeonardo AIは、競合に見えて実は補完関係にあるツ�
 
 ## 関連する記事
 
+- [Leonardo AIとは？料金や使い方を5分で解説【2026年版】](https://nayo126.github.io/auto-blog/blog/leonardo-aiとは料金や使い方を5分で解説2026年版/)
 - [Leonardo AI 無料プランの範囲と限界2026年版](https://nayo126.github.io/auto-blog/blog/leonardo-ai-無料プランの範囲と限界2026年版/)
 - [Leonardo AI 日本語で無料利用｜2026最新7つの始め方](https://nayo126.github.io/auto-blog/blog/leonardo-ai-日本語で無料利用2026最新7つの始め方/)
-- [Leonardo AI 日本語完全ガイド｜5分で始める画像生成術](https://nayo126.github.io/auto-blog/blog/leonardo-ai-日本語完全ガイド5分で始める画像生成術/)
 
 <!-- SEO_MESH_END -->

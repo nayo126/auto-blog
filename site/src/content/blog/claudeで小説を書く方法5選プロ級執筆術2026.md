@@ -156,9 +156,9 @@ Claudeで小説を書く5つの工程を紹介しました。プロット設計�
 
 ## 関連する記事
 
+- [Claude×noteで副業！月5万を狙う記事量産術7選](https://nayo126.github.io/auto-blog/blog/claudenoteで副業月5万を狙う記事量産術7選/)
 - [Claude MCP 自動化で月10時間減らす5設定](https://nayo126.github.io/auto-blog/blog/claude-mcp-自動化で月10時間減らす5設定/)
 - [Claudeの使い方完全ガイド2026年版｜5分で始める実践手順](https://nayo126.github.io/auto-blog/blog/claudeの使い方完全ガイド2026年版5分で始める実践手順/)
-- [Claude Agent SDK副業活用5選|2026年最新自動化](https://nayo126.github.io/auto-blog/blog/claude-agent-sdk副業活用5選2026年最新自動化/)
 
 ### 姉妹サイトの関連記事
 - [Claude（Anthropic）が不調？r/ClaudeAIで朝のエラー・応答遅延が報告される](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic-r-claudeai.html) — AI News JP

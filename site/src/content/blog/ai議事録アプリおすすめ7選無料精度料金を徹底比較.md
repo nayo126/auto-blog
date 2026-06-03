@@ -183,5 +183,6 @@ Otter.aiとFireflies.aiが英語会議に強く、話者識別やリアルタイ
 ### 姉妹サイトの関連記事
 - [OpenAI Codex for Work、業務オペレーションチーム向け活用事例を公開](https://nayo126.github.io/ai-news-jp/posts/openai-codex-for-work.html) — AI News JP
 - [OpenAI Codexが財務チーム向け活用ガイド公開｜MBRや予実差異分析を自動化](https://nayo126.github.io/ai-news-jp/posts/openai-codex-mbr.html) — AI News JP
+- [OpenAI Codex新プラグイン・サイト機能で全職種のAI活用が加速](https://nayo126.github.io/ai-news-jp/posts/openai-codex-ai.html) — AI News JP
 
 <!-- SEO_MESH_END -->

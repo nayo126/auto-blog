@@ -101,7 +101,7 @@ Leonardo AIは日本語プロンプトに対応し、無料から始めて月30�
 ## 関連する記事
 
 - [Midjourney vs Leonardo AI 2026徹底比較7項目](https://nayo126.github.io/auto-blog/blog/midjourney-vs-leonardo-ai-2026徹底比較7項目/)
+- [Leonardo AIとは？料金や使い方を5分で解説【2026年版】](https://nayo126.github.io/auto-blog/blog/leonardo-aiとは料金や使い方を5分で解説2026年版/)
 - [Leonardo AI 無料プランの範囲と限界2026年版](https://nayo126.github.io/auto-blog/blog/leonardo-ai-無料プランの範囲と限界2026年版/)
-- [Leonardo AI 日本語で無料利用｜2026最新7つの始め方](https://nayo126.github.io/auto-blog/blog/leonardo-ai-日本語で無料利用2026最新7つの始め方/)
 
 <!-- SEO_MESH_END -->
