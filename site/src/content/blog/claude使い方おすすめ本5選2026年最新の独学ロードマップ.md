@@ -146,9 +146,9 @@ Claudeの使い方を本で学ぶときは、**入門書1冊＋プロンプト�
 
 ## 関連する記事
 
+- [Claude 使い方 公式ガイド｜2026年最新の始め方5ステップ](https://nayo126.github.io/auto-blog/blog/claude-使い方-公式ガイド2026年最新の始め方5ステップ/)
 - [Claude 使い方のコツ10選｜作業が3倍速くなる方法](https://nayo126.github.io/auto-blog/blog/claude使い方コツ10選で作業効率を上げる方法/)
 - [Claude AIを無料で使う方法｜始め方と活用術7選](https://nayo126.github.io/auto-blog/blog/claude-aiを無料で使う方法始め方と活用術7選/)
-- [AI副業おすすめ本7選｜2026年最新で稼ぐ知識](https://nayo126.github.io/auto-blog/blog/ai副業おすすめ本7選2026年最新で稼ぐ知識/)
 
 ### 姉妹サイトの関連記事
 - [Claude（Anthropic）が不調？r/ClaudeAIで朝のエラー・応答遅延が報告される](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic-r-claudeai.html) — AI News JP

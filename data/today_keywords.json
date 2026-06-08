@@ -1,26 +1,26 @@
 {
-  "picked_at": "2026-06-03T08:30:05.346154+00:00",
+  "picked_at": "2026-06-08T07:45:33.799042+00:00",
   "count": 5,
   "items": [
     {
       "category": "Claude活用",
-      "keyword": "claude 使い方 公式"
+      "keyword": "claude code ログイン 方法"
     },
     {
-      "category": "AIツール比較",
-      "keyword": "議事録 ai 文字起こし 比較"
+      "category": "AI副業",
+      "keyword": "ai ブログ記事"
     },
     {
       "category": "ChatGPT活用",
-      "keyword": "chatgpt 副業おすすめ"
+      "keyword": "chatgpt 副業 プロンプト"
+    },
+    {
+      "category": "AIツール比較",
+      "keyword": "議事録 要約 ai おすすめ"
     },
     {
       "category": "海外AIトレンド",
-      "keyword": "openai おすすめ 無料"
-    },
-    {
-      "category": "個人開発",
-      "keyword": "cursor 使い方 初心者"
+      "keyword": "anthropic gemini 比較"
     }
   ]
 }

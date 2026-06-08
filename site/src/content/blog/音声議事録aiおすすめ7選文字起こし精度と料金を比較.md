@@ -117,8 +117,8 @@ YouTubeやVoicyの音声をテキスト化すれば、ブログ記事やSNS投�
 ## 関連する記事
 
 - [AI議事録作成ツール7選2026｜料金と精度比較](https://nayo126.github.io/auto-blog/blog/ai議事録作成ツール7選2026料金と精度を比較/)
+- [議事録AI文字起こし比較7選｜2026年最新の選び方](https://nayo126.github.io/auto-blog/blog/議事録ai文字起こし比較7選2026年最新の選び方/)
 - [ChatGPTプロンプトジェネレーター7選｜2026最新活用術](https://nayo126.github.io/auto-blog/blog/chatgptプロンプトジェネレーター7選2026最新活用術/)
-- [AI議事録ツール比較2026|無料6選の精度と料金](https://nayo126.github.io/auto-blog/blog/ai議事録ツール比較2026無料6選の精度と料金/)
 
 ### 姉妹サイトの関連記事
 - [OpenAI Codex for Work、業務オペレーションチーム向け活用事例を公開](https://nayo126.github.io/ai-news-jp/posts/openai-codex-for-work.html) — AI News JP

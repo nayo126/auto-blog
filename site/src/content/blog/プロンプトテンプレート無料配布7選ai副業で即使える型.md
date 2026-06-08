@@ -130,7 +130,7 @@ image: "/auto-blog/ogp/プロンプトテンプレート無料配布7選ai副業
 
 - [ChatGPT日本語無料の使い方完全版2026最新7ステップ](https://nayo126.github.io/auto-blog/blog/chatgpt日本語無料の使い方完全版2026最新7ステップ/)
 - [ChatGPT APIキーを無料で使う5つの方法【2026年版】](https://nayo126.github.io/auto-blog/blog/chatgpt-apiキーを無料で使う5つの方法2026年版/)
-- [プロンプトテンプレート集7選｜AI副業で使える型と書き方2026](https://nayo126.github.io/auto-blog/blog/プロンプトテンプレート集7選ai副業で使える型と書き方2026/)
+- [OpenAI無料で使えるおすすめ7選【2026年最新】](https://nayo126.github.io/auto-blog/blog/openai-osusume-muryo-2026/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP

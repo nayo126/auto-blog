@@ -127,8 +127,8 @@ WindowsでのCursorは、VS Codeからの移行が驚くほど簡単で、`Tab`�
 ## 関連する記事
 
 - [Cursorの使い方を日本語で解説｜初心者向け5ステップ](https://nayo126.github.io/auto-blog/blog/cursorの使い方を日本語で解説初心者向け5ステップ/)
+- [Cursorの使い方を初心者向けに解説｜最短5分で始める7手順](https://nayo126.github.io/auto-blog/blog/cursorの使い方を初心者向けに解説最短5分で始める7手順/)
 - [Cursorの使い方｜非エンジニア向け5ステップ](https://nayo126.github.io/auto-blog/blog/cursorの使い方非エンジニアでも作れる5ステップ/)
-- [Cursorの料金と使い方｜月20ドルの元を取る方法](https://nayo126.github.io/auto-blog/blog/cursorの料金と使い方月20ドルの元を取る方法/)
 
 ### 姉妹サイトの関連記事
 - [OpenAI、Windows版Codexにセキュアサンドボックス実装 安全なコーディングエージェント実現へ](https://nayo126.github.io/ai-news-jp/posts/openai-windows-codex.html) — AI News JP

@@ -161,8 +161,8 @@ Googleは2023年以降、AI生成自体を問題視せず「品質と独自性�
 ## 関連する記事
 
 - [Claude AIで稼ぐ副業7選｜月10万円ロードマップ2026](https://nayo126.github.io/auto-blog/blog/claude-aiで稼ぐ副業7選月10万円ロードマップ2026/)
+- [ChatGPT副業おすすめ7選｜2026年に稼げる始め方](https://nayo126.github.io/auto-blog/blog/chatgpt-fukugyo-osusume-2026/)
 - [AI在宅副業で月5万円｜2026年最新の始め方7選](https://nayo126.github.io/auto-blog/blog/ai在宅副業で月5万円2026年最新の始め方7選/)
-- [AIフリーランスで月20万稼ぐ始め方7ステップ【2026年版】](https://nayo126.github.io/auto-blog/blog/aiフリーランスで月20万稼ぐ始め方7ステップ2026年版/)
 
 ### 姉妹サイトの関連記事
 - [Claude（Anthropic）が不調？r/ClaudeAIで朝のエラー・応答遅延が報告される](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic-r-claudeai.html) — AI News JP

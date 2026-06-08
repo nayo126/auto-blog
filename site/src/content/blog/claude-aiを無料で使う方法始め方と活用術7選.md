@@ -143,7 +143,7 @@ Claudeは日本語に完全対応し、登録時の入力も日本語の指示�
 
 - [ChatGPT日本語無料の使い方完全版2026最新7ステップ](https://nayo126.github.io/auto-blog/blog/chatgpt日本語無料の使い方完全版2026最新7ステップ/)
 - [Claude使い方おすすめ本5選｜2026年最新の独学ロードマップ](https://nayo126.github.io/auto-blog/blog/claude使い方おすすめ本5選2026年最新の独学ロードマップ/)
-- [Claude 使い方のコツ10選｜作業が3倍速くなる方法](https://nayo126.github.io/auto-blog/blog/claude使い方コツ10選で作業効率を上げる方法/)
+- [Claude 使い方 公式ガイド｜2026年最新の始め方5ステップ](https://nayo126.github.io/auto-blog/blog/claude-使い方-公式ガイド2026年最新の始め方5ステップ/)
 
 ### 姉妹サイトの関連記事
 - [Claude（Anthropic）が不調？r/ClaudeAIで朝のエラー・応答遅延が報告される](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic-r-claudeai.html) — AI News JP

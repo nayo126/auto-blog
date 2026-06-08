@@ -111,8 +111,8 @@ ChatGPTで稼ぐ近道は、5つすべてに手を出すことではなく、自
 ## 関連する記事
 
 - [AI副業おすすめランキング2026年最新7選で月10万円](https://nayo126.github.io/auto-blog/blog/ai副業おすすめランキング2026年最新7選で月10万円/)
+- [ChatGPT副業おすすめ7選｜2026年に稼げる始め方](https://nayo126.github.io/auto-blog/blog/chatgpt-fukugyo-osusume-2026/)
 - [AI副業おすすめ5選｜初心者が月5万狙う始め方](https://nayo126.github.io/auto-blog/blog/ai副業おすすめ5選初心者が月5万狙う始め方/)
-- [AI副業で主婦が在宅月5万円稼ぐ7つの方法【2026年版】](https://nayo126.github.io/auto-blog/blog/ai副業で主婦が在宅月5万円稼ぐ7つの方法2026年版/)
 
 ### 姉妹サイトの関連記事
 - [ChatGPTで画像比較『left or right?』が話題、AI画像判定の使い方とは](https://nayo126.github.io/ai-news-jp/posts/chatgpt-left-or-right-ai.html) — AI News JP

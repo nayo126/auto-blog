@@ -154,3 +154,18 @@ Claudeの使い方は、公式サイト claude.ai にアクセスして無料登
 </script>
 
 <!-- FAQ_END -->
+
+<!-- SEO_MESH_START -->
+
+## 関連する記事
+
+- [Claude Code 無料トライアルは可能？2026年最新の始め方](https://nayo126.github.io/auto-blog/blog/claude-code-free-trial/)
+- [Claude使い方おすすめ本5選｜2026年最新の独学ロードマップ](https://nayo126.github.io/auto-blog/blog/claude使い方おすすめ本5選2026年最新の独学ロードマップ/)
+- [claude mcp addの使い方完全ガイド2026年最新7手順](https://nayo126.github.io/auto-blog/blog/claude-mcp-addの使い方完全ガイド2026年最新7手順/)
+
+### 姉妹サイトの関連記事
+- [Claude（Anthropic）が不調？r/ClaudeAIで朝のエラー・応答遅延が報告される](https://nayo126.github.io/ai-news-jp/posts/claude-anthropic-r-claudeai.html) — AI News JP
+- [Claude AIで激変するLinkedInプロフィール作成術2026年最新版](https://nayo126.github.io/ai-news-jp/posts/claude-ai-linkedin-2026.html) — AI News JP
+- [Claude AIの「Yes Man」問題：批判的フィードバックを引き出すプロンプト術](https://nayo126.github.io/ai-news-jp/posts/claude-ai-yes-man.html) — AI News JP
+
+<!-- SEO_MESH_END -->
